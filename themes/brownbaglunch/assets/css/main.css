@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-primary {
+    @apply bg-terracotta text-white px-4 py-2 rounded-full font-semibold hover:bg-orange-600 transition-colors;
+  }
+  .badge {
+    @apply inline-block bg-warm-border text-warm-brown text-xs px-2 py-0.5 rounded-full;
+  }
+  .card {
+    @apply bg-white border border-warm-border rounded-xl p-5 hover:shadow-md transition-shadow;
+  }
+}
