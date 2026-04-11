@@ -4,6 +4,7 @@
 */}}
 {{ $country := .country }}
 {{ $city := .city }}
+{{ if not $city }}{{ warnf "speakers-for-city: missing 'city' param (country=%s)" $country }}{{ end }}
 {{ $result := slice }}
 
 {{ range .pages }}
