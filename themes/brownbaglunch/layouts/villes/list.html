@@ -1,0 +1,48 @@
+{{ define "main" }}
+{{ if .Params.country }}
+  {{/* City-level page (villes/fr/paris/_index.md) */}}
+  {{ $country := .Params.country }}
+  {{ $city := .Params.city }}
+  {{ $speakers := partial "speakers-for-city.html" (dict "country" $country "city" $city "pages" site.RegularPages) }}
+
+  <div class="flex items-center gap-4 mb-8">
+    {{ with .Params.image }}
+      <img src="{{ . }}" class="w-20 h-20 rounded-xl object-cover border border-warm-border">
+    {{ end }}
+    <div>
+      <h1 class="text-3xl font-black">{{ .Title }}</h1>
+      <p class="text-warm-brown/60">{{ len $speakers }} speakers disponibles</p>
+    </div>
+  </div>
+
+  {{ if $speakers }}
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {{ range sort $speakers "Params.name" }}
+        {{ partial "speaker-card.html" . }}
+      {{ end }}
+    </div>
+  {{ else }}
+    <p class="text-warm-brown/60">Aucun speaker dans cette ville pour le moment.</p>
+  {{ end }}
+
+{{ else }}
+  {{/* Top-level /villes/ page */}}
+  <h1 class="text-3xl font-black mb-8">Villes</h1>
+
+  <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+    {{ range .Pages }}
+      {{ $country := .Params.country }}
+      {{ $city := .Params.city }}
+      {{ $speakers := partial "speakers-for-city.html" (dict "country" $country "city" $city "pages" site.RegularPages) }}
+      <a href="{{ .RelPermalink }}"
+         class="card text-center hover:border-terracotta transition-colors group">
+        {{ with .Params.image }}
+          <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-24 object-cover rounded-lg mb-3">
+        {{ end }}
+        <h2 class="font-bold group-hover:text-terracotta">{{ .Title }}</h2>
+        <p class="text-sm text-warm-brown/60 mt-1">{{ len $speakers }} speakers</p>
+      </a>
+    {{ end }}
+  </div>
+{{ end }}
+{{ end }}

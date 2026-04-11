@@ -1,0 +1,29 @@
+{{/* layouts/_partials/speakers-for-city.html
+     Input: dict "country" "fr" "city" "paris" "pages" (site.RegularPages)
+     Returns: slice of speaker Pages
+*/}}
+{{ $country := .country }}
+{{ $city := .city }}
+{{ $result := slice }}
+
+{{ range .pages }}
+  {{ if eq .Section "speakers" }}
+    {{ $speaker := . }}
+    {{ $matched := false }}
+    {{ range .Params.cities }}
+      {{ $parts := split . "/" }}
+      {{ if ge (len $parts) 2 }}
+        {{ $c := index $parts 0 }}
+        {{ $ci := index $parts 1 }}
+        {{ if and (not $matched) (or (eq $c $country) (eq $c "*")) }}
+          {{ if or (eq $ci $city) (eq $ci "*") }}
+            {{ $result = $result | append $speaker }}
+            {{ $matched = true }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ return $result }}
