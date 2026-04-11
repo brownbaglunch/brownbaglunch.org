@@ -1,0 +1,13 @@
+<nav class="bg-warm-brown text-cream shadow-md">
+  <div class="max-w-6xl mx-auto px-4 py-3 flex items-center gap-6 flex-wrap">
+    <a href="{{ "/" | relURL }}" class="font-bold text-lg shrink-0">☕ {{ .Site.Title }}</a>
+    <div class="flex gap-4 text-sm">
+      <a href="{{ "/speakers/" | relURL }}" class="hover:text-terracotta transition-colors">{{ i18n "nav_speakers" }}</a>
+      <a href="{{ "/talks/" | relURL }}" class="hover:text-terracotta transition-colors">{{ i18n "nav_talks" }}</a>
+      <a href="{{ "/villes/" | relURL }}" class="hover:text-terracotta transition-colors">{{ i18n "nav_villes" }}</a>
+    </div>
+    <div class="ml-auto">
+      <div id="search-box"></div>
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,19 @@
+nav_speakers:
+  other: Speakers
+nav_talks:
+  other: Talks
+nav_villes:
+  other: Cities
+footer_contribute:
+  other: Contribute
+search_placeholder:
+  other: Search...
+speakers_count:
+  one: "{{ .Count }} speaker"
+  other: "{{ .Count }} speakers"
+available_in_country:
+  other: "Available anywhere in {{ .Country }}"
+available_worldwide:
+  other: Available worldwide
+invite:
+  other: Invite

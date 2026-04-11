@@ -1,5 +1,9 @@
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
-{{ partialCached "head/css.html" . }}
-{{ partialCached "head/js.html" . }}
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ if .Title }}{{ .Title }} — {{ end }}{{ .Site.Title }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}">
+{{ $css := resources.Get "css/main.css" | css.PostCSS }}
+{{ if hugo.IsProduction }}
+  {{ $css = $css | minify | fingerprint }}
+{{ end }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}"{{ if hugo.IsProduction }} integrity="{{ $css.Data.Integrity }}"{{ end }}>
