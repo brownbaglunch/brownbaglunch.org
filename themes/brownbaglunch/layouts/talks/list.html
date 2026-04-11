@@ -38,34 +38,36 @@
         {{ $s := .session }}
         {{ $sp := .speaker }}
         {{ $siteLang := site.Language.Lang | upper }}
-        {{ $version := index $s.versions 0 }}
-        {{ range $s.versions }}
-          {{ if eq .label $siteLang }}{{ $version = . }}{{ end }}
-        {{ end }}
-        <div class="card">
-          <h3 class="font-bold leading-snug">
-            <a href="{{ $sp.RelPermalink }}" class="hover:text-terracotta">{{ $version.title }}</a>
-          </h3>
-          <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
-            {{ if $sp.Params.picture }}
-              <img src="{{ $sp.Params.picture }}" class="w-6 h-6 rounded-full object-cover">
-            {{ end }}
-            <a href="{{ $sp.RelPermalink }}" class="hover:text-terracotta">{{ $sp.Params.name }}</a>
-          </div>
-          {{ if $version.abstract }}
-            <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
-              {{ $version.abstract | markdownify | plainify | truncate 150 }}
-            </p>
+        {{ if $s.versions }}
+          {{ $version := index $s.versions 0 }}
+          {{ range $s.versions }}
+            {{ if eq .label $siteLang }}{{ $version = . }}{{ end }}
           {{ end }}
-          <div class="flex gap-1 mt-3 flex-wrap">
-            {{ range $s.versions }}
-              <span class="badge text-xs">🏳️ {{ .label }}</span>
+          <div class="card">
+            <h3 class="font-bold leading-snug">
+              <a href="{{ $sp.RelPermalink }}" class="hover:text-terracotta">{{ $version.title }}</a>
+            </h3>
+            <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+              {{ if $sp.Params.picture }}
+                <img src="{{ $sp.Params.picture }}" alt="{{ $sp.Params.name }}" class="w-6 h-6 rounded-full object-cover">
+              {{ end }}
+              <a href="{{ $sp.RelPermalink }}" class="hover:text-terracotta">{{ $sp.Params.name }}</a>
+            </div>
+            {{ if $version.abstract }}
+              <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+                {{ $version.abstract | markdownify | plainify | truncate 150 }}
+              </p>
             {{ end }}
-            {{ range $s.tags }}
-              <span class="badge text-xs {{ if eq . $tag }}bg-terracotta text-white{{ end }}">#{{ . }}</span>
-            {{ end }}
+            <div class="flex gap-1 mt-3 flex-wrap">
+              {{ range $s.versions }}
+                <span class="badge text-xs">🏳️ {{ .label }}</span>
+              {{ end }}
+              {{ range $s.tags }}
+                <span class="badge text-xs {{ if eq . $tag }}bg-terracotta text-white{{ end }}">#{{ . }}</span>
+              {{ end }}
+            </div>
           </div>
-        </div>
+        {{ end }}
       {{ end }}
     </div>
   </section>
