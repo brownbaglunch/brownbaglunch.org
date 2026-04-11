@@ -1,0 +1,4 @@
+# themes/brownbaglunch/theme.toml
+name = "brownbaglunch"
+license = "MIT"
+minVersion = "0.121.0"

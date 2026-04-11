@@ -1,0 +1,27 @@
+baseURL = 'https://brownbaglunch.fr/'
+languageCode = 'fr-fr'
+defaultContentLanguage = 'fr'
+title = 'Brown Bag Lunch'
+theme = 'brownbaglunch'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  [permalinks.page]
+    speakers = '/speakers/:slug'
+  [permalinks.term]
+    tags = '/talks/:slug/'
+
+[languages]
+  [languages.fr]
+    languageName = 'Français'
+    weight = 1
+    title = 'Brown Bag Lunch'
+  [languages.en]
+    languageName = 'English'
+    weight = 2
+    title = 'Brown Bag Lunch'
