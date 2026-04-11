@@ -1,0 +1,15 @@
+{{/* _partials/search.html — Pagefind UI widget */}}
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    new PagefindUI({
+      element: '#search-box',
+      showSubResults: true,
+      resetStyles: false,
+      translations: {
+        placeholder: '{{ i18n "search_placeholder" }}'
+      }
+    });
+  });
+</script>
