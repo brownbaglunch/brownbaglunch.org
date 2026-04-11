@@ -1,0 +1,37 @@
+{{/* layouts/_partials/speaker-card.html — expects . to be a speaker Page */}}
+{{ $speaker := .Params }}
+<div class="card flex gap-4 items-start">
+  {{ if $speaker.picture }}
+    <img src="{{ $speaker.picture }}" alt="{{ $speaker.name }}"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  {{ end }}
+  <div class="flex-1 min-w-0">
+    <a href="{{ .RelPermalink }}" class="font-bold text-lg hover:text-terracotta transition-colors">
+      {{ $speaker.name }}
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      {{ range $speaker.cities }}
+        {{ $parts := split . "/" }}
+        {{ $city := index $parts 1 }}
+        {{ if eq $city "*" }}
+          <span class="badge text-xs">🌍</span>
+        {{ else }}
+          <span class="badge text-xs">📍 {{ $city | title }}</span>
+        {{ end }}
+      {{ end }}
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">{{ .Content | plainify | truncate 120 }}</p>
+    <div class="flex gap-1 mt-2 flex-wrap">
+      {{ range $speaker.sessions }}
+        {{ range .tags }}
+          <span class="badge text-xs">#{{ . }}</span>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+  {{ with $speaker.contacts.mail }}
+    <a href="mailto:{{ . }}" class="btn-primary text-sm shrink-0 self-center">
+      {{ i18n "invite" }}
+    </a>
+  {{ end }}
+</div>

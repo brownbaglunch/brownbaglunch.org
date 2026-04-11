@@ -1,0 +1,52 @@
+{{ define "main" }}
+<div class="flex items-center justify-between mb-6">
+  <h1 class="text-3xl font-black">Speakers</h1>
+  <span class="text-warm-brown/60">{{ len (where site.RegularPages "Section" "speakers") }} speakers</span>
+</div>
+
+{{/* Use site.RegularPages filtered by section to get ALL nested speaker pages */}}
+{{ $allSpeakers := where site.RegularPages "Section" "speakers" }}
+
+{{/* Collect unique countries from speaker home cities */}}
+{{ $countries := slice }}
+{{ range $allSpeakers }}
+  {{ with .Params.city }}
+    {{ $country := index (split . "/") 0 }}
+    {{ if not (in $countries $country) }}
+      {{ $countries = $countries | append $country }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $countries = sort $countries }}
+
+{{ if gt (len $countries) 1 }}
+<div class="flex gap-2 flex-wrap mb-6">
+  <span class="text-sm font-semibold self-center">Pays :</span>
+  {{ range $countries }}
+    <a href="#{{ . }}"
+       class="badge hover:bg-terracotta hover:text-white transition-colors cursor-pointer">
+      {{ . | upper }}
+    </a>
+  {{ end }}
+</div>
+{{ end }}
+
+{{/* Group speakers by country */}}
+{{ range $countries }}
+  {{ $country := . }}
+  {{ $countryPages := where $allSpeakers "Params.city" "like" (printf "^%s/" $country) }}
+  {{ if $countryPages }}
+    <section id="{{ $country }}" class="mb-10">
+      <h2 class="text-xl font-bold mb-4 flex items-center gap-2">
+        <span class="badge bg-warm-brown text-cream">{{ $country | upper }}</span>
+        <span class="text-warm-brown/50 text-sm font-normal">{{ len $countryPages }} speakers</span>
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        {{ range sort $countryPages "Params.name" }}
+          {{ partial "speaker-card.html" . }}
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+{{ end }}
+{{ end }}
