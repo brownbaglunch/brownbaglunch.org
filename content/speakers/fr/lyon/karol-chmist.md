@@ -1,0 +1,90 @@
+---
+name: "Karol Chmist"
+since: "2016-01-21"
+city: "fr/lyon"
+cities:
+  - "fr/lyon"
+  - "fr/saint-etienne"
+tags:
+  - "functional-programming"
+  - "programmation-fonctionnelle"
+  - "scala"
+  - "haskell"
+  - "sml"
+  - "idris"
+  - "nix"
+  - "monad"
+  - "lenses"
+picture: "http://www.gravatar.com/avatar/757cdab5633c1935bb37b24b1fe2729f?s=250"
+contacts:
+  x: "karolchmist"
+  mail: "karolchmist+bbl@gmail.com"
+websites:
+  - name: "Web"
+    url: "http://www.chmist.com"
+  - name: "Web"
+    url: "https://blog.chmist.com"
+sessions:
+  - tags:
+      - "functional-programming"
+      - "programmation-fonctionnelle"
+      - "scala"
+      - "haskell"
+      - "sml"
+      - "idris"
+      - "nix"
+      - "monad"
+      - "lenses"
+    versions:
+      - label: "FR"
+        flag: "fr"
+        title: "Introduction à la Programmation fonctionnelle avec Scala"
+        abstract: "Première approche de la Programmation fonctionnelle et de Scala. Nous aborderons les concepts de base (Composition, Immutabilité, Transparence référentielle) et les différences par rapport à la programmation impérative et orientée objet."
+  - tags:
+      - "functional-programming"
+      - "programmation-fonctionnelle"
+      - "scala"
+      - "haskell"
+      - "sml"
+      - "idris"
+      - "nix"
+      - "monad"
+      - "lenses"
+    versions:
+      - label: "FR"
+        flag: "fr"
+        title: "Théorie des catégories pour les programmeurs"
+        abstract: "En étudiant la programmation fonctionnelle, on rencontre des concepts issus de la théorie des catégories. Découvrons-les, avec des exemples simples et pratiques en Scala. Nous démystifierons les notions de monoïdes, foncteurs, monades et bien d'autres, lors d’un parcours informel. Enfin, nous verrons comment elles nous permettent de progresser en programmation fonctionnelle. "
+  - tags:
+      - "functional-programming"
+      - "programmation-fonctionnelle"
+      - "scala"
+      - "haskell"
+      - "sml"
+      - "idris"
+      - "nix"
+      - "monad"
+      - "lenses"
+    versions:
+      - label: "FR"
+        flag: "fr"
+        title: "Parcours sur des monades"
+        abstract: "Monade est une structure très répandue et s’avère particulièrement utile dans la programmation fonctionnelle. Détaillons ensemble son rôle, à travers des exemple en code (Option, List, Future, Either, etc.). Puis, créons notre propre monade et appliquons des transformations."
+  - tags:
+      - "functional-programming"
+      - "programmation-fonctionnelle"
+      - "scala"
+      - "haskell"
+      - "sml"
+      - "idris"
+      - "nix"
+      - "monad"
+      - "lenses"
+    versions:
+      - label: "FR"
+        flag: "fr"
+        title: "Voyons plus clairement avec les lentilles"
+        abstract: "Manipuler les données immuables peut devenir rapidement pénible. Heureusement nous avons des outils purement fonctionnels pour nous aider : les lentilles, les prismes, etc. Découvrons ensemble les cas d'utilisation avec Scala et Monocle."
+---
+
+Independent Functional Software Developer. Après plusieurs années de développement Java, j’ai découvert la programmation fonctionnelle. Je suis convaincu qu’appliquer les bases mathématiques au code est la meilleure façon d’obtenir un résultat robuste et sûr. Au quotidien, je travaille avec Scala, mais je poursuis mes recherches sur d’autres langages (Haskell, SML, Nix, Idris).

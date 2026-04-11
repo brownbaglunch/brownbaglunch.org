@@ -1,0 +1,91 @@
+---
+name: "Gilles Debunne"
+since: "2015-04-14"
+city: "fr/toulouse-et-tele-travail"
+cities:
+  - "fr/toulouse"
+tags:
+  - "experience-utilisateur"
+  - "ui"
+  - "mobile"
+  - "cocos2d"
+  - "angularjs"
+  - "ionic"
+  - "git"
+  - "agile"
+  - "lean-startup"
+picture: "https://cloudinary-a.akamaihd.net/hopwork/image/upload/t_bigprofile/etn9it6jsyy2cqaiwbll.jpg"
+contacts:
+  x: "gdebunne"
+  mail: "gilles.debunne@gmail.com"
+websites:
+  - name: "Web"
+    url: "http://gillesdebunne.github.io/"
+  - name: "GitHub"
+    url: "https://github.com/GillesDebunne"
+  - name: "Hopwork"
+    url: "https://www.hopwork.com/profile/gillesdebunne"
+sessions:
+  - tags:
+      - "experience-utilisateur"
+      - "ui"
+      - "mobile"
+      - "cocos2d"
+      - "angularjs"
+      - "ionic"
+      - "git"
+      - "agile"
+      - "lean-startup"
+    versions:
+      - label: "FR"
+        flag: "fr"
+        title: "Introduction à l'interface sur mobile"
+        abstract: "Les spécificités de l'interface et de l'interaction sur mobile"
+  - tags:
+      - "experience-utilisateur"
+      - "ui"
+      - "mobile"
+      - "cocos2d"
+      - "angularjs"
+      - "ionic"
+      - "git"
+      - "agile"
+      - "lean-startup"
+    versions:
+      - label: "FR"
+        flag: "fr"
+        title: "8 millions de téléchargements sur l'app store"
+        abstract: "L'aventure de ma première et unique application iOS. Qui a bêtement cartonné"
+  - tags:
+      - "experience-utilisateur"
+      - "ui"
+      - "mobile"
+      - "cocos2d"
+      - "angularjs"
+      - "ionic"
+      - "git"
+      - "agile"
+      - "lean-startup"
+    versions:
+      - label: "FR"
+        flag: "fr"
+        title: "Angular : Tour d'horizon ou discussion approfondie"
+        abstract: "Choississez votre sujet, du plus général à la discussion sur un point de détail"
+  - tags:
+      - "experience-utilisateur"
+      - "ui"
+      - "mobile"
+      - "cocos2d"
+      - "angularjs"
+      - "ionic"
+      - "git"
+      - "agile"
+      - "lean-startup"
+    versions:
+      - label: "FR"
+        flag: "fr"
+        title: "Ionic : du mobile en HTML ?"
+        abstract: "Le développement hybride sur mobile est-il viable ?"
+---
+
+Freelance Full Stack spécialisé UX - Desktop, Web, Mobile - Lean Startup & Entrepreneur
