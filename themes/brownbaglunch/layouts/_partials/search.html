@@ -1,6 +1,8 @@
-{{/* _partials/search.html — Pagefind UI widget */}}
+{{/* _partials/search.html — Pagefind UI widget (production only) */}}
+{{ if not hugo.IsServer }}
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
+{{ end }}
 <script>
   window.addEventListener('DOMContentLoaded', () => {
     new PagefindUI({
