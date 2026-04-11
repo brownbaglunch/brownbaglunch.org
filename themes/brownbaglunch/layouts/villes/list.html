@@ -31,13 +31,14 @@
 
   <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
     {{ range .Pages }}
+      {{ $cityPage := . }}
       {{ $country := .Params.country }}
       {{ $city := .Params.city }}
       {{ $speakers := partial "speakers-for-city.html" (dict "country" $country "city" $city "pages" site.RegularPages) }}
       <a href="{{ .RelPermalink }}"
          class="card text-center hover:border-terracotta transition-colors group">
         {{ with .Params.image }}
-          <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-24 object-cover rounded-lg mb-3">
+          <img src="{{ . }}" alt="{{ $cityPage.Title }}" class="w-full h-24 object-cover rounded-lg mb-3">
         {{ end }}
         <h2 class="font-bold group-hover:text-terracotta">{{ .Title }}</h2>
         <p class="text-sm text-warm-brown/60 mt-1">{{ len $speakers }} speakers</p>
