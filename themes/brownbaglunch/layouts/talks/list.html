@@ -1,0 +1,73 @@
+{{ define "main" }}
+<h1 class="text-3xl font-black mb-8">Talks</h1>
+
+{{/* Collect all unique tags across all sessions */}}
+{{ $allTags := slice }}
+{{ range where site.RegularPages "Section" "speakers" }}
+  {{ range .Params.sessions }}
+    {{ range .tags }}
+      {{ if not (in $allTags .) }}
+        {{ $allTags = $allTags | append . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $allTags = sort $allTags }}
+
+{{/* For each tag, list matching sessions */}}
+{{ range $allTags }}
+  {{ $tag := . }}
+  {{ $sessionsForTag := slice }}
+
+  {{ range where site.RegularPages "Section" "speakers" }}
+    {{ $speaker := . }}
+    {{ range .Params.sessions }}
+      {{ if in .tags $tag }}
+        {{ $sessionsForTag = $sessionsForTag | append (dict "session" . "speaker" $speaker) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  <section id="{{ $tag }}" class="mb-10">
+    <h2 class="text-xl font-bold mb-4">
+      <a href="{{ printf "/talks/%s/" $tag | relURL }}" class="hover:text-terracotta">#{{ $tag }}</a>
+      <span class="text-sm font-normal text-warm-brown/50 ml-2">{{ len $sessionsForTag }} talk(s)</span>
+    </h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {{ range $sessionsForTag }}
+        {{ $s := .session }}
+        {{ $sp := .speaker }}
+        {{ $siteLang := site.Language.Lang | upper }}
+        {{ $version := index $s.versions 0 }}
+        {{ range $s.versions }}
+          {{ if eq .label $siteLang }}{{ $version = . }}{{ end }}
+        {{ end }}
+        <div class="card">
+          <h3 class="font-bold leading-snug">
+            <a href="{{ $sp.RelPermalink }}" class="hover:text-terracotta">{{ $version.title }}</a>
+          </h3>
+          <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+            {{ if $sp.Params.picture }}
+              <img src="{{ $sp.Params.picture }}" class="w-6 h-6 rounded-full object-cover">
+            {{ end }}
+            <a href="{{ $sp.RelPermalink }}" class="hover:text-terracotta">{{ $sp.Params.name }}</a>
+          </div>
+          {{ if $version.abstract }}
+            <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+              {{ $version.abstract | markdownify | plainify | truncate 150 }}
+            </p>
+          {{ end }}
+          <div class="flex gap-1 mt-3 flex-wrap">
+            {{ range $s.versions }}
+              <span class="badge text-xs">🏳️ {{ .label }}</span>
+            {{ end }}
+            {{ range $s.tags }}
+              <span class="badge text-xs {{ if eq . $tag }}bg-terracotta text-white{{ end }}">#{{ . }}</span>
+            {{ end }}
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}
+{{ end }}
