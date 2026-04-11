@@ -1,0 +1,33 @@
+{{/* layouts/_partials/session-card.html
+     Input: dict "versions" .versions "tags" .tags "Page" $
+     Displays one session with language fallback and tags
+*/}}
+{{ $session := . }}
+{{ $siteLang := site.Language.Lang | upper }}
+
+{{/* Find matching language version, fall back to first */}}
+{{ $version := index $session.versions 0 }}
+{{ range $session.versions }}
+  {{ if eq .label $siteLang }}{{ $version = . }}{{ end }}
+{{ end }}
+
+<div class="card mb-4">
+  <div class="flex items-start gap-3">
+    <div class="flex-1">
+      <h3 class="font-bold text-lg leading-tight">{{ $version.title }}</h3>
+      <div class="flex gap-1 mt-2 flex-wrap">
+        {{ range $session.versions }}
+          <span class="badge">🏳️ {{ .label }}</span>
+        {{ end }}
+        {{ range $session.tags }}
+          <a href="{{ printf "/talks/%s/" . | relURL }}" class="badge hover:bg-terracotta hover:text-white transition-colors">#{{ . }}</a>
+        {{ end }}
+      </div>
+      {{ if $version.abstract }}
+        <div class="prose prose-sm mt-3 text-warm-brown/80 max-w-none">
+          {{ $version.abstract | markdownify }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</div>

@@ -12,7 +12,7 @@ theme = 'brownbaglunch'
 
 [permalinks]
   [permalinks.page]
-    speakers = '/speakers/:slug'
+    speakers = '/speakers/:slugorcontentbasename/'
   [permalinks.term]
     tags = '/talks/:slug/'
 

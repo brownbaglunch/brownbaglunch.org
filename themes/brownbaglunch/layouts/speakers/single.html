@@ -1,0 +1,68 @@
+{{ define "main" }}
+{{ $speaker := .Params }}
+
+<div class="max-w-3xl mx-auto">
+  {{/* Header */}}
+  <div class="flex items-start gap-6 mb-8">
+    {{ if $speaker.picture }}
+      <img src="{{ $speaker.picture }}" alt="{{ $speaker.name }}"
+           class="w-24 h-24 rounded-full object-cover border-4 border-warm-border shrink-0">
+    {{ end }}
+    <div class="flex-1">
+      <h1 class="text-3xl font-black mb-1">{{ $speaker.name }}</h1>
+
+      {{/* City / availability badges */}}
+      <div class="flex gap-2 flex-wrap mb-3">
+        {{ range $speaker.cities }}
+          {{ $parts := split . "/" }}
+          {{ $country := index $parts 0 }}
+          {{ $city := index $parts 1 }}
+          {{ if eq $city "*" }}
+            {{ if eq $country "*" }}
+              <span class="badge bg-terracotta text-white">🌍 {{ i18n "available_worldwide" }}</span>
+            {{ else }}
+              <span class="badge">{{ $country | upper }} — partout</span>
+            {{ end }}
+          {{ else }}
+            <a href="{{ printf "/villes/%s/%s/" $country $city | relURL }}" class="badge hover:bg-warm-brown hover:text-cream transition-colors">
+              📍 {{ $city | title }}
+            </a>
+          {{ end }}
+        {{ end }}
+      </div>
+
+      {{/* Contact */}}
+      <div class="flex gap-3 flex-wrap">
+        {{ with $speaker.contacts.mail }}
+          <a href="mailto:{{ . }}" class="btn-primary text-sm">
+            ✉️ {{ i18n "invite" }}
+          </a>
+        {{ end }}
+        {{ with $speaker.contacts.x }}
+          <a href="https://x.com/{{ . }}" target="_blank" rel="noopener"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors">𝕏 @{{ . }}</a>
+        {{ end }}
+        {{ range $speaker.websites }}
+          <a href="{{ .url }}" target="_blank" rel="noopener"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors">🔗 {{ .name }}</a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  {{/* Bio */}}
+  {{ if .Content }}
+    <div class="prose max-w-none mb-8 bg-warm-light border border-warm-border rounded-xl p-5">
+      {{ .Content }}
+    </div>
+  {{ end }}
+
+  {{/* Sessions */}}
+  {{ if $speaker.sessions }}
+    <h2 class="text-2xl font-bold mb-4">Talks</h2>
+    {{ range $speaker.sessions }}
+      {{ partial "session-card.html" . }}
+    {{ end }}
+  {{ end }}
+</div>
+{{ end }}
