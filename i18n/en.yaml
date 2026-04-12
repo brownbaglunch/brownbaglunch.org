@@ -97,3 +97,5 @@ talks_latest:
   other: Latest talks added
 talks_with_tag:
   other: "talk(s) with this tag"
+search_no_results:
+  other: "No results"

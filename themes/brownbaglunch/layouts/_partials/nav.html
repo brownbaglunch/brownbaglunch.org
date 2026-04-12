@@ -28,8 +28,23 @@
         {{ end }}
       </div>
     </details>
-    <div class="ml-auto w-64 relative">
-      <div id="search-box"></div>
+    {{/* Search — section drives default filter preset */}}
+    {{ $searchSection := "all" }}
+    {{ if eq .Section "speakers" }}{{ $searchSection = "speakers" }}
+    {{ else if or (eq .Type "tags") (eq .Section "talks") }}{{ $searchSection = "talks" }}
+    {{ else if eq .Section "cities" }}{{ $searchSection = "cities" }}
+    {{ end }}
+    <div class="ml-auto w-64 relative" id="search-container" data-section="{{ $searchSection }}">
+      <div class="relative">
+        <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-cream/50 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+        </svg>
+        <input type="search" id="search-input"
+               autocomplete="off" spellcheck="false"
+               placeholder="{{ i18n "search_placeholder" }}"
+               class="w-full bg-cream/20 text-cream placeholder:text-cream/50 border border-cream/30 rounded-full pl-9 pr-3 py-1.5 text-sm outline-none focus:bg-cream/30 focus:border-cream/50 transition-colors">
+      </div>
+      <div id="search-panel" class="hidden absolute right-0 top-full mt-2 w-[32rem] max-w-[calc(100vw-1rem)] max-h-[80vh] overflow-y-auto bg-cream text-warm-brown border border-warm-border rounded-xl shadow-xl z-[100] p-4"></div>
     </div>
   </div>
 </nav>

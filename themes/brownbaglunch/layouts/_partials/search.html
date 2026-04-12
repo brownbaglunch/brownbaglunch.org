@@ -1,52 +1,116 @@
-{{/* _partials/search.html — Pagefind UI widget */}}
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
+{{/* _partials/search.html — Pagefind JS API with contextual section filters */}}
+{{ $l := dict
+  "speakers"  (i18n "nav_speakers")
+  "talks"     (i18n "nav_talks")
+  "cities"    (i18n "nav_villes")
+  "noResults" (i18n "search_no_results")
+}}
 <style>
-  /* Override pagefind :root defaults — must come after pagefind-ui.css */
-  :root {
-    --pagefind-ui-scale: 0.8;
-    --pagefind-ui-primary: #e07b39;
-    --pagefind-ui-text: #3d2b1f;
-    --pagefind-ui-background: #fdf6ee;
-    --pagefind-ui-border: #f0e4d0;
-    --pagefind-ui-tag: #f0e4d0;
-    --pagefind-ui-border-width: 1px;
-    --pagefind-ui-border-radius: 999px;
-    --pagefind-ui-image-border-radius: 8px;
-    --pagefind-ui-font: inherit;
-  }
-  /* Dropdown panel — anchored below the search input */
-  .pagefind-ui__drawer {
-    position: absolute !important;
-    right: 0;
-    top: 100%;
-    width: 32rem;
-    max-height: 80vh;
-    overflow-y: auto;
-    background: #fdf6ee !important;
-    color: #3d2b1f !important;
-    border: 1px solid #f0e4d0;
-    border-radius: 0.75rem;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
-    z-index: 100;
-    padding: 1rem;
-    margin-top: 0.5rem;
-  }
-  mark {
-    background: #fde68a;
-    color: #3d2b1f;
-    border-radius: 2px;
-    padding: 0 2px;
-  }
+  mark { background: #fde68a; color: #3d2b1f; border-radius: 2px; padding: 0 2px; }
+  #search-input::-webkit-search-cancel-button { cursor: pointer; }
 </style>
 <script>
-  window.addEventListener('DOMContentLoaded', () => {
-    new PagefindUI({
-      element: '#search-box',
-      showSubResults: true,
-      translations: {
-        placeholder: '{{ i18n "search_placeholder" }}'
-      }
+(function () {
+  const LABELS   = {{ $l | jsonify }};
+  const SECTIONS = ['speakers', 'talks', 'cities'];
+  let   _pf      = null;
+
+  function loadPf() {
+    if (!_pf) {
+      _pf = import('/pagefind/pagefind.js').catch(() => null);
+    }
+    return _pf;
+  }
+
+  async function doSearch() {
+    const input = document.getElementById('search-input');
+    const panel = document.getElementById('search-panel');
+    const hits  = document.getElementById('search-hits');
+    const term  = input ? input.value.trim() : '';
+
+    if (!term) { if (panel) panel.classList.add('hidden'); return; }
+    if (!hits) return;
+
+    const checked = Array.from(document.querySelectorAll('.search-filter:checked'))
+                         .map(function (el) { return el.dataset.section; });
+    const opts = (checked.length > 0 && checked.length < SECTIONS.length)
+      ? { filters: { section: checked } }
+      : {};
+
+    const pf = await loadPf();
+    if (!pf) return;
+
+    const result = await pf.search(term, opts);
+    panel.classList.remove('hidden');
+
+    if (!result.results.length) {
+      hits.innerHTML = '<p class="text-sm text-warm-brown/60 text-center py-6">' + LABELS.noResults + '</p>';
+      return;
+    }
+
+    const data = await Promise.all(result.results.slice(0, 8).map(function (r) { return r.data(); }));
+
+    hits.innerHTML = data.map(function (d) {
+      const imgSrc = d.meta && d.meta.image ? d.meta.image : '';
+      const imgAlt = (d.meta && d.meta.image_alt ? d.meta.image_alt : '').replace(/"/g, '&quot;');
+      const thumb  = imgSrc
+        ? '<img src="' + imgSrc + '" alt="' + imgAlt + '" class="w-12 h-12 rounded-full object-cover border border-warm-border shrink-0 flex-none">'
+        : '<div class="w-12 h-12 rounded-full bg-warm-border/50 shrink-0 flex-none flex items-center justify-center text-xl">' + typeIcon(d.url) + '</div>';
+      const title = (d.meta && d.meta.title) ? d.meta.title : (d.title || '');
+      return '<a href="' + d.url + '" class="flex items-center gap-3 py-2.5 border-b border-warm-border/50 last:border-0 hover:bg-warm-light -mx-2 px-2 rounded-lg transition-colors group">'
+        + thumb
+        + '<div class="flex-1 min-w-0">'
+        + '<p class="font-semibold text-sm truncate group-hover:text-terracotta">' + esc(title) + '</p>'
+        + '<p class="text-xs text-warm-brown/60 line-clamp-2 mt-0.5">' + (d.excerpt || '') + '</p>'
+        + '</div>'
+        + '</a>';
+    }).join('');
+  }
+
+  function typeIcon(url) {
+    if (/\/talks\//.test(url))  return '🏷️';
+    if (/\/cities\//.test(url)) return '🏙️';
+    return '👤';
+  }
+
+  function esc(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    const container = document.getElementById('search-container');
+    const input     = document.getElementById('search-input');
+    const panel     = document.getElementById('search-panel');
+    if (!container || !input || !panel) return;
+
+    const section  = container.dataset.section || 'all';
+    const defaults = section === 'all' ? SECTIONS : [section];
+
+    const filtersHtml = SECTIONS.map(function (s) {
+      const checked = defaults.indexOf(s) !== -1 ? ' checked' : '';
+      return '<label class="flex items-center gap-1.5 cursor-pointer select-none text-sm hover:text-terracotta transition-colors">'
+        + '<input type="checkbox" class="search-filter accent-terracotta cursor-pointer" data-section="' + s + '"' + checked + '>'
+        + '<span>' + (LABELS[s] || s) + '</span>'
+        + '</label>';
+    }).join('');
+
+    panel.innerHTML =
+      '<div class="flex gap-5 mb-3 pb-3 border-b border-warm-border">' + filtersHtml + '</div>' +
+      '<div id="search-hits"></div>';
+
+    input.addEventListener('input', doSearch);
+
+    panel.addEventListener('change', function (e) {
+      if (e.target.classList.contains('search-filter')) doSearch();
+    });
+
+    document.addEventListener('click', function (e) {
+      if (!container.contains(e.target)) panel.classList.add('hidden');
+    });
+
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') { panel.classList.add('hidden'); input.value = ''; }
     });
   });
+})();
 </script>

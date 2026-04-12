@@ -2,6 +2,7 @@
 {{ $tag := .Data.Term }}
 {{ $siteLang := site.Language.Lang | upper }}
 
+<div data-pagefind-filter="section:talks">
 <h1 class="text-3xl font-black mb-2">#{{ $tag }}</h1>
 <p class="text-warm-brown/60 mb-8">{{ len .Pages }} {{ i18n "talks_with_tag" }}</p>
 
@@ -37,5 +38,6 @@
       {{ end }}
     </div>
   {{ end }}
+</div>
 </div>
 {{ end }}

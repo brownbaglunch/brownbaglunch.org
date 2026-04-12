@@ -16,6 +16,7 @@
   {{ $cityTitle := .Title }}
   {{ $coverSrc := partial "cover-url.html" . }}
 
+  <div data-pagefind-filter="section:cities">
   {{/* Header: title + count on the left, city logo on the right — same height */}}
   <div class="flex items-start justify-between gap-6 mb-8">
     <div>
@@ -24,7 +25,8 @@
     </div>
     {{ if $coverSrc }}
       <img src="{{ $coverSrc }}" alt="{{ $cityTitle }}"
-           class="w-auto object-contain shrink-0" style="max-height: 5rem">
+           class="w-auto object-contain shrink-0" style="max-height: 5rem"
+           data-pagefind-meta="image[src]">
     {{ end }}
   </div>
 
@@ -38,6 +40,7 @@
   {{ else }}
     <p class="text-warm-brown/60">{{ i18n "city_no_speaker" }}</p>
   {{ end }}
+  </div>{{/* end data-pagefind-filter */}}
 
 {{ else }}
   {{/* Top-level /villes/ page */}}
