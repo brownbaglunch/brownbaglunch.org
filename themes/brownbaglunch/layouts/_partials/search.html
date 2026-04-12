@@ -34,7 +34,7 @@
     const checked = Array.from(document.querySelectorAll('.search-filter:checked'))
                          .map(function (el) { return el.dataset.section; });
     const opts = (checked.length > 0 && checked.length < SECTIONS.length)
-      ? { filters: { section: checked } }
+      ? { filters: { section: { any: checked } } }
       : {};
 
     const pf = await loadPf();
