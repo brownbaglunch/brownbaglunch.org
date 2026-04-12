@@ -1,0 +1,23 @@
+{{/*
+  Returns the normalized uppercase first letter of a speaker name.
+  Maps French accented characters to their ASCII equivalents.
+  @param . {string} Full speaker name (e.g. "Éric Dupont")
+  @returns {string} Single uppercase letter (e.g. "E")
+*/}}
+{{ $first := substr . 0 1 | upper }}
+{{ $first = replace $first "É" "E" }}
+{{ $first = replace $first "È" "E" }}
+{{ $first = replace $first "Ê" "E" }}
+{{ $first = replace $first "Ë" "E" }}
+{{ $first = replace $first "À" "A" }}
+{{ $first = replace $first "Â" "A" }}
+{{ $first = replace $first "Ä" "A" }}
+{{ $first = replace $first "Ç" "C" }}
+{{ $first = replace $first "Î" "I" }}
+{{ $first = replace $first "Ï" "I" }}
+{{ $first = replace $first "Ô" "O" }}
+{{ $first = replace $first "Ö" "O" }}
+{{ $first = replace $first "Ù" "U" }}
+{{ $first = replace $first "Û" "U" }}
+{{ $first = replace $first "Ü" "U" }}
+{{ return $first }}
