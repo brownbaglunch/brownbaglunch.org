@@ -2,36 +2,33 @@
   Renders an A–Z navigation bar for speaker pages.
   @param currentLetter {string} Active letter in UPPERCASE ("A", "B", …) or "" for none
   @param letterCounts  {map}    Map of uppercase letter → speaker count (e.g. dict "A" 3 "B" 1)
-  @param showCounts    {bool}   When true, displays the count beneath each letter badge
+  @param showCounts    {bool}   When true, shows the count inside each badge ("A 26")
 */}}
 {{ $current    := .currentLetter | upper }}
 {{ $counts     := .letterCounts }}
 {{ $showCounts := .showCounts }}
 {{ $letters    := slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" }}
 
-<div class="flex gap-1 flex-wrap mb-2">
+<div class="flex gap-1 flex-wrap mb-6">
   {{ range $letters }}
     {{ $letter := . }}
     {{ $count  := default 0 (index $counts $letter) }}
     {{ $isActive := and (ne $current "") (eq $letter $current) }}
     {{ if gt $count 0 }}
       {{ if $isActive }}
-        <span class="badge bg-terracotta text-white font-bold font-mono">{{ $letter }}</span>
+        <span class="badge bg-terracotta text-white font-bold font-mono">
+          {{ $letter }}{{ if $showCounts }}<span class="ml-1 text-xs font-normal opacity-80">{{ $count }}</span>{{ end }}
+        </span>
       {{ else }}
         <a href="{{ printf "/speakers/%s/" ($letter | lower) | relURL }}"
-           class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">{{ $letter }}</a>
+           class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">
+          {{ $letter }}{{ if $showCounts }}<span class="ml-1 text-xs opacity-60">{{ $count }}</span>{{ end }}
+        </a>
       {{ end }}
     {{ else }}
-      <span class="badge opacity-30 cursor-default font-mono select-none">{{ $letter }}</span>
+      <span class="badge bg-warm-brown/10 text-warm-brown/30 cursor-default font-mono select-none">
+        {{ $letter }}{{ if $showCounts }}<span class="ml-1 text-xs">0</span>{{ end }}
+      </span>
     {{ end }}
   {{ end }}
 </div>
-
-{{ if $showCounts }}
-<div class="flex gap-1 flex-wrap mb-6 text-xs text-warm-brown/50 font-mono">
-  {{ range $letters }}
-    {{ $count := default 0 (index $counts .) }}
-    <span class="w-[2.1rem] text-center">{{ $count }}</span>
-  {{ end }}
-</div>
-{{ end }}
