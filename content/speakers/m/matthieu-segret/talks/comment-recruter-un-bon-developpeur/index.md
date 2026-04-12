@@ -5,7 +5,7 @@ tags:
 - ruby
 - ruby-on-rails
 - entrepreneuriat
-- recrutement
+- recruiting
 - formation
 versions:
 - label: FR

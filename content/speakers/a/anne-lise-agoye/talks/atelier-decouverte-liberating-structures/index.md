@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/anne-lise-agoye/talks/atelier-decouverte-liberating-structures/
 tags:
 - intelligence-collective
-- agilite
+- agile
 versions:
 - label: FR
   flag: fr

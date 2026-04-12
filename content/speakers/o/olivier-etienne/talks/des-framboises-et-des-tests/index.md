@@ -8,7 +8,7 @@ tags:
 - raspberry-pi
 - php
 - test
-- automatisation
+- automation
 versions:
 - label: FR
   flag: fr

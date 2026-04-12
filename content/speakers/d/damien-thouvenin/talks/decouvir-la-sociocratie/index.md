@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/damien-thouvenin/talks/decouvir-la-sociocratie/
 tags:
-- agilite
+- agile
 - management
 - leadership
 - rh

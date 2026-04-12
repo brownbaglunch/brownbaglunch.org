@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/guillaume-ehret/talks/angular-js-concepts-de-base/
 tags:
-- agilite
+- agile
 - android
 - java
 - test

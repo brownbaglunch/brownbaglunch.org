@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/julien-jakubowski/talks/allies-contre-les-defauts-talk-avec-le-webcenter-axa/
 tags:
 - test
-- dojo
+- coding-dojo
 - software-craftsmanship
 - tdd
 - bdd

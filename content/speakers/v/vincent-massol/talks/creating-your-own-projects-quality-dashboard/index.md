@@ -6,7 +6,7 @@ tags:
 - metrics
 - dashboard
 - jenkins
-- sonarqube
+- sonar
 - jira
 - github
 - xwiki

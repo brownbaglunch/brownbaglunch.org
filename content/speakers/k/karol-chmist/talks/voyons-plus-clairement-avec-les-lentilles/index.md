@@ -3,7 +3,6 @@ layout: talk
 url: /speakers/karol-chmist/talks/voyons-plus-clairement-avec-les-lentilles/
 tags:
 - functional-programming
-- programmation-fonctionnelle
 - scala
 - haskell
 - sml

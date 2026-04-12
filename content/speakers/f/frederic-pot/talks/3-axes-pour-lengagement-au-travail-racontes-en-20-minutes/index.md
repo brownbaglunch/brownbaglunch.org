@@ -4,7 +4,7 @@ url: /speakers/frederic-pot/talks/3-axes-pour-lengagement-au-travail-racontes-en
 tags:
 - engagement
 - team-building
-- recrutement
+- recruiting
 - transparence
 - management
 versions:

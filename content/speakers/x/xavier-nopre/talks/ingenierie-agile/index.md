@@ -2,11 +2,11 @@
 layout: talk
 url: /speakers/xavier-nopre/talks/ingenierie-agile/
 tags:
-- agilite
+- agile
 - scrum
 - ingenierie-agile
 - test
-- tests-unitaires
+- unit-test
 - tdd
 - usine-logicielle
 - industrialisation

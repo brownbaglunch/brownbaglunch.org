@@ -8,7 +8,6 @@ tags:
 - solidity
 - remote
 - cryptocurrency
-- cryptomonnaies
 versions:
 - label: FR
   flag: fr

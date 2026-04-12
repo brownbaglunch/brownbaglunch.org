@@ -3,14 +3,14 @@ layout: talk
 url: /speakers/francois-liot/talks/les-tests-automatises-ca-nest-pas-possible-chez-moi/
 tags:
 - agile
-- automatisation
+- automation
 - build
 - continuous-delivery
 - ingenierie-agile
 - outils
 - tdd
 - test
-- tests-unitaires
+- unit-test
 - usine-logicielle
 - watir
 - webdriver

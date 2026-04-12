@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/fabien-hiegel/talks/xtrem-reading-venez-lire-autrement-en-cultivant-votre-intelligence-collective/
 tags:
-- atelier
+- workshop
 - intelligence-collective
 versions:
 - label: FR

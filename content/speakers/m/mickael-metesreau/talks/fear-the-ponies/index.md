@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/mickael-metesreau/talks/fear-the-ponies/
 tags:
 - code
-- dojo
+- coding-dojo
 - cryptographie
 versions:
 - label: FR

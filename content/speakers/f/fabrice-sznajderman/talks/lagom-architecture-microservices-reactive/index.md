@@ -4,7 +4,7 @@ url: /speakers/fabrice-sznajderman/talks/lagom-architecture-microservices-reacti
 tags:
 - java
 - scala
-- programmation-fonctionnelle
+- functional-programming
 - sbt
 versions:
 - label: FR

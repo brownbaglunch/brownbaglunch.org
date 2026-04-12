@@ -7,7 +7,7 @@ tags:
 - docker
 - devops
 - javaee
-- agilite
+- agile
 versions:
 - label: FR
   flag: fr

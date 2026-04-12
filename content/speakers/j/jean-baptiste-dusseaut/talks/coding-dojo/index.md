@@ -4,7 +4,6 @@ url: /speakers/jean-baptiste-dusseaut/talks/coding-dojo/
 tags:
 - tdd
 - extreme-programming
-- agilite
 - agile
 - code
 versions:

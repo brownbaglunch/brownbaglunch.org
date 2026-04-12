@@ -5,7 +5,7 @@ tags:
 - iot
 - android-things
 - green
-- raspberry
+- raspberry-pi
 versions:
 - label: FR
   flag: fr

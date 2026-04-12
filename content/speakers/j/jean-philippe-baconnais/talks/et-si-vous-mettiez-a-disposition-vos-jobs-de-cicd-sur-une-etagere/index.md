@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/jean-philippe-baconnais/talks/et-si-vous-mettiez-a-disposition-vos-jobs-de-cicd-sur-une-etagere/
 tags:
-- cicd
+- ci-cd
 - gitlab
 - r2devops
 versions:

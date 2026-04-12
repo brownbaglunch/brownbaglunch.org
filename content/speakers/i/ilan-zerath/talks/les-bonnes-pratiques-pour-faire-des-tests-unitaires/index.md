@@ -3,10 +3,10 @@ layout: talk
 url: /speakers/ilan-zerath/talks/les-bonnes-pratiques-pour-faire-des-tests-unitaires/
 tags:
 - code
-- qualite
+- quality
 - solid
 - test
-- tests-unitaires
+- unit-test
 - injection-de-dependance
 - ios
 versions:

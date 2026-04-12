@@ -4,7 +4,7 @@ url: /speakers/francois-liot/talks/devops-et-integration-continue/
 tags:
 - agile
 - architecture
-- automatisation
+- automation
 - build
 - cloud
 - continuous-delivery
@@ -20,7 +20,7 @@ tags:
 - outils
 - tdd
 - test
-- tests-unitaires
+- unit-test
 - usine-logicielle
 versions:
 - label: FR

@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/maxime-bonnet/talks/utiliser-lego-serious-play-pour-animer-votre-brainstorming/
 tags:
-- agilite
+- agile
 - serious-game
 - developpement-personnel
 - management-3-0

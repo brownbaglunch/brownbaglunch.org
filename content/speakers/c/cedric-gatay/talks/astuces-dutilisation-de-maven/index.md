@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/cedric-gatay/talks/astuces-dutilisation-de-maven/
 tags:
-- integration-continue
+- continuous-integration
 - maven
 - java
 - git

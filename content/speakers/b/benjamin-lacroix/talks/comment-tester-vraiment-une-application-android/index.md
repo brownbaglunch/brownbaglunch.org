@@ -5,7 +5,7 @@ tags:
 - java
 - android
 - mobile
-- qualite
+- quality
 - test
 versions:
 - label: FR

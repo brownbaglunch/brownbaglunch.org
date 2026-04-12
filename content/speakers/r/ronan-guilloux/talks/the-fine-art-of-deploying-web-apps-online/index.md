@@ -5,7 +5,7 @@ tags:
 - php
 - silex
 - raspberry-pi
-- qualite
+- quality
 - methodes
 - fun
 versions:

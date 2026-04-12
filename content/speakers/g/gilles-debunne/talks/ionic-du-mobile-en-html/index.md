@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/gilles-debunne/talks/ionic-du-mobile-en-html/
 tags:
-- experience-utilisateur
+- ux
 - ui
 - mobile
 - cocos2d

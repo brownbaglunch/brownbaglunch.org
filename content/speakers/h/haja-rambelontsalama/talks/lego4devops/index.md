@@ -5,7 +5,7 @@ tags:
 - agile
 - devops
 - alm
-- atelier
+- workshop
 versions:
 - label: FR
   flag: fr

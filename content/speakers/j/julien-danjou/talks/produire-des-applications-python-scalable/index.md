@@ -4,7 +4,7 @@ url: /speakers/julien-danjou/talks/produire-des-applications-python-scalable/
 tags:
 - python
 - performance
-- scale
+- scalability
 versions:
 - label: FR
   flag: fr

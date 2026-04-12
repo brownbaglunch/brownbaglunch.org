@@ -6,7 +6,7 @@ tags:
 - test
 - typologie
 - taxonomie
-- agilite
+- agile
 versions:
 - label: FR
   flag: fr

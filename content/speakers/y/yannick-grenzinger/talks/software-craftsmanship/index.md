@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/yannick-grenzinger/talks/software-craftsmanship/
 tags:
 - code
-- qualite
+- quality
 - clean-code
 versions:
 - label: FR

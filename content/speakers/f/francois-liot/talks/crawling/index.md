@@ -5,7 +5,7 @@ tags:
 - agile
 - architecture
 - asynchronous
-- automatisation
+- automation
 - big-data
 - cloud
 - continuous-delivery
@@ -17,7 +17,6 @@ tags:
 - nutch
 - open-source
 - solr
-- supervision
 - watir
 - webdriver
 versions:

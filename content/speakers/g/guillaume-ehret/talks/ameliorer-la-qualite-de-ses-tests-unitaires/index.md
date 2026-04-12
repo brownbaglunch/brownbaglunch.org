@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/guillaume-ehret/talks/ameliorer-la-qualite-de-ses-tests-unitaires/
 tags:
-- agilite
+- agile
 - android
 - java
 - test

@@ -5,7 +5,7 @@ tags:
 - javascript
 - react
 - redux
-- programmation-fonctionnelle
+- functional-programming
 versions:
 - label: FR
   flag: fr

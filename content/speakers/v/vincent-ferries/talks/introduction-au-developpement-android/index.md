@@ -4,7 +4,7 @@ url: /speakers/vincent-ferries/talks/introduction-au-developpement-android/
 tags:
 - javaee
 - android
-- dojo
+- coding-dojo
 - dart
 versions:
 - label: FR

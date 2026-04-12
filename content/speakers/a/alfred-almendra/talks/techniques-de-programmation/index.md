@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/alfred-almendra/talks/techniques-de-programmation/
 tags:
 - agile
-- experience-utilisateur
+- ux
 - extreme-programming
 - scrum
 - kanban

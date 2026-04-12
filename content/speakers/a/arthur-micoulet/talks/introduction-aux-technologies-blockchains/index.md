@@ -7,7 +7,6 @@ tags:
 - ethereum
 - solidity
 - cryptocurrency
-- cryptomonnaies
 - remote
 versions:
 - label: FR

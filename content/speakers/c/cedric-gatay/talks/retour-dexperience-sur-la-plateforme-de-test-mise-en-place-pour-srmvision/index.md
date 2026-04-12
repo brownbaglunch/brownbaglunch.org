@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/cedric-gatay/talks/retour-dexperience-sur-la-plateforme-de-test-mise-en-place-pour-srmvision/
 tags:
-- integration-continue
+- continuous-integration
 - maven
 - java
 - git

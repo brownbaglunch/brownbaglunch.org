@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/clement-bichel/talks/moving-motivators/
 tags:
 - management-3-0
-- agilite
+- agile
 - methodes-agiles
 - serious-game
 - coach-agile

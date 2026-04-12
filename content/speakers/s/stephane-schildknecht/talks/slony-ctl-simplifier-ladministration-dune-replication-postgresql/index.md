@@ -3,9 +3,8 @@ layout: talk
 url: /speakers/stephane-schildknecht/talks/slony-ctl-simplifier-ladministration-dune-replication-postgresql/
 tags:
 - postgresql
-- haute-disponibilite
+- highavailability
 - database
-- bases-de-donnees
 versions:
 - label: FR
   flag: fr

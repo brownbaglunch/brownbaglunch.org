@@ -4,7 +4,7 @@ url: /speakers/jean-philippe-baconnais/talks/et-si-lia-devenait-votre-nouvel-ami
 tags:
 - dev
 - gitlab
-- ia
+- ai
 versions:
 - label: FR
   flag: fr

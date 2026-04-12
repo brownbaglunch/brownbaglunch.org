@@ -6,7 +6,7 @@ tags:
 - react
 - nodejs
 - api
-- deploiement
+- deployment
 versions:
 - label: FR
   flag: fr

@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/frederic-menou/talks/haskell-pour-les-noobs/
 tags:
 - haskell
-- programmation-fonctionnelle
+- functional-programming
 versions:
 - label: FR
   flag: fr

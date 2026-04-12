@@ -4,7 +4,7 @@ url: /speakers/yohan-lasorsa/talks/devenez-un-heros-des-github-actions/
 tags:
 - ci-cd
 - github
-- automatisation
+- automation
 - open-source
 versions:
 - label: FR

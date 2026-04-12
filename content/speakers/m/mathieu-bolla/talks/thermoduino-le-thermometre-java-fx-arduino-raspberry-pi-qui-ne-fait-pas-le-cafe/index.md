@@ -5,7 +5,7 @@ tags:
 - java
 - aws
 - amazon
-- scalabilite
+- scalability
 - domotique
 - embarque
 versions:

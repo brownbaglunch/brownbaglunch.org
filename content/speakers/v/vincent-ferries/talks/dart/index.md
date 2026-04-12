@@ -4,7 +4,7 @@ url: /speakers/vincent-ferries/talks/dart/
 tags:
 - javaee
 - android
-- dojo
+- coding-dojo
 - dart
 versions:
 - label: FR

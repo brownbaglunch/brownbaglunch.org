@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/maxime-bonnet/talks/jeux-serieux-avec-innovation-games/
 tags:
-- agilite
+- agile
 - serious-game
 - developpement-personnel
 - management-3-0

@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/clement-bichel/talks/agilite/
 tags:
-- agilite
+- agile
 - methodes-agiles
 - coach-agile
 - scrum

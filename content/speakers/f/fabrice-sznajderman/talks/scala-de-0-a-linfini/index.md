@@ -4,7 +4,7 @@ url: /speakers/fabrice-sznajderman/talks/scala-de-0-a-linfini/
 tags:
 - java
 - scala
-- programmation-fonctionnelle
+- functional-programming
 - sbt
 versions:
 - label: FR

@@ -5,7 +5,7 @@ tags:
 - gradle
 - groovy
 - build
-- automatisation
+- automation
 versions:
 - label: FR
   flag: fr

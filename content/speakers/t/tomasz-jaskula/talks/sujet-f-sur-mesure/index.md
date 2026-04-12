@@ -4,7 +4,7 @@ url: /speakers/tomasz-jaskula/talks/sujet-f-sur-mesure/
 tags:
 - f
 - domain-driven-design
-- programmation-fonctionnelle
+- functional-programming
 - cqrs
 - event-sourcing
 - ecmascript

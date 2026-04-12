@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/yannick-grenzinger/talks/apprendre-a-apprendre/
 tags:
 - apprentissage
-- organisation
+- organization
 - management
 versions:
 - label: FR

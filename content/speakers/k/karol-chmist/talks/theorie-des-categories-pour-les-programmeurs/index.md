@@ -3,7 +3,6 @@ layout: talk
 url: /speakers/karol-chmist/talks/theorie-des-categories-pour-les-programmeurs/
 tags:
 - functional-programming
-- programmation-fonctionnelle
 - scala
 - haskell
 - sml

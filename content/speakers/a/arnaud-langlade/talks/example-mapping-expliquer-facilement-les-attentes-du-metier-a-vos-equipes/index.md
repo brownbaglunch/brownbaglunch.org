@@ -4,7 +4,7 @@ url: /speakers/arnaud-langlade/talks/example-mapping-expliquer-facilement-les-at
 tags:
 - bdd
 - example-mapping
-- atelier
+- workshop
 versions:
 - label: FR
   flag: fr

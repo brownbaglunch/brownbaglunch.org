@@ -4,7 +4,7 @@ url: /speakers/fabrice-sznajderman/talks/sbt-et-pourquoi-pas/
 tags:
 - java
 - scala
-- programmation-fonctionnelle
+- functional-programming
 - sbt
 versions:
 - label: FR

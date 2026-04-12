@@ -5,7 +5,7 @@ tags:
 - kanban
 - extreme-programming
 - noestimates
-- agilite
+- agile
 versions:
 - label: FR
   flag: fr

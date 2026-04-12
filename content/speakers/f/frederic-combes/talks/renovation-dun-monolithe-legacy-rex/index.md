@@ -6,7 +6,7 @@ tags:
 - hexagonale
 - java
 - spring
-- legacy
+- legacy-code
 versions:
 - label: FR
   flag: fr

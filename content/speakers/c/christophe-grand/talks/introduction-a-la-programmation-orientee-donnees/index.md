@@ -3,8 +3,7 @@ layout: talk
 url: /speakers/christophe-grand/talks/introduction-a-la-programmation-orientee-donnees/
 tags:
 - clojure
-- fp-style
-- programmation-fonctionnelle
+- functional-programming
 - software-design
 - hypermedia
 - rest

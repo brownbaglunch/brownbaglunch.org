@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/francois-sarradin/talks/a-web-framework-in-scala-from-scratch-in-one-hour/
 tags:
 - scala
-- programmation-fonctionnelle
+- functional-programming
 versions:
 - label: FR
   flag: fr

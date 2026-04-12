@@ -14,7 +14,7 @@ tags:
 - nosql
 - nutch
 - open-source
-- scalabilite
+- scalability
 - solr
 - webdriver
 versions:

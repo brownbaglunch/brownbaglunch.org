@@ -7,7 +7,7 @@ tags:
 - agile
 - flow
 - product-management
-- organisation
+- organization
 versions:
 - label: FR
   flag: fr

@@ -4,7 +4,7 @@ url: /speakers/francois-liot/talks/monitoring-et-alerting-opensource/
 tags:
 - architecture
 - asynchronous
-- automatisation
+- automation
 - cloud
 - elasticsearch
 - ingenierie-agile
@@ -16,8 +16,7 @@ tags:
 - open-source
 - outils
 - performance
-- scalabilite
-- supervision
+- scalability
 versions:
 - label: FR
   flag: fr

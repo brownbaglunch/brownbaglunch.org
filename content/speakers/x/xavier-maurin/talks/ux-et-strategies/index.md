@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/xavier-maurin/talks/ux-et-strategies/
 tags:
-- experience-utilisateur
+- ux
 - experience-client
 - design
 - conception

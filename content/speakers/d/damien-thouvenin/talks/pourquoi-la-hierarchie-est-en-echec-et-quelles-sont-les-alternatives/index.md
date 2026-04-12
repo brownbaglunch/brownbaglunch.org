@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/damien-thouvenin/talks/pourquoi-la-hierarchie-est-en-echec-et-quelles-sont-les-alternatives/
 tags:
-- agilite
+- agile
 - management
 - leadership
 - rh

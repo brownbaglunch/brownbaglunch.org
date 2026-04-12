@@ -5,7 +5,7 @@ tags:
 - kanban
 - wip
 - serious-game
-- agilite
+- agile
 versions:
 - label: FR
   flag: fr

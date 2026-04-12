@@ -9,7 +9,7 @@ tags:
 - priorisation
 - product-owner
 - po
-- atelier
+- workshop
 versions:
 - label: FR
   flag: fr

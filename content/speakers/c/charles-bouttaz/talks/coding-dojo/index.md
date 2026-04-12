@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/charles-bouttaz/talks/coding-dojo/
 tags:
-- dojo
+- coding-dojo
 - refactoring
 - clean-code
 versions:

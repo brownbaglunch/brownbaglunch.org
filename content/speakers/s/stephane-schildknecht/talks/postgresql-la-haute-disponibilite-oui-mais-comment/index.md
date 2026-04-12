@@ -3,9 +3,8 @@ layout: talk
 url: /speakers/stephane-schildknecht/talks/postgresql-la-haute-disponibilite-oui-mais-comment/
 tags:
 - postgresql
-- haute-disponibilite
+- highavailability
 - database
-- bases-de-donnees
 versions:
 - label: FR
   flag: fr

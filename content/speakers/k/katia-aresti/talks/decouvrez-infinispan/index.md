@@ -15,7 +15,6 @@ tags:
 - clustering
 - datagrid
 - persistence
-- caching
 - highavailability
 versions:
 - label: FR

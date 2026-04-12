@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/gilles-debunne/talks/angular-tour-dhorizon-ou-discussion-approfondie/
 tags:
-- experience-utilisateur
+- ux
 - ui
 - mobile
 - cocos2d

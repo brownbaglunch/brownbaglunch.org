@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/anne-lise-agoye/talks/atelier-decouverte-lego-serious-play/
 tags:
-- lego-serious-play
+- lego
 - intelligence-collective
 - serious-game
 versions:

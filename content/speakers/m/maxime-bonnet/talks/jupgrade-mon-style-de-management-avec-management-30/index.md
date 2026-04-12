@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/maxime-bonnet/talks/jupgrade-mon-style-de-management-avec-management-30/
 tags:
-- agilite
+- agile
 - serious-game
 - developpement-personnel
 - management-3-0

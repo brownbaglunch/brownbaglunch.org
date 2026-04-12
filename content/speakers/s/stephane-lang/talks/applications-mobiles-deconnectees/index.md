@@ -4,7 +4,7 @@ url: /speakers/stephane-lang/talks/applications-mobiles-deconnectees/
 tags:
 - mobile
 - offline
-- base-de-donnees
+- database
 - json
 - sqlite
 versions:

@@ -6,7 +6,7 @@ tags:
 - startup
 - web
 - scala
-- programmation-fonctionnelle
+- functional-programming
 - lean-canvas
 - running-lean
 versions:

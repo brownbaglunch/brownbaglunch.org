@@ -6,7 +6,7 @@ tags:
 - dsi
 - metier
 - rex
-- agilite
+- agile
 versions:
 - label: FR
   flag: fr

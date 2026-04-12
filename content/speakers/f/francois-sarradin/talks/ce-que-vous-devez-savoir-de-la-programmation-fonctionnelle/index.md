@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/francois-sarradin/talks/ce-que-vous-devez-savoir-de-la-programmation-fonctionnelle/
 tags:
-- programmation-fonctionnelle
+- functional-programming
 versions:
 - label: FR
   flag: fr

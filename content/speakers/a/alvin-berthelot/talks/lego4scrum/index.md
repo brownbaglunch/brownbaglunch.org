@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/alvin-berthelot/talks/lego4scrum/
 tags:
-- atelier
+- workshop
 - agile
 - scrum
 - collaboration

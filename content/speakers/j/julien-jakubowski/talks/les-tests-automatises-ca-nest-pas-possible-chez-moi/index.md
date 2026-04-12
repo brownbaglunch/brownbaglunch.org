@@ -6,7 +6,7 @@ tags:
 - java
 - spring
 - test
-- dojo
+- coding-dojo
 - software-craftsmanship
 - tdd
 - bdd

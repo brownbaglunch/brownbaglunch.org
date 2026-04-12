@@ -5,7 +5,7 @@ tags:
 - java
 - clean-code
 - refactoring
-- legacy
+- legacy-code
 versions:
 - label: FR
   flag: fr

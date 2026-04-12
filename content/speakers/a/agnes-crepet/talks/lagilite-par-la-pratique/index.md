@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/agnes-crepet/talks/lagilite-par-la-pratique/
 tags:
-- agilite
+- agile
 - java
 - test
 - architecture

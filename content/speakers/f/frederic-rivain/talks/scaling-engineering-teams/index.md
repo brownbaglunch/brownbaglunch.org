@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/frederic-rivain/talks/scaling-engineering-teams/
 tags:
 - management
-- scale
+- scalability
 - organization
 versions:
 - label: FR

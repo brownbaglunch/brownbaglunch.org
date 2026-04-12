@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/clement-bichel/talks/kanban/
 tags:
 - kanban
-- agilite
+- agile
 - methodes-agiles
 - coach-agile
 versions:

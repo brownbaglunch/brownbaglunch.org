@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/damien-thouvenin/talks/il-est-frais-il-est-beau-mon-backlog/
 tags:
-- agilite
+- agile
 - management
 - leadership
 - rh

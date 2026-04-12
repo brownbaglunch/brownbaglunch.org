@@ -4,7 +4,7 @@ url: /speakers/clement-delafargue/talks/fp-patterns-for-scala-beginners/
 tags:
 - scala
 - nodejs
-- programmation-fonctionnelle
+- functional-programming
 - it-automation
 versions:
 - label: FR

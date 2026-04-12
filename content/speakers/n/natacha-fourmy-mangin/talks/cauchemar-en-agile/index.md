@@ -3,7 +3,6 @@ layout: talk
 url: /speakers/natacha-fourmy-mangin/talks/cauchemar-en-agile/
 tags:
 - scrum
-- agilite
 - agile
 versions:
 - label: FR

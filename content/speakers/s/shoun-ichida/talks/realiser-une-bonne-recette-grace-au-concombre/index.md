@@ -5,7 +5,7 @@ tags:
 - java
 - cucumber
 - bdd
-- agilite
+- agile
 versions:
 - label: FR
   flag: fr

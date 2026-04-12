@@ -3,9 +3,8 @@ layout: talk
 url: /speakers/stephane-schildknecht/talks/postgresql-les-differents-type-de-replication/
 tags:
 - postgresql
-- haute-disponibilite
+- highavailability
 - database
-- bases-de-donnees
 versions:
 - label: FR
   flag: fr

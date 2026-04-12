@@ -7,7 +7,7 @@ tags:
 - serenity-bdd
 - tdd
 - bdd
-- tests-unitaires
+- unit-test
 - tests-d-integration
 - tests-end-to-end
 versions:

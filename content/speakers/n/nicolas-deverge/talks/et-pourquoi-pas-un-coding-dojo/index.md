@@ -4,7 +4,7 @@ url: /speakers/nicolas-deverge/talks/et-pourquoi-pas-un-coding-dojo/
 tags:
 - agile
 - code
-- dojo
+- coding-dojo
 versions:
 - label: FR
   flag: fr

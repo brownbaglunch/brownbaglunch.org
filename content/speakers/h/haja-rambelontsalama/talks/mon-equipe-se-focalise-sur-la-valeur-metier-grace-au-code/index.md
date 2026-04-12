@@ -6,7 +6,7 @@ tags:
 - devops
 - alm
 - cloud
-- infra-as-code
+- infrastructure-as-code
 - doc-as-code
 - conf-as-code
 - spec-as-code

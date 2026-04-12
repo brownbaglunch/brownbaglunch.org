@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/alvin-berthelot/talks/lets-sketch-together/
 tags:
-- atelier
+- workshop
 - agile
 - collaboration
 - sketching

@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/maxime-bonnet/talks/comprendre-et-utiliser-le-mbti/
 tags:
-- agilite
+- agile
 - serious-game
 - developpement-personnel
 - management-3-0

@@ -4,7 +4,7 @@ url: /speakers/nicolas-deverge/talks/introduction-a-lagilite/
 tags:
 - agile
 - code
-- dojo
+- coding-dojo
 versions:
 - label: FR
   flag: fr

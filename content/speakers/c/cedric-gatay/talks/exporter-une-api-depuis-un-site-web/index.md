@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/cedric-gatay/talks/exporter-une-api-depuis-un-site-web/
 tags:
-- integration-continue
+- continuous-integration
 - maven
 - java
 - git

@@ -8,7 +8,7 @@ tags:
 - telecom-reseau
 - fpga
 - philosophie
-- agilite
+- agile
 versions:
 - label: FR
   flag: fr

@@ -5,7 +5,7 @@ tags:
 - workshop
 - devops
 - lean
-- agilite
+- agile
 versions:
 - label: FR
   flag: fr

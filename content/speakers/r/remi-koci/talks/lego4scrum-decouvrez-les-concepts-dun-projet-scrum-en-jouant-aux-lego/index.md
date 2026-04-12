@@ -8,7 +8,6 @@ tags:
 - team-building
 - lego
 - initiation
-- agilite
 versions:
 - label: FR
   flag: fr

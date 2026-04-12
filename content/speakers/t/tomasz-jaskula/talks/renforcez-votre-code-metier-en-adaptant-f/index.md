@@ -4,7 +4,7 @@ url: /speakers/tomasz-jaskula/talks/renforcez-votre-code-metier-en-adaptant-f/
 tags:
 - f
 - domain-driven-design
-- programmation-fonctionnelle
+- functional-programming
 - cqrs
 - event-sourcing
 - ecmascript

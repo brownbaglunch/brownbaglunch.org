@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/julien-tanguy/talks/creer-des-applications-frontend-en-elm/
 tags:
 - elm
-- programmation-fonctionnelle
+- functional-programming
 versions:
 - label: FR
   flag: fr

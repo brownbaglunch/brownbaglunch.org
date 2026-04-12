@@ -11,7 +11,7 @@ tags:
 - java
 - nosql
 - open-source
-- scalabilite
+- scalability
 - solr
 - apache-spark
 versions:

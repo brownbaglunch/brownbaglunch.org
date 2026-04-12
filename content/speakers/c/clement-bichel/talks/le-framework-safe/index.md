@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/clement-bichel/talks/le-framework-safe/
 tags:
 - safe
-- agilite
+- agile
 - methodes-agiles
 - coach-agile
 versions:

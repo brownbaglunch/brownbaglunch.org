@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/hadrien-mens-pellen/talks/dojo/
 tags:
-- dojo
+- coding-dojo
 - tdd
 - extreme-programming
 - pair-programming

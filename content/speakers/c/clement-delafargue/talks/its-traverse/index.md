@@ -4,7 +4,7 @@ url: /speakers/clement-delafargue/talks/its-traverse/
 tags:
 - javascript
 - haskell
-- programmation-fonctionnelle
+- functional-programming
 versions:
 - label: FR
   flag: fr

@@ -2,8 +2,8 @@
 layout: talk
 url: /speakers/philippe-charriere/talks/ci-cd-finalement-ce-nest-pas-dur/
 tags:
-- integration-continue
-- deploiement-continue
+- continuous-integration
+- continuous-delivery
 - jenkins
 - github
 - gitlab

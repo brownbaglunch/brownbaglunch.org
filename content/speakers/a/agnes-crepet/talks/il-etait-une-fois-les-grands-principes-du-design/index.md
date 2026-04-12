@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/agnes-crepet/talks/il-etait-une-fois-les-grands-principes-du-design/
 tags:
-- agilite
+- agile
 - java
 - test
 - architecture

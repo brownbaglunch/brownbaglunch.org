@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/philippe-charriere/talks/programmation-fonctionnelle-en-javascript/
 tags:
-- programmation-fonctionnelle
+- functional-programming
 - javascript
 - scala
 versions:

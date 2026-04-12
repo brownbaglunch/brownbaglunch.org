@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/guillaume-ehret/talks/industrialiser-la-construction-de-ces-projets-avec-mavenjenkins/
 tags:
-- agilite
+- agile
 - android
 - java
 - test

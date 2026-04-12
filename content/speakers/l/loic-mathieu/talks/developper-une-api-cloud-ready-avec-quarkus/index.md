@@ -4,7 +4,7 @@ url: /speakers/loic-mathieu/talks/developper-une-api-cloud-ready-avec-quarkus/
 tags:
 - java
 - kafka
-- streamprocessing
+- streaming
 versions:
 - label: FR
   flag: fr

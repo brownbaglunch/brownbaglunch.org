@@ -5,7 +5,6 @@ tags:
 - docker
 - monitoring
 - grafana
-- supervision
 - linux
 versions:
 - label: FR

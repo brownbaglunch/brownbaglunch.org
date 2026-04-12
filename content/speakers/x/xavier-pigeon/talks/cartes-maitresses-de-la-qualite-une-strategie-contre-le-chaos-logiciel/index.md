@@ -6,7 +6,7 @@ tags:
 - test
 - shift-left-testing
 - software-craftsmanship
-- agilite
+- agile
 versions:
 - label: FR
   flag: fr

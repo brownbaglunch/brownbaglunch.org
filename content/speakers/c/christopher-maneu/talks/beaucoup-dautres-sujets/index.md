@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/christopher-maneu/talks/beaucoup-dautres-sujets/
 tags:
 - devops
-- agilite
+- agile
 - open-source
 - azure
 - microsoft

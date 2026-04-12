@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/damien-thouvenin/talks/jamais-en-retard-jamais-stresse-gerer-son-temps-efficacement/
 tags:
-- agilite
+- agile
 - management
 - leadership
 - rh

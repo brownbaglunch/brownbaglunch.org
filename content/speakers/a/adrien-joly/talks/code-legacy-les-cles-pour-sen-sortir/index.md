@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/adrien-joly/talks/code-legacy-les-cles-pour-sen-sortir/
 tags:
-- code-legacy
+- legacy-code
 - tech-leadership
 - planification
 versions:

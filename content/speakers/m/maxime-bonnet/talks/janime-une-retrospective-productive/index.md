@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/maxime-bonnet/talks/janime-une-retrospective-productive/
 tags:
-- agilite
+- agile
 - serious-game
 - developpement-personnel
 - management-3-0

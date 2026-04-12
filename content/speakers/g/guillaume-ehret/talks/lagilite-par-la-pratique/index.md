@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/guillaume-ehret/talks/lagilite-par-la-pratique/
 tags:
-- agilite
+- agile
 - android
 - java
 - test

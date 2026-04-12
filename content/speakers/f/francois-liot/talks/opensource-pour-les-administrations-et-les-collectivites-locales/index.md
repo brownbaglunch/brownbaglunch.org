@@ -4,7 +4,7 @@ url: /speakers/francois-liot/talks/opensource-pour-les-administrations-et-les-co
 tags:
 - architecture
 - asynchronous
-- automatisation
+- automation
 - build
 - cloud
 - continuous-delivery

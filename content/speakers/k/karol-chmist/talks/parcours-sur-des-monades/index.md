@@ -3,7 +3,6 @@ layout: talk
 url: /speakers/karol-chmist/talks/parcours-sur-des-monades/
 tags:
 - functional-programming
-- programmation-fonctionnelle
 - scala
 - haskell
 - sml

@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/agnes-crepet/talks/introduction-au-behaviour-driven-development-bdd/
 tags:
-- agilite
+- agile
 - java
 - test
 - architecture

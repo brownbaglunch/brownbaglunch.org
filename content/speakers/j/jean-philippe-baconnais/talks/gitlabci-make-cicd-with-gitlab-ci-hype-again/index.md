@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/jean-philippe-baconnais/talks/gitlabci-make-cicd-with-gitlab-ci-hype-again/
 tags:
 - dev
-- cicd
+- ci-cd
 - gitlab
 versions:
 - label: FR

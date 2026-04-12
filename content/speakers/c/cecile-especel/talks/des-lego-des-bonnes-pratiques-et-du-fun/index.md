@@ -4,7 +4,7 @@ url: /speakers/cecile-especel/talks/des-lego-des-bonnes-pratiques-et-du-fun/
 tags:
 - agile
 - serious-game
-- tddlego
+- lego
 versions:
 - label: FR
   flag: fr

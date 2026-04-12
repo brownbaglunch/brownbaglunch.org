@@ -4,7 +4,7 @@ url: /speakers/xavier-marin/talks/warp-10-advanced-time-series-platform/
 tags:
 - time-series
 - big-data
-- databases
+- database
 - warp-10
 versions:
 - label: FR

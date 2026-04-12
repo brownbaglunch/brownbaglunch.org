@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/nathan-damie/talks/qualite-des-developpements/
 tags:
-- qualite
+- quality
 - qa
 - devs
 - po

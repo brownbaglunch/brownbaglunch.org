@@ -4,7 +4,7 @@ url: /speakers/nicolas-deverge/talks/retour-dexperience-et-introduction-au-leans
 tags:
 - agile
 - code
-- dojo
+- coding-dojo
 versions:
 - label: FR
   flag: fr

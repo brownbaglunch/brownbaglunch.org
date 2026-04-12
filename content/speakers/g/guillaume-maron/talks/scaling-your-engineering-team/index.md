@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/guillaume-maron/talks/scaling-your-engineering-team/
 tags:
-- scaling
+- scalability
 - engineering-team
 - recruiting
 - scrum

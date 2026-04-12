@@ -5,7 +5,7 @@ tags:
 - git
 - deployment
 - devops
-- integration-continue
+- continuous-integration
 versions:
 - label: FR
   flag: fr

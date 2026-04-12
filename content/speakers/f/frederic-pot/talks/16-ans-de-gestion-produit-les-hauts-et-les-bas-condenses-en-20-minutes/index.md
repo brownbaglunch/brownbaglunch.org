@@ -4,7 +4,7 @@ url: /speakers/frederic-pot/talks/16-ans-de-gestion-produit-les-hauts-et-les-bas
 tags:
 - poc
 - saas
-- scalabilite
+- scalability
 - rh
 - product-owner
 versions:

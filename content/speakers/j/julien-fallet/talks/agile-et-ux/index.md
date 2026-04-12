@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/julien-fallet/talks/agile-et-ux/
 tags:
 - strategie-produit
-- user-experience
+- ux
 - design-thinking
 - agile
 - devops

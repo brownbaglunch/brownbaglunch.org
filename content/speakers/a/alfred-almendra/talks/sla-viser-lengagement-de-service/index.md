@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/alfred-almendra/talks/sla-viser-lengagement-de-service/
 tags:
 - agile
-- experience-utilisateur
+- ux
 - extreme-programming
 - scrum
 - kanban

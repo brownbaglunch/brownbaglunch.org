@@ -4,7 +4,7 @@ url: /speakers/stephane-lang/talks/introduction-a-couchbase-et-aux-bases-de-donn
 tags:
 - nosql
 - couchbase
-- base-de-donnees
+- database
 - json
 versions:
 - label: FR

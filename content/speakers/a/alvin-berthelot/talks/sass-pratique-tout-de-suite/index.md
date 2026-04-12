@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/alvin-berthelot/talks/sass-pratique-tout-de-suite/
 tags:
-- atelier
+- workshop
 - sass
 - css
 - pre-processeur

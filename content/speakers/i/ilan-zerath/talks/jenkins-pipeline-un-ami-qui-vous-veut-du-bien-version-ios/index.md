@@ -3,11 +3,9 @@ layout: talk
 url: /speakers/ilan-zerath/talks/jenkins-pipeline-un-ami-qui-vous-veut-du-bien-version-ios/
 tags:
 - code
-- qualite
-- ci
-- cd
-- integration-continue
-- deploiement-continue
+- quality
+- continuous-integration
+- continuous-delivery
 - jenkins
 - pipeline
 - ios

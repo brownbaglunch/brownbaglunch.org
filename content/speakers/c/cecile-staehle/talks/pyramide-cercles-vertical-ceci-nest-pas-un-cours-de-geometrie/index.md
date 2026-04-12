@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/cecile-staehle/talks/pyramide-cercles-vertical-ceci-nest-pas-un-cours-de-geometrie/
 tags:
 - management
-- organisation
+- organization
 - gouvernance
 - autogestion
 - sociocratie

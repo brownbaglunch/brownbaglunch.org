@@ -2,11 +2,11 @@
 layout: talk
 url: /speakers/eric-meallier/talks/loutillage-du-devops-expert/
 tags:
-- agilite
+- agile
 - operation
 - developpement
 - devops
-- observabilite
+- observability
 - ansible
 - vagrant
 - terraform

@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/damien-thouvenin/talks/faire-monter-le-niveau/
 tags:
-- agilite
+- agile
 - management
 - leadership
 - rh

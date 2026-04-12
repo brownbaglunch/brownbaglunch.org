@@ -4,7 +4,7 @@ url: /speakers/pierre-baillet/talks/datadog-pour-les-nuls/
 tags:
 - datadog
 - monitoring
-- observabilite
+- observability
 versions:
 - label: FR
   flag: fr

@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/alfred-almendra/talks/gestion-de-projet-en-mode-agile/
 tags:
 - agile
-- experience-utilisateur
+- ux
 - extreme-programming
 - scrum
 - kanban

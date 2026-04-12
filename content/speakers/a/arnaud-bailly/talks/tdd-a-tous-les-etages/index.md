@@ -5,7 +5,7 @@ tags:
 - test
 - tdd
 - extreme-programming
-- ci
+- continuous-integration
 versions:
 - label: FR
   flag: fr

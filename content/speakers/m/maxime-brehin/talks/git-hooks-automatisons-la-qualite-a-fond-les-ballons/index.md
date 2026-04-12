@@ -3,8 +3,8 @@ layout: talk
 url: /speakers/maxime-brehin/talks/git-hooks-automatisons-la-qualite-a-fond-les-ballons/
 tags:
 - git
-- automatisation
-- qualite
+- automation
+- quality
 - workflow
 versions:
 - label: FR

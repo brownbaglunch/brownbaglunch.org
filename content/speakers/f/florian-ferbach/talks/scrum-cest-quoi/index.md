@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/florian-ferbach/talks/scrum-cest-quoi/
 tags:
-- agilite
+- agile
 - scrum
 versions:
 - label: FR

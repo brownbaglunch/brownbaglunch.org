@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/julien-jakubowski/talks/epic-legacy-code-challenge/
 tags:
 - test
-- dojo
+- coding-dojo
 - software-craftsmanship
 - serious-game
 - fun

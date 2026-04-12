@@ -3,8 +3,8 @@ layout: talk
 url: /speakers/gael-reyrol/talks/la-culture-devops/
 tags:
 - devops
-- ci
-- cd
+- continuous-integration
+- continuous-delivery
 - team
 versions:
 - label: FR

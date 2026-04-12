@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/stephane-lang/talks/bases-de-donnees-distribuees-faire-le-bon-choix-darchitecture-et-de-coherence/
 tags:
 - architecture
-- base-de-donnees
+- database
 - consistency
 - nosql
 versions:

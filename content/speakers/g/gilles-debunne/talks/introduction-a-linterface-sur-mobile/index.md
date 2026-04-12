@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/gilles-debunne/talks/introduction-a-linterface-sur-mobile/
 tags:
-- experience-utilisateur
+- ux
 - ui
 - mobile
 - cocos2d

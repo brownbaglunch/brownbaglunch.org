@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/cedric-gatay/talks/construction-dun-systeme-de-statistiques-avec-mongodb/
 tags:
-- integration-continue
+- continuous-integration
 - maven
 - java
 - git

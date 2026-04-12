@@ -4,7 +4,7 @@ url: /speakers/francois-sarradin/talks/une-alternative-a-aop/
 tags:
 - java
 - scala
-- programmation-fonctionnelle
+- functional-programming
 versions:
 - label: FR
   flag: fr

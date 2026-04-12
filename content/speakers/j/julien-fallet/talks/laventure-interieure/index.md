@@ -4,7 +4,7 @@ url: /speakers/julien-fallet/talks/laventure-interieure/
 tags:
 - neurosciences
 - meditation
-- agilite
+- agile
 versions:
 - label: FR
   flag: fr

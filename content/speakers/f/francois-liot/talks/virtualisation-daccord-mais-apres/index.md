@@ -5,7 +5,7 @@ tags:
 - agile
 - amazon
 - architecture
-- automatisation
+- automation
 - aws
 - azure
 - cloud
@@ -19,10 +19,9 @@ tags:
 - ops
 - outils
 - performance
-- scalabilite
+- scalability
 - security
 - strategie
-- supervision
 - usine-logicielle
 versions:
 - label: FR

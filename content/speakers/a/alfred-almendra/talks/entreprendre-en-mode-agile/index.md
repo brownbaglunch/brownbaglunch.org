@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/alfred-almendra/talks/entreprendre-en-mode-agile/
 tags:
 - agile
-- experience-utilisateur
+- ux
 - extreme-programming
 - scrum
 - kanban

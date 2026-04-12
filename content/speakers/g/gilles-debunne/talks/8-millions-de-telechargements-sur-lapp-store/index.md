@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/gilles-debunne/talks/8-millions-de-telechargements-sur-lapp-store/
 tags:
-- experience-utilisateur
+- ux
 - ui
 - mobile
 - cocos2d

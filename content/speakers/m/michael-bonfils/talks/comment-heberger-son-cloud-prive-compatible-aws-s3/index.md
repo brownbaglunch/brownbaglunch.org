@@ -4,7 +4,7 @@ url: /speakers/michael-bonfils/talks/comment-heberger-son-cloud-prive-compatible
 tags:
 - cloud
 - s3
-- raspberry
+- raspberry-pi
 - private
 versions:
 - label: FR

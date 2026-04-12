@@ -2,11 +2,10 @@
 layout: talk
 url: /speakers/jeremy-passeron/talks/software-craftsmanship-make-programming-great-again/
 tags:
-- code-legacy
-- legacy
+- legacy-code
 - agile
 - tdd
-- craftmanship
+- craftsmanship
 versions:
 - label: FR
   flag: fr

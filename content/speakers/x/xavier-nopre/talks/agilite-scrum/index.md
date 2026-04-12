@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/xavier-nopre/talks/agilite-scrum/
 tags:
-- agilite
+- agile
 - scrum
 versions:
 - label: FR

@@ -4,9 +4,8 @@ url: /speakers/kevin-davin/talks/demarrer-un-projet-angular2-avec-langularcli-au
 tags:
 - javascript
 - angular
-- angular2
 - test
-- deploy
+- deployment
 - tdd
 - agile
 versions:

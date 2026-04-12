@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/yannick-grenzinger/talks/decouvrir-la-spirale-dynamique-et-des-principes-pour-une-organisation-adaptee-au-21eme-siecle/
 tags:
-- organisation
+- organization
 - management
 - agile
 versions:

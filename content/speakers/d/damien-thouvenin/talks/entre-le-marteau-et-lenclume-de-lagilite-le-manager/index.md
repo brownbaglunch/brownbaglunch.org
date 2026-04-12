@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/damien-thouvenin/talks/entre-le-marteau-et-lenclume-de-lagilite-le-manager/
 tags:
-- agilite
+- agile
 - management
 - leadership
 - rh

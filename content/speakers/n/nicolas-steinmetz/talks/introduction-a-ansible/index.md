@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/nicolas-steinmetz/talks/introduction-a-ansible/
 tags:
-- automatisation
+- automation
 - industrialisation
 - ansible
 - devops

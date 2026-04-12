@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/fabien-hiegel/talks/xtrem-tech-watch-explorez-ensemble-les-sujets-qui-vous-animent/
 tags:
-- atelier
+- workshop
 - intelligence-collective
 - veille
 versions:

@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/agnes-crepet/talks/lapprentissage-continue-les-mooc/
 tags:
-- agilite
+- agile
 - java
 - test
 - architecture

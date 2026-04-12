@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/kevin-davin/talks/introduction-a-angular2/
 tags:
 - javascript
-- angular2
+- angular
 - typescript
 versions:
 - label: FR

@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/guillaume-ehret/talks/angular-js-level-2/
 tags:
-- agilite
+- agile
 - android
 - java
 - test

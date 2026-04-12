@@ -3,10 +3,10 @@ layout: talk
 url: /speakers/xavier-nopre/talks/tests-unitaires-et-tdd-la-theorie/
 tags:
 - test
-- tests-unitaires
+- unit-test
 - tdd
 - java
-- agilite
+- agile
 versions:
 - label: FR
   flag: fr

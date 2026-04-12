@@ -7,7 +7,7 @@ tags:
 - expression-trees
 - arbres-d-expression
 - rule-engine
-- moteur-de-regles
+- moteurs-de-regles
 - net
 versions:
 - label: FR

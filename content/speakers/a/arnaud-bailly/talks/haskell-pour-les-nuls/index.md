@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/arnaud-bailly/talks/haskell-pour-les-nuls/
 tags:
-- fp
+- functional-programming
 - haskell
 - type-driven-development
 versions:

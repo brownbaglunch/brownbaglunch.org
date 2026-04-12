@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/christopher-maneu/talks/ecoutez-vos-utilisateurs-de-1-a-10-millions/
 tags:
 - devops
-- agilite
+- agile
 - cloud
 versions:
 - label: FR

@@ -2,11 +2,10 @@
 layout: talk
 url: /speakers/yoann-buch/talks/comprendre-rapidement-une-application-legacy/
 tags:
-- code-legacy
-- legacy
+- legacy-code
 - agile
 - java
-- craftmanship
+- craftsmanship
 versions:
 - label: FR
   flag: fr

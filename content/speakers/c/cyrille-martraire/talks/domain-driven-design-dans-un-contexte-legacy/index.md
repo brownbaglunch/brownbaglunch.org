@@ -6,7 +6,7 @@ tags:
 - bdd
 - tdd
 - legacy-code
-- fp-style
+- functional-programming
 - clean-code
 - test
 versions:

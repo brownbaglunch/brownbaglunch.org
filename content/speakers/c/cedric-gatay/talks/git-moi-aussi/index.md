@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/cedric-gatay/talks/git-moi-aussi/
 tags:
-- integration-continue
+- continuous-integration
 - maven
 - java
 - git

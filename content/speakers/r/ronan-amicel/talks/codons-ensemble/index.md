@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/ronan-amicel/talks/codons-ensemble/
 tags:
-- dojo
+- coding-dojo
 - code
 - test
 - software-craftsmanship

@@ -4,7 +4,7 @@ url: /speakers/sebastien-fauvel/talks/living-documentation-as-test/
 tags:
 - documentation
 - test
-- dojo
+- coding-dojo
 versions:
 - label: FR
   flag: fr

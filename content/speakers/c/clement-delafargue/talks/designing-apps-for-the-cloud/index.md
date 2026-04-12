@@ -4,7 +4,7 @@ url: /speakers/clement-delafargue/talks/designing-apps-for-the-cloud/
 tags:
 - scala
 - nodejs
-- programmation-fonctionnelle
+- functional-programming
 - it-automation
 versions:
 - label: FR

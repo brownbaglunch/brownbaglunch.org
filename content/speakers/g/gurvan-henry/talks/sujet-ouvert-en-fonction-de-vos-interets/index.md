@@ -4,7 +4,7 @@ url: /speakers/gurvan-henry/talks/sujet-ouvert-en-fonction-de-vos-interets/
 tags:
 - organisation-d-equipe
 - usage-utilisateur
-- qualite-de-code
+- quality
 versions:
 - label: FR
   flag: fr

@@ -2,12 +2,12 @@
 layout: talk
 url: /speakers/eric-meallier/talks/le-devops-encore-une-histoire-de-collaboration-entre-equipe/
 tags:
-- agilite
+- agile
 - operation
 - developpement
 - devops
 - exploitation
-- observabilite
+- observability
 versions:
 - label: FR
   flag: fr

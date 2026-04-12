@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/guillaume-ehret/talks/integration-continue-avec-jenkins/
 tags:
-- agilite
+- agile
 - android
 - java
 - test

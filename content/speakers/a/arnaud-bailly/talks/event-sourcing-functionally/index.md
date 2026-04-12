@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/arnaud-bailly/talks/event-sourcing-functionally/
 tags:
-- fp
+- functional-programming
 - event-sourcing
 - domain-driven-design
 versions:

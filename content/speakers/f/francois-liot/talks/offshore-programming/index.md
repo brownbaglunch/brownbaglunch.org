@@ -4,7 +4,7 @@ url: /speakers/francois-liot/talks/offshore-programming/
 tags:
 - agile
 - architecture
-- automatisation
+- automation
 - build
 - continuous-delivery
 - devops
@@ -15,13 +15,13 @@ tags:
 - ops
 - outils
 - performance
-- scalabilite
+- scalability
 - security
 - strategie
-- supervision
+- monitoring
 - tdd
 - test
-- tests-unitaires
+- unit-test
 - usine-logicielle
 versions:
 - label: FR

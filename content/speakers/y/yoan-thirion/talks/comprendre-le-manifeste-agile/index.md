@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/yoan-thirion/talks/comprendre-le-manifeste-agile/
 tags:
-- agilite
+- agile
 versions:
 - label: FR
   flag: fr

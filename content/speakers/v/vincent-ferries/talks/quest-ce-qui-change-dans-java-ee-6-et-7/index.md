@@ -4,7 +4,7 @@ url: /speakers/vincent-ferries/talks/quest-ce-qui-change-dans-java-ee-6-et-7/
 tags:
 - javaee
 - android
-- dojo
+- coding-dojo
 - dart
 versions:
 - label: FR

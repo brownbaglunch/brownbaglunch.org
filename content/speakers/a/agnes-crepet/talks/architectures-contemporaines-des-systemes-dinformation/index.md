@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/agnes-crepet/talks/architectures-contemporaines-des-systemes-dinformation/
 tags:
-- agilite
+- agile
 - java
 - test
 - architecture

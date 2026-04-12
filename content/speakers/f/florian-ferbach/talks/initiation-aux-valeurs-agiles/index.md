@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/florian-ferbach/talks/initiation-aux-valeurs-agiles/
 tags:
-- agilite
+- agile
 versions:
 - label: FR
   flag: fr

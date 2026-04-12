@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/jean-philippe-baconnais/talks/quicky-faire-de-lagilite-dans-les-equipes-agiles-cest-possible/
 tags:
-- agilite
+- agile
 - dev
 - innovation
 versions:

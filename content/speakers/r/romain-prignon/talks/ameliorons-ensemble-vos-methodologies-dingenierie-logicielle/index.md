@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/romain-prignon/talks/ameliorons-ensemble-vos-methodologies-dingenierie-logicielle/
 tags:
-- qualite
+- quality
 - methodes
 - git
 - industrialisation

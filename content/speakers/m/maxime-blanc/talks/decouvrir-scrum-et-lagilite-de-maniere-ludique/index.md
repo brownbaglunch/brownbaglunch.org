@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/maxime-blanc/talks/decouvrir-scrum-et-lagilite-de-maniere-ludique/
 tags:
 - scrum
-- agilite
+- agile
 - kanban
 versions:
 - label: FR
