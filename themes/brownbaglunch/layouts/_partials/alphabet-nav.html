@@ -1,0 +1,37 @@
+{{/*
+  Renders an A–Z navigation bar for speaker pages.
+  @param currentLetter {string} Active letter in UPPERCASE ("A", "B", …) or "" for none
+  @param letterCounts  {map}    Map of uppercase letter → speaker count (e.g. dict "A" 3 "B" 1)
+  @param showCounts    {bool}   When true, displays the count beneath each letter badge
+*/}}
+{{ $current    := .currentLetter | upper }}
+{{ $counts     := .letterCounts }}
+{{ $showCounts := .showCounts }}
+{{ $letters    := slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" }}
+
+<div class="flex gap-1 flex-wrap mb-2">
+  {{ range $letters }}
+    {{ $letter := . }}
+    {{ $count  := default 0 (index $counts $letter) }}
+    {{ $isActive := and (ne $current "") (eq $letter $current) }}
+    {{ if gt $count 0 }}
+      {{ if $isActive }}
+        <span class="badge bg-terracotta text-white font-bold font-mono">{{ $letter }}</span>
+      {{ else }}
+        <a href="{{ printf "/speakers/%s/" ($letter | lower) | relURL }}"
+           class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">{{ $letter }}</a>
+      {{ end }}
+    {{ else }}
+      <span class="badge opacity-30 cursor-default font-mono select-none">{{ $letter }}</span>
+    {{ end }}
+  {{ end }}
+</div>
+
+{{ if $showCounts }}
+<div class="flex gap-1 flex-wrap mb-6 text-xs text-warm-brown/50 font-mono">
+  {{ range $letters }}
+    {{ $count := default 0 (index $counts .) }}
+    <span class="w-[2.1rem] text-center">{{ $count }}</span>
+  {{ end }}
+</div>
+{{ end }}
