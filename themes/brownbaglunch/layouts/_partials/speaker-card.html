@@ -21,11 +21,17 @@
       {{ end }}
     </div>
     <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">{{ .Content | plainify | truncate 120 }}</p>
-    <div class="flex gap-1 mt-2 flex-wrap">
-      {{ range $speaker.sessions }}
-        {{ range .tags }}
-          <span class="badge text-xs">#{{ . }}</span>
+    {{ $uniqueTags := slice }}
+    {{ range $speaker.sessions }}
+      {{ range .tags }}
+        {{ if not (in $uniqueTags .) }}
+          {{ $uniqueTags = $uniqueTags | append . }}
         {{ end }}
+      {{ end }}
+    {{ end }}
+    <div class="flex gap-1 mt-2 flex-wrap">
+      {{ range $uniqueTags }}
+        <span class="badge text-xs">#{{ . }}</span>
       {{ end }}
     </div>
   </div>
