@@ -1,0 +1,31 @@
+---
+name: Julien Pauli
+since: '2018-06-01'
+city: fr/paris
+cities:
+- fr/paris
+tags:
+- boxes
+- router
+- diy
+- mikrotik
+- ipv6
+- fai
+- cryptographie
+- xor
+- php
+- vernam
+- lfsr
+cover: https://avatars2.githubusercontent.com/u/72415?s=460&v=4
+contacts:
+  x: julienpauli
+  mail: julien.pauli@gmail.com
+websites:
+- name: Github
+  url: https://github.com/jpauli
+- name: Blog
+  url: http://blog.jpauli.tech/
+layout: speaker
+---
+
+System and Web architect at SensioLabs

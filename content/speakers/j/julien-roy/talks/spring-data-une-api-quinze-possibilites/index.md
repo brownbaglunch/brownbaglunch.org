@@ -1,0 +1,22 @@
+---
+layout: talk
+url: /speakers/julien-roy/talks/spring-data-une-api-quinze-possibilites/
+tags:
+- code
+- java
+- spring
+- spring-boot
+- productivite
+versions:
+- label: FR
+  flag: fr
+  title: 'Spring Data : Une API, quinze possibilités'
+  abstract: Vous avez besoin d’intégrer une nouveau type de stockage ( Elasticsearch,
+    Cassandra, Redis, Neo4j ) dans votre application mais l’apprentissage d’une nouvelle
+    API vous fait hésiter ? Spring Data est fait pour vous ! Grâce à Spring Data,
+    vous avez à disposition une interface unique pour communiquer avec tous vos backends.
+    Venez découvrir comment faire un stream de données depuis Postgresql, faire des
+    agrégations avec Elasticsearch, enregistrer des documents dans MongoDB, le tout
+    en quelques lignes de code et sans efforts. Cette session se termine en détaillant
+    les nouveautés apportées par la version 2.0 autour de la programmation réactive.
+---

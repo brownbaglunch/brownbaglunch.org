@@ -1,4 +1,4 @@
-{{/* layouts/_partials/speaker-card.html — expects . to be a speaker Page */}}
+{{/* layouts/_partials/speaker-card.html — expects . to be a speaker section Page */}}
 {{ $speaker := .Params }}
 {{ $coverSrc := partial "cover-url.html" . }}
 <div class="card flex gap-4 items-start">
@@ -22,9 +22,10 @@
       {{ end }}
     </div>
     <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">{{ .Content | plainify | truncate 120 }}</p>
+    {{/* Collect unique tags from all talk pages */}}
     {{ $uniqueTags := slice }}
-    {{ range $speaker.sessions }}
-      {{ range .tags }}
+    {{ range .RegularPagesRecursive }}
+      {{ range .Params.tags }}
         {{ if not (in $uniqueTags .) }}
           {{ $uniqueTags = $uniqueTags | append . }}
         {{ end }}

@@ -1,0 +1,33 @@
+---
+name: David DE CARVALHO
+since: '2017-06-26'
+city: fr/rennes-et-environs
+cities:
+- fr/rennes
+tags:
+- java
+- rest
+- microservices
+- rabbitmq
+- mom
+- message-oriented-middleware
+- cassandra
+- asynchrone
+- assynchronisme
+- architecture
+- sse
+- serversentevent
+- node
+- nodejs
+contacts:
+  x: dedece35
+  mail: ddecarvalho@pagesjaunes.fr
+websites:
+- name: Web
+  url: http://www.pagesjaunes.fr/
+- name: Viadeo
+  url: http://www.viadeo.com/p/002typxcger1kb8
+layout: speaker
+---
+
+Technical Leader et Ingénieur Développeur 'touche-à-tout' depuis une dizaine d'années (13 ans). @PagesJaunes (depuis 7 ans)

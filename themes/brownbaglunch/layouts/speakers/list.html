@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $allSpeakers := where site.RegularPages "Section" "speakers" }}
+{{ $allSpeakers := where (where (where site.Pages "Kind" "section") "Section" "speakers") "Params.name" "ne" nil }}
 
 {{/* ── Letter counts ── */}}
 {{ $letterCounts := dict }}

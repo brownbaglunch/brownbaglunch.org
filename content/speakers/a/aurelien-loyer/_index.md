@@ -1,0 +1,33 @@
+---
+name: Aurélien Loyer
+since: '2017-11-29'
+city: fr/lille
+cities:
+- fr/lille
+tags:
+- angularjs
+- angular
+- react
+- javascript
+- vue-js
+- bad-usb
+- diy
+- arduino
+- hacking
+- securite
+- node-js
+- nestjs
+- express
+cover: https://avatars0.githubusercontent.com/u/3717296?s=460
+contacts:
+  x: AurelienLoyer
+  mail: aurelien.loyer@zenika.com
+websites:
+- name: Web
+  url: http://aurelien-loyer.fr/
+- name: Github
+  url: https://github.com/T3kstiil3
+layout: speaker
+---
+
+Consultant et Formateur Web chez Zenika depuis novembre 2015. Je me suis spécialisé dans le domaine du Web, JavaScript, AngularJS, Angular, Vue.Js, Node.js ... Fan d'IOT durant mes heures perdues, je suis toujours à l'affût des dernières nouveautés Web !

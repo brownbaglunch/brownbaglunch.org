@@ -1,0 +1,19 @@
+---
+layout: talk
+url: /speakers/guillaume-ehret/talks/ameliorer-la-qualite-de-ses-tests-unitaires/
+tags:
+- agilite
+- android
+- java
+- test
+- maven
+- jenkins
+- angularjs
+- yeoman
+versions:
+- label: FR
+  flag: fr
+  title: Améliorer la qualité de ses tests unitaires
+  abstract: Revue des différentes règles à appliquer pour améliorer la qualité de
+    ses tests unitaires et faire qu'ils soient durables dans le temps.
+---

@@ -1,0 +1,14 @@
+---
+layout: talk
+url: /speakers/riadh-mnasri/talks/architectures-microservices/
+tags:
+- architectures
+- microservices
+- patterns
+versions:
+- label: FR
+  flag: fr
+  title: Architectures microservices
+  abstract: Tout ce que vous avez toujours voulu savoir sur les architectures microservices
+    sans jamais oser le demander
+---

@@ -1,0 +1,23 @@
+---
+name: Benjamin Marguin
+since: '2018-02-22'
+city: fr/toulouse
+cities:
+- fr/toulouse
+tags:
+- git
+- gitlab
+- github
+- gpg
+- chiffrement
+cover: https://avatars3.githubusercontent.com/u/1846633
+contacts:
+  x: mab_
+  mail: brownbaglunch.fr@ma-b.com
+websites:
+- name: LinkedIn
+  url: https://www.linkedin.com/in/benjamin-marguin
+layout: speaker
+---
+
+Développeur front-end, intégrateur, formateur Git.

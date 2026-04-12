@@ -1,0 +1,21 @@
+---
+name: Florence Chabanois
+since: '2015-05-13'
+city: fr/paris
+cities:
+- fr/paris
+tags:
+- produit
+- lean-startup
+- team
+cover: ''
+contacts:
+  x: fchabanois
+  mail: flocha2000-bbl@yahoo.fr
+websites:
+- name: Web
+  url: http://devsnotebook.fr
+layout: speaker
+---
+
+Agiliste : product owner et encore un peu développeur

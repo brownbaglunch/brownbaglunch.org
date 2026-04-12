@@ -1,0 +1,19 @@
+---
+layout: talk
+url: /speakers/julien-jakubowski/talks/coding-dojo-sur-mesure/
+tags:
+- javascript
+- java
+- spring
+- test
+- dojo
+- software-craftsmanship
+- tdd
+- bdd
+versions:
+- label: FR
+  flag: fr
+  title: Coding dojo sur mesure
+  abstract: Organiser un coding dojo chez vous, sur mesure. Langages Java, JavaScript,
+    Ruby. Mise en pratique clean code, TDD, BDD...
+---

@@ -1,25 +1,27 @@
 {{/* layouts/_partials/session-card.html
-     Input: dict "versions" .versions "tags" .tags "Page" $
-     Displays one session with language fallback and tags
+     Input: a talk Page (with .Params.versions, .Params.tags, .RelPermalink)
+     Displays one talk with language fallback, tags, and a link to the full page.
 */}}
-{{ $session := . }}
 {{ $siteLang := site.Language.Lang | upper }}
 
 {{/* Find matching language version, fall back to first */}}
-{{ $version := index $session.versions 0 }}
-{{ range $session.versions }}
+{{ $versions := .Params.versions }}
+{{ $version := index $versions 0 }}
+{{ range $versions }}
   {{ if eq .label $siteLang }}{{ $version = . }}{{ end }}
 {{ end }}
 
 <div class="card mb-4">
   <div class="flex items-start gap-3">
     <div class="flex-1">
-      <h3 class="font-bold text-lg leading-tight">{{ $version.title }}</h3>
+      <a href="{{ .RelPermalink }}" class="font-bold text-lg leading-tight hover:text-terracotta transition-colors">
+        {{ $version.title }}
+      </a>
       <div class="flex gap-1 mt-2 flex-wrap">
-        {{ range $session.versions }}
+        {{ range $versions }}
           <span class="badge">🏳️ {{ .label }}</span>
         {{ end }}
-        {{ range $session.tags }}
+        {{ range .Params.tags }}
           <a href="{{ printf "/talks/%s/" . | relURL }}" class="badge hover:bg-terracotta hover:text-white transition-colors">#{{ . }}</a>
         {{ end }}
       </div>

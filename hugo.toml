@@ -13,6 +13,8 @@ theme = 'brownbaglunch'
 [permalinks]
   [permalinks.page]
     speakers = '/speakers/:slugorcontentbasename/'
+  [permalinks.section]
+    speakers = '/speakers/:contentbasename/'
   [permalinks.term]
     tags = '/talks/:slug/'
 

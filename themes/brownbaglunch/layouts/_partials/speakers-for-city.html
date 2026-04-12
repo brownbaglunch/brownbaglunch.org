@@ -1,6 +1,6 @@
 {{/* layouts/_partials/speakers-for-city.html
-     Input: dict "country" "fr" "city" "paris" "pages" (site.RegularPages)
-     Returns: slice of speaker Pages
+     Input: dict "country" "fr" "city" "paris" "pages" (slice of pages)
+     Returns: slice of speaker section Pages matching the city
 */}}
 {{ $country := .country }}
 {{ $city := .city }}
@@ -8,7 +8,8 @@
 {{ $result := slice }}
 
 {{ range .pages }}
-  {{ if eq .Section "speakers" }}
+  {{/* Only speaker section pages (have a name param) */}}
+  {{ if .Params.name }}
     {{ $speaker := . }}
     {{ $matched := false }}
     {{ range .Params.cities }}

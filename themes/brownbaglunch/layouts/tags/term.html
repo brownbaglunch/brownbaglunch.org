@@ -1,37 +1,41 @@
 {{ define "main" }}
 {{ $tag := .Data.Term }}
+{{ $siteLang := site.Language.Lang | upper }}
 
 <h1 class="text-3xl font-black mb-2">#{{ $tag }}</h1>
-<p class="text-warm-brown/60 mb-8">{{ len .Pages }} speaker(s) avec ce tag</p>
+<p class="text-warm-brown/60 mb-8">{{ len .Pages }} talk(s) avec ce tag</p>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-  {{ range sort .Pages "Params.name" }}
-    {{ $speaker := . }}
-    {{ $siteLang := site.Language.Lang | upper }}
-    {{ range .Params.sessions }}
-      {{ if in .tags $tag }}
-        {{ if .versions }}
-          {{ $version := index .versions 0 }}
-          {{ range .versions }}
-            {{ if eq .label $siteLang }}{{ $version = . }}{{ end }}
-          {{ end }}
-          <div class="card">
-            <h3 class="font-bold leading-snug">{{ $version.title }}</h3>
-            <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
-              {{ if $speaker.Params.picture }}
-                <img src="{{ $speaker.Params.picture }}" alt="{{ $speaker.Params.name }}" class="w-6 h-6 rounded-full object-cover">
-              {{ end }}
-              <a href="{{ $speaker.RelPermalink }}" class="hover:text-terracotta">{{ $speaker.Params.name }}</a>
-            </div>
-            {{ if $version.abstract }}
-              <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
-                {{ $version.abstract | markdownify | plainify | truncate 150 }}
-              </p>
-            {{ end }}
-          </div>
-        {{ end }}
-      {{ end }}
+  {{ range sort .Pages "Params.versions.0.title" }}
+    {{ $talkPage := . }}
+    {{ $speakerPage := .Parent }}
+
+    {{/* Find best language version */}}
+    {{ $versions := .Params.versions }}
+    {{ $version := index $versions 0 }}
+    {{ range $versions }}
+      {{ if eq .label $siteLang }}{{ $version = . }}{{ end }}
     {{ end }}
+
+    <div class="card">
+      <a href="{{ $talkPage.RelPermalink }}" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        {{ $version.title }}
+      </a>
+      {{ if $speakerPage }}
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          {{ $coverSrc := partial "cover-url.html" $speakerPage }}
+          {{ if $coverSrc }}
+            <img src="{{ $coverSrc }}" alt="{{ $speakerPage.Params.name }}" class="w-6 h-6 rounded-full object-cover">
+          {{ end }}
+          <a href="{{ $speakerPage.RelPermalink }}" class="hover:text-terracotta">{{ $speakerPage.Params.name }}</a>
+        </div>
+      {{ end }}
+      {{ if $version.abstract }}
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          {{ $version.abstract | markdownify | plainify | truncate 150 }}
+        </p>
+      {{ end }}
+    </div>
   {{ end }}
 </div>
 {{ end }}

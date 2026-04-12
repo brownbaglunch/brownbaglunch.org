@@ -1,0 +1,23 @@
+---
+layout: talk
+url: /speakers/jordane-grenat/talks/oubliez-les-migraines-faites-de-lasynchrone-synchrone/
+tags:
+- javascript
+- asynchrone
+- callback
+versions:
+- label: FR
+  flag: fr
+  title: Oubliez les migraines, faites de l'asynchrone... synchrone !
+  abstract: 'Tout développeur JavaScript – même celui qui n''ose pas se l''avouer
+    – a subi un jour le callback hell à cause de l''asynchrone. Aujourd''hui, de nouveaux
+    outils du langage nous permettent de gérer bien plus élégamment nos appels asynchrones,
+    à tel point qu''on en vient à faire de l''asynchrone... synchrone !
+
+    Je vous propose de découvrir cela au travers d''un live coding en partant de la
+    code base cauchemardesque héritée du stagiaire débutant le JavaScript ; si cela
+    ne vous évoque rien, vous faites parti d''une minorité miraculée ! Nous utiliserons
+    les promesses, les générateurs, les coroutines et les fonctions asynchrones pour
+    l''améliorer progressivement, en notant au passage les pièges auxquels il ne faut
+    pas succomber...'
+---

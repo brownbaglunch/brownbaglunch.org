@@ -1,0 +1,19 @@
+---
+layout: talk
+url: /speakers/baptiste-lecocq/talks/le-scrum-est-une-fenetre-ou-bien-un-mur/
+tags:
+- scrum
+- culture
+- agile
+- rex
+versions:
+- label: FR
+  flag: fr
+  title: Le Scrum est une fenêtre (ou bien un mur)
+  abstract: Après de longs mois d'application de "Scrum by the book" dans une feature
+    team de 5 personnes, tout est très bien maîtrisé. Un peu trop ? Le cadre du Scrum
+    s'est dressé comme un mur devant nous. Quelques semaines plus tard, nous avions
+    assisté à une évolution des mentalités et des rituels. Nous sommes devenus une
+    équipe plus Agile qu'hier, et en constante évolution. Vous voulez aussi utiliser
+    Scrum comme une fenêtre vers l'Agilité ?
+---

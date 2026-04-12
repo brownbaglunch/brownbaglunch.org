@@ -1,9 +1,10 @@
 {{ define "main" }}
+{{ $speakerPages := where (where (where site.Pages "Kind" "section") "Section" "speakers") "Params.name" "ne" nil }}
 {{ if .Params.country }}
   {{/* City-level page (villes/fr/paris/_index.md) */}}
   {{ $country := .Params.country }}
   {{ $city := .Params.city }}
-  {{ $speakers := partial "speakers-for-city.html" (dict "country" $country "city" $city "pages" site.RegularPages) }}
+  {{ $speakers := partial "speakers-for-city.html" (dict "country" $country "city" $city "pages" $speakerPages) }}
 
   {{ $cityTitle := .Title }}
   <div class="flex items-center gap-4 mb-8">
@@ -35,7 +36,7 @@
       {{ $cityPage := . }}
       {{ $country := .Params.country }}
       {{ $city := .Params.city }}
-      {{ $speakers := partial "speakers-for-city.html" (dict "country" $country "city" $city "pages" site.RegularPages) }}
+      {{ $speakers := partial "speakers-for-city.html" (dict "country" $country "city" $city "pages" $speakerPages) }}
       <a href="{{ .RelPermalink }}"
          class="card text-center hover:border-terracotta transition-colors group">
         {{ with .Params.image }}

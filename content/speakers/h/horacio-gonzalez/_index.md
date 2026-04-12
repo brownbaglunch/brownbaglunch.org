@@ -1,0 +1,25 @@
+---
+name: Horacio Gonzalez
+since: '2013-11-29'
+city: fr/la-pointe-de-la-bretagne
+cities:
+- fr/brest
+tags:
+- web
+- java
+- groovy
+- javascript
+- angularjs
+- dart
+contacts:
+  x: lostinbrittany
+  mail: horacio.gonzalez@gmail.com
+websites:
+- name: Web
+  url: http://lostinbrittany.org/blog/
+- name: LinkedIn
+  url: http://fr.linkedin.com/in/horaciogonzalez/
+layout: speaker
+---
+
+Spaniard lost in Brittany, unconformist coder, Java craftsman, dreamer and all-around geek. Co-Founder of the FinistJUG and GDG Finistère

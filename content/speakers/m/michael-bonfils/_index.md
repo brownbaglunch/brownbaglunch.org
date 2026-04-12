@@ -1,0 +1,33 @@
+---
+name: Michael BONFILS
+since: '2018-11-29'
+city: fr/bordeaux
+cities:
+- fr/bordeaux
+tags:
+- cloud
+- s3
+- raspberry
+- private
+- hadoop
+- java
+- openstack
+- swift
+- python
+cover: http://gravatar.com/avatar/3f4a46418b5ab851bd38301ecc6c8110?s=200
+contacts:
+  x: tyrion94
+  mail: bonfils.michael@gmail.com
+websites:
+- name: Web
+  url: https://www.openio.io
+- name: Blog
+  url: https://blog.openio.io
+- name: LinkedIn
+  url: https://www.linkedin.com/in/bonfilsmichael/
+- name: GitHub
+  url: http://github.com/murlock/
+layout: speaker
+---
+
+Developpeur Backend, de l' embarqué au stockage object gros volume

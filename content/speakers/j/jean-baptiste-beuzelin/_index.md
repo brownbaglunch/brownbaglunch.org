@@ -1,0 +1,24 @@
+---
+name: Jean-Baptiste Beuzelin
+since: '2016-11-20'
+city: fr/paris
+cities:
+- fr/paris
+- fr/nantes
+tags:
+- saas
+- si
+- tooling
+cover: http://www.lucca.fr/img/equipe/jbeuzelin.png
+contacts:
+  x: JB_Beuzelin
+  mail: jbbeuzelin@gmail.com
+websites:
+- name: Web
+  url: https://www.lucca.fr/
+- name: GitHub
+  url: https://github.com/jbbeuzelin
+layout: speaker
+---
+
+Ingénieur R&D chez Lucca, je m'occupe de développer une solution interne de gestion de parc client et de facturation.

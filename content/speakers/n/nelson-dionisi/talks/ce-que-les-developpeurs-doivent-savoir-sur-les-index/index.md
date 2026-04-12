@@ -1,0 +1,30 @@
+---
+layout: talk
+url: /speakers/nelson-dionisi/talks/ce-que-les-developpeurs-doivent-savoir-sur-les-index/
+tags:
+- database
+- postgresql
+- performance
+versions:
+- label: FR
+  flag: fr
+  title: Ce que les développeurs doivent savoir sur les index
+  abstract: Les développeurs sont très souvent amenés à écrire des requêtes SQL pour
+    communiquer avec des bases de données relationnelles. Pour les cas simples, connaître
+    la syntaxe et le principe du SQL est amplement suffisant. Par contre, quand la
+    volumétrie augmente et que les performances sont importantes, la question des
+    index se pose rapidement. Bien souvent, on demande aux DBA de nous aider à indexer
+    correctement nos tables car l'on considère que créer les index et comprendre leur
+    fonctionnement est un travail de DBA. C'est faux ! Les développeurs connaissent
+    le métiers des applications sur lesquelles ils travaillent, et ce sont eux les
+    mieux placés pour comprendre quelles données doivent être indexées et comment.
+    Ce talk présente les principes de base des index, leur fonctionnement, et comment
+    les utiliser de manière efficace en fonction des cas d'utilisation. Il n'a pas
+    pour but de rentrer dans un niveau de détail extrêmement pointu sur les mécanismes
+    internes des SGBD, puisqu'il existe des DBA pour ça ! Par contre, il donne un
+    tour d'horizon sur les notions importantes à avoir en tête en tant que développeur
+    pour écrire des requêtes performantes et scalables. En plus de la théorie, le
+    but est de montrer des exemples concrets d'utilisation. Pour ces exemples, nous
+    utiliserons PostgreSQL, mais la grande majorité des concepts s'applique à la plupart
+    des SGBD relationnels.
+---
