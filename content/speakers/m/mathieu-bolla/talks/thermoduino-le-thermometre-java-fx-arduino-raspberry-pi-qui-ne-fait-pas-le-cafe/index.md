@@ -4,7 +4,6 @@ url: /speakers/mathieu-bolla/talks/thermoduino-le-thermometre-java-fx-arduino-ra
 tags:
 - java
 - aws
-- amazon
 - scalability
 - domotique
 - embarque

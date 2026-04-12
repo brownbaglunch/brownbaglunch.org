@@ -106,6 +106,8 @@ TAG_MAP: dict[str, str] = {
     "recrutement":              "recruiting",
     "tests-unitaires":          "unit-test",
 
+    "amazon":                   "aws",
+
     # Merges sémantiques — pass 1
     "cloud-computing":          "cloud",
     "ddd":                      "domain-driven-design",

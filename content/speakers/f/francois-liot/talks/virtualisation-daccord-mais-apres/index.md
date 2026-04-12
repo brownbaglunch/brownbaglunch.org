@@ -3,10 +3,9 @@ layout: talk
 url: /speakers/francois-liot/talks/virtualisation-daccord-mais-apres/
 tags:
 - agile
-- amazon
+- aws
 - architecture
 - automation
-- aws
 - azure
 - cloud
 - continuous-delivery

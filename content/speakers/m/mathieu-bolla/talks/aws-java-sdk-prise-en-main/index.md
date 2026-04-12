@@ -4,7 +4,6 @@ url: /speakers/mathieu-bolla/talks/aws-java-sdk-prise-en-main/
 tags:
 - java
 - aws
-- amazon
 - scalability
 - domotique
 - embarque
