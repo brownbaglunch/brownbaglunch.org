@@ -11,7 +11,7 @@ tags:
   - "tdd"
   - "scrum"
   - "extreme-programming"
-picture: "https://secure.gravatar.com/avatar/582353edcee4fb4edbe224310bebe4b8?size=200"
+cover: "https://secure.gravatar.com/avatar/582353edcee4fb4edbe224310bebe4b8?size=200"
 contacts:
   x: "nverinaud"
   mail: "nicolas.verinaud@ryfacto.fr"

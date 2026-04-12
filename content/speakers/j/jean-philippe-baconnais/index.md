@@ -17,7 +17,7 @@ tags:
   - "ia"
   - "renovate"
   - "r2devops"
-picture: "https://s.gravatar.com/avatar/5d2655822def2e889a17ff94e95309e3"
+cover: "https://s.gravatar.com/avatar/5d2655822def2e889a17ff94e95309e3"
 contacts:
   mail: "jeanphilippe.baconnais@gmail.com"
 websites:

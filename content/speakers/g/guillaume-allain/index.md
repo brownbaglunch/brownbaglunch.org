@@ -18,7 +18,7 @@ tags:
   - "startup"
   - "startupweekend"
   - "get-things-done-in-team"
-picture: "https://secure.gravatar.com/avatar/4bd61d872d5e2596c631a4f1d3041451?size=256"
+cover: "https://secure.gravatar.com/avatar/4bd61d872d5e2596c631a4f1d3041451?size=256"
 contacts:
   x: "gallain"
   mail: "guillaume@llain.fr"

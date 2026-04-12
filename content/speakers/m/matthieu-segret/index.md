@@ -10,7 +10,7 @@ tags:
   - "entrepreneuriat"
   - "recrutement"
   - "formation"
-picture: "http://www.gravatar.com/avatar/1416faf6feeeff88c0d22164d6c9fb5c.jpg?s=250"
+cover: "http://www.gravatar.com/avatar/1416faf6feeeff88c0d22164d6c9fb5c.jpg?s=250"
 contacts:
   x: "MatthieuSegret"
   mail: "matthieu@humancoders.com"

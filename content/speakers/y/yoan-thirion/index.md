@@ -13,7 +13,7 @@ tags:
   - "continuous-learning"
   - "continuous-improvement"
   - "agilite"
-picture: "https://www.gravatar.com/avatar/9489b8d6f2dbdc3e7d26b8702143b86e?s=250"
+cover: "https://www.gravatar.com/avatar/9489b8d6f2dbdc3e7d26b8702143b86e?s=250"
 contacts:
   x: "yot88"
   mail: "yoan.thirion@gmail.com"

@@ -18,7 +18,7 @@ tags:
   - "communaute"
   - "meetup"
   - "retour-d-experience"
-picture: "https://secure.gravatar.com/avatar/ddbeaab3b87a434071ddc6bfb5af89a8?size=256"
+cover: "https://secure.gravatar.com/avatar/ddbeaab3b87a434071ddc6bfb5af89a8?size=256"
 contacts:
   x: "Delphine_Ray"
   mail: "delphine.raymond@gmail.com"

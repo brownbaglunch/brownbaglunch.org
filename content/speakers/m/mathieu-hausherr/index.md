@@ -9,7 +9,7 @@ tags:
   - "ios"
   - "android"
   - "tensorflow"
-picture: "http://www.gravatar.com/avatar/ddc294f25a19a5c979deabbac498e020.png?size=256"
+cover: "http://www.gravatar.com/avatar/ddc294f25a19a5c979deabbac498e020.png?size=256"
 contacts:
   x: "mhausherr"
   mail: "mhausherr@gmail.com"

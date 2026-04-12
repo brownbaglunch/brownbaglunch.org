@@ -21,7 +21,7 @@ tags:
   - "agilite"
   - "typologie"
   - "taxonomie"
-picture: "https://gravatar.com/userimage/29545108/d3a9e2ed3d93ef53aff440e053e0faed.jpeg"
+cover: "https://gravatar.com/userimage/29545108/d3a9e2ed3d93ef53aff440e053e0faed.jpeg"
 contacts:
   x: "XEngineer"
   mail: "contact@chrysocode.io"

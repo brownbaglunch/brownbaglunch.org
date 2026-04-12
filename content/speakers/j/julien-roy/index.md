@@ -10,7 +10,7 @@ tags:
   - "spring"
   - "spring-boot"
   - "productivite"
-picture: "http://www.gravatar.com/avatar/858275282cf240a0dd280a13fbd0f942?s=256"
+cover: "http://www.gravatar.com/avatar/858275282cf240a0dd280a13fbd0f942?s=256"
 contacts:
   x: "vanr0y"
   mail: "roy@ekino.com"

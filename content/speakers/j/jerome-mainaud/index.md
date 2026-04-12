@@ -7,7 +7,7 @@ cities:
 tags:
   - "cassandra"
   - "elasticsearch"
-picture: "https://fr.gravatar.com/avatar/4f9deaec42efccd26cb9af839b3afde2.jpg?size=200"
+cover: "https://fr.gravatar.com/avatar/4f9deaec42efccd26cb9af839b3afde2.jpg?size=200"
 contacts:
   x: "jxerome"
   mail: "jmainaud@zeenea.com"

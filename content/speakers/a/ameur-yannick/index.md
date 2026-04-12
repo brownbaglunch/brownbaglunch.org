@@ -12,7 +12,7 @@ tags:
   - "formation"
   - "lean-startup"
   - "kanban"
-picture: "http://m.c.lnkd.licdn.com/media/p/1/005/012/1d8/0d5df68.jpg"
+cover: "http://m.c.lnkd.licdn.com/media/p/1/005/012/1d8/0d5df68.jpg"
 contacts:
   x: "yannickAmeur"
   mail: "yannick.ameur@gmail.com"

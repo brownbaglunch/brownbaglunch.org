@@ -10,7 +10,7 @@ tags:
   - "carriere"
   - "javascript"
   - "usine-logicielle"
-picture: "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/4/005/046/246/1b274c9.jpg"
+cover: "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/4/005/046/246/1b274c9.jpg"
 contacts:
   x: "romaintaz"
   mail: "linsolas@gmail.com"

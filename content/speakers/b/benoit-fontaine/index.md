@@ -19,7 +19,7 @@ tags:
   - "open"
   - "source"
   - "guithub"
-picture: "https://fr.gravatar.com/avatar/71b290a594201074c708a7d023b31ed6?size=200"
+cover: "https://fr.gravatar.com/avatar/71b290a594201074c708a7d023b31ed6?size=200"
 contacts:
   x: "benotfontaine"
   mail: "benoit.fontaine@live.fr"

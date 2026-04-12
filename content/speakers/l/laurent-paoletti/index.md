@@ -8,7 +8,6 @@ tags:
   - "python"
   - "performance"
   - "web"
-picture: "/speakers/laurent-paoletti/laurent_paoletti.jpg"
 contacts:
   x: "providenz"
   mail: "lp@providenz.fr"

@@ -6,7 +6,7 @@ cities:
   - "fr/rouen"
 tags:
   - "docker"
-picture: "https://secure.gravatar.com/avatar/8f43dd546e83248e7763ad3b38b893b4?size=200"
+cover: "https://secure.gravatar.com/avatar/8f43dd546e83248e7763ad3b38b893b4?size=200"
 contacts:
   x: "pierreleresteux"
   mail: "pierre.leresteux@gmail.com"

@@ -11,7 +11,7 @@ tags:
   - "less"
   - "javascript"
   - "php"
-picture: "http://www.gravatar.com/avatar/ce82bc828376d978362c1e905b8ea32c?s=256"
+cover: "http://www.gravatar.com/avatar/ce82bc828376d978362c1e905b8ea32c?s=256"
 contacts:
   x: "iamtzi"
   mail: "hello@tzi.fr"

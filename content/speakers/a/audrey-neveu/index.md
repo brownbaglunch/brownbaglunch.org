@@ -10,7 +10,7 @@ tags:
   - "server-sent-event"
   - "streaming"
   - "api"
-picture: "https://en.gravatar.com/userimage/16120898/e33321cc6561b59d677018cb03813802.jpg"
+cover: "https://en.gravatar.com/userimage/16120898/e33321cc6561b59d677018cb03813802.jpg"
 contacts:
   x: "Audrey_Neveu"
   mail: "audrey.neveu@streamdata.io"

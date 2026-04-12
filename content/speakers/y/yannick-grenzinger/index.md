@@ -25,7 +25,7 @@ tags:
   - "flow"
   - "product-management"
   - "scrum"
-picture: "https://fr.gravatar.com/userimage/45029487/b60c363784b0fd99398c74086b10d8b7.png?size=200"
+cover: "https://fr.gravatar.com/userimage/45029487/b60c363784b0fd99398c74086b10d8b7.png?size=200"
 contacts:
   x: "ygrenzinger"
   mail: "yannick.grenzinger@gmail.com"

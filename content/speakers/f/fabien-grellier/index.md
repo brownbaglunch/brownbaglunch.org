@@ -10,7 +10,7 @@ tags:
   - "devops"
   - "transformationdigitale"
   - "management"
-picture: "https://media.licdn.com/dms/image/C4D03AQFYw_-F2gSwlg/profile-displayphoto-shrink_200_200/0?e=1560988800&v=beta&t=Doqc2flLGqxUlCWNzWEGpALQ7HGa2kBqTbiVu1Cqn2Q"
+cover: "https://media.licdn.com/dms/image/C4D03AQFYw_-F2gSwlg/profile-displayphoto-shrink_200_200/0?e=1560988800&v=beta&t=Doqc2flLGqxUlCWNzWEGpALQ7HGa2kBqTbiVu1Cqn2Q"
 contacts:
   x: "FabGrellier"
   mail: "fabien.grellier@gmail.com"

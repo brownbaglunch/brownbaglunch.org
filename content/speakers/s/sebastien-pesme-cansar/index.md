@@ -11,7 +11,6 @@ tags:
   - "iot"
   - "healthkit"
   - "google-fit"
-picture: "/speakers/sebastien-pesme-cansar/photo_spc.jpg"
 contacts:
   x: "iguane39"
   mail: "sebastien@pesme.net"

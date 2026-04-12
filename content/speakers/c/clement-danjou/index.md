@@ -11,7 +11,7 @@ tags:
   - "internationalisation"
   - "i18n"
   - "front-end"
-picture: "https://www.gravatar.com/avatar/7c78e70c64fe464a708c465cdbcc5432?s=200"
+cover: "https://www.gravatar.com/avatar/7c78e70c64fe464a708c465cdbcc5432?s=200"
 contacts:
   x: "cledanjou"
   mail: "clement@danjou.io"

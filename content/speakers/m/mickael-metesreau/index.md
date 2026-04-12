@@ -12,7 +12,7 @@ tags:
   - "code"
   - "dojo"
   - "cryptographie"
-picture: "https://a248.e.akamai.net/secure.meetupstatic.com/photos/member/c/0/8/c/highres_261349292.jpeg"
+cover: "https://a248.e.akamai.net/secure.meetupstatic.com/photos/member/c/0/8/c/highres_261349292.jpeg"
 contacts:
   x: "MiKaDo_O"
   mail: "mickael.metesreau@gmail.com"

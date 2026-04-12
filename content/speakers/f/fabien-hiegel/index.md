@@ -12,7 +12,7 @@ tags:
   - "atelier"
   - "intelligence-collective"
   - "veille"
-picture: "https://www.gravatar.com/avatar/41dcae3b47a5744a926bb22d17f6804a?s=200"
+cover: "https://www.gravatar.com/avatar/41dcae3b47a5744a926bb22d17f6804a?s=200"
 contacts:
   x: "fhiegel"
   mail: "fabien.hiegel@gmail.com"

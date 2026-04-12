@@ -15,7 +15,7 @@ tags:
   - "web"
   - "crawling"
   - "finger-printing"
-picture: "https://avatars3.githubusercontent.com/u/10332041?s=460&v=4"
+cover: "https://avatars3.githubusercontent.com/u/10332041?s=460&v=4"
 contacts:
   mail: "xavier.blanc@u-bordeaux.fr"
 websites:

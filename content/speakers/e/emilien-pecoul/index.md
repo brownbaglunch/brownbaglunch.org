@@ -15,7 +15,7 @@ tags:
   - "cqrs"
   - "es"
   - "ddd"
-picture: "http://www.gravatar.com/avatar/a3b567e54b0e3935c4b53cca2a835f1e.png?size=250"
+cover: "http://www.gravatar.com/avatar/a3b567e54b0e3935c4b53cca2a835f1e.png?size=250"
 contacts:
   x: "ouarzy"
   mail: "emilien@pecoul.fr"

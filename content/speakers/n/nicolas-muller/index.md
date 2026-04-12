@@ -14,7 +14,7 @@ tags:
   - "influx"
   - "time-series"
   - "analytics"
-picture: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/0fe/013/03d214d.jpg"
+cover: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/0fe/013/03d214d.jpg"
 contacts:
   x: "zepouet"
   mail: "n.muller@treeptik.fr"

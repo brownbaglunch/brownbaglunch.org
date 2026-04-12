@@ -9,7 +9,7 @@ tags:
   - "devops"
   - "lean"
   - "agilite"
-picture: "https://media-exp1.licdn.com/dms/image/C4D03AQE66hlp0YItFg/profile-displayphoto-shrink_800_800/0/1572017655686?e=1623888000&v=beta&t=oazW2XaSCVotoq1aHIKQsqR_9y3EX9T-yn1ArKJAkd0"
+cover: "https://media-exp1.licdn.com/dms/image/C4D03AQE66hlp0YItFg/profile-displayphoto-shrink_800_800/0/1572017655686?e=1623888000&v=beta&t=oazW2XaSCVotoq1aHIKQsqR_9y3EX9T-yn1ArKJAkd0"
 contacts:
   x: "GraveaudG"
   mail: "geoffrey.graveaud@zenika.com"

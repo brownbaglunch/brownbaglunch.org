@@ -15,7 +15,7 @@ tags:
   - "continous"
   - "deployment"
   - "integration"
-picture: "https://pbs.twimg.com/profile_images/1213079443205500928/MJw5Wxr7_400x400.jpg"
+cover: "https://pbs.twimg.com/profile_images/1213079443205500928/MJw5Wxr7_400x400.jpg"
 contacts:
   mail: "mathieulaude+bbl@gmail.com"
 websites:

@@ -10,7 +10,6 @@ tags:
   - "emacs"
   - "emacs-lisp"
   - "common-lisp"
-picture: "/speakers/dimitri-fontaine/photo_dim.jpg"
 contacts:
   x: "tapoueh"
   mail: "dim@tapoueh.org"

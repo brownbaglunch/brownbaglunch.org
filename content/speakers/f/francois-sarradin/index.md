@@ -8,7 +8,7 @@ tags:
   - "programmation-fonctionnelle"
   - "scala"
   - "java"
-picture: "https://fr.gravatar.com/userimage/14188452/90d16f0a978342383d8c5b392238a010.jpg?size=200"
+cover: "https://fr.gravatar.com/userimage/14188452/90d16f0a978342383d8c5b392238a010.jpg?size=200"
 contacts:
   x: "fsarradin"
   mail: "fsarradin@gmail.com"

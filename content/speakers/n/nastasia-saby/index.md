@@ -6,7 +6,7 @@ cities:
   - "fr/lyon"
 tags:
   - "software-craftsmanship"
-picture: "https://secure.gravatar.com/avatar/f1e09bf0b41e5559ff4623401378a1f8?size=200"
+cover: "https://secure.gravatar.com/avatar/f1e09bf0b41e5559ff4623401378a1f8?size=200"
 contacts:
   x: "saby_nastasia"
   mail: "nastasia.saby@gmail.com"

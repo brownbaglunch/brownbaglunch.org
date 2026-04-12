@@ -7,7 +7,7 @@ cities:
   - "fr/saint-etienne"
 tags:
   - "kafka"
-picture: "https://avatars1.githubusercontent.com/u/755587?s=460&v=4"
+cover: "https://avatars1.githubusercontent.com/u/755587?s=460&v=4"
 contacts:
   x: "gerald_quintana"
   mail: "gerald.quintana+bbl@gmail.com"

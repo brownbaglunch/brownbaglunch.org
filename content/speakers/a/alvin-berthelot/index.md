@@ -17,7 +17,7 @@ tags:
   - "ux"
   - "scrum"
   - "lego"
-picture: "http://alvin.berthelot.rocks/img/alvin_round_200.png"
+cover: "http://alvin.berthelot.rocks/img/alvin_round_200.png"
 contacts:
   x: "alvinberthelot"
   mail: "alvin.berthelot+bblunch@webyousoon.com"

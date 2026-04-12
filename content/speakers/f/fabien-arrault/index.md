@@ -7,7 +7,7 @@ cities:
 tags:
   - "spring"
   - "spring-boot"
-picture: "https://dl.dropboxusercontent.com/u/29509621/farrault.jpg"
+cover: "https://dl.dropboxusercontent.com/u/29509621/farrault.jpg"
 contacts:
   x: "farrault"
   mail: "farrault@ippon.fr"

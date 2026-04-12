@@ -14,7 +14,7 @@ tags:
   - "github"
   - "xwiki"
   - "web-application"
-picture: "https://gravatar.com/avatar/0b17060fd5b56172e81e4bfbbcb438e0?&s=128"
+cover: "https://gravatar.com/avatar/0b17060fd5b56172e81e4bfbbcb438e0?&s=128"
 contacts:
   x: "vmassol"
   mail: "vincent@massol.net"

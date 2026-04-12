@@ -28,7 +28,7 @@ tags:
   - "web"
   - "reverse-proxy"
   - "securite"
-picture: "https://nicolas.steinmetz.fr/public/ns_240x160.jpg"
+cover: "https://nicolas.steinmetz.fr/public/ns_240x160.jpg"
 contacts:
   x: "_CerenIT"
   mail: "contact@cerenit.fr"

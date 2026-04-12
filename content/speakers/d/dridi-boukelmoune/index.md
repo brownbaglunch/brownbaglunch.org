@@ -9,7 +9,7 @@ tags:
   - "cache"
   - "http"
   - "performance"
-picture: "https://avatars1.githubusercontent.com/u/891744"
+cover: "https://avatars1.githubusercontent.com/u/891744"
 contacts:
   x: "dboukelmoune"
   mail: "dridi.boukelmoune@gmail.com"

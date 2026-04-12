@@ -193,9 +193,10 @@
   <h2 class="text-xl font-bold mb-4">Derniers arrivés</h2>
   <div class="space-y-3">
     {{ range $latest }}
+      {{ $latestCover := partial "cover-url.html" . }}
       <div class="flex items-center gap-3">
-        {{ if .Params.picture }}
-          <img src="{{ .Params.picture }}" alt="{{ .Params.name }}"
+        {{ if $latestCover }}
+          <img src="{{ $latestCover }}" alt="{{ .Params.name }}"
                class="w-10 h-10 rounded-full object-cover border-2 border-warm-border shrink-0">
         {{ end }}
         <div class="flex-1">

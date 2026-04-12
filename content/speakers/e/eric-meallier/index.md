@@ -22,7 +22,7 @@ tags:
   - "ansible"
   - "vagrant"
   - "terraform"
-picture: "https://static.meallier.fr/logo.svg"
+cover: "https://static.meallier.fr/logo.svg"
 contacts:
   x: "ericmeallier"
   mail: "eric@meallier.fr"

@@ -8,7 +8,7 @@ tags:
   - "agilite"
   - "lean-startup"
   - "scrum"
-picture: "https://s.gravatar.com/avatar/81430cde0877c0c602e7af07a2df1924?s=150"
+cover: "https://s.gravatar.com/avatar/81430cde0877c0c602e7af07a2df1924?s=150"
 contacts:
   x: "fferbach"
   mail: "florian.ferbach@gmail.com"

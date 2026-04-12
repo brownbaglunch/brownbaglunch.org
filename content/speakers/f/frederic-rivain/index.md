@@ -15,7 +15,7 @@ tags:
   - "privacy"
   - "threat"
   - "risk"
-picture: "https://secure.gravatar.com/avatar/d20f256700e1666bc32d5904c8225e13?size=200"
+cover: "https://secure.gravatar.com/avatar/d20f256700e1666bc32d5904c8225e13?size=200"
 contacts:
   x: "FredericRivain"
   mail: "frederic@dashlane.com"

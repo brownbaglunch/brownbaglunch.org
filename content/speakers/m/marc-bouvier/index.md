@@ -9,7 +9,7 @@ tags:
   - "outillage"
   - "onboarding"
   - "developpement"
-picture: "https://secure.gravatar.com/avatar/b51dd47b8f28ba2993f92b3366efa593?size=200"
+cover: "https://secure.gravatar.com/avatar/b51dd47b8f28ba2993f92b3366efa593?size=200"
 contacts:
   x: "marcbouvier_"
   mail: "m.bouvier.dev@gmail.com"

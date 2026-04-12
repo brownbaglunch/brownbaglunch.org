@@ -14,7 +14,7 @@ tags:
   - "serious-game"
   - "liberating-structures"
   - "safe"
-picture: "https://pbs.twimg.com/profile_images/1090679366374305793/60Izz_T2_400x400.jpg"
+cover: "https://pbs.twimg.com/profile_images/1090679366374305793/60Izz_T2_400x400.jpg"
 contacts:
   x: "clementbichel"
   mail: "clement.bichel@gmail.com"

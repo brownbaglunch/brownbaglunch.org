@@ -25,7 +25,7 @@ tags:
   - "build"
   - "gradle"
   - "pyramide"
-picture: "https://www.gravatar.com/avatar/2ecfc308b3401b0b9aa298f791044af1?s=512"
+cover: "https://www.gravatar.com/avatar/2ecfc308b3401b0b9aa298f791044af1?s=512"
 contacts:
   x: "xgouchet"
   mail: "brownbaglunch@xgouchet.fr"

@@ -15,7 +15,7 @@ tags:
   - "remote"
   - "cryptocurrency"
   - "cryptomonnaies"
-picture: "https://i.imgur.com/PjN9fEm.jpg"
+cover: "https://i.imgur.com/PjN9fEm.jpg"
 contacts:
   mail: "llys@palo-it.com"
 websites:

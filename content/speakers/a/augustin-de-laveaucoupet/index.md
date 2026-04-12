@@ -19,7 +19,7 @@ tags:
   - "vagrant"
   - "chef"
   - "capistrano"
-picture: "http://www.gravatar.com/avatar/1374695123503482a838cf9fc9701b21.png?s=200"
+cover: "http://www.gravatar.com/avatar/1374695123503482a838cf9fc9701b21.png?s=200"
 contacts:
   x: "augustinmerle"
   mail: "augustin@laveaucoupet.fr"

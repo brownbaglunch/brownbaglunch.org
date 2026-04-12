@@ -29,7 +29,6 @@ tags:
   - "management-visuel"
   - "personal-kanban"
   - "trello"
-picture: "/speakers/eric-siber/photo_esiber.jpg"
 contacts:
   mail: "eric@agiledev.tech"
 websites:

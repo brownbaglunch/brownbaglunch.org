@@ -63,7 +63,7 @@ tags:
   - "metrique"
   - "cryptographie"
   - "microservices"
-picture: "https://www.wareld.com/public/photo.jpg"
+cover: "https://www.wareld.com/public/photo.jpg"
 contacts:
   mail: "francois@liot.org"
 websites:

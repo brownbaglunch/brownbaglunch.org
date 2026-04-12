@@ -17,7 +17,7 @@ tags:
   - "java"
   - "javaslang"
   - "java-8"
-picture: "https://www.gravatar.com/avatar/477389c44ffb21d82a4e05dd46f8aaa2?s=200"
+cover: "https://www.gravatar.com/avatar/477389c44ffb21d82a4e05dd46f8aaa2?s=200"
 contacts:
   x: "davinkevin"
   mail: "davin.kevin+bbl@gmail.com"

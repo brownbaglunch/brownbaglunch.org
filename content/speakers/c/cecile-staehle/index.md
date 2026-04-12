@@ -12,7 +12,7 @@ tags:
   - "consentement"
   - "management"
   - "autogestion"
-picture: "https://strapi.troopers.agency/uploads/cecile_9ee7f62fb0.jpeg"
+cover: "https://strapi.troopers.agency/uploads/cecile_9ee7f62fb0.jpeg"
 contacts:
   mail: "cecile@troopers.email"
 websites:

@@ -14,7 +14,7 @@ tags:
   - "osm"
   - "opendata"
   - "documentation"
-picture: "http://webgeodatavore.net/theme/images/logos/logo_webgeodatavore.png"
+cover: "http://webgeodatavore.net/theme/images/logos/logo_webgeodatavore.png"
 contacts:
   x: "thomasg77"
   mail: "contact@webgeodatavore.com"

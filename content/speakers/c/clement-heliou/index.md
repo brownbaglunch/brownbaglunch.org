@@ -12,7 +12,7 @@ tags:
   - "processmanager"
   - "examplemapping"
   - "bdd"
-picture: "https://pbs.twimg.com/profile_images/865131946908635139/hONda4V3_400x400.jpg"
+cover: "https://pbs.twimg.com/profile_images/865131946908635139/hONda4V3_400x400.jpg"
 contacts:
   x: "c_heliou"
   mail: "cheliou@xebia.fr"

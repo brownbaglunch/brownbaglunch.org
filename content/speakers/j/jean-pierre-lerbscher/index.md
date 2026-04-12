@@ -8,7 +8,7 @@ tags:
   - "performance"
   - "jee"
   - "java"
-picture: "http://www.jperf.com/images/jpl.jpg"
+cover: "http://www.jperf.com/images/jpl.jpg"
 contacts:
   x: "jlerbsc"
   mail: "jean-pierre.lerbscher@jperf.com"

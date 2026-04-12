@@ -8,7 +8,7 @@ tags:
   - "java"
   - "guava"
   - "lombok"
-picture: "http://icauda.com/img/thierry3.jpg"
+cover: "http://icauda.com/img/thierry3.jpg"
 contacts:
   x: "thierryleriche"
   mail: "thierryler@gmail.com"

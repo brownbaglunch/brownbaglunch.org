@@ -8,7 +8,7 @@ cities:
 tags:
   - "redmine"
   - "ruby-on-rails"
-picture: "https://www.gravatar.com/avatar/4847e688fa553955d1c0b8e7764a7be9?s=200"
+cover: "https://www.gravatar.com/avatar/4847e688fa553955d1c0b8e7764a7be9?s=200"
 contacts:
   mail: "olivier@odevsystem.com"
 websites:

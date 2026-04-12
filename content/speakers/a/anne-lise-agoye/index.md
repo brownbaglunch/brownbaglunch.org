@@ -10,7 +10,7 @@ tags:
   - "intelligence-collective"
   - "serious-game"
   - "agilite"
-picture: "http://1.gravatar.com/avatar/ea9ebb2e0f991a8656aeabed7b341aa8"
+cover: "http://1.gravatar.com/avatar/ea9ebb2e0f991a8656aeabed7b341aa8"
 contacts:
   x: "alagoye"
   mail: "alagoye@gmail.com"

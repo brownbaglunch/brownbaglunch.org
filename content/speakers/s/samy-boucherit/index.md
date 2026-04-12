@@ -15,7 +15,7 @@ tags:
   - "remote"
   - "cryptocurrency"
   - "cryptomonnaies"
-picture: "https://i.imgur.com/rabw5jl.png"
+cover: "https://i.imgur.com/rabw5jl.png"
 contacts:
   mail: "sboucherit@palo-it.com"
 websites:

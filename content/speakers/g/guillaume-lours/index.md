@@ -9,7 +9,7 @@ tags:
   - "agile"
   - "java"
   - "personal-kanban"
-picture: "http://www.gravatar.com/avatar/cb17294de56e44d18f1ab0dc966101a7.png"
+cover: "http://www.gravatar.com/avatar/cb17294de56e44d18f1ab0dc966101a7.png"
 contacts:
   x: "glours"
   mail: "g.lours@gmail.com"

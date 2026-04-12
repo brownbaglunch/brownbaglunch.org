@@ -19,7 +19,7 @@ tags:
   - "devops"
   - "micronaut"
   - "quarkus"
-picture: "https://www.francois-delbrayelle.fr/images/fdelbrayelle.jpg"
+cover: "https://www.francois-delbrayelle.fr/images/fdelbrayelle.jpg"
 contacts:
   x: "fdelbrayelle"
   mail: "fdelbrayelle@ippon.fr"

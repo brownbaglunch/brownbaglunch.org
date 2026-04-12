@@ -11,7 +11,7 @@ tags:
   - "performance"
   - "sig"
   - "osm"
-picture: "http://www.gravatar.com/avatar/95a63eeb28d5e8237cfb8d6c75798ef1.png"
+cover: "http://www.gravatar.com/avatar/95a63eeb28d5e8237cfb8d6c75798ef1.png"
 contacts:
   x: "rodoq"
   mail: "rodolphe@quiedeville.org"

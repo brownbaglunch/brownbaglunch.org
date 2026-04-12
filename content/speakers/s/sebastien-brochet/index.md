@@ -8,7 +8,7 @@ tags:
   - "devops"
   - "azure"
   - "vsts"
-picture: "https://s.gravatar.com/avatar/9080bb346b547fd66c136e4f11d9cfaf?s=200"
+cover: "https://s.gravatar.com/avatar/9080bb346b547fd66c136e4f11d9cfaf?s=200"
 contacts:
   x: "sebbrochet"
   mail: "contact@sebbrochet.com"

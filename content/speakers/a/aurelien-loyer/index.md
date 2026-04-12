@@ -18,7 +18,7 @@ tags:
   - "node-js"
   - "nestjs"
   - "express"
-picture: "https://avatars0.githubusercontent.com/u/3717296?s=460"
+cover: "https://avatars0.githubusercontent.com/u/3717296?s=460"
 contacts:
   x: "AurelienLoyer"
   mail: "aurelien.loyer@zenika.com"

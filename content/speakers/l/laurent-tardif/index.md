@@ -13,7 +13,6 @@ tags:
   - "monitoring"
   - "kubernetes"
   - "industrialisation"
-picture: "/speakers/laurent-tardif/photo_LaurentTardif.jpg"
 contacts:
   x: "ouelcum"
   mail: "laurent.tardif@zenika.com"

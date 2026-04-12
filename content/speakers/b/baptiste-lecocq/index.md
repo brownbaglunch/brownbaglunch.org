@@ -10,7 +10,7 @@ tags:
   - "agile"
   - "rex"
   - "git"
-picture: "https://static.tiste.io/me.jpg"
+cover: "https://static.tiste.io/me.jpg"
 contacts:
   x: "tiste"
   mail: "baptiste.lecocq@gmail.com"

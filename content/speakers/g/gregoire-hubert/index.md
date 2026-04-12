@@ -11,7 +11,7 @@ tags:
   - "silex"
   - "pomm"
   - "sql"
-picture: "http://gravatar.com/avatar/f32f06ab7d033c171c5c0ea1e1c1c00e?s=200"
+cover: "http://gravatar.com/avatar/f32f06ab7d033c171c5c0ea1e1c1c00e?s=200"
 contacts:
   x: "chanmix51"
   mail: "gregoire.hubert@pragmafabrik.com"

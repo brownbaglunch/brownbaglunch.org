@@ -12,7 +12,7 @@ tags:
   - "java"
   - "postgresql"
   - "performance"
-picture: "https://avatars1.githubusercontent.com/u/12200878?s=460&v=4"
+cover: "https://avatars1.githubusercontent.com/u/12200878?s=460&v=4"
 contacts:
   mail: "ndionisi@mirakl.com"
 websites:

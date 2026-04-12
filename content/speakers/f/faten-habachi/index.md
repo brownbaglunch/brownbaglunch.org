@@ -11,7 +11,7 @@ tags:
   - "user-interface"
   - "personas"
   - "design-thinking"
-picture: "http://fatenhabachi.com/images/fatenhabachi.jpg"
+cover: "http://fatenhabachi.com/images/fatenhabachi.jpg"
 contacts:
   x: "fatenh"
   mail: "faten.habachi@gmail.com"

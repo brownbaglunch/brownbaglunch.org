@@ -11,7 +11,7 @@ tags:
   - "graphql"
   - "rest"
   - "grpc"
-picture: "https://avatars3.githubusercontent.com/u/726536?v=3&s=466"
+cover: "https://avatars3.githubusercontent.com/u/726536?v=3&s=466"
 contacts:
   x: "clunven"
   mail: "cedrick.lunven@gmail.com"

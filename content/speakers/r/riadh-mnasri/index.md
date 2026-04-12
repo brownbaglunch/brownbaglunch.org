@@ -14,7 +14,7 @@ tags:
   - "container"
   - "kafka"
   - "spring"
-picture: "https://en.gravatar.com/userimage/30308348/1d1bb814c3ac6720c07845a1c57cb2ca.jpg?size=200"
+cover: "https://en.gravatar.com/userimage/30308348/1d1bb814c3ac6720c07845a1c57cb2ca.jpg?size=200"
 contacts:
   x: "riadhmnasri"
   mail: "riadh.mnasri@gmail.com"

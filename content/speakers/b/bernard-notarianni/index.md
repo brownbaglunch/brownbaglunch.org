@@ -9,7 +9,6 @@ tags:
   - "startup"
   - "erlang"
   - "javascript"
-picture: "/speakers/bernard-notarianni/photo_bernard.jpg"
 contacts:
   x: "notarianni"
   mail: "bernard.notarianni@gmail.com"

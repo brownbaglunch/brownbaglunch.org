@@ -23,7 +23,7 @@ tags:
   - "methodo"
   - "rex"
   - "ecoute"
-picture: "http://antoinepeze.com/images/antoine-peze.png"
+cover: "http://antoinepeze.com/images/antoine-peze.png"
 contacts:
   x: "antoinepeze"
   mail: "antoine.peze+bbl@gmail.com"

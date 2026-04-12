@@ -10,7 +10,7 @@ tags:
   - "ruby"
   - "chef"
   - "tdd"
-picture: "http://www.gravatar.com/avatar/8bd808086fe0e2a647c96a96fd0b995e.png?s=512"
+cover: "http://www.gravatar.com/avatar/8bd808086fe0e2a647c96a96fd0b995e.png?s=512"
 contacts:
   x: "nledez"
   mail: "brownbaglunch-hes1u@ledez.net"

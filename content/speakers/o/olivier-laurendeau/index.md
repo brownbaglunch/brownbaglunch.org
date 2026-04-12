@@ -11,7 +11,7 @@ tags:
   - "rabbitmq"
   - "queue-messaging"
   - "workshop"
-picture: "https://fr.gravatar.com/userimage/38460289/d8e2f5d19f461b084de7079576bb3dfa?size=200"
+cover: "https://fr.gravatar.com/userimage/38460289/d8e2f5d19f461b084de7079576bb3dfa?size=200"
 contacts:
   mail: "o.laurendeau+bbl@gmail.com"
 websites:

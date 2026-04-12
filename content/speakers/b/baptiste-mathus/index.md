@@ -11,7 +11,7 @@ tags:
   - "git"
   - "maven"
   - "java"
-picture: "http://www.gravatar.com/avatar/5a9d8fda68538f0db77ebfc8a55db853.jpg?s=200"
+cover: "http://www.gravatar.com/avatar/5a9d8fda68538f0db77ebfc8a55db853.jpg?s=200"
 contacts:
   x: "bmathus"
   mail: "bmathus@gmail.com"

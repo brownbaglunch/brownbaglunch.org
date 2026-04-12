@@ -22,7 +22,7 @@ tags:
   - "git"
   - "coding-dojo"
   - "atelier"
-picture: "http://gravatar.com/avatar/a3378480b86e303c3fdb639a4bca6312?s=512"
+cover: "http://gravatar.com/avatar/a3378480b86e303c3fdb639a4bca6312?s=512"
 contacts:
   x: "hrambelo"
   mail: "bensmania@gmail.com"

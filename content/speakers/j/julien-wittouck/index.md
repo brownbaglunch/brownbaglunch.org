@@ -9,7 +9,7 @@ tags:
   - "docker"
   - "kubernetes"
   - "devops"
-picture: "https://secure.gravatar.com/avatar/98ffafe30da35001213aca8704533532?s=200"
+cover: "https://secure.gravatar.com/avatar/98ffafe30da35001213aca8704533532?s=200"
 contacts:
   x: "codekaio"
   mail: "julien@codeka.io"

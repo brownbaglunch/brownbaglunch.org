@@ -8,7 +8,7 @@ tags:
   - "agile"
   - "lean-startup"
   - "kanban"
-picture: "https://en.gravatar.com/userimage/49452226/05626824309fa84863021ac5224a86b3.jpg"
+cover: "https://en.gravatar.com/userimage/49452226/05626824309fa84863021ac5224a86b3.jpg"
 contacts:
   x: "benjaminmoitie"
   mail: "benjamin.moitie@gmail.com"

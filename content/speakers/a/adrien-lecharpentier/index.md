@@ -7,7 +7,7 @@ cities:
 tags:
   - "jenkins"
   - "pipeline"
-picture: "https://www.gravatar.com/avatar/8254814a3136a30724cd428841f8e155?s=200"
+cover: "https://www.gravatar.com/avatar/8254814a3136a30724cd428841f8e155?s=200"
 contacts:
   x: "alecharp"
   mail: "me+bbl@alecharp.fr"

@@ -6,7 +6,7 @@ cities:
   - "fr/paris"
 tags:
   - "cassandra"
-picture: "http://www.gravatar.com/avatar/ffa96040bb4211cad1c66f385d8cb77b.png"
+cover: "http://www.gravatar.com/avatar/ffa96040bb4211cad1c66f385d8cb77b.png"
 contacts:
   x: "doanduyhai"
   mail: "doanduyhai@gmail.com"

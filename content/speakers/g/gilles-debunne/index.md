@@ -14,7 +14,7 @@ tags:
   - "git"
   - "agile"
   - "lean-startup"
-picture: "https://cloudinary-a.akamaihd.net/hopwork/image/upload/t_bigprofile/etn9it6jsyy2cqaiwbll.jpg"
+cover: "https://cloudinary-a.akamaihd.net/hopwork/image/upload/t_bigprofile/etn9it6jsyy2cqaiwbll.jpg"
 contacts:
   x: "gdebunne"
   mail: "gilles.debunne@gmail.com"

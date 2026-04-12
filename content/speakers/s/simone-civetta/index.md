@@ -8,7 +8,7 @@ tags:
   - "ios"
   - "swift"
   - "mobile"
-picture: "https://s3.amazonaws.com/civetta-works/works/personal/profile.png"
+cover: "https://s3.amazonaws.com/civetta-works/works/personal/profile.png"
 contacts:
   x: "viteinfinite"
   mail: "scivetta+bbl@xebia.fr"

@@ -14,7 +14,7 @@ tags:
   - "tdd"
   - "clean-code"
   - "python"
-picture: "https://www.gravatar.com/avatar/b06b5d4777e2734feb91298062539ec8?s=300"
+cover: "https://www.gravatar.com/avatar/b06b5d4777e2734feb91298062539ec8?s=300"
 contacts:
   x: "amicel"
   mail: "ronan@pocketsensei.net"

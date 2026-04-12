@@ -6,7 +6,7 @@ cities:
   - "fr/bordeaux"
 tags:
   - "go"
-picture: "https://en.gravatar.com/userimage/24590165/88760e57f007fead91f17535e822da93.jpg?size=200"
+cover: "https://en.gravatar.com/userimage/24590165/88760e57f007fead91f17535e822da93.jpg?size=200"
 contacts:
   x: "seb_express"
   mail: "sebastien.descamps@gmail.com"

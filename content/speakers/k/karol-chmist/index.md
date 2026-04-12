@@ -15,7 +15,7 @@ tags:
   - "nix"
   - "monad"
   - "lenses"
-picture: "http://www.gravatar.com/avatar/757cdab5633c1935bb37b24b1fe2729f?s=250"
+cover: "http://www.gravatar.com/avatar/757cdab5633c1935bb37b24b1fe2729f?s=250"
 contacts:
   x: "karolchmist"
   mail: "karolchmist+bbl@gmail.com"

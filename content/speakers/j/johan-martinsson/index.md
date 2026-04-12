@@ -13,7 +13,7 @@ tags:
   - "refactoring"
   - "live-coding"
   - "agile"
-picture: "http://www.gravatar.com/avatar/3771a70b46d12cb049e7be561ae69116.png"
+cover: "http://www.gravatar.com/avatar/3771a70b46d12cb049e7be561ae69116.png"
 contacts:
   x: "johan_alps"
   mail: "martinsson.johan@gmail.com"

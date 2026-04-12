@@ -9,7 +9,7 @@ tags:
   - "saas"
   - "si"
   - "tooling"
-picture: "http://www.lucca.fr/img/equipe/jbeuzelin.png"
+cover: "http://www.lucca.fr/img/equipe/jbeuzelin.png"
 contacts:
   x: "JB_Beuzelin"
   mail: "jbbeuzelin@gmail.com"

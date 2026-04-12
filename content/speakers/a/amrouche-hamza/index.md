@@ -11,7 +11,7 @@ tags:
   - "kubernetes"
   - "docker"
   - "devops"
-picture: "https://les-tilleuls.coop/client/a46ea2d55c88fdb3d284dae09ff0d984.jpg"
+cover: "https://les-tilleuls.coop/client/a46ea2d55c88fdb3d284dae09ff0d984.jpg"
 contacts:
   x: "cDaed"
   mail: "hamza@les-tilleuls.coop"

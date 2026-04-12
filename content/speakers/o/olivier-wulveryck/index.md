@@ -8,7 +8,7 @@ tags:
   - "machine-learning"
   - "rnn"
   - "go"
-picture: "https://s3.amazonaws.com/askbob/users/photos/914/big/me_dublin.jpg"
+cover: "https://s3.amazonaws.com/askbob/users/photos/914/big/me_dublin.jpg"
 contacts:
   x: "owulveryck"
   mail: "olwu@octo.com"

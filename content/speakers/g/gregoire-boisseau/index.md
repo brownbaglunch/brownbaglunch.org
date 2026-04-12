@@ -14,7 +14,7 @@ tags:
   - "node-js"
   - "api"
   - "deploiement"
-picture: "https://gregoireboisseau.fr/gr%C3%A9goire-boisseau.jpg"
+cover: "https://gregoireboisseau.fr/gr%C3%A9goire-boisseau.jpg"
 contacts:
   mail: "contact@gregoireboisseau.fr"
 websites:

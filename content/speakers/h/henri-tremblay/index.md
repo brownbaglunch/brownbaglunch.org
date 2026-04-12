@@ -9,7 +9,7 @@ tags:
   - "performance"
   - "strategie"
   - "test"
-picture: "http://gravatar.com/avatar/02b547234fa2cf147e85aa1b460f2f03?s=256"
+cover: "http://gravatar.com/avatar/02b547234fa2cf147e85aa1b460f2f03?s=256"
 contacts:
   x: "henri_tremblay"
   mail: "henri@tremblay.pro"

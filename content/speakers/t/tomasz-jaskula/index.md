@@ -13,7 +13,7 @@ tags:
   - "es"
   - "architecture"
   - "net"
-picture: "http://1.gravatar.com/userimage/12224826/df20a86f93b56052b5a8cfb469ada07b?size=333"
+cover: "http://1.gravatar.com/userimage/12224826/df20a86f93b56052b5a8cfb469ada07b?size=333"
 contacts:
   x: "tjaskula"
   mail: "tjaskula@composeitsoft.com"

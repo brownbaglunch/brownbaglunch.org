@@ -15,7 +15,7 @@ tags:
   - "cryptocurrency"
   - "cryptomonnaies"
   - "remote"
-picture: "https://secure.gravatar.com/avatar/a75f71136c6a28d4e2342fd76141dbd5"
+cover: "https://secure.gravatar.com/avatar/a75f71136c6a28d4e2342fd76141dbd5"
 contacts:
   mail: "amicoulet@palo-it.com"
 websites:

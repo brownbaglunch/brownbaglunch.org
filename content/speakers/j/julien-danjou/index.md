@@ -10,7 +10,7 @@ tags:
   - "scale"
   - "git"
   - "github"
-picture: "https://julien.danjou.info/content/images/2018/03/jdanjou-logo-round-1.png"
+cover: "https://julien.danjou.info/content/images/2018/03/jdanjou-logo-round-1.png"
 contacts:
   x: "juldanjou"
   mail: "julien+bbl@danjou.info"

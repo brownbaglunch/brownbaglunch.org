@@ -9,7 +9,7 @@ tags:
   - "programmation-orientee-objet"
   - "tdd"
   - "test"
-picture: "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/2/000/011/381/16fa99c.jpg"
+cover: "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/2/000/011/381/16fa99c.jpg"
 contacts:
   x: "SergeStinckwich"
   mail: "Serge.Stinckwich@gmail.com"

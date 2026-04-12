@@ -21,7 +21,7 @@ tags:
   - "type-driven-development"
   - "eventsourcing"
   - "ddd"
-picture: "http://drcode.io/images/arnaud_hero_white.png"
+cover: "http://drcode.io/images/arnaud_hero_white.png"
 contacts:
   x: "dr_c0d3"
   mail: "arnaud@drcode.io"

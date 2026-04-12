@@ -30,7 +30,7 @@ tags:
   - "management-3-0"
   - "estimation"
   - "budget"
-picture: "https://const.fr/wp-content/uploads/2019/02/photo_cg_2019_square_p.jpg"
+cover: "https://const.fr/wp-content/uploads/2019/02/photo_cg_2019_square_p.jpg"
 contacts:
   x: "cog_g"
   mail: "constantin.guay@gmail.com"

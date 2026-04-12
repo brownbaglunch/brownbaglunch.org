@@ -16,7 +16,7 @@ tags:
   - "methodes"
   - "git"
   - "industrialisation"
-picture: "http://www.gravatar.com/avatar/f38eb007b831b5300be45271ef29520e"
+cover: "http://www.gravatar.com/avatar/f38eb007b831b5300be45271ef29520e"
 contacts:
   mail: "pro.rprignon@gmail.com"
 websites:

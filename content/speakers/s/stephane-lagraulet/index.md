@@ -7,7 +7,7 @@ cities:
 tags:
   - "solr"
   - "microservices"
-picture: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/251/2cc/3efae7d.jpg"
+cover: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/251/2cc/3efae7d.jpg"
 contacts:
   x: "stephlag"
   mail: "slagraulet@ippon.fr"

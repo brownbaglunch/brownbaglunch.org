@@ -7,7 +7,7 @@ cities:
 tags:
   - "python"
   - "test"
-picture: "http://www.gravatar.com/avatar/410e3353165c33043ab69be7fc366428.jpg?s=256"
+cover: "http://www.gravatar.com/avatar/410e3353165c33043ab69be7fc366428.jpg?s=256"
 contacts:
   x: "lothiraldan"
   mail: "lothiraldan@gmail.com"

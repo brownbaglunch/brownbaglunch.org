@@ -9,7 +9,7 @@ tags:
   - "typescript"
   - "es6"
   - "angular"
-picture: "https://avatars2.githubusercontent.com/u/576429?v=3&s=460"
+cover: "https://avatars2.githubusercontent.com/u/576429?v=3&s=460"
 contacts:
   x: "jbcazaux"
   mail: "jbcazaux@gmail.com"

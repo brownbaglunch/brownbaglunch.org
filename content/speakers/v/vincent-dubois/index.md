@@ -9,7 +9,7 @@ tags:
   - "domain-driven-design"
   - "conception"
   - "metier"
-picture: "https://fr.gravatar.com/userimage/7083739/e289e7a4313d70ab7d1a3ccaaf785551.png?size=200"
+cover: "https://fr.gravatar.com/userimage/7083739/e289e7a4313d70ab7d1a3ccaaf785551.png?size=200"
 contacts:
   x: "vdubois"
   mail: "v.dubois@primobox.com"

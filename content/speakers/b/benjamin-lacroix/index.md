@@ -11,7 +11,7 @@ tags:
   - "mobile"
   - "qualite"
   - "tests"
-picture: "https://www.gravatar.com/avatar/63d261113651caa0dc887445c61ea48a?s=200"
+cover: "https://www.gravatar.com/avatar/63d261113651caa0dc887445c61ea48a?s=200"
 contacts:
   x: "benjlacroix"
   mail: "blacroix@xebia.fr"

@@ -9,7 +9,7 @@ tags:
   - "lerna"
   - "yarn"
   - "monorepo"
-picture: "https://s.gravatar.com/avatar/ab3062b8853bdaa9bbe46fe09acb7ba7?s=80"
+cover: "https://s.gravatar.com/avatar/ab3062b8853bdaa9bbe46fe09acb7ba7?s=80"
 contacts:
   x: "paulsouche"
   mail: "paul.souche@gmail.com"

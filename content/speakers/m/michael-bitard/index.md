@@ -12,7 +12,7 @@ tags:
   - "chroot"
   - "ansible"
   - "intellij"
-picture: "https://en.gravatar.com/userimage/31032000/ea9b56ad98a9475b4d8e0f107b3dc51e.png?size=200"
+cover: "https://en.gravatar.com/userimage/31032000/ea9b56ad98a9475b4d8e0f107b3dc51e.png?size=200"
 contacts:
   x: "BitardMichael"
   mail: "bitard.michael@gmail.com"

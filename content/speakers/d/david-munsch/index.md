@@ -8,7 +8,7 @@ tags:
   - "agile"
   - "scrum"
   - "coaching"
-picture: "https://avatars.githubusercontent.com/u/218564081"
+cover: "https://avatars.githubusercontent.com/u/218564081"
 contacts:
   mail: "munschdavid@gmail.com"
 websites:

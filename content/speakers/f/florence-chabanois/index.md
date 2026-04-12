@@ -8,7 +8,7 @@ tags:
   - "produit"
   - "lean-startup"
   - "team"
-picture: ""
+cover: ""
 contacts:
   x: "fchabanois"
   mail: "flocha2000-bbl@yahoo.fr"

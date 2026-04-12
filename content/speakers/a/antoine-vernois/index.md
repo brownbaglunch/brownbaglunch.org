@@ -12,7 +12,7 @@ tags:
   - "test"
   - "clean-code"
   - "craftsmanship"
-picture: "https://blog.crafting-labs.fr/images/antoine-vernois.jpg"
+cover: "https://blog.crafting-labs.fr/images/antoine-vernois.jpg"
 contacts:
   x: "avernois"
   mail: "antoine@crafting-labs.fr"

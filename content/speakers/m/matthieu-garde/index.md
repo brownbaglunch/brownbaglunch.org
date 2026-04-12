@@ -11,7 +11,7 @@ tags:
   - "validation-board"
   - "lean-canvas"
   - "running-lean"
-picture: "http://m.c.lnkd.licdn.com/media/p/1/000/2cb/114/006d029.jpg"
+cover: "http://m.c.lnkd.licdn.com/media/p/1/000/2cb/114/006d029.jpg"
 contacts:
   x: "matthieugarde"
   mail: "matthieu.garde@gmail.com"

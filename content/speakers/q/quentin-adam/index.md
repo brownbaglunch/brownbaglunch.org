@@ -27,7 +27,7 @@ tags:
   - "hadoop"
   - "observability"
   - "monitoring"
-picture: "https://i.imgur.com/YdzlEj0.jpg"
+cover: "https://i.imgur.com/YdzlEj0.jpg"
 contacts:
   x: "waxzce"
   mail: "quentin.adam@clever-cloud.com"

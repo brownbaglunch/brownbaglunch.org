@@ -10,7 +10,7 @@ tags:
   - "continuous-delivery"
   - "devops"
   - "git"
-picture: "http://gravatar.com/avatar/7f73df517fdea1028d28f39980edf441.png"
+cover: "http://gravatar.com/avatar/7f73df517fdea1028d28f39980edf441.png"
 contacts:
   x: "dbaeli"
   mail: "dbaeli@gmail.com"

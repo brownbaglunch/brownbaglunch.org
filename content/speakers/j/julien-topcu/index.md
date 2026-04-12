@@ -11,7 +11,7 @@ tags:
   - "agilite"
   - "architecture"
   - "domain-driven-design"
-picture: "https://www.gravatar.com/avatar/610f3914d9b392b389657823719f09dd"
+cover: "https://www.gravatar.com/avatar/610f3914d9b392b389657823719f09dd"
 contacts:
   x: "JulienTopcu"
   mail: "julien.topcu@gmail.com"

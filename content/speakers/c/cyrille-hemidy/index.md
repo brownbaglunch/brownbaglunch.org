@@ -27,7 +27,7 @@ tags:
   - "protocol-buffers"
   - "protobuf"
   - "microservices"
-picture: "http://pbs.twimg.com/profile_images/899909859763773440/boLLAjZn_400x400.jpg"
+cover: "http://pbs.twimg.com/profile_images/899909859763773440/boLLAjZn_400x400.jpg"
 contacts:
   mail: "cyrille.hemidy+bbl@gmail.com"
 websites:

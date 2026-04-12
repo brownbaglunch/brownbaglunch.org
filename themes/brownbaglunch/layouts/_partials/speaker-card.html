@@ -1,8 +1,9 @@
 {{/* layouts/_partials/speaker-card.html — expects . to be a speaker Page */}}
 {{ $speaker := .Params }}
+{{ $coverSrc := partial "cover-url.html" . }}
 <div class="card flex gap-4 items-start">
-  {{ if $speaker.picture }}
-    <img src="{{ $speaker.picture }}" alt="{{ $speaker.name }}"
+  {{ if $coverSrc }}
+    <img src="{{ $coverSrc }}" alt="{{ $speaker.name }}"
          class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
   {{ end }}
   <div class="flex-1 min-w-0">

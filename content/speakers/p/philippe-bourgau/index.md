@@ -8,7 +8,7 @@ tags:
   - "bdd"
   - "ddd"
   - "refactoring"
-picture: "http://www.gravatar.com/avatar/686399bd630ecc9381e4dfec8720816e?s=250"
+cover: "http://www.gravatar.com/avatar/686399bd630ecc9381e4dfec8720816e?s=250"
 contacts:
   x: "pbourgau"
   mail: "philippe.bourgau@gmail.com"

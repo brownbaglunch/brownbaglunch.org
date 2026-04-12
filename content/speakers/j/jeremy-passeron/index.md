@@ -11,7 +11,7 @@ tags:
   - "agile"
   - "tdd"
   - "craftmanship"
-picture: "https://www.gravatar.com/avatar/60c25d9d63a09faa99ea6a5f34dc3356?size=200"
+cover: "https://www.gravatar.com/avatar/60c25d9d63a09faa99ea6a5f34dc3356?size=200"
 contacts:
   x: "jeremp"
   mail: "jpasseron@gmail.com"

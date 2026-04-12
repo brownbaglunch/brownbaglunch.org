@@ -15,7 +15,7 @@ tags:
   - "architecture"
   - "hexagonale"
   - "legacy"
-picture: "https://blog.ght1pc9kc.fr/img/bio-marthym.webp"
+cover: "https://blog.ght1pc9kc.fr/img/bio-marthym.webp"
 contacts:
   mail: "fcombes.bbl@ght1pc9kc.fr"
 websites:

@@ -6,7 +6,7 @@ cities:
   - "fr/nantes"
 tags:
   - "protobuf"
-picture: "http://secure.gravatar.com/userimage/111133732/8fe655abb8ebc0bcf90d9c431e7763ff.png"
+cover: "http://secure.gravatar.com/userimage/111133732/8fe655abb8ebc0bcf90d9c431e7763ff.png"
 contacts:
   mail: "bbelz@lucca.fr"
 websites:

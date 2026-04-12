@@ -10,7 +10,7 @@ tags:
   - "java"
   - "api-web"
   - "rest"
-picture: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAMMAAAAJDYxMmUwOGU4LTYwMjktNDMxYi1hOWVmLWQxODdkNDI3Njk1Yg.jpg"
+cover: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAMMAAAAJDYxMmUwOGU4LTYwMjktNDMxYi1hOWVmLWQxODdkNDI3Njk1Yg.jpg"
 contacts:
   x: "_dmartin_"
   mail: "dmartin.pro@gmail.com"

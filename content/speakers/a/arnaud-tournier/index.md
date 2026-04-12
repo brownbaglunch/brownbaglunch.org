@@ -11,7 +11,7 @@ tags:
   - "java"
   - "performance"
   - "client"
-picture: "http://www.gravatar.com/avatar/3d45b77cce96b722c721267b65f2fbb5.png"
+cover: "http://www.gravatar.com/avatar/3d45b77cce96b722c721267b65f2fbb5.png"
 contacts:
   x: "ltearno"
   mail: "arnaud.tournier@lteconsulting.fr"

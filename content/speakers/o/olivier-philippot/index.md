@@ -16,7 +16,7 @@ tags:
   - "android"
   - "html5"
   - "energie"
-picture: "https://avatars0.githubusercontent.com/u/28344074?v=3&s=460"
+cover: "https://avatars0.githubusercontent.com/u/28344074?v=3&s=460"
 contacts:
   x: "simplygreenit"
   mail: "ophilippot@greenspector.com"

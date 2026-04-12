@@ -10,7 +10,6 @@ tags:
   - "big-data"
   - "java"
   - "code"
-picture: "/speakers/guillaume-tardif/photo_guillaume.jpg"
 contacts:
   x: "gtardif"
   mail: "guillaume.tardif@gmail.com"

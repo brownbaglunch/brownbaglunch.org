@@ -12,7 +12,7 @@ tags:
   - "mobile"
   - "web"
   - "nosql"
-picture: "https://gravatar.com/avatar/f755e6e8914df5cbaa74d30dd7de1ae2.png?size=256"
+cover: "https://gravatar.com/avatar/f755e6e8914df5cbaa74d30dd7de1ae2.png?size=256"
 contacts:
   x: "loicknuchel"
   mail: "loicknuchel@gmail.com"

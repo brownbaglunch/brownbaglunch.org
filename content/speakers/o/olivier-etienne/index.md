@@ -12,7 +12,6 @@ tags:
   - "php"
   - "test"
   - "automatisation"
-picture: "/speakers/olivier-etienne/oetienne.png"
 contacts:
   x: "olivier_etienne"
   mail: "olivier.etienne@gmail.com"

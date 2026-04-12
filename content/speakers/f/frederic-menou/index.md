@@ -7,7 +7,7 @@ cities:
 tags:
   - "haskell"
   - "programmation-fonctionnelle"
-picture: "https://secure.gravatar.com/avatar/252ef00042fda3ab4cf67a36b956fa33?size=200"
+cover: "https://secure.gravatar.com/avatar/252ef00042fda3ab4cf67a36b956fa33?size=200"
 contacts:
   x: "ptit_fred"
   mail: "frederic.menou@gmail.com"

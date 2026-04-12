@@ -13,7 +13,7 @@ tags:
   - "postcss"
   - "es6"
   - "es2015"
-picture: "http://matparisot.fr/content/images/2014/12/matparisot_square_min.jpg"
+cover: "http://matparisot.fr/content/images/2014/12/matparisot_square_min.jpg"
 contacts:
   x: "matparisot"
   mail: "mathieu.parisot+bbl@gmail.com"

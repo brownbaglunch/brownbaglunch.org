@@ -22,7 +22,7 @@ tags:
   - "monitoring"
   - "prometheus"
   - "fullstack"
-picture: "https://goo.gl/jcJoWs"
+cover: "https://goo.gl/jcJoWs"
 contacts:
   x: "etiennecoutaud"
   mail: "e.coutaud@gmail.com"

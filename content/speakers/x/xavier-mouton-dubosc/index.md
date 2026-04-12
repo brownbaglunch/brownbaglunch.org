@@ -9,7 +9,7 @@ tags:
   - "securite"
   - "chiffrement"
   - "ethique"
-picture: "http://dascritch.com/images/NightShot.jpg"
+cover: "http://dascritch.com/images/NightShot.jpg"
 contacts:
   x: "dascritch"
   mail: "xaviermd@gmail.com"

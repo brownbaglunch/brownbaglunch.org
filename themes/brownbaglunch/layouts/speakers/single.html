@@ -1,11 +1,12 @@
 {{ define "main" }}
 {{ $speaker := .Params }}
+{{ $coverSrc := partial "cover-url.html" . }}
 
 <div class="max-w-3xl mx-auto">
   {{/* Header */}}
   <div class="flex items-start gap-6 mb-8">
-    {{ if $speaker.picture }}
-      <img src="{{ $speaker.picture }}" alt="{{ $speaker.name }}"
+    {{ if $coverSrc }}
+      <img src="{{ $coverSrc }}" alt="{{ $speaker.name }}"
            class="w-24 h-24 rounded-full object-cover border-4 border-warm-border shrink-0">
     {{ end }}
     <div class="flex-1">

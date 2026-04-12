@@ -11,7 +11,7 @@ tags:
   - "dev"
   - "java"
   - "production"
-picture: "http://thelastpickle.com/assets/img/staff/alex-dejanovski-tn.png"
+cover: "http://thelastpickle.com/assets/img/staff/alex-dejanovski-tn.png"
 contacts:
   x: "alexanderDeja"
   mail: "alex@thelastpickle.com"

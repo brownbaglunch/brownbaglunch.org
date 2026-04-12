@@ -9,7 +9,7 @@ tags:
   - "stockage"
   - "cloud"
   - "openstack"
-picture: "http://www.gravatar.com/avatar/131beae824c4866ed6ae995c7fc9bd58.png"
+cover: "http://www.gravatar.com/avatar/131beae824c4866ed6ae995c7fc9bd58.png"
 contacts:
   mail: "loic@dachary.org"
 websites:

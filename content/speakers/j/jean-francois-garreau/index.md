@@ -18,7 +18,7 @@ tags:
   - "js"
   - "conseils"
   - "tech-talks"
-picture: "http://www.gravatar.com/avatar/5713f6958d5be53307b0a5ae717ba767.png?size=256"
+cover: "http://www.gravatar.com/avatar/5713f6958d5be53307b0a5ae717ba767.png?size=256"
 contacts:
   x: "jefBinomed"
   mail: "jean.francois.garreau@gmail.com"

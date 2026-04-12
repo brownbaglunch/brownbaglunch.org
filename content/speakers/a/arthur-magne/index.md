@@ -10,7 +10,7 @@ tags:
   - "dette-technique"
   - "tests"
   - "communication"
-picture: "https://secure.gravatar.com/avatar/81bc7a35930c4ab2ae9400ff8a325206?size=400"
+cover: "https://secure.gravatar.com/avatar/81bc7a35930c4ab2ae9400ff8a325206?size=400"
 contacts:
   mail: "arthur.magne@promyze.com"
 websites:

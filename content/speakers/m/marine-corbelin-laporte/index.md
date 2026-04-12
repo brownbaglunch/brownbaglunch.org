@@ -10,7 +10,7 @@ tags:
   - "3d"
   - "unity"
   - "unreal"
-picture: "https://pbs.twimg.com/profile_images/851152816429203456/cNAdBzYr_400x400.jpg"
+cover: "https://pbs.twimg.com/profile_images/851152816429203456/cNAdBzYr_400x400.jpg"
 contacts:
   x: "nanakola"
   mail: "marine.teapotmc@gmail.com"

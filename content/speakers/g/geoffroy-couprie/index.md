@@ -9,7 +9,7 @@ tags:
   - "cryptographie"
   - "ssl"
   - "performance"
-picture: "http://1.gravatar.com/avatar/ed9901b9b80743c05aedf58b4f4926dd?s=256"
+cover: "http://1.gravatar.com/avatar/ed9901b9b80743c05aedf58b4f4926dd?s=256"
 contacts:
   x: "gcouprie"
   mail: "contact@geoffroycouprie.com"

@@ -10,7 +10,7 @@ tags:
   - "angular"
   - "web"
   - "front"
-picture: "https://gravatar.com/avatar/a9864e9b341567213872b78f3e7bc4c1"
+cover: "https://gravatar.com/avatar/a9864e9b341567213872b78f3e7bc4c1"
 contacts:
   x: "decampsrenan"
   mail: "renan@bearstudio.fr"

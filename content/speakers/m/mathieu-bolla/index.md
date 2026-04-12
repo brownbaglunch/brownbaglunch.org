@@ -11,7 +11,7 @@ tags:
   - "scalabilite"
   - "domotique"
   - "embarque"
-picture: "https://www.gravatar.com/avatar/4677084da23fd41e2d21561ec111a512?s=256"
+cover: "https://www.gravatar.com/avatar/4677084da23fd41e2d21561ec111a512?s=256"
 contacts:
   x: "mathieubolla"
 websites:

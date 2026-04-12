@@ -12,7 +12,7 @@ tags:
   - "fpga"
   - "philosophie"
   - "agilite"
-picture: "http://torlus.github.io/hat_pro.png"
+cover: "http://torlus.github.io/hat_pro.png"
 contacts:
   x: "Torlus"
   mail: "gregory.estrade@gmail.com"

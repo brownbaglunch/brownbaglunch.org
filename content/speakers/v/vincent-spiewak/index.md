@@ -9,7 +9,7 @@ tags:
   - "lean-startup"
   - "continuous-delivery"
   - "devops"
-picture: "https://www.gravatar.com/avatar/9a7fcd04ab29f4aa26d57fa7f208f908?s=250"
+cover: "https://www.gravatar.com/avatar/9a7fcd04ab29f4aa26d57fa7f208f908?s=250"
 contacts:
   x: "vspiewak"
   mail: "vspiewak+bbl@dailybrain.fr"

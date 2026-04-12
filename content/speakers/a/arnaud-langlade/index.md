@@ -11,7 +11,7 @@ tags:
   - "atelier"
   - "unit-test"
   - "poo"
-picture: "https://s.gravatar.com/avatar/3566a0bf63ad474de1e2d8c35c5d76a1?s=300"
+cover: "https://s.gravatar.com/avatar/3566a0bf63ad474de1e2d8c35c5d76a1?s=300"
 contacts:
   x: "arnolanglade"
   mail: "arnaud.langlade@gmail.com"

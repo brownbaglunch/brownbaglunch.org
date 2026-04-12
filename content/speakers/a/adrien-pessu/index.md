@@ -14,7 +14,7 @@ tags:
   - "sql-injection"
   - "securite"
   - "devsec"
-picture: "https://adrien.pessu.net/author/admin/avatar_hu68adafc281e32380a65db568a64c57fe_43076_250x250_fill_q90_lanczos_center.jpg"
+cover: "https://adrien.pessu.net/author/admin/avatar_hu68adafc281e32380a65db568a64c57fe_43076_250x250_fill_q90_lanczos_center.jpg"
 contacts:
   x: "adrienpessu"
   mail: "adrien@pessu.net"

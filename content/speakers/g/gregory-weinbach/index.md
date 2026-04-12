@@ -18,7 +18,7 @@ tags:
   - "lean"
   - "enterprise-architecture"
   - "architecture-d-entreprise"
-picture: "http://www.gravatar.com/avatar/ba2153e6f9d0b36cc822d59f6c7355a9?s=200"
+cover: "http://www.gravatar.com/avatar/ba2153e6f9d0b36cc822d59f6c7355a9?s=200"
 contacts:
   x: "gweinbach"
   mail: "gweinbach@ezoky.com"

@@ -22,7 +22,7 @@ tags:
   - "typescript"
   - "angular"
   - "api"
-picture: "https://avatars0.githubusercontent.com/u/9600228?u=5b0165bb1fecfd2f29b022229de06be07912b0e8&v=4"
+cover: "https://avatars0.githubusercontent.com/u/9600228?u=5b0165bb1fecfd2f29b022229de06be07912b0e8&v=4"
 contacts:
   x: "lauthieb"
   mail: "thiebault.laurent@gmail.com"

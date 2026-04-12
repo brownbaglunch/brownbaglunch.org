@@ -16,7 +16,7 @@ tags:
   - "xamarin"
   - "visual-studio-online"
   - "tfs"
-picture: ""
+cover: ""
 contacts:
   mail: "phenixdotnet@gmail.com"
 websites:

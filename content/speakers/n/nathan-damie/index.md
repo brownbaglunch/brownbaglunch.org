@@ -19,7 +19,7 @@ tags:
   - "arduino"
   - "hacking"
   - "securite"
-picture: "https://s.gravatar.com/avatar/09aec3477a937ad618eaeb77fd2eb337?s=200"
+cover: "https://s.gravatar.com/avatar/09aec3477a937ad618eaeb77fd2eb337?s=200"
 contacts:
   x: "@Nathan_damie"
   mail: "nathan.damie@zenika.com"

@@ -15,7 +15,7 @@ tags:
   - "typescript"
   - "angular"
   - "api"
-picture: "https://s.gravatar.com/avatar/21843b4b8796bb4d73cbe48368eb5575?s=256"
+cover: "https://s.gravatar.com/avatar/21843b4b8796bb4d73cbe48368eb5575?s=256"
 contacts:
   x: "cyril_lakech"
   mail: "cyril.lakech@gmail.com"

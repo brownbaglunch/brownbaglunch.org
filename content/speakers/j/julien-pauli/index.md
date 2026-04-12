@@ -16,7 +16,7 @@ tags:
   - "php"
   - "vernam"
   - "lfsr"
-picture: "https://avatars2.githubusercontent.com/u/72415?s=460&v=4"
+cover: "https://avatars2.githubusercontent.com/u/72415?s=460&v=4"
 contacts:
   x: "julienpauli"
   mail: "julien.pauli@gmail.com"

@@ -7,7 +7,7 @@ cities:
 tags:
   - "git"
   - "sourcetree"
-picture: "https://secure.gravatar.com/avatar/a896cbaf08bb15196c309e8055e0b814?size=200"
+cover: "https://secure.gravatar.com/avatar/a896cbaf08bb15196c309e8055e0b814?size=200"
 contacts:
   x: "Florian_Verger"
   mail: "fverger@lucca.fr"

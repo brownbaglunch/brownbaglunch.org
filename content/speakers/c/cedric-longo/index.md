@@ -6,7 +6,7 @@ cities:
   - "fr/montpellier"
 tags:
   - "java"
-picture: "https://lh6.googleusercontent.com/-uIJAnywy0hM/VOjcAR_EWSI/AAAAAAAAHGE/PkZUYbadokc/w820-h819-no/RD071.jpg"
+cover: "https://lh6.googleusercontent.com/-uIJAnywy0hM/VOjcAR_EWSI/AAAAAAAAHGE/PkZUYbadokc/w820-h819-no/RD071.jpg"
 contacts:
   x: "u2032"
   mail: "cedric.longo@gmail.com"

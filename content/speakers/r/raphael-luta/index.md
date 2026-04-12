@@ -10,7 +10,7 @@ tags:
   - "tuning"
   - "apache"
   - "mobile"
-picture: "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/1/000/06e/358/0cab12d.jpg"
+cover: "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/1/000/06e/358/0cab12d.jpg"
 contacts:
   x: "raphaelluta"
   mail: "raphael.luta@aptiwan.com"

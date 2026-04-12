@@ -13,7 +13,7 @@ tags:
   - "refactoring"
   - "dette-technique"
   - "pair-programming"
-picture: "https://fr.gravatar.com/userimage/37635203/825f66895424aa318429a239631cbb84.png?size=200"
+cover: "https://fr.gravatar.com/userimage/37635203/825f66895424aa318429a239631cbb84.png?size=200"
 contacts:
   x: "cpoissonnier"
   mail: "clement.poissonnier@gmail.com"

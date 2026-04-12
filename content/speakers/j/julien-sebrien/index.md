@@ -8,7 +8,7 @@ tags:
   - "algorithmes-genetiques"
   - "intelligence-artificielle"
   - "evolution"
-picture: "https://cloudinary-a.akamaihd.net/hopwork/image/upload/w_360,h_340,c_thumb,g_auto/nmsr9gkp89ch0dz7cyzt.jpg"
+cover: "https://cloudinary-a.akamaihd.net/hopwork/image/upload/w_360,h_340,c_thumb,g_auto/nmsr9gkp89ch0dz7cyzt.jpg"
 contacts:
   x: "jsebrien"
   mail: "julien.sebrien@genetic.io"

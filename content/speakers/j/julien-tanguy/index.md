@@ -13,7 +13,7 @@ tags:
   - "redux"
   - "programmation-fonctionnelle"
   - "elm"
-picture: "https://pbs.twimg.com/profile_images/711247904661499907/NyupMTjB_400x400.jpg"
+cover: "https://pbs.twimg.com/profile_images/711247904661499907/NyupMTjB_400x400.jpg"
 contacts:
   x: "jutanguy"
   mail: "julien.tanguy@jhome.fr"

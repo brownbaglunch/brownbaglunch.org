@@ -9,7 +9,7 @@ tags:
   - "scalability"
   - "graphql"
   - "happiness-at-work"
-picture: "https://avatars2.githubusercontent.com/u/158689?v=3&s=460"
+cover: "https://avatars2.githubusercontent.com/u/158689?v=3&s=460"
 contacts:
   x: "tsunammis"
   mail: "stanislas.chollet@gmail.com"

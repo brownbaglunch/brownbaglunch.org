@@ -16,7 +16,7 @@ tags:
   - "bdd"
   - "serious-game"
   - "fun"
-picture: "http://s3.amazonaws.com/askbob/users/photos/70/preview/carree.jpg"
+cover: "http://s3.amazonaws.com/askbob/users/photos/70/preview/carree.jpg"
 contacts:
   x: "jak78"
   mail: "jja@octo.com"

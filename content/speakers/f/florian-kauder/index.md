@@ -12,7 +12,7 @@ tags:
   - "patterns"
   - "coding-live"
   - "front-end"
-picture: "https://pbs.twimg.com/profile_images/1007642192293318658/vikrDvbZ_400x400.jpg"
+cover: "https://pbs.twimg.com/profile_images/1007642192293318658/vikrDvbZ_400x400.jpg"
 contacts:
   x: "aamulumi"
   mail: "florian@kbdev.io"

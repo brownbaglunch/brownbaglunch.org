@@ -12,7 +12,7 @@ tags:
   - "reactor"
   - "websocket"
   - "java-ee"
-picture: "https://avatars2.githubusercontent.com/u/25341695"
+cover: "https://avatars2.githubusercontent.com/u/25341695"
 contacts:
   x: "fbeaufume"
   mail: "fbeaufume@gmail.com"

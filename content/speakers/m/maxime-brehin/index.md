@@ -12,7 +12,7 @@ tags:
   - "automatisation"
   - "qualite"
   - "workflow"
-picture: "https://secure.gravatar.com/avatar/42ee5cd1395bf807e2aced719a331cb2"
+cover: "https://secure.gravatar.com/avatar/42ee5cd1395bf807e2aced719a331cb2"
 contacts:
   x: "mbrehin"
   mail: "maxime@delicious-insights.com"

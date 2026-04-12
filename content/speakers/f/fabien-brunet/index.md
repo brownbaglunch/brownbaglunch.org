@@ -9,7 +9,7 @@ tags:
   - "developpement"
   - "architecture"
   - "sustainable"
-picture: "https://avatars.githubusercontent.com/u/29751338?v=4"
+cover: "https://avatars.githubusercontent.com/u/29751338?v=4"
 contacts:
   mail: "dev@linktogo.fr"
 websites:

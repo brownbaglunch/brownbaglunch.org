@@ -13,7 +13,7 @@ tags:
   - "big-data"
   - "databases"
   - "warp-10"
-picture: "https://blog.senx.io/wp-content/uploads/2018/10/IMG_8993.jpg"
+cover: "https://blog.senx.io/wp-content/uploads/2018/10/IMG_8993.jpg"
 contacts:
   x: "xavmarin"
   mail: "marin.xavier+bbl@gmail.com"

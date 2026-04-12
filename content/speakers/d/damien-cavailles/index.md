@@ -11,7 +11,7 @@ tags:
   - "iot"
   - "maker"
   - "embarque"
-picture: "https://pbs.twimg.com/profile_images/597738159196098561/yrRIHSZT.jpg"
+cover: "https://pbs.twimg.com/profile_images/597738159196098561/yrRIHSZT.jpg"
 contacts:
   x: "thedamfr"
 websites:

@@ -1,0 +1,15 @@
+{{/*
+  Returns the cover image URL for a speaker page.
+  Priority: .Params.cover (frontmatter explicit value) > cover.* resource in bundle
+  @param . {page} The speaker Page
+  @returns {string} URL string, or empty string if no image available
+*/}}
+{{ $src := "" }}
+{{ if .Params.cover }}
+  {{ $src = .Params.cover }}
+{{ else }}
+  {{ with .Resources.GetMatch "cover.*" }}
+    {{ $src = .RelPermalink }}
+  {{ end }}
+{{ end }}
+{{ return $src }}

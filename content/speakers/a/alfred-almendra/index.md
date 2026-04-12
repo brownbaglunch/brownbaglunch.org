@@ -15,7 +15,7 @@ tags:
   - "lean-startup"
   - "visual-management"
   - "management-3-0"
-picture: "https://fr.gravatar.com/userimage/31482138/9a46acc84c01ac2a04e72849850fb7d3.jpg?size=250"
+cover: "https://fr.gravatar.com/userimage/31482138/9a46acc84c01ac2a04e72849850fb7d3.jpg?size=250"
 contacts:
   x: "AlfredAlmendra"
   mail: "alfred.almendra@gmail.com"

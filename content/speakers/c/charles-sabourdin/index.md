@@ -12,7 +12,7 @@ tags:
   - "java"
   - "jvm"
   - "securite"
-picture: "https://pbs.twimg.com/media/C9MsXMRWAAALBZr.jpg"
+cover: "https://pbs.twimg.com/media/C9MsXMRWAAALBZr.jpg"
 contacts:
   x: "kanedafromparis"
   mail: "kanedafromparis@gmail.com"

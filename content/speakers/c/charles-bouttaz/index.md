@@ -12,7 +12,7 @@ tags:
   - "refactoring"
   - "clean-code"
   - "git"
-picture: "https://www.gravatar.com/avatar/bd0f602050b2f95901199d3a3789eb56?size=200"
+cover: "https://www.gravatar.com/avatar/bd0f602050b2f95901199d3a3789eb56?size=200"
 contacts:
   x: "CharlesBouttaz"
   mail: "c.bouttaz+bbl@gmail.com"

@@ -7,7 +7,7 @@ cities:
 tags:
   - "emberjs"
   - "javascript"
-picture: "https://secure.gravatar.com/avatar/fb11d632ffe3f707da14aea540e4bd4f?s=250"
+cover: "https://secure.gravatar.com/avatar/fb11d632ffe3f707da14aea540e4bd4f?s=250"
 contacts:
   x: "tchak13"
   mail: "paul@chavard.net"

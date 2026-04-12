@@ -10,7 +10,7 @@ tags:
   - "grafana"
   - "supervision"
   - "linux"
-picture: "https://media.licdn.com/mpr/mpr/shrink_100_100/p/7/000/22e/134/21fe338.jpg"
+cover: "https://media.licdn.com/mpr/mpr/shrink_100_100/p/7/000/22e/134/21fe338.jpg"
 contacts:
   x: "xinity"
   mail: "rzarouali+bbl@gmail.com"

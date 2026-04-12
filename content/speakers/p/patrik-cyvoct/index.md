@@ -11,7 +11,7 @@ tags:
   - "containers"
   - "immutable"
   - "infrastructure"
-picture: "https://static.ptrk.io/patrik.jpg"
+cover: "https://static.ptrk.io/patrik.jpg"
 contacts:
   x: "PatrikCyvoct"
   mail: "patrik@ptrk.io"

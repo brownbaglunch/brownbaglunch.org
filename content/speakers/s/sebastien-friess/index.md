@@ -18,7 +18,7 @@ tags:
   - "http-2"
   - "https"
   - "push"
-picture: "https://en.gravatar.com/userimage/61906989/1de60a01c2a5061f2538aadc2eea8b71.jpg?size=200"
+cover: "https://en.gravatar.com/userimage/61906989/1de60a01c2a5061f2538aadc2eea8b71.jpg?size=200"
 contacts:
   x: "sebastienfriess"
   mail: "sebastienfr@gmail.com"

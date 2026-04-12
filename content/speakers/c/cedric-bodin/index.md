@@ -13,7 +13,7 @@ tags:
   - "serious-game"
   - "musique"
   - "marathon"
-picture: "http://cedricbodin.files.wordpress.com/2013/03/cedric-bodin.jpg"
+cover: "http://cedricbodin.files.wordpress.com/2013/03/cedric-bodin.jpg"
 contacts:
   x: "cedricbodin"
   mail: "contact@cedricbodin.net"

@@ -11,7 +11,7 @@ tags:
   - "bower"
   - "arduino"
   - "raspberry-pi"
-picture: "http://drangies.fr/assets/images/me.jpg"
+cover: "http://drangies.fr/assets/images/me.jpg"
 contacts:
   x: "xavier_seignard"
   mail: "xavier.seignard@gmail.com"

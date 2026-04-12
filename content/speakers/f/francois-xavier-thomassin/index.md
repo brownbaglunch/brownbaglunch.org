@@ -11,7 +11,7 @@ tags:
   - "tdd"
   - "bdd"
   - "mock"
-picture: "https://avatars2.githubusercontent.com/u/5735635?s=200"
+cover: "https://avatars2.githubusercontent.com/u/5735635?s=200"
 contacts:
   mail: "fx@lucca.fr"
 websites:

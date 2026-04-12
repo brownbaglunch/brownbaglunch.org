@@ -11,7 +11,7 @@ tags:
   - "javascript"
   - "play"
   - "git"
-picture: "http://www.gravatar.com/avatar/0f0edb7904c4eea5f1b60fba0bf88537?s=250"
+cover: "http://www.gravatar.com/avatar/0f0edb7904c4eea5f1b60fba0bf88537?s=250"
 contacts:
   x: "cedric_exbrayat"
   mail: "contact+bbl@ninja-squad.com"

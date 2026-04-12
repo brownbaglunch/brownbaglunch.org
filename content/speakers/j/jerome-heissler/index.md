@@ -5,7 +5,7 @@ city: "fr/tours"
 cities:
   - "fr/tours"
 tags: []
-picture: "https://gravatar.com/userimage/41602360/57ac8a31a8714082663a324faeff3d6a.jpeg"
+cover: "https://gravatar.com/userimage/41602360/57ac8a31a8714082663a324faeff3d6a.jpeg"
 contacts:
   x: "jeromeheissler"
 websites:

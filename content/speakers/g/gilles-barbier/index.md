@@ -12,7 +12,7 @@ tags:
   - "task"
   - "asynchronous"
   - "queue"
-picture: "https://avatars2.githubusercontent.com/u/134669"
+cover: "https://avatars2.githubusercontent.com/u/134669"
 contacts:
   x: "gillesbarbier"
   mail: "gilles@zenaton.com"

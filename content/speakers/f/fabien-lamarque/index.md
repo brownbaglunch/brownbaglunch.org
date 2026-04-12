@@ -22,7 +22,7 @@ tags:
   - "craftsmanship"
   - "javascript"
   - "livecoding"
-picture: "https://media-exp1.licdn.com/dms/image/C5603AQHMXDrCWoR9SA/profile-displayphoto-shrink_200_200/0/1578653950738?e=1668038400&v=beta&t=Zr5kVYzDZ2CP6wENkCgLjitqJA4DshTThXdjMy0xZ5A"
+cover: "https://media-exp1.licdn.com/dms/image/C5603AQHMXDrCWoR9SA/profile-displayphoto-shrink_200_200/0/1578653950738?e=1668038400&v=beta&t=Zr5kVYzDZ2CP6wENkCgLjitqJA4DshTThXdjMy0xZ5A"
 contacts:
   x: "Fabinout"
   mail: "fabien+bbl@lamarque.tech"

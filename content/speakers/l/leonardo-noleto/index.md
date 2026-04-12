@@ -12,7 +12,6 @@ tags:
   - "valorisation-donnees"
   - "metriques-business"
   - "nosql"
-picture: "/speakers/leonardo-noleto/leonardo-noleto-avatar.jpg"
 contacts:
   x: "leonardo_noleto"
 websites:

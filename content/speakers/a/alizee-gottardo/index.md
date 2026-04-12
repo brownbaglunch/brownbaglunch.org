@@ -10,7 +10,7 @@ tags:
   - "collaboration"
   - "platform-engineering"
   - "full-cycle"
-picture: "https://en.gravatar.com/userimage/73573562/d450ac63ef86c12c106c63042c02c3ce.png?size=200"
+cover: "https://en.gravatar.com/userimage/73573562/d450ac63ef86c12c106c63042c02c3ce.png?size=200"
 contacts:
   mail: "alizee.gottardo.pro@gmail.com"
 websites:

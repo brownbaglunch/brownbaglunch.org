@@ -10,7 +10,7 @@ tags:
   - "java"
   - "android"
   - "securite"
-picture: "http://www.prados.fr/_/rsrc/1351608832371/cv/MOI%20300x297.png?height=198&width=200"
+cover: "http://www.prados.fr/_/rsrc/1351608832371/cv/MOI%20300x297.png?height=198&width=200"
 contacts:
   x: "pprados"
   mail: "brownbaglunch@prados"

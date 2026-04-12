@@ -15,7 +15,7 @@ tags:
   - "recrutement"
   - "transparence"
   - "management"
-picture: "https://avatars1.githubusercontent.com/u/2751422?v=3&u=93aa7a0037a926090eb975aaf590840a069f6a44&s=140"
+cover: "https://avatars1.githubusercontent.com/u/2751422?v=3&u=93aa7a0037a926090eb975aaf590840a069f6a44&s=140"
 contacts:
   x: "fpot"
   mail: "fpot@lucca.fr"

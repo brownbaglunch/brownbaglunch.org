@@ -8,7 +8,7 @@ tags:
   - "linux"
   - "systeme"
   - "docker"
-picture: "https://s.gravatar.com/avatar/b10c22e79d3f4f4996d6352e3e6002d8?s=80"
+cover: "https://s.gravatar.com/avatar/b10c22e79d3f4f4996d6352e3e6002d8?s=80"
 contacts:
   x: "tonton1728"
   mail: "tonton1728@gmail.com"

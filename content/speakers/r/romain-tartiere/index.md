@@ -21,7 +21,7 @@ tags:
   - "pki"
   - "ssl"
   - "x-509"
-picture: "https://www.gravatar.com/avatar/3e8420016e2c1f4c6e7d8f526f96baeb?s=200"
+cover: "https://www.gravatar.com/avatar/3e8420016e2c1f4c6e7d8f526f96baeb?s=200"
 contacts:
   mail: "romain+bbl@blogreen.org"
 websites:

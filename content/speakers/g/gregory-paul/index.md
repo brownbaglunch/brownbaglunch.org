@@ -11,7 +11,7 @@ tags:
   - "tls"
   - "securite"
   - "bitcoin"
-picture: "https://secure.gravatar.com/avatar/faee0283f5c65152a680f4dc9b524b32?size=200"
+cover: "https://secure.gravatar.com/avatar/faee0283f5c65152a680f4dc9b524b32?size=200"
 contacts:
   x: "paulgreg"
   mail: "bbl@paulgreg.me"

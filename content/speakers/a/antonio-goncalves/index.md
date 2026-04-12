@@ -21,7 +21,7 @@ tags:
   - "circuit-breaker"
   - "registry"
   - "pros-and-cons"
-picture: "http://agoncal.files.wordpress.com/2013/05/antonio2013square2562.jpg"
+cover: "http://agoncal.files.wordpress.com/2013/05/antonio2013square2562.jpg"
 contacts:
   x: "agoncal"
   mail: "antonio.goncalves@gmail.com"

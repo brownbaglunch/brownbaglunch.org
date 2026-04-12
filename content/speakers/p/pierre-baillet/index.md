@@ -15,7 +15,7 @@ tags:
   - "deployment"
   - "devops"
   - "integration-continue"
-picture: "https://www.gravatar.com/userimage/7364231/abcb8f5931db676141afd368fb844cc2.jpg?size=250"
+cover: "https://www.gravatar.com/userimage/7364231/abcb8f5931db676141afd368fb844cc2.jpg?size=250"
 contacts:
   x: "octplane"
   mail: "pierre@baillet.name"

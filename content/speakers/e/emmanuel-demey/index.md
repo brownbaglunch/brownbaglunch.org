@@ -17,7 +17,7 @@ tags:
   - "serviceworker"
   - "gcp"
   - "firebase"
-picture: "https://pbs.twimg.com/profile_images/799175687097688064/Y2TWhwYL.jpg"
+cover: "https://pbs.twimg.com/profile_images/799175687097688064/Y2TWhwYL.jpg"
 contacts:
   x: "EmmanuelDemey"
   mail: "emmanuel.demey@zenika.com"

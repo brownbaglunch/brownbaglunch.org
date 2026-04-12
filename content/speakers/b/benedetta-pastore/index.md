@@ -20,7 +20,7 @@ tags:
   - "innovation"
   - "innovation-game"
   - "facilitation"
-picture: "https://media.licdn.com/dms/image/C5603AQE0oDZtxlVTag/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=YmisceRDGqr3A3c5j2D7cGvT4HKIvaaJKRs3Tsv6E_E"
+cover: "https://media.licdn.com/dms/image/C5603AQE0oDZtxlVTag/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=YmisceRDGqr3A3c5j2D7cGvT4HKIvaaJKRs3Tsv6E_E"
 contacts:
   x: "begepas"
   mail: "benedetta.pastore@gmail.com"

@@ -8,7 +8,7 @@ tags:
   - "agile"
   - "code"
   - "dojo"
-picture: "https://pbs.twimg.com/profile_images/480325709483634688/V_x_kwbK.png"
+cover: "https://pbs.twimg.com/profile_images/480325709483634688/V_x_kwbK.png"
 contacts:
   x: "ndeverge"
   mail: "ndeverge@gmail.com"

@@ -9,7 +9,7 @@ tags:
   - "groovy"
   - "build"
   - "automatisation"
-picture: "http://www.gravatar.com/avatar/ae929ea94c27f7836e3c1cac2e961b2b.pn?size=200g"
+cover: "http://www.gravatar.com/avatar/ae929ea94c27f7836e3c1cac2e961b2b.pn?size=200g"
 contacts:
   x: "youribm"
   mail: "youribm@gmail.com"

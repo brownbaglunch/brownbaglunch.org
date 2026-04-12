@@ -10,7 +10,7 @@ tags:
   - "embarque"
   - "php"
   - "symfony"
-picture: "https://nicolas.joseph.pro/avatar"
+cover: "https://nicolas.joseph.pro/avatar"
 contacts:
   x: "sanpi_"
   mail: "nicolas+bbl@joseph.pro"

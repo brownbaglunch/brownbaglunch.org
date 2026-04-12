@@ -16,7 +16,7 @@ tags:
   - "ux"
   - "design"
   - "ergonomie"
-picture: "https://www.bearstudio.fr/user/themes/bearstudio/dist/assets/app/img/rudy-baer-md.jpg"
+cover: "https://www.bearstudio.fr/user/themes/bearstudio/dist/assets/app/img/rudy-baer-md.jpg"
 contacts:
   x: "rudybaer"
   mail: "rudy@bearstudio.fr"

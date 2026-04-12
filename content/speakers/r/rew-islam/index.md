@@ -8,7 +8,7 @@ tags:
   - "passkeys"
   - "fidoalliance"
   - "webauthn"
-picture: "https://d38muu3h4xeqr1.cloudfront.net/website/static/FEM-WN-JOB1-1105/images/pictures/rew-islam@2x.png"
+cover: "https://d38muu3h4xeqr1.cloudfront.net/website/static/FEM-WN-JOB1-1105/images/pictures/rew-islam@2x.png"
 contacts:
   x: "rewislam"
   mail: "rew.islam@dashlane.com"

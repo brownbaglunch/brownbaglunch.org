@@ -13,7 +13,7 @@ tags:
   - "agile"
   - "dojo"
   - "pair-programming"
-picture: "https://hadrienmp.fr/images/Profil.webp"
+cover: "https://hadrienmp.fr/images/Profil.webp"
 contacts:
   x: "hadrienmp"
   mail: "pro@hadrienmp.fr"

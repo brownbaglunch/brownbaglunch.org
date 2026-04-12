@@ -10,7 +10,7 @@ tags:
   - "symfony2"
   - "e-commerce"
   - "git"
-picture: "http://gravatar.com/avatar/7305d40aa63e426c31decc0b4bd4225f?s=200"
+cover: "http://gravatar.com/avatar/7305d40aa63e426c31decc0b4bd4225f?s=200"
 contacts:
   x: "manuraynaud"
   mail: "manu@raynaud.io"

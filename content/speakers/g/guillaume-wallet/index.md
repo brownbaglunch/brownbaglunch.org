@@ -16,7 +16,7 @@ tags:
   - "tests-unitaires"
   - "tests-d-integration"
   - "tests-end-to-end"
-picture: "https://s.gravatar.com/avatar/af22c5952fd5e43d12016def954cf503?s=216"
+cover: "https://s.gravatar.com/avatar/af22c5952fd5e43d12016def954cf503?s=216"
 contacts:
   x: "GuillaumeWallet"
   mail: "wallet.guillaume+bblfr@gmail.com"

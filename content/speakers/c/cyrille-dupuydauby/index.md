@@ -22,7 +22,7 @@ tags:
   - "cleancode"
   - "iteratif"
   - "refactoring"
-picture: "http://gravatar.com/avatar/43022845c143b75a94c7c4b855975ee3&size=200"
+cover: "http://gravatar.com/avatar/43022845c143b75a94c7c4b855975ee3&size=200"
 contacts:
   x: "cyrdup"
   mail: "dupdob@gmail.com"

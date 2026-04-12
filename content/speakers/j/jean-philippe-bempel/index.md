@@ -20,7 +20,7 @@ tags:
   - "shenandoah"
   - "azul-c4"
   - "z-gc"
-picture: "https://pbs.twimg.com/profile_images/1019190216995811328/YARM51Fl_400x400.jpg"
+cover: "https://pbs.twimg.com/profile_images/1019190216995811328/YARM51Fl_400x400.jpg"
 contacts:
   x: "jpbempel"
   mail: "jp.bempel@criteo.com"

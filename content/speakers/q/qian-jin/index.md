@@ -14,7 +14,7 @@ tags:
   - "android"
   - "android-wear"
   - "wearable"
-picture: "https://en.gravatar.com/userimage/100014788/0d3ac047c5fbce195a5f079c2c69d8e5?size=200"
+cover: "https://en.gravatar.com/userimage/100014788/0d3ac047c5fbce195a5f079c2c69d8e5?size=200"
 contacts:
   x: "bonbonking"
   mail: "qjin@xebia.fr"

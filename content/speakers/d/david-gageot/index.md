@@ -10,7 +10,7 @@ tags:
   - "istio"
   - "devops"
   - "cloud"
-picture: "http://gravatar.com/avatar/f0887bf6175ba40dca795eb37883a8cf?s=200"
+cover: "http://gravatar.com/avatar/f0887bf6175ba40dca795eb37883a8cf?s=200"
 contacts:
   x: "dgageot"
   mail: "david@gageot.net"

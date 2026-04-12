@@ -10,7 +10,7 @@ tags:
   - "github"
   - "gpg"
   - "chiffrement"
-picture: "https://avatars3.githubusercontent.com/u/1846633"
+cover: "https://avatars3.githubusercontent.com/u/1846633"
 contacts:
   x: "mab_"
   mail: "brownbaglunch.fr@ma-b.com"

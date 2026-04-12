@@ -33,7 +33,7 @@ tags:
   - "nestjs"
   - "backend"
   - "framework"
-picture: "https://avatars2.githubusercontent.com/u/593151?s=460&v=4"
+cover: "https://avatars2.githubusercontent.com/u/593151?s=460&v=4"
 contacts:
   x: "sinedied"
   mail: "yohan.lasorsa+bbl@gmail.com"

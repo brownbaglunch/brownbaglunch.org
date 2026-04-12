@@ -12,7 +12,7 @@ tags:
   - "java"
   - "angular"
   - "react"
-picture: "https://github.com/sahbi-ktifa.png"
+cover: "https://github.com/sahbi-ktifa.png"
 contacts:
   x: "SahbiKtifa"
   mail: "sahbi.ktifa@gmail.com"

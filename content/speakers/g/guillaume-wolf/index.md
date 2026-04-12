@@ -13,7 +13,7 @@ tags:
   - "javascript"
   - "quiz"
   - "environnement"
-picture: "https://avatars.githubusercontent.com/u/1233106"
+cover: "https://avatars.githubusercontent.com/u/1233106"
 contacts:
   x: "geeyom"
   mail: "geeyom12@gmail.com"

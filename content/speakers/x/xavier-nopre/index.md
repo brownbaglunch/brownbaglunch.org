@@ -21,7 +21,6 @@ tags:
   - "devops"
   - "docker"
   - "developpement"
-picture: "/speakers/xavier-nopre/photo_xavier.jpg"
 contacts:
   x: "xnopre"
   mail: "xnopre@gmail.com"

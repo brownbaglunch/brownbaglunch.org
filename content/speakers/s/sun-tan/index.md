@@ -15,7 +15,7 @@ tags:
   - "devops"
   - "operator"
   - "crd"
-picture: "https://avatars3.githubusercontent.com/u/650571?v=3&s=460"
+cover: "https://avatars3.githubusercontent.com/u/650571?v=3&s=460"
 contacts:
   x: "__sunix_"
   mail: "sunix@sunix.org"

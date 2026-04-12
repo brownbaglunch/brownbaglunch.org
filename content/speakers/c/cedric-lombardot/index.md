@@ -19,7 +19,7 @@ tags:
   - "symfony2"
   - "ionic"
   - "lean-startup"
-picture: "https://cloudinary-a.akamaihd.net/hopwork/image/upload/t_bigprofile/h0w8ma1bqz9eqotrbcoi.jpg"
+cover: "https://cloudinary-a.akamaihd.net/hopwork/image/upload/t_bigprofile/h0w8ma1bqz9eqotrbcoi.jpg"
 contacts:
   x: "cedriclombardot"
   mail: "cedric@donkeycode.com"

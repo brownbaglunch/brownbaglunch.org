@@ -17,7 +17,7 @@ tags:
   - "ovh"
   - "scaleway"
   - "clevercloud"
-picture: "https://avatars3.githubusercontent.com/u/498465?s=200"
+cover: "https://avatars3.githubusercontent.com/u/498465?s=200"
 contacts:
   x: "gaelreyrol"
   mail: "me@gaelreyrol.com"

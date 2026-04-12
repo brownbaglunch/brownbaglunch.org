@@ -12,7 +12,7 @@ tags:
   - "programmation-fonctionnelle"
   - "lean-canvas"
   - "running-lean"
-picture: "https://fr.gravatar.com/userimage/4295265/c50510bb451992bde6f3add1a10525dd.jpg?size=256"
+cover: "https://fr.gravatar.com/userimage/4295265/c50510bb451992bde6f3add1a10525dd.jpg?size=256"
 contacts:
   x: "nmartignole"
   mail: "nicolas@touilleur-express.fr"

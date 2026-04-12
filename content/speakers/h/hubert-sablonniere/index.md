@@ -11,7 +11,7 @@ tags:
   - "securite"
   - "cookies"
   - "auth"
-picture: "https://www.hsablonniere.com/theme/img/hsablonniere.jpg"
+cover: "https://www.hsablonniere.com/theme/img/hsablonniere.jpg"
 contacts:
   x: "hsablonniere"
   mail: "hubert.sablonniere+bbl@gmail.com"

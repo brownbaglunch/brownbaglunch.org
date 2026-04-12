@@ -10,7 +10,7 @@ tags:
   - "metier"
   - "rex"
   - "agilite"
-picture: ""
+cover: ""
 contacts:
   mail: "rtournoux@aneo.fr"
 websites:

@@ -7,7 +7,7 @@ cities:
 tags:
   - "tests"
   - "t-d-d"
-picture: "https://avatars.githubusercontent.com/u/3036052"
+cover: "https://avatars.githubusercontent.com/u/3036052"
 contacts:
   x: "tverhoken"
   mail: "thomas.verhoken@gmail.com"

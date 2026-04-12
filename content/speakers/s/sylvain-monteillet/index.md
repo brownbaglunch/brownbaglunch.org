@@ -6,7 +6,7 @@ cities:
   - "fr/toulouse"
 tags:
   - "git"
-picture: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/076/26d/3830312.jpg"
+cover: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/076/26d/3830312.jpg"
 contacts:
   x: "smonteillet"
   mail: "sylvain.monteillet@gmail.com"

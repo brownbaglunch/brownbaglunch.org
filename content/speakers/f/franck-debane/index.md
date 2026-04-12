@@ -9,7 +9,7 @@ tags:
   - "innovation"
   - "product-strategy"
   - "product-management"
-picture: "http://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/02a/0ce/0dac097.jpg"
+cover: "http://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/02a/0ce/0dac097.jpg"
 contacts:
   x: "fdebane"
   mail: "fdebane@gmail.com"

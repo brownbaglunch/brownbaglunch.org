@@ -17,7 +17,7 @@ tags:
   - "static-site-generator"
   - "jamstack"
   - "headless-cms"
-picture: "https://d33wubrfki0l68.cloudfront.net/dddd2605dce105601dcba9587f14633175792c58/82039/assets/images/avatar.png"
+cover: "https://d33wubrfki0l68.cloudfront.net/dddd2605dce105601dcba9587f14633175792c58/82039/assets/images/avatar.png"
 contacts:
   x: "ZooletteDesBois"
   mail: "clairezuliani@gmail.com"

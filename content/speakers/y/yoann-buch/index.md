@@ -11,7 +11,7 @@ tags:
   - "agile"
   - "java"
   - "craftmanship"
-picture: "https://www.gravatar.com/avatar/e600f3739070d957a1393e02c935bacc?s=250"
+cover: "https://www.gravatar.com/avatar/e600f3739070d957a1393e02c935bacc?s=250"
 contacts:
   x: "YoannBuch"
   mail: "yoann.buch@gmail.com"

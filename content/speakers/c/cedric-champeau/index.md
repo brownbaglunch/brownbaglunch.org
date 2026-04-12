@@ -11,7 +11,7 @@ tags:
   - "jvm"
   - "spock"
   - "test"
-picture: "https://dl.dropboxusercontent.com/u/20288797/minimoi2.jpg"
+cover: "https://dl.dropboxusercontent.com/u/20288797/minimoi2.jpg"
 contacts:
   x: "CedricChampeau"
   mail: "cedric.champeau@gmail.com"

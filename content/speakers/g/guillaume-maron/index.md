@@ -10,7 +10,7 @@ tags:
   - "recruiting"
   - "scrum"
   - "feature-teams"
-picture: "https://www.gravatar.com/avatar/c4149d8bd585c5f4a07cb6ee05898012?s=200"
+cover: "https://www.gravatar.com/avatar/c4149d8bd585c5f4a07cb6ee05898012?s=200"
 contacts:
   mail: "guillaume.maron@gmail.com"
 websites:

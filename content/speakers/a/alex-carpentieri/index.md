@@ -8,7 +8,7 @@ tags:
   - "clips"
   - "expert-system"
   - "pizza"
-picture: "https://secure.gravatar.com/avatar/58f2522ae863d49748f891dcaa34e7d1"
+cover: "https://secure.gravatar.com/avatar/58f2522ae863d49748f891dcaa34e7d1"
 contacts:
   x: "alexcarpe"
   mail: "acarpentieri@lucca.fr"

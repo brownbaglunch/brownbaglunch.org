@@ -10,7 +10,7 @@ tags:
   - "automation"
   - "cloud"
   - "continuous-deployment"
-picture: "https://en.gravatar.com/userimage/16692893/6718018abb363a49d66a6266dc2d9765.jpg?size=200"
+cover: "https://en.gravatar.com/userimage/16692893/6718018abb363a49d66a6266dc2d9765.jpg?size=200"
 contacts:
   x: "rsertelon"
   mail: "romain@sertelon.fr"

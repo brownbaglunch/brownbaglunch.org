@@ -11,7 +11,6 @@ tags:
   - "spring"
   - "cloud"
   - "adobe-air"
-picture: "/speakers/guillaume-bitaudeau/photo_gbi.jpg"
 contacts:
   x: "gbitaudeau"
   mail: "guillaume.bitaudeau@gmail.com"

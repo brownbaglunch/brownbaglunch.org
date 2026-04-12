@@ -6,7 +6,7 @@ cities:
   - "fr/paris"
 tags:
   - ""
-picture: "https://avatars0.githubusercontent.com/u/2989532?s=460&v=4"
+cover: "https://avatars0.githubusercontent.com/u/2989532?s=460&v=4"
 contacts:
   mail: "guillaume@hey-gul.com"
 websites:

@@ -11,7 +11,7 @@ tags:
   - "typescript"
   - "react"
   - "vue"
-picture: "https://avatars.githubusercontent.com/u/29370468?v=4"
+cover: "https://avatars.githubusercontent.com/u/29370468?v=4"
 contacts:
   x: "BDevessier"
   mail: "baptiste@devessier.fr"

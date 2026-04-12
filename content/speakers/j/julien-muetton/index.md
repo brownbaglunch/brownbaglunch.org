@@ -11,7 +11,7 @@ tags:
   - "rest"
   - "test"
   - "git"
-picture: "http://clermontech.org/images/speaker-images/themouette.jpeg"
+cover: "http://clermontech.org/images/speaker-images/themouette.jpeg"
 contacts:
   x: "themouette"
   mail: "julien@muetton.me"

@@ -11,7 +11,7 @@ tags:
   - "qualite"
   - "methodes"
   - "fun"
-picture: "http://projects.ez.no/var/plain_site/storage/images/ezmailhide/team/leaders/ronan_guilloux/89962-3-eng-GB/ronan_guilloux_large.jpg"
+cover: "http://projects.ez.no/var/plain_site/storage/images/ezmailhide/team/leaders/ronan_guilloux/89962-3-eng-GB/ronan_guilloux_large.jpg"
 contacts:
   x: "arno_u_loginlux"
   mail: "ronan.guilloux@gmail.com"

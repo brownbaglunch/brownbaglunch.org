@@ -13,7 +13,7 @@ tags:
   - "rule-engine"
   - "moteur-de-regles"
   - "net"
-picture: "https://avatars3.githubusercontent.com/u/950148?s=200"
+cover: "https://avatars3.githubusercontent.com/u/950148?s=200"
 contacts:
   x: "GMouron"
   mail: "gmouron@lucca.fr"

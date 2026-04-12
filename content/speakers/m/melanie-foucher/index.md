@@ -7,7 +7,7 @@ cities:
 tags:
   - "design"
   - "presentation"
-picture: "http://fr.gravatar.com/melouleloup"
+cover: "http://fr.gravatar.com/melouleloup"
 contacts:
   mail: "mfoucher@lucca.fr"
 websites: []

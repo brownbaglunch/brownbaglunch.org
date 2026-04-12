@@ -14,7 +14,7 @@ tags:
   - "jenkins"
   - "angularjs"
   - "yeoman"
-picture: "https://raw.github.com/javamind/partage/master/guillaumeehret.jpg"
+cover: "https://raw.github.com/javamind/partage/master/guillaumeehret.jpg"
 contacts:
   x: "guillaumeehret"
   mail: "guillaume.ehret.java@gmail.com"

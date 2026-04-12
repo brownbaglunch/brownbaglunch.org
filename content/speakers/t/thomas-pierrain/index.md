@@ -11,7 +11,7 @@ tags:
   - "net"
   - "test"
   - "reactive"
-picture: "https://fr.gravatar.com/userimage/42372930/c633abb2c2155a61e5c62a475185dcf6.png?size=200"
+cover: "https://fr.gravatar.com/userimage/42372930/c633abb2c2155a61e5c62a475185dcf6.png?size=200"
 contacts:
   x: "tpierrain"
   mail: "thomas@pierrain.net"

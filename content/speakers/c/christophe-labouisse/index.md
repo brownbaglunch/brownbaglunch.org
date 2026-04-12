@@ -7,7 +7,7 @@ cities:
 tags:
   - "git"
   - "docker"
-picture: "http://www.gravatar.com/avatar/5a9a33e6c0397ed112a7c955728f3a1f.png?s=240"
+cover: "http://www.gravatar.com/avatar/5a9a33e6c0397ed112a7c955728f3a1f.png?s=240"
 contacts:
   x: "XtlCnslt"
 websites:

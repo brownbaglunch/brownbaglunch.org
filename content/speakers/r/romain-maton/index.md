@@ -8,7 +8,7 @@ tags:
   - "javascript"
   - "nodejs"
   - "outils"
-picture: "https://lh4.googleusercontent.com/-VcEH4WuA6XE/ThmqIx4nf_I/AAAAAAAAAso/Az2a4TtTgmA/s800/avatar_rmat0n.jpg"
+cover: "https://lh4.googleusercontent.com/-VcEH4WuA6XE/ThmqIx4nf_I/AAAAAAAAAso/Az2a4TtTgmA/s800/avatar_rmat0n.jpg"
 contacts:
   x: "rmat0n"
   mail: "romain.maton@gmail.com"

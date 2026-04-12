@@ -12,7 +12,7 @@ tags:
   - "kanban"
   - "scrum"
   - "git"
-picture: "http://www.johanbonneau.com/assets/img/johan_bonneau.jpg"
+cover: "http://www.johanbonneau.com/assets/img/johan_bonneau.jpg"
 contacts:
   x: "JohanBonneau"
   mail: "johan@johanbonneau.com"

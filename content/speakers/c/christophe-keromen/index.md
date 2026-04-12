@@ -11,7 +11,7 @@ tags:
   - "games"
   - "management"
   - "scrum"
-picture: "http://www.gravatar.com/avatar/2898ad2474ba25b87a9326585d3a234e.png"
+cover: "http://www.gravatar.com/avatar/2898ad2474ba25b87a9326585d3a234e.png"
 contacts:
   x: "ckeromen"
   mail: "ckeromen@ckti.com"

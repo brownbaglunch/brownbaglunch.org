@@ -15,7 +15,7 @@ tags:
   - "apache-kafka"
   - "apache-flink"
   - "apache-spark"
-picture: "https://en.gravatar.com/userimage/8542283/4fdcd1b7fa69ee477087e6bbcedf695e.jpg"
+cover: "https://en.gravatar.com/userimage/8542283/4fdcd1b7fa69ee477087e6bbcedf695e.jpg"
 contacts:
   x: "tgrall"
   mail: "tugdual@gmail.com"

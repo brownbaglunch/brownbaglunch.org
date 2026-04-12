@@ -10,7 +10,7 @@ tags:
   - "agile"
   - "diversite"
   - "womenintech"
-picture: "https://www.dropbox.com/s/jo8x92bany93i9v/Cecilia%20Bossard.jpg?dl=0"
+cover: "https://www.dropbox.com/s/jo8x92bany93i9v/Cecilia%20Bossard.jpg?dl=0"
 contacts:
   x: "ceciliaBossard"
   mail: "cecilia.bossard@gmail.com"

@@ -13,7 +13,7 @@ tags:
   - "sql"
   - "spring"
   - "spring-boot"
-picture: "https://pbs.twimg.com/profile_images/606213307507351552/IJcDzWZo.jpg"
+cover: "https://pbs.twimg.com/profile_images/606213307507351552/IJcDzWZo.jpg"
 contacts:
   x: "jean_bisutti"
   mail: "jean.bisutti@gmail.com"

@@ -14,7 +14,7 @@ tags:
   - "open"
   - "source"
   - "guithub"
-picture: "https://fr.gravatar.com/userimage/145366385/b8c3f5beb543715b232e63e4fc9c7193.jpg?size=200"
+cover: "https://fr.gravatar.com/userimage/145366385/b8c3f5beb543715b232e63e4fc9c7193.jpg?size=200"
 contacts:
   x: "BigupCampbell"
   mail: "domhnallcampbell@gmail.com"

@@ -11,7 +11,7 @@ tags:
   - "neo4j"
   - "nosql"
   - "graph"
-picture: "https://avatars3.githubusercontent.com/u/1651744?s=460&v=4"
+cover: "https://avatars3.githubusercontent.com/u/1651744?s=460&v=4"
 contacts:
   x: "kevin_biger"
   mail: "kevin.biger@gmail.com"

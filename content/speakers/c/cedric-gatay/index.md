@@ -10,7 +10,7 @@ tags:
   - "java"
   - "git"
   - "mongodb"
-picture: "http://www.gravatar.com/avatar/9600dc1bda25e979e656559914e00021.png?s=240"
+cover: "http://www.gravatar.com/avatar/9600dc1bda25e979e656559914e00021.png?s=240"
 contacts:
   x: "Cedric_Gatay"
   mail: "cedric@gatay.fr"

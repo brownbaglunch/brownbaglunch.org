@@ -12,7 +12,7 @@ tags:
   - "devops"
   - "scrum"
   - "tests"
-picture: "https://secure.gravatar.com/avatar/42b0d0d650595caf785709ecd56768d1"
+cover: "https://secure.gravatar.com/avatar/42b0d0d650595caf785709ecd56768d1"
 contacts:
   x: "svanacker"
   mail: "svanacker@gmail.com"

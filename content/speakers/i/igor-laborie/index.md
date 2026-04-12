@@ -12,7 +12,7 @@ tags:
   - "javascript"
   - "es6"
   - "nodejs"
-picture: "https://ilaborie.org/images/947f7969.me.jpg"
+cover: "https://ilaborie.org/images/947f7969.me.jpg"
 contacts:
   x: "ilaborie"
   mail: "igor@monkeypatch.io"

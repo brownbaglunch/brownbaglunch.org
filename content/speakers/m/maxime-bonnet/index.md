@@ -10,7 +10,7 @@ tags:
   - "developpement-personnel"
   - "management-3-0"
   - "coaching"
-picture: "http://www.gravatar.com/avatar/03314fcc147b87324941c0c6329d444b.png"
+cover: "http://www.gravatar.com/avatar/03314fcc147b87324941c0c6329d444b.png"
 contacts:
   x: "maximebonnet"
   mail: "maxime@bonnet.tel"

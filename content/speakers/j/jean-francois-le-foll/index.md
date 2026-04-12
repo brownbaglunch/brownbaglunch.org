@@ -13,7 +13,7 @@ tags:
   - "serious-games"
   - "meddlers"
   - "xp"
-picture: "https://jefflefoll.github.io/images/small_jeff_lefoll.jpg"
+cover: "https://jefflefoll.github.io/images/small_jeff_lefoll.jpg"
 contacts:
   x: "jefflefoll"
   mail: "jeff.lefoll@outlook.fr"

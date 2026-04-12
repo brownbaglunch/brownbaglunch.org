@@ -16,7 +16,7 @@ tags:
   - "anti-fragile-pattern"
   - "sre"
   - "12-factor"
-picture: "https://avatars2.githubusercontent.com/u/2259101?s=460&v=4"
+cover: "https://avatars2.githubusercontent.com/u/2259101?s=460&v=4"
 contacts:
   x: "sylv3k"
   mail: "smaucourt@gmail.com"

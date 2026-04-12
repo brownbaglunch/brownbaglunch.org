@@ -9,7 +9,7 @@ tags:
   - "neo4j"
   - "graph"
   - "database"
-picture: "http://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/benoit-simard-120x160.jpg"
+cover: "http://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/benoit-simard-120x160.jpg"
 contacts:
   x: "logisima"
   mail: "benoit.simard@neotechnology.com"

@@ -18,7 +18,7 @@ tags:
   - "sqlite"
   - "architecture"
   - "consistency"
-picture: "https://secure.gravatar.com/avatar/f2c7c409a480e8a5e7891220826315f1?size=200"
+cover: "https://secure.gravatar.com/avatar/f2c7c409a480e8a5e7891220826315f1?size=200"
 contacts:
   mail: "steph.lang.fr@gmail.com"
 websites: []

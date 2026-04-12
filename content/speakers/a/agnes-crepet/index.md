@@ -11,7 +11,7 @@ tags:
   - "architecture"
   - "bdd"
   - "software-design"
-picture: "http://www.duchess-france.org/wp-content/uploads/2013/12/Agnes-Crepet-17-199x300.jpg"
+cover: "http://www.duchess-france.org/wp-content/uploads/2013/12/Agnes-Crepet-17-199x300.jpg"
 contacts:
   x: "agnes_crepet"
   mail: "agnes@ninja-squad.com"

@@ -8,7 +8,7 @@ tags:
   - "nosql"
   - "mongodb"
   - "hardware"
-picture: "http://bluxte.net/archives/sylvain_wallez.png"
+cover: "http://bluxte.net/archives/sylvain_wallez.png"
 contacts:
   x: "bluxte"
   mail: "sylvain@bluxte.net"

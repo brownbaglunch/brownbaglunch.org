@@ -9,7 +9,6 @@ tags:
   - "android"
   - "dojo"
   - "dart"
-picture: "/speakers/vincent-ferries/photo_VincentFerries.png"
 contacts:
   x: "VincentFERRIES"
   mail: "vincent.ferries@gmail.com"

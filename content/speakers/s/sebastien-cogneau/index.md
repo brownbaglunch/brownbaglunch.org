@@ -12,7 +12,7 @@ tags:
   - "bash"
   - "rpm"
   - "gradle"
-picture: "https://secure.gravatar.com/avatar/a36365a1874360981942f089d839d473?s=400&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+cover: "https://secure.gravatar.com/avatar/a36365a1874360981942f089d839d473?s=400&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
 contacts:
   x: "SCogneau"
   mail: "sebastien.cogneau@gmail.com"

@@ -19,7 +19,7 @@ tags:
   - "cypress"
   - "git"
   - "github"
-picture: "https://pbs.twimg.com/profile_images/547088902385700864/l7UMrYDT_400x400.jpeg"
+cover: "https://pbs.twimg.com/profile_images/547088902385700864/l7UMrYDT_400x400.jpeg"
 contacts:
   x: "alexisjanvier"
   mail: "contact@alexisjanvier.net"

@@ -15,7 +15,7 @@ tags:
   - "ios"
   - "mobile"
   - "discovery"
-picture: "https://s.gravatar.com/avatar/7352e4e763e3b54ac7a91f013dc7c709"
+cover: "https://s.gravatar.com/avatar/7352e4e763e3b54ac7a91f013dc7c709"
 contacts:
   x: "RobinCaroff"
   mail: "robin.caroff@gmail.com"

@@ -12,7 +12,7 @@ tags:
   - "component"
   - "es6"
   - "webpack"
-picture: "https://fr.gravatar.com/userimage/27284879/f77fd2b6d51b61605576721be9a8dc47.jpeg?size=200"
+cover: "https://fr.gravatar.com/userimage/27284879/f77fd2b6d51b61605576721be9a8dc47.jpeg?size=200"
 contacts:
   x: "yannickda"
   mail: "yannick@idvive.com"

@@ -9,7 +9,7 @@ tags:
   - "scala"
   - "programmation-fonctionnelle"
   - "sbt"
-picture: "http://1.gravatar.com/avatar/efa687ad8e28474372463d31cbe80c2f?size=200"
+cover: "http://1.gravatar.com/avatar/efa687ad8e28474372463d31cbe80c2f?size=200"
 contacts:
   x: "fsznajderman"
   mail: "fabszn@gmail.com"

@@ -13,7 +13,7 @@ tags:
   - "facilitation"
   - "jeux-agiles"
   - "lean-startup"
-picture: "http://www.gravatar.com/avatar/918e67363e4361447d7a01c11da8a767.png"
+cover: "http://www.gravatar.com/avatar/918e67363e4361447d7a01c11da8a767.png"
 contacts:
   x: "romaincouturier"
   mail: "romain.couturier@terredagile.com"

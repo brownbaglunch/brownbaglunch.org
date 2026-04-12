@@ -10,7 +10,7 @@ tags:
   - "bugs"
   - "tech-leadership"
   - "planification"
-picture: "http://adrienjoly.com/img/photo.jpg"
+cover: "http://adrienjoly.com/img/photo.jpg"
 contacts:
   x: "adrienjoly"
   mail: "contact@adrienjoly.com"

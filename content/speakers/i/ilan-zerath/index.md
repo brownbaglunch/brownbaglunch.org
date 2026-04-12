@@ -20,7 +20,7 @@ tags:
   - "tests"
   - "tests-unitaires"
   - "injection-de-dependance"
-picture: "https://pbs.twimg.com/profile_images/1081844752084017152/sCswQBbg_400x400.jpg"
+cover: "https://pbs.twimg.com/profile_images/1081844752084017152/sCswQBbg_400x400.jpg"
 contacts:
   x: "IlanBenhamou"
 websites:

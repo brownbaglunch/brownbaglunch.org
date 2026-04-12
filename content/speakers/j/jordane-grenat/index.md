@@ -14,7 +14,7 @@ tags:
   - "merge"
   - "rebase"
   - "historique"
-picture: "http://image.noelshack.com/fichiers/2016/44/1478037566-13769637-10155147885584768-4943264862180673598-n.jpg"
+cover: "http://image.noelshack.com/fichiers/2016/44/1478037566-13769637-10155147885584768-4943264862180673598-n.jpg"
 contacts:
   x: "JoGrenat"
   mail: "jordan.grenat+bbl@gmail.com"

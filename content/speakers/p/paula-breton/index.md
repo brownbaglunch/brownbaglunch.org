@@ -8,7 +8,7 @@ tags:
   - "design"
   - "developpement"
   - "collaboration"
-picture: "https://fr.gravatar.com/userimage/233847729/2830b975e80e13783ab1ae36ad228aeb.png?size=200"
+cover: "https://fr.gravatar.com/userimage/233847729/2830b975e80e13783ab1ae36ad228aeb.png?size=200"
 contacts:
   mail: "pbreton.designer@gmail.com"
 websites:

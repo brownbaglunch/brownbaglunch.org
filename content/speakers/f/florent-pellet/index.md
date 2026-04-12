@@ -18,7 +18,7 @@ tags:
   - "net"
   - "spa"
   - "web"
-picture: "http://www.gravatar.com/userimage/92246787/0f806ff65e52d1704930182e4f6c2c3f?size=250"
+cover: "http://www.gravatar.com/userimage/92246787/0f806ff65e52d1704930182e4f6c2c3f?size=250"
 contacts:
   x: "florentpellet"
   mail: "florent.pellet+bbl@gmail.com"

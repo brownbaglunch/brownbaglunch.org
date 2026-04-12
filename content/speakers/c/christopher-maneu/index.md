@@ -20,7 +20,7 @@ tags:
   - "plongee"
   - "azure"
   - "microsoft"
-picture: "http://gravatar.com/avatar/f6c06223e3759e7b9c93bdb58fc241f5?s=200"
+cover: "http://gravatar.com/avatar/f6c06223e3759e7b9c93bdb58fc241f5?s=200"
 contacts:
   x: "cmaneu"
   mail: "hello@maneu.net"

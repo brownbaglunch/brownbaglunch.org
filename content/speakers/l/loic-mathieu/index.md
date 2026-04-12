@@ -18,7 +18,7 @@ tags:
   - "jit"
   - "kafka"
   - "streamprocessing"
-picture: "https://pbs.twimg.com/profile_images/1055114256247676928/wnb-1EtJ_400x400.jpg"
+cover: "https://pbs.twimg.com/profile_images/1055114256247676928/wnb-1EtJ_400x400.jpg"
 contacts:
   x: "loicmathieu"
   mail: "loikeseke@gmail.com"

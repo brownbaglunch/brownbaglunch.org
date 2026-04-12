@@ -12,7 +12,7 @@ tags:
   - "fp-style"
   - "clean-code"
   - "test"
-picture: "http://gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3.png"
+cover: "http://gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3.png"
 contacts:
   x: "cyriux"
   mail: "cyrillemartraire@gmail.com"

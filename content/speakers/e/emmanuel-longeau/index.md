@@ -7,7 +7,7 @@ cities:
 tags:
   - "haskell"
   - "functional-programming"
-picture: "https://fr.gravatar.com/userimage/145975626/d25697338c9c32d58700fac3c95a0666.jpg?size=200"
+cover: "https://fr.gravatar.com/userimage/145975626/d25697338c9c32d58700fac3c95a0666.jpg?size=200"
 contacts:
   x: "elongeau"
   mail: "emmanuel.longeau+bbl@gmail.com"

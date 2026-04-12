@@ -11,7 +11,7 @@ tags:
   - "owasp-web"
   - "iot"
   - "owasp-iot"
-picture: "http://vulcainreo.com/me.jpg"
+cover: "http://vulcainreo.com/me.jpg"
 contacts:
   x: "vulcainreo"
   mail: "conf@vulcainreo.com"

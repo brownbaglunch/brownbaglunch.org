@@ -12,7 +12,7 @@ tags:
   - "vim"
   - "editeur"
   - "python"
-picture: "https://s3-eu-west-1.amazonaws.com/rtodev.tech/img/avatar_tourne.jpg"
+cover: "https://s3-eu-west-1.amazonaws.com/rtodev.tech/img/avatar_tourne.jpg"
 contacts:
   x: "romaintouze"
   mail: "contact@rtodev.tech"

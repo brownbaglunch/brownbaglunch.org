@@ -8,7 +8,7 @@ tags:
   - "bdd"
   - "test"
   - "tdd"
-picture: "https://fr.gravatar.com/userimage/47983780/a4c521b4d00829a0e63eb5642d0ccec6.png?size=200"
+cover: "https://fr.gravatar.com/userimage/47983780/a4c521b4d00829a0e63eb5642d0ccec6.png?size=200"
 contacts:
   x: "lcouellan"
   mail: "lenaic.couellan@knplabs.com"

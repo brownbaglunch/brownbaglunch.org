@@ -14,7 +14,7 @@ tags:
   - "graphisme"
   - "charte"
   - "graphique"
-picture: "https://pbs.twimg.com/profile_images/696987947522990080/md67ySS9_400x400.png"
+cover: "https://pbs.twimg.com/profile_images/696987947522990080/md67ySS9_400x400.png"
 contacts:
   x: "davidendico"
   mail: "david@bearstudio.fr"

@@ -12,7 +12,7 @@ tags:
   - "developpeur"
   - "recrutement"
   - "front"
-picture: "https://secure.gravatar.com/avatar/5aaaecf4c870c833121f034df92b7586?s=400"
+cover: "https://secure.gravatar.com/avatar/5aaaecf4c870c833121f034df92b7586?s=400"
 contacts:
   x: "caedes"
 websites:

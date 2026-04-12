@@ -11,7 +11,7 @@ tags:
   - "git"
   - "tdd"
   - "coding-dojo"
-picture: "http://www.gravatar.com/avatar/bb477281f4de9e113b37d74c949d6ee5?s=512"
+cover: "http://www.gravatar.com/avatar/bb477281f4de9e113b37d74c949d6ee5?s=512"
 contacts:
   x: "gcollic"
   mail: "gcollic@gmail.com"

@@ -10,7 +10,7 @@ tags:
   - "mobile"
   - "dev"
   - "discovery"
-picture: "https://avatars.githubusercontent.com/u/15615569"
+cover: "https://avatars.githubusercontent.com/u/15615569"
 contacts:
   x: "cy_hue"
   mail: "cy.hue80@gmail.com"
