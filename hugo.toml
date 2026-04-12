@@ -29,6 +29,15 @@ theme = 'brownbaglunch'
     source = "public/pagefind"
     target = "static/pagefind"
     disableWatch = true
+  # Share speaker and city content with EN (untranslated data)
+  [[module.mounts]]
+    source = "content/speakers"
+    target = "content/speakers"
+    lang = "en"
+  [[module.mounts]]
+    source = "content/cities"
+    target = "content/cities"
+    lang = "en"
 
 [languages]
   [languages.fr]
