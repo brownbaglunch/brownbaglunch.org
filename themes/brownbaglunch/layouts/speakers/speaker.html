@@ -11,7 +11,14 @@
            data-pagefind-meta="image[src]">
     {{ end }}
     <div class="flex-1">
-      <h1 class="text-3xl font-black mb-1">{{ $speaker.name }}</h1>
+      <div class="flex items-start justify-between gap-4 mb-1">
+        <h1 class="text-3xl font-black">{{ $speaker.name }}</h1>
+        {{ with $speaker.contacts.mail }}
+          <a href="mailto:{{ . }}" class="btn-primary text-sm shrink-0">
+            ✉️ {{ i18n "invite" }}
+          </a>
+        {{ end }}
+      </div>
 
       {{/* City / availability badges */}}
       <div class="flex gap-2 flex-wrap mb-3">
@@ -33,22 +40,20 @@
         {{ end }}
       </div>
 
-      {{/* Contact */}}
-      <div class="flex gap-3 flex-wrap">
-        {{ with $speaker.contacts.mail }}
-          <a href="mailto:{{ . }}" class="btn-primary text-sm">
-            ✉️ {{ i18n "invite" }}
-          </a>
-        {{ end }}
-        {{ with $speaker.contacts.x }}
-          <a href="https://x.com/{{ . }}" target="_blank" rel="noopener"
-             class="badge hover:bg-warm-brown hover:text-cream transition-colors">𝕏 @{{ . }}</a>
-        {{ end }}
-        {{ range $speaker.websites }}
-          <a href="{{ .url }}" target="_blank" rel="noopener"
-             class="badge hover:bg-warm-brown hover:text-cream transition-colors">🔗 {{ .name }}</a>
-        {{ end }}
-      </div>
+      {{/* Social links */}}
+      {{ $hasSocial := or $speaker.contacts.x $speaker.websites }}
+      {{ if $hasSocial }}
+        <div class="flex gap-2 flex-wrap">
+          {{ with $speaker.contacts.x }}
+            <a href="https://x.com/{{ . }}" target="_blank" rel="noopener"
+               class="badge hover:bg-warm-brown hover:text-cream transition-colors">𝕏 @{{ . }}</a>
+          {{ end }}
+          {{ range $speaker.websites }}
+            <a href="{{ .url }}" target="_blank" rel="noopener"
+               class="badge hover:bg-warm-brown hover:text-cream transition-colors">🔗 {{ .name }}</a>
+          {{ end }}
+        </div>
+      {{ end }}
     </div>
   </div>
 
