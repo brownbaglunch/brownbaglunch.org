@@ -1,4 +1,5 @@
 {{ define "main" }}
+<div data-pagefind-ignore>
 {{/* Content lives in FR only — fall back to FR site pages when rendering other languages */}}
 {{ $srcPages := site.Pages }}
 {{ if ne site.Language.Lang "fr" }}
@@ -43,4 +44,5 @@
 {{ else }}
   <p class="text-warm-brown/60 text-center py-12">{{ i18n "speakers_no_letter" }}</p>
 {{ end }}
+</div>
 {{ end }}
