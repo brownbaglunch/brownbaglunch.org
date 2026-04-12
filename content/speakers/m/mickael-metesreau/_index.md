@@ -4,14 +4,6 @@ since: '2017-01-02'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- net
-- akka
-- actor
-- model
-- code
-- dojo
-- cryptographie
 cover: https://a248.e.akamai.net/secure.meetupstatic.com/photos/member/c/0/8/c/highres_261349292.jpeg
 contacts:
   x: MiKaDo_O

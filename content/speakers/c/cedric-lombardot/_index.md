@@ -4,21 +4,6 @@ since: '2015-04-08'
 city: fr/paris-et-rp
 cities:
 - fr/paris
-tags:
-- symfony
-- angularjs
-- php
-- agile
-- sass
-- jquery
-- git
-- apache
-- cucumber
-- cordova
-- capistrano
-- symfony2
-- ionic
-- lean-startup
 cover: https://cloudinary-a.akamaihd.net/hopwork/image/upload/t_bigprofile/h0w8ma1bqz9eqotrbcoi.jpg
 contacts:
   x: cedriclombardot

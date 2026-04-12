@@ -4,13 +4,6 @@ since: '2013-03-01'
 city: fr/nantes-et-environs
 cities:
 - fr/nantes
-tags:
-- scala
-- nodejs
-- programmation-fonctionnelle
-- it-automation
-- javascript
-- haskell
 contacts:
   x: clementd
   mail: clement+bbl@delafargue.name

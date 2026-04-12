@@ -4,9 +4,6 @@ since: '2013-02-17'
 city: fr/la-defense-et-alentours
 cities:
 - fr/paris
-tags:
-- cloud
-- usine-logicielle
 contacts:
   x: jlrigau
   mail: jeanlouis.rigau@gmail.com

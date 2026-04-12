@@ -4,12 +4,6 @@ since: '2015-02-08'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- code
-- java
-- spring
-- spring-boot
-- productivite
 cover: http://www.gravatar.com/avatar/858275282cf240a0dd280a13fbd0f942?s=256
 contacts:
   x: vanr0y

@@ -7,27 +7,6 @@ cities:
 - fr/grenoble
 - fr/nantes
 - fr/paris
-tags:
-- microservices
-- architecture
-- patterns
-- javascript
-- scala
-- java
-- programmation-fonctionnelle
-- integration-continue
-- deploiement-continue
-- jenkins
-- github
-- gitlab
-- git
-- devops
-- chatops
-- workflow
-- dvcs
-- gestion-de-configuration
-- rh
-- commerciaux
 cover: https://www.clever-cloud.com//images/team/philippe-charriere.jpg?size=200
 contacts:
   x: '@k33g_org'

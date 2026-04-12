@@ -4,13 +4,6 @@ since: '2016-06-15'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- java
-- android
-- kotlin
-- mobile
-- qualite
-- tests
 cover: https://www.gravatar.com/avatar/63d261113651caa0dc887445c61ea48a?s=200
 contacts:
   x: benjlacroix

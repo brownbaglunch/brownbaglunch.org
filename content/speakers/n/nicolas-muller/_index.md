@@ -4,16 +4,6 @@ since: '2015-07-13'
 city: fr/aix-marseille-et-a-distance
 cities:
 - fr/aix-en-provence
-tags:
-- docker
-- consul-io
-- golang
-- cloud
-- paas
-- influxdb
-- influx
-- time-series
-- analytics
 cover: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/0fe/013/03d214d.jpg
 contacts:
   x: zepouet

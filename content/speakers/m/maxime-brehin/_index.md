@@ -4,14 +4,6 @@ since: '2019-06-04'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- git
-- vcs
-- gestion-de-source
-- process
-- automatisation
-- qualite
-- workflow
 cover: https://secure.gravatar.com/avatar/42ee5cd1395bf807e2aced719a331cb2
 contacts:
   x: mbrehin

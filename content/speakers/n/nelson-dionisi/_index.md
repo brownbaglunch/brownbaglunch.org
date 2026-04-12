@@ -5,13 +5,6 @@ city: fr/bordeaux
 cities:
 - fr/bordeaux
 - fr/paris
-tags:
-- deployment
-- database
-- continous-delivery
-- java
-- postgresql
-- performance
 cover: https://avatars1.githubusercontent.com/u/12200878?s=460&v=4
 contacts:
   mail: ndionisi@mirakl.com

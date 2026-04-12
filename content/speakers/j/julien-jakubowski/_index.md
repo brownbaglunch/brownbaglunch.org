@@ -5,17 +5,6 @@ city: fr/metropole-lilloise
 cities:
 - fr/lille
 - fr/paris
-tags:
-- javascript
-- java
-- spring
-- test
-- dojo
-- software-craftsmanship
-- tdd
-- bdd
-- serious-game
-- fun
 cover: http://s3.amazonaws.com/askbob/users/photos/70/preview/carree.jpg
 contacts:
   x: jak78

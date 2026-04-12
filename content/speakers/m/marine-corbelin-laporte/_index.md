@@ -4,12 +4,6 @@ since: '2018-03-23'
 city: fr/lille
 cities:
 - fr/lille
-tags:
-- vr
-- ar
-- 3d
-- unity
-- unreal
 cover: https://pbs.twimg.com/profile_images/851152816429203456/cNAdBzYr_400x400.jpg
 contacts:
   x: nanakola

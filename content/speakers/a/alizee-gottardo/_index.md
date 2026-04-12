@@ -4,12 +4,6 @@ since: '2023-04-06'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- design
-- developpement
-- collaboration
-- platform-engineering
-- full-cycle
 cover: https://en.gravatar.com/userimage/73573562/d450ac63ef86c12c106c63042c02c3ce.png?size=200
 contacts:
   mail: alizee.gottardo.pro@gmail.com

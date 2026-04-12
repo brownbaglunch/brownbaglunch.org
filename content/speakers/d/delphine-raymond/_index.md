@@ -4,20 +4,6 @@ since: '2020-09-04'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- product-owner
-- product-manager
-- agile
-- innovation-game
-- facilitation
-- serious-game
-- scrum
-- event-storming
-- workshop
-- ddd
-- communaute
-- meetup
-- retour-d-experience
 cover: https://secure.gravatar.com/avatar/ddbeaab3b87a434071ddc6bfb5af89a8?size=256
 contacts:
   x: Delphine_Ray

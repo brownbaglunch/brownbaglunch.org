@@ -4,11 +4,6 @@ since: '2019-01-10'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- lean-startup
-- agile
-- ux
-- design-thinking
 contacts:
   x: MaritzaAbreo
   mail: maritzabreo@gmail.com

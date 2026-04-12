@@ -4,10 +4,6 @@ since: '2019-03-22'
 city: fr/caen
 cities:
 - fr/caen
-tags:
-- bdd
-- test
-- tdd
 cover: https://fr.gravatar.com/userimage/47983780/a4c521b4d00829a0e63eb5642d0ccec6.png?size=200
 contacts:
   x: lcouellan

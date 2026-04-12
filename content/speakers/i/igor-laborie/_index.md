@@ -4,14 +4,6 @@ since: '2016-12-15'
 city: fr/toulouse
 cities:
 - fr/toulouse
-tags:
-- rest
-- http
-- feign
-- java
-- javascript
-- es6
-- nodejs
 cover: https://ilaborie.org/images/947f7969.me.jpg
 contacts:
   x: ilaborie

@@ -5,10 +5,6 @@ city: fr/nantes
 cities:
 - fr/paris
 - fr/nantes
-tags:
-- neo4j
-- graph
-- database
 cover: http://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/benoit-simard-120x160.jpg
 contacts:
   x: logisima

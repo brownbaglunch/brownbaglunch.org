@@ -4,14 +4,6 @@ since: '2013-09-13'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- agile
-- product-owner
-- scrum
-- coaching
-- formation
-- lean-startup
-- kanban
 cover: http://m.c.lnkd.licdn.com/media/p/1/005/012/1d8/0d5df68.jpg
 contacts:
   x: yannickAmeur

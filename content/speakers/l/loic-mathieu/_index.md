@@ -4,20 +4,6 @@ since: '2018-11-05'
 city: fr/lille
 cities:
 - fr/lille
-tags:
-- deeplearning
-- keras
-- tensorflow
-- python
-- java
-- java9
-- java10
-- java11
-- jvm
-- gc
-- jit
-- kafka
-- streamprocessing
 cover: https://pbs.twimg.com/profile_images/1055114256247676928/wnb-1EtJ_400x400.jpg
 contacts:
   x: loicmathieu

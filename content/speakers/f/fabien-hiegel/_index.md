@@ -4,14 +4,6 @@ since: '2021-03-16'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- serious-game
-- test
-- ''
-- pair-programming
-- atelier
-- intelligence-collective
-- veille
 cover: https://www.gravatar.com/avatar/41dcae3b47a5744a926bb22d17f6804a?s=200
 contacts:
   x: fhiegel

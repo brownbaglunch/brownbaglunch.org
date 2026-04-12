@@ -4,10 +4,6 @@ since: '2013-02-21'
 city: fr/toulouse-et-environs
 cities:
 - fr/toulouse
-tags:
-- nosql
-- mongodb
-- hardware
 cover: http://bluxte.net/archives/sylvain_wallez.png
 contacts:
   x: bluxte

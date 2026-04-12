@@ -4,16 +4,6 @@ since: '2016-06-16'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- iot
-- mqtt
-- raspberry-pi
-- beacon
-- mobile
-- physical-web
-- android
-- android-wear
-- wearable
 cover: https://en.gravatar.com/userimage/100014788/0d3ac047c5fbce195a5f079c2c69d8e5?size=200
 contacts:
   x: bonbonking

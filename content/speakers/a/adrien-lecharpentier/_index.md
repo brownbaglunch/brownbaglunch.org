@@ -4,9 +4,6 @@ since: '2016-06-15'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- jenkins
-- pipeline
 cover: https://www.gravatar.com/avatar/8254814a3136a30724cd428841f8e155?s=200
 contacts:
   x: alecharp

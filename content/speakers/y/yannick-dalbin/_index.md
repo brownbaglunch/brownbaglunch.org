@@ -4,14 +4,6 @@ since: '2017-06-30'
 city: fr/marseille-et-environs
 cities:
 - fr/marseille
-tags:
-- javascript
-- react-js
-- librairie
-- vue
-- component
-- es6
-- webpack
 cover: https://fr.gravatar.com/userimage/27284879/f77fd2b6d51b61605576721be9a8dc47.jpeg?size=200
 contacts:
   x: yannickda

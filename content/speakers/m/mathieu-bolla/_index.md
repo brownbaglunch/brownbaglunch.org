@@ -4,13 +4,6 @@ since: '2013-10-31'
 city: fr/douai
 cities:
 - fr/lille
-tags:
-- java
-- aws
-- amazon
-- scalabilite
-- domotique
-- embarque
 cover: https://www.gravatar.com/avatar/4677084da23fd41e2d21561ec111a512?s=256
 contacts:
   x: mathieubolla

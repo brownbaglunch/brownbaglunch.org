@@ -4,18 +4,6 @@ since: '2015-07-29'
 city: fr/rennes
 cities:
 - fr/rennes
-tags:
-- developpement
-- net
-- c
-- agile
-- scrum
-- cloud
-- azure
-- windows-phone
-- xamarin
-- visual-studio-online
-- tfs
 cover: ''
 contacts:
   mail: phenixdotnet@gmail.com

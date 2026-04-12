@@ -4,19 +4,6 @@ since: '2017-03-06'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- javascript
-- programmation-fonctionnelle
-- atelier
-- sass
-- css
-- pre-processeur
-- agile
-- collaboration
-- sketching
-- ux
-- scrum
-- lego
 cover: http://alvin.berthelot.rocks/img/alvin_round_200.png
 contacts:
   x: alvinberthelot

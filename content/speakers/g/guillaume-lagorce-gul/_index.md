@@ -4,8 +4,6 @@ since: '2018-10-01'
 city: fr/nantes
 cities:
 - fr/paris
-tags:
-- ''
 cover: https://avatars0.githubusercontent.com/u/2989532?s=460&v=4
 contacts:
   mail: guillaume@hey-gul.com

@@ -4,13 +4,6 @@ since: '2017-11-06'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- cassandra
-- nosql
-- ops
-- dev
-- java
-- production
 cover: http://thelastpickle.com/assets/img/staff/alex-dejanovski-tn.png
 contacts:
   x: alexanderDeja

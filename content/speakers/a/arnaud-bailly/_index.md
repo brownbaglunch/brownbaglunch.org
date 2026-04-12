@@ -10,17 +10,6 @@ cities:
 - fr/vannes
 - fr/paris
 - fr/lille
-tags:
-- clean-code
-- tdd
-- xp
-- tests
-- ci
-- fp
-- haskell
-- type-driven-development
-- eventsourcing
-- ddd
 cover: http://drcode.io/images/arnaud_hero_white.png
 contacts:
   x: dr_c0d3

@@ -4,15 +4,6 @@ since: '2015-06-18'
 city: fr/brest
 cities:
 - fr/brest
-tags:
-- developpement
-- java
-- tdd
-- agile
-- scrum
-- serious-games
-- meddlers
-- xp
 cover: https://jefflefoll.github.io/images/small_jeff_lefoll.jpg
 contacts:
   x: jefflefoll

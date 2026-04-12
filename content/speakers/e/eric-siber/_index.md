@@ -4,31 +4,6 @@ since: '2016-01-31'
 city: fr/paris-et-alentours
 cities:
 - fr/paris
-tags:
-- agile
-- extreme-programming
-- lean-management
-- craftsmanship
-- code-review
-- java
-- developer-productivity-engineering
-- sbom
-- sca
-- maven
-- live-coding
-- formation
-- extreme-programmming
-- apprentissage
-- talent-management
-- leadership
-- management
-- change-management
-- confiance
-- developpement-personnel
-- kanban
-- management-visuel
-- personal-kanban
-- trello
 contacts:
   mail: eric@agiledev.tech
 websites:

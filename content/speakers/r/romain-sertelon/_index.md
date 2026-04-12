@@ -4,12 +4,6 @@ since: '2018-01-16'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- habitat
-- devops
-- automation
-- cloud
-- continuous-deployment
 cover: https://en.gravatar.com/userimage/16692893/6718018abb363a49d66a6266dc2d9765.jpg?size=200
 contacts:
   x: rsertelon

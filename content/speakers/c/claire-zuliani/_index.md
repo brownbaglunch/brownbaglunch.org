@@ -6,17 +6,6 @@ cities:
 - fr/epinal
 - fr/nancy
 - fr/metz
-tags:
-- outils
-- cooperation
-- strategie
-- open-data
-- open-source
-- statique
-- jekyll
-- static-site-generator
-- jamstack
-- headless-cms
 cover: https://d33wubrfki0l68.cloudfront.net/dddd2605dce105601dcba9587f14633175792c58/82039/assets/images/avatar.png
 contacts:
   x: ZooletteDesBois

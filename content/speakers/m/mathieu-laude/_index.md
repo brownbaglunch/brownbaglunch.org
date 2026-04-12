@@ -4,17 +4,6 @@ since: '2019-01-03'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- pipeline
-- jenkins
-- jenkinsfile
-- git
-- docker
-- devops
-- automation
-- continous
-- deployment
-- integration
 cover: https://pbs.twimg.com/profile_images/1213079443205500928/MJw5Wxr7_400x400.jpg
 contacts:
   mail: mathieulaude+bbl@gmail.com

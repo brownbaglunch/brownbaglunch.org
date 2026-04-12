@@ -4,10 +4,6 @@ since: '2013-02-21'
 city: fr/toulouse-et-agglomeration
 cities:
 - fr/toulouse
-tags:
-- agile
-- code
-- dojo
 cover: https://pbs.twimg.com/profile_images/480325709483634688/V_x_kwbK.png
 contacts:
   x: ndeverge

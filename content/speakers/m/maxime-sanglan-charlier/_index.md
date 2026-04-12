@@ -4,17 +4,6 @@ since: '2015-02-04'
 city: fr/en-ligne
 cities:
 - fr/nantes
-tags:
-- domain-driven-design
-- ddd
-- eventstorming
-- ubiquitous-language
-- workshop
-- architecture
-- c4
-- dojo
-- coding-dojo
-- mob-programming
 contacts:
   x: __MaxS__
   mail: m.sanglan.charlier@gmail.com

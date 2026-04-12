@@ -5,28 +5,6 @@ city: fr/nantes-paris
 cities:
 - fr/paris
 - fr/nantes
-tags:
-- cloud-computing
-- paas
-- devops
-- postgres
-- sql
-- database
-- nosql
-- functional-programing
-- code
-- cloud
-- container
-- docker
-- linux
-- virtualization
-- systemd
-- scala
-- warp10
-- kafka
-- hadoop
-- observability
-- monitoring
 cover: https://i.imgur.com/YdzlEj0.jpg
 contacts:
   x: waxzce

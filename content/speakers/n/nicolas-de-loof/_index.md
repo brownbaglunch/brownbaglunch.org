@@ -4,10 +4,6 @@ since: '2013-02-25'
 city: fr/rennes-et-alentours
 cities:
 - fr/rennes
-tags:
-- cloud
-- jenkins
-- kubernetes
 contacts:
   x: ndeloof
   mail: nicolas.deloof@gmail.com

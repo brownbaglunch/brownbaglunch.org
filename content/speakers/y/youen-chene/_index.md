@@ -5,11 +5,6 @@ city: fr/rouen
 cities:
 - fr/paris
 - fr/rouen
-tags:
-- big-data
-- hadoop
-- impala
-- spark
 contacts:
   x: youen_chene
   mail: youen.chene@gadz.org

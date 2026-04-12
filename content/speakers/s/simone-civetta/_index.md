@@ -4,10 +4,6 @@ since: '2015-11-25'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- ios
-- swift
-- mobile
 cover: https://s3.amazonaws.com/civetta-works/works/personal/profile.png
 contacts:
   x: viteinfinite

@@ -4,15 +4,6 @@ since: '2017-06-15'
 city: fr/caen
 cities:
 - fr/caen
-tags:
-- scrum
-- kanban
-- gestion-de-projet-agile
-- bdd
-- management-3-0
-- happiness
-- remote
-- teambuilding
 contacts:
   x: '@Evey_Online'
   mail: eve.vinclair@knplabs.com

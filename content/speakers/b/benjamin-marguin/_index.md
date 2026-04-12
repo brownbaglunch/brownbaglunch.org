@@ -4,12 +4,6 @@ since: '2018-02-22'
 city: fr/toulouse
 cities:
 - fr/toulouse
-tags:
-- git
-- gitlab
-- github
-- gpg
-- chiffrement
 cover: https://avatars3.githubusercontent.com/u/1846633
 contacts:
   x: mab_

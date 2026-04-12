@@ -4,14 +4,6 @@ since: '2015-09-24'
 city: fr/toulouse
 cities:
 - fr/toulouse
-tags:
-- software-development
-- hardware-hacking
-- optimisation
-- telecom-reseau
-- fpga
-- philosophie
-- agilite
 cover: http://torlus.github.io/hat_pro.png
 contacts:
   x: Torlus

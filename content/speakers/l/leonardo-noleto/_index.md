@@ -4,14 +4,6 @@ since: '2014-11-02'
 city: fr/toulouse-et-agglomeration-ailleurs-selon-deplacements
 cities:
 - fr/toulouse
-tags:
-- machine-learning
-- data-mining
-- kibana
-- big-data
-- valorisation-donnees
-- metriques-business
-- nosql
 contacts:
   x: leonardo_noleto
 websites:

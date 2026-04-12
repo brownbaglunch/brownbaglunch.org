@@ -4,8 +4,6 @@ since: '2017-07-28'
 city: fr/toulouse
 cities:
 - fr/toulouse
-tags:
-- git
 cover: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/076/26d/3830312.jpg
 contacts:
   x: smonteillet

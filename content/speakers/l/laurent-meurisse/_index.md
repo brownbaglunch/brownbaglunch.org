@@ -4,10 +4,6 @@ since: '2013-11-14'
 city: fr/toulouse
 cities:
 - fr/toulouse
-tags:
-- agile
-- lean-startup
-- impact-mapping
 contacts:
   x: laurentmeurisse
   mail: lmeurisse@ekito.fr

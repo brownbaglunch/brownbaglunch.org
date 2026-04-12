@@ -4,10 +4,6 @@ since: '2018-10-05'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- passkeys
-- fidoalliance
-- webauthn
 cover: https://d38muu3h4xeqr1.cloudfront.net/website/static/FEM-WN-JOB1-1105/images/pictures/rew-islam@2x.png
 contacts:
   x: rewislam

@@ -4,13 +4,6 @@ since: '2014-01-31'
 city: fr/plaisir-78
 cities:
 - fr/versailles
-tags:
-- java
-- agile
-- ios
-- spring
-- cloud
-- adobe-air
 contacts:
   x: gbitaudeau
   mail: guillaume.bitaudeau@gmail.com

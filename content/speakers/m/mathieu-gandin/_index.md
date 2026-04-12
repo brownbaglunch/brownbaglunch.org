@@ -4,11 +4,6 @@ since: '2013-02-20'
 city: fr/paris-et-la-defense
 cities:
 - fr/paris
-tags:
-- code
-- refactoring
-- clojure
-- java
 contacts:
   x: m_gandin
   mail: mathieu.gandin@gmail.com

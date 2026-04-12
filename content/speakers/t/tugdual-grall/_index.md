@@ -6,15 +6,6 @@ cities:
 - fr/paris
 - fr/nantes
 - fr/rennes
-tags:
-- big-data
-- nosql
-- mapr
-- streaming
-- hadoop
-- apache-kafka
-- apache-flink
-- apache-spark
 cover: https://en.gravatar.com/userimage/8542283/4fdcd1b7fa69ee477087e6bbcedf695e.jpg
 contacts:
   x: tgrall

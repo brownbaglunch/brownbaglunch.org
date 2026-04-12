@@ -4,35 +4,6 @@ since: '2019-01-30'
 city: fr/grenoble
 cities:
 - fr/grenoble
-tags:
-- pwa
-- mobile
-- javascript
-- performance
-- service-worker
-- developpement
-- frontend
-- redux
-- state-management
-- vs-code
-- outillage
-- docker
-- onboarding
-- ci-cd
-- github
-- automatisation
-- open-source
-- angular
-- ngxs
-- architecture
-- node-js
-- typescript
-- live-coding
-- communaute
-- soft-skills
-- nestjs
-- backend
-- framework
 cover: https://avatars2.githubusercontent.com/u/593151?s=460&v=4
 contacts:
   x: sinedied

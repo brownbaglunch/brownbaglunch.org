@@ -4,11 +4,6 @@ since: '2013-02-15'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- agile
-- startup
-- erlang
-- javascript
 contacts:
   x: notarianni
   mail: bernard.notarianni@gmail.com

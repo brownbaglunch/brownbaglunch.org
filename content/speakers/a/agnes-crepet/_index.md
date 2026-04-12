@@ -4,13 +4,6 @@ since: '2013-12-17'
 city: fr/saint-etienne
 cities:
 - fr/saint-etienne
-tags:
-- agilite
-- java
-- test
-- architecture
-- bdd
-- software-design
 cover: http://www.duchess-france.org/wp-content/uploads/2013/12/Agnes-Crepet-17-199x300.jpg
 contacts:
   x: agnes_crepet

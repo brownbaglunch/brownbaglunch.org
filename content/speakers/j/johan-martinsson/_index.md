@@ -4,15 +4,6 @@ since: '2014-07-10'
 city: fr/grenoble
 cities:
 - fr/grenoble
-tags:
-- legacy-code
-- test
-- tdd
-- extreme-programming
-- approvaltests
-- refactoring
-- live-coding
-- agile
 cover: http://www.gravatar.com/avatar/3771a70b46d12cb049e7be561ae69116.png
 contacts:
   x: johan_alps

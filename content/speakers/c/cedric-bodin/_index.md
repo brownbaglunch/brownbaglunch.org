@@ -4,15 +4,6 @@ since: '2015-01-27'
 city: fr/nantes-et-a-distance
 cities:
 - fr/nantes
-tags:
-- agile
-- scrum
-- kanban
-- facilitation
-- lean-startup
-- serious-game
-- musique
-- marathon
 cover: http://cedricbodin.files.wordpress.com/2013/03/cedric-bodin.jpg
 contacts:
   x: cedricbodin

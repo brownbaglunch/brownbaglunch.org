@@ -4,18 +4,6 @@ since: '2017-03-21'
 city: fr/lille
 cities:
 - fr/lille
-tags:
-- clean-code
-- refactoring
-- design-patterns
-- junit
-- jbehave
-- serenity-bdd
-- t-d-d
-- b-d-d
-- tests-unitaires
-- tests-d-integration
-- tests-end-to-end
 cover: https://s.gravatar.com/avatar/af22c5952fd5e43d12016def954cf503?s=216
 contacts:
   x: GuillaumeWallet

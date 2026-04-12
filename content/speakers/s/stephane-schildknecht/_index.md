@@ -9,12 +9,6 @@ cities:
 - fr/belfort
 - fr/mulhouse
 - fr/nancy
-tags:
-- postgresql
-- postgres
-- haute-disponibilite
-- database
-- bases-de-donnees
 contacts:
   x: saschild
   mail: s.schildknecht@loxodata.com

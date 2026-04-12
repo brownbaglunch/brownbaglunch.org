@@ -4,11 +4,6 @@ since: '2014-04-04'
 city: fr/paris-ou-proche
 cities:
 - fr/paris
-tags:
-- varnish
-- cache
-- http
-- performance
 cover: https://avatars1.githubusercontent.com/u/891744
 contacts:
   x: dboukelmoune

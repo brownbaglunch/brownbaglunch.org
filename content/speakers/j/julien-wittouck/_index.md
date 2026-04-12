@@ -4,11 +4,6 @@ since: '2023-04-28'
 city: fr/lille
 cities:
 - fr/lille
-tags:
-- spring-boot
-- docker
-- kubernetes
-- devops
 cover: https://secure.gravatar.com/avatar/98ffafe30da35001213aca8704533532?s=200
 contacts:
   x: codekaio

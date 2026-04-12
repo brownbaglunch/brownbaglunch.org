@@ -4,19 +4,6 @@ since: '2015-05-21'
 city: fr/lyon
 cities:
 - fr/lyon
-tags:
-- coaching
-- facilitation
-- facilitation-graphique
-- agile
-- scrum
-- kanban
-- innovation-games
-- jeux-agiles
-- externalisation
-- improvisation
-- team-building
-- entreprise-liberee
 cover: https://www.gravatar.com/userimage/47384013/2c0dbef602396d93de9ed73849805cc3?size=240
 contacts:
   x: vincentdaviet

@@ -4,13 +4,6 @@ since: '2017-12-21'
 city: fr/strasbourg
 cities:
 - fr/strasbourg
-tags:
-- software-craftsmanship
-- professionnalisme
-- agile
-- tdd
-- scrum
-- extreme-programming
 cover: https://secure.gravatar.com/avatar/582353edcee4fb4edbe224310bebe4b8?size=200
 contacts:
   x: nverinaud

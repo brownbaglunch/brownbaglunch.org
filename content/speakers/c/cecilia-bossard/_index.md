@@ -4,12 +4,6 @@ since: '2013-02-26'
 city: fr/nantes-et-environs
 cities:
 - fr/nantes
-tags:
-- git
-- programmation-visuelle
-- agile
-- diversite
-- womenintech
 cover: https://www.dropbox.com/s/jo8x92bany93i9v/Cecilia%20Bossard.jpg?dl=0
 contacts:
   x: ceciliaBossard

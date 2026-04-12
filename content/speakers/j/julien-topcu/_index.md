@@ -4,13 +4,6 @@ since: '2018-06-15'
 city: fr/paris-la-defense
 cities:
 - fr/paris
-tags:
-- kanban
-- xp
-- noestimates
-- agilite
-- architecture
-- domain-driven-design
 cover: https://www.gravatar.com/avatar/610f3914d9b392b389657823719f09dd
 contacts:
   x: JulienTopcu

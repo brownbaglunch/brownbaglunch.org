@@ -4,14 +4,6 @@ since: '2013-05-02'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- ddd
-- bdd
-- tdd
-- legacy-code
-- fp-style
-- clean-code
-- test
 cover: http://gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3.png
 contacts:
   x: cyriux

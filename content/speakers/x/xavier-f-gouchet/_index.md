@@ -10,21 +10,6 @@ cities:
 - fr/caen
 - fr/orleans
 - fr/versailles
-tags:
-- code-review
-- team
-- git
-- tests
-- coverage
-- mutation
-- android
-- java
-- kotlin
-- network
-- offline
-- build
-- gradle
-- pyramide
 cover: https://www.gravatar.com/avatar/2ecfc308b3401b0b9aa298f791044af1?s=512
 contacts:
   x: xgouchet

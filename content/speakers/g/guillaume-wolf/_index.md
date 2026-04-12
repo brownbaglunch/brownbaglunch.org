@@ -4,15 +4,6 @@ since: '2024-02-22'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- live-coding
-- green
-- eco-conception
-- html
-- css
-- javascript
-- quiz
-- environnement
 cover: https://avatars.githubusercontent.com/u/1233106
 contacts:
   x: geeyom

@@ -4,14 +4,6 @@ since: '2013-06-13'
 city: fr/toulouse-et-environs
 cities:
 - fr/toulouse
-tags:
-- agile
-- code
-- legacy-code
-- tdd
-- test
-- clean-code
-- craftsmanship
 cover: https://blog.crafting-labs.fr/images/antoine-vernois.jpg
 contacts:
   x: avernois

@@ -8,20 +8,6 @@ cities:
 - fr/lyon
 - fr/montpellier
 - fr/aix-en-provence
-tags:
-- java
-- jboss
-- docker
-- devops
-- j2ee
-- agilite
-- operation
-- developpement
-- exploitation
-- observabilite
-- ansible
-- vagrant
-- terraform
 cover: https://static.meallier.fr/logo.svg
 contacts:
   x: ericmeallier

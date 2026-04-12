@@ -4,12 +4,6 @@ since: '2014-04-20'
 city: fr/bordeaux
 cities:
 - fr/bordeaux
-tags:
-- experience-utilisateur
-- experience-client
-- design
-- conception
-- ergonomie
 contacts:
   x: k_strategy
   mail: x.maurin@kstrategy.fr

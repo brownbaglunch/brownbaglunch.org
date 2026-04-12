@@ -4,15 +4,6 @@ since: '2013-06-13'
 city: fr/grenoble
 cities:
 - fr/grenoble
-tags:
-- agile
-- scrum
-- kanban
-- docker
-- jenkins
-- monitoring
-- kubernetes
-- industrialisation
 contacts:
   x: ouelcum
   mail: laurent.tardif@zenika.com

@@ -4,9 +4,6 @@ since: '2013-02-26'
 city: fr/rennes-et-alentours
 cities:
 - fr/rennes
-tags:
-- agile
-- coaching
 contacts:
   mail: cbegot@gmail.com
 websites:

@@ -4,13 +4,6 @@ since: '2013-05-29'
 city: fr/vannes-et-morbihan
 cities:
 - fr/vannes
-tags:
-- agile
-- lean
-- kanban
-- games
-- management
-- scrum
 cover: http://www.gravatar.com/avatar/2898ad2474ba25b87a9326585d3a234e.png
 contacts:
   x: ckeromen

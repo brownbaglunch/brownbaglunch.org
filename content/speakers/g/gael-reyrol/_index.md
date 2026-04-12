@@ -4,19 +4,6 @@ since: '2019-03-22'
 city: fr/caen
 cities:
 - fr/caen
-tags:
-- devops
-- ci
-- cd
-- team
-- sysadmin
-- cloud
-- aws
-- googlecloud
-- azure
-- ovh
-- scaleway
-- clevercloud
 cover: https://avatars3.githubusercontent.com/u/498465?s=200
 contacts:
   x: gaelreyrol

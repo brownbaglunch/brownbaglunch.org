@@ -10,17 +10,6 @@ cities:
 - fr/nantes
 - fr/rennes
 - fr/strasbourg
-tags:
-- react
-- typescript
-- react-query
-- mobx
-- javascript
-- airtable
-- tally
-- make
-- integromat
-- strapi
 cover: https://fr.gravatar.com/userimage/227009654/fdcf0bc93ceb80a75be1fc36201fec36.png?size=200
 contacts:
   x: gabrielpichot

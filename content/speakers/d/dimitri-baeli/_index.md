@@ -4,12 +4,6 @@ since: '2013-05-08'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- kanban
-- agile
-- continuous-delivery
-- devops
-- git
 cover: http://gravatar.com/avatar/7f73df517fdea1028d28f39980edf441.png
 contacts:
   x: dbaeli

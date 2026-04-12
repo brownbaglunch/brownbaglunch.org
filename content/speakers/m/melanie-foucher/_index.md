@@ -4,9 +4,6 @@ since: '2016-09-27'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- design
-- presentation
 cover: http://fr.gravatar.com/melouleloup
 contacts:
   mail: mfoucher@lucca.fr

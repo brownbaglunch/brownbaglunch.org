@@ -4,17 +4,6 @@ since: '2014-04-05'
 city: fr/lille
 cities:
 - fr/lille
-tags:
-- developpeur
-- recrutement
-- carriere
-- technologie
-- radar
-- communaute
-- nodejs
-- typescript
-- angular
-- api
 cover: https://s.gravatar.com/avatar/21843b4b8796bb4d73cbe48368eb5575?s=256
 contacts:
   x: cyril_lakech

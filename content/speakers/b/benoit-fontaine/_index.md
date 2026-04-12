@@ -4,21 +4,6 @@ since: '2018-06-29'
 city: fr/lille
 cities:
 - fr/lille
-tags:
-- technical
-- debt
-- dette
-- technique
-- obsolescence
-- bienveillance
-- pr
-- pull
-- request
-- estime
-- soi
-- open
-- source
-- guithub
 cover: https://fr.gravatar.com/avatar/71b290a594201074c708a7d023b31ed6?size=200
 contacts:
   x: benotfontaine

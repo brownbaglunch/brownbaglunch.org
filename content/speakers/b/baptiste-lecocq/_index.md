@@ -4,12 +4,6 @@ since: '2019-02-05'
 city: fr/lille
 cities:
 - fr/lille
-tags:
-- scrum
-- culture
-- agile
-- rex
-- git
 cover: https://static.tiste.io/me.jpg
 contacts:
   x: tiste

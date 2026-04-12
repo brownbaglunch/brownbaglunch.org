@@ -4,10 +4,6 @@ since: '2017-01-01'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- git
-- rebase
-- push
 contacts:
   mail: harrich@lucca.fr
 websites:

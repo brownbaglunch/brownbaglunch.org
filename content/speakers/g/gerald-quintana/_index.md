@@ -5,8 +5,6 @@ city: fr/lyon
 cities:
 - fr/lyon
 - fr/saint-etienne
-tags:
-- kafka
 cover: https://avatars1.githubusercontent.com/u/755587?s=460&v=4
 contacts:
   x: gerald_quintana

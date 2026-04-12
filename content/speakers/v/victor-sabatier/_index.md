@@ -4,10 +4,6 @@ since: '2020-06-25'
 city: fr/grenoble
 cities:
 - fr/grenoble
-tags:
-- git
-- blockchain
-- fun
 cover: https://digital-grenoble.com/wp-content/uploads/2017/03/Victor-Sabatier-1.jpg
 contacts:
   mail: victor@reactivic.com

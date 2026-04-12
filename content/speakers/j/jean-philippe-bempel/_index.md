@@ -4,22 +4,6 @@ since: '2014-05-12'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- mechanical-sympathy
-- cpu
-- jvm
-- low-latency
-- performance
-- gc
-- memoire
-- jit
-- lock-free
-- metriques
-- diagnostic
-- clr
-- shenandoah
-- azul-c4
-- z-gc
 cover: https://pbs.twimg.com/profile_images/1019190216995811328/YARM51Fl_400x400.jpg
 contacts:
   x: jpbempel

@@ -4,21 +4,6 @@ since: '2017-12-28'
 city: fr/lille
 cities:
 - fr/lille
-tags:
-- polymer
-- webcomponents
-- pwa
-- javascript
-- qualite
-- qa
-- devs
-- po
-- archis
-- bad-usb
-- diy
-- arduino
-- hacking
-- securite
 cover: https://s.gravatar.com/avatar/09aec3477a937ad618eaeb77fd2eb337?s=200
 contacts:
   x: '@Nathan_damie'

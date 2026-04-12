@@ -4,14 +4,6 @@ since: '2013-10-30'
 city: fr/paris-intra-muros
 cities:
 - fr/paris
-tags:
-- presentation
-- startup
-- web
-- scala
-- programmation-fonctionnelle
-- lean-canvas
-- running-lean
 cover: https://fr.gravatar.com/userimage/4295265/c50510bb451992bde6f3add1a10525dd.jpg?size=256
 contacts:
   x: nmartignole

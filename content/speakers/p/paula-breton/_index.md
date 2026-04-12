@@ -4,10 +4,6 @@ since: '2023-05-09'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- design
-- developpement
-- collaboration
 cover: https://fr.gravatar.com/userimage/233847729/2830b975e80e13783ab1ae36ad228aeb.png?size=200
 contacts:
   mail: pbreton.designer@gmail.com

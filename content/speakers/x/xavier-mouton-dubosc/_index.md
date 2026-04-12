@@ -4,11 +4,6 @@ since: '2014-05-06'
 city: fr/toulouse-et-sa-banlieue
 cities:
 - fr/toulouse
-tags:
-- vie-privee
-- securite
-- chiffrement
-- ethique
 cover: http://dascritch.com/images/NightShot.jpg
 contacts:
   x: dascritch

@@ -4,16 +4,6 @@ since: '2017-10-30'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- quality
-- metrics
-- dashboard
-- jenkins
-- sonarqube
-- jira
-- github
-- xwiki
-- web-application
 cover: https://gravatar.com/avatar/0b17060fd5b56172e81e4bfbbcb438e0?&s=128
 contacts:
   x: vmassol

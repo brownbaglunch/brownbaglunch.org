@@ -4,14 +4,6 @@ since: '2018-01-19'
 city: fr/bordeaux
 cities:
 - fr/bordeaux
-tags:
-- continuous-delivery
-- automation
-- trunk-based-development
-- feature-toggling
-- ddd
-- symfony
-- php
 cover: https://pbs.twimg.com/profile_images/625645296723345408/vALM64V3_400x400.png
 contacts:
   x: mikael_letang

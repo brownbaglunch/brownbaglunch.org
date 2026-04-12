@@ -5,12 +5,6 @@ city: fr/paris
 cities:
 - fr/paris
 - fr/lyon
-tags:
-- code-legacy
-- legacy
-- agile
-- java
-- craftmanship
 cover: https://www.gravatar.com/avatar/e600f3739070d957a1393e02c935bacc?s=250
 contacts:
   x: YoannBuch

@@ -4,14 +4,6 @@ since: '2017-10-01'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- openshift
-- kubernetes
-- docker
-- devops
-- java
-- jvm
-- securite
 cover: https://pbs.twimg.com/media/C9MsXMRWAAALBZr.jpg
 contacts:
   x: kanedafromparis

@@ -4,12 +4,6 @@ since: '2015-11-19'
 city: fr/lyon
 cities:
 - fr/lyon
-tags:
-- docker
-- monitoring
-- grafana
-- supervision
-- linux
 cover: https://media.licdn.com/mpr/mpr/shrink_100_100/p/7/000/22e/134/21fe338.jpg
 contacts:
   x: xinity

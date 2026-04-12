@@ -4,24 +4,6 @@ since: '2018-09-26'
 city: fr/lille
 cities:
 - fr/lille
-tags:
-- chatbots
-- recast
-- nlp
-- intents
-- ai
-- electron
-- desktop
-- live-coding
-- vanillajs
-- javascript
-- front
-- basics
-- nodejs
-- nestjs
-- typescript
-- angular
-- api
 cover: https://avatars0.githubusercontent.com/u/9600228?u=5b0165bb1fecfd2f29b022229de06be07912b0e8&v=4
 contacts:
   x: lauthieb

@@ -4,16 +4,6 @@ since: '2017-01-01'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- architectures
-- microservices
-- patterns
-- java
-- kotlin
-- docker
-- container
-- kafka
-- spring
 cover: https://en.gravatar.com/userimage/30308348/1d1bb814c3ac6720c07845a1c57cb2ca.jpg?size=200
 contacts:
   x: riadhmnasri

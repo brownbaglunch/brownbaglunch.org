@@ -4,16 +4,6 @@ since: '2015-04-01'
 city: fr/nantes-et-alentours
 cities:
 - fr/nantes
-tags:
-- cartographie
-- sig
-- javascript
-- git
-- python
-- openstreetmap
-- osm
-- opendata
-- documentation
 cover: http://webgeodatavore.net/theme/images/logos/logo_webgeodatavore.png
 contacts:
   x: thomasg77

@@ -4,12 +4,6 @@ since: '2014-05-09'
 city: fr/tours
 cities:
 - fr/tours
-tags:
-- integration-continue
-- maven
-- java
-- git
-- mongodb
 cover: http://www.gravatar.com/avatar/9600dc1bda25e979e656559914e00021.png?s=240
 contacts:
   x: Cedric_Gatay

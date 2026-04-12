@@ -4,14 +4,6 @@ since: '2013-12-06'
 city: fr/paris-et-a-proximite
 cities:
 - fr/paris
-tags:
-- scala
-- angularjs
-- ionic
-- cordova
-- mobile
-- web
-- nosql
 cover: https://gravatar.com/avatar/f755e6e8914df5cbaa74d30dd7de1ae2.png?size=256
 contacts:
   x: loicknuchel

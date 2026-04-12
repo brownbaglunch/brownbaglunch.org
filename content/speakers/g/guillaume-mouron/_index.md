@@ -5,14 +5,6 @@ city: fr/lyon
 cities:
 - fr/lyon
 - fr/nantes
-tags:
-- live-coding
-- c
-- expression-trees
-- arbres-d-expression
-- rule-engine
-- moteur-de-regles
-- net
 cover: https://avatars3.githubusercontent.com/u/950148?s=200
 contacts:
   x: GMouron

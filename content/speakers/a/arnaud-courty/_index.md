@@ -6,11 +6,6 @@ cities:
 - fr/toulouse
 - fr/paris
 - fr/la-rochelle
-tags:
-- cybersecurity
-- owasp-web
-- iot
-- owasp-iot
 cover: http://vulcainreo.com/me.jpg
 contacts:
   x: vulcainreo

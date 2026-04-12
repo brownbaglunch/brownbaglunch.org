@@ -4,14 +4,6 @@ since: '2018-04-12'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- zenaton
-- process
-- agile
-- workflow
-- task
-- asynchronous
-- queue
 cover: https://avatars2.githubusercontent.com/u/134669
 contacts:
   x: gillesbarbier

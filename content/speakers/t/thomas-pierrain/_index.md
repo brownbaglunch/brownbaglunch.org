@@ -4,13 +4,6 @@ since: '2014-01-11'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- ddd
-- tdd
-- fluent
-- net
-- test
-- reactive
 cover: https://fr.gravatar.com/userimage/42372930/c633abb2c2155a61e5c62a475185dcf6.png?size=200
 contacts:
   x: tpierrain

@@ -4,11 +4,6 @@ since: '2020-02-24'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- agilite
-- scrum
-- produit
-- kanban
 cover: https://media-exp1.licdn.com/dms/image/C4D03AQFUf-SeETCowg/profile-displayphoto-shrink_200_200/0?e=1588204800&v=beta&t=Md-bkYfu-XmV79DPaI3uBZVM3SsSaPZZFGb52sS-ZS8
 contacts:
   mail: mael.morel@zenika.com

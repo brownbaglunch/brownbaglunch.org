@@ -4,20 +4,6 @@ since: '2014-04-25'
 city: fr/nantes-et-environs
 cities:
 - fr/nantes
-tags:
-- pwa
-- web
-- css
-- w3c
-- html5
-- fugu
-- serviceworker
-- enfants
-- decouverte
-- devoxx4kids
-- js
-- conseils
-- tech-talks
 cover: http://www.gravatar.com/avatar/5713f6958d5be53307b0a5ae717ba767.png?size=256
 contacts:
   x: jefBinomed

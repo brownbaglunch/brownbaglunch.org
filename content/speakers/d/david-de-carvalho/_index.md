@@ -4,21 +4,6 @@ since: '2017-06-26'
 city: fr/rennes-et-environs
 cities:
 - fr/rennes
-tags:
-- java
-- rest
-- microservices
-- rabbitmq
-- mom
-- message-oriented-middleware
-- cassandra
-- asynchrone
-- assynchronisme
-- architecture
-- sse
-- serversentevent
-- node
-- nodejs
 contacts:
   x: dedece35
   mail: ddecarvalho@pagesjaunes.fr

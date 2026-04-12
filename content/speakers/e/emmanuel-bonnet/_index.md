@@ -5,24 +5,6 @@ city: fr/toulouse-et-environs
 cities:
 - fr/toulouse
 - fr/paris
-tags:
-- ia-symbolique
-- ia-learning
-- decision-management
-- moteurs-de-regles
-- business-rules
-- regles-metiers
-- brms
-- low-code
-- ilog
-- drools
-- odm
-- jboss
-- ibm
-- jrules
-- red-hat
-- decision-manager-open-edition
-- operational-decision-manager
 cover: http://www.gravatar.com/avatar/a89e9302b1b93ce1220079ed86ba0447.png?size=256
 contacts:
   x: ebonnet31

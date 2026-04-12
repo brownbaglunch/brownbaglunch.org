@@ -4,9 +4,6 @@ since: '2014-05-04'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- emberjs
-- javascript
 cover: https://secure.gravatar.com/avatar/fb11d632ffe3f707da14aea540e4bd4f?s=250
 contacts:
   x: tchak13

@@ -4,12 +4,6 @@ since: '2013-02-11'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- cache
-- big-data
-- test
-- mobile
-- java
 contacts:
   x: mathildelemee
   mail: mathilde.lemee@yahoo.fr

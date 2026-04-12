@@ -4,13 +4,6 @@ since: '2015-05-29'
 city: fr/lille
 cities:
 - fr/lille
-tags:
-- android
-- ios
-- objets-connectes
-- iot
-- healthkit
-- google-fit
 contacts:
   x: iguane39
   mail: sebastien@pesme.net

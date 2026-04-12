@@ -5,15 +5,6 @@ city: fr/amiens
 cities:
 - fr/amiens
 - fr/paris
-tags:
-- dojo
-- code
-- test
-- software-craftsmanship
-- xp
-- tdd
-- clean-code
-- python
 cover: https://www.gravatar.com/avatar/b06b5d4777e2734feb91298062539ec8?s=300
 contacts:
   x: amicel

@@ -8,16 +8,6 @@ cities:
 - fr/nantes
 - fr/lyon
 - fr/bordeaux
-tags:
-- nosql
-- couchbase
-- base-de-donnees
-- json
-- mobile
-- offline
-- sqlite
-- architecture
-- consistency
 cover: https://secure.gravatar.com/avatar/f2c7c409a480e8a5e7891220826315f1?size=200
 contacts:
   mail: steph.lang.fr@gmail.com

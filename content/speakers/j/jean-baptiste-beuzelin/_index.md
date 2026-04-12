@@ -5,10 +5,6 @@ city: fr/paris
 cities:
 - fr/paris
 - fr/nantes
-tags:
-- saas
-- si
-- tooling
 cover: http://www.lucca.fr/img/equipe/jbeuzelin.png
 contacts:
   x: JB_Beuzelin

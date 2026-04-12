@@ -5,12 +5,6 @@ city: fr/amiens
 cities:
 - fr/amiens
 - fr/lille
-tags:
-- api
-- php
-- kubernetes
-- docker
-- devops
 cover: https://les-tilleuls.coop/client/a46ea2d55c88fdb3d284dae09ff0d984.jpg
 contacts:
   x: cDaed

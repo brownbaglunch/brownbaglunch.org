@@ -5,10 +5,6 @@ city: fr/strasbourg
 cities:
 - fr/strasbourg
 - fr/paris
-tags:
-- rest
-- api
-- http
 cover: https://fr.gravatar.com/userimage/14646520/4f4940b2bdbc85918a045429e92fc118.jpg?size=250
 contacts:
   x: xcapetir

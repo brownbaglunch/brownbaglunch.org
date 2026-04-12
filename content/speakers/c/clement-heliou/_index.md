@@ -4,14 +4,6 @@ since: '2017-10-19'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- eventsourcing
-- cqrs
-- ddd
-- eventstorming
-- processmanager
-- examplemapping
-- bdd
 cover: https://pbs.twimg.com/profile_images/865131946908635139/hONda4V3_400x400.jpg
 contacts:
   x: c_heliou

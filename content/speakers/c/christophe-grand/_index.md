@@ -4,14 +4,6 @@ since: '2013-12-19'
 city: fr/saint-etienne
 cities:
 - fr/saint-etienne
-tags:
-- clojure
-- fp-style
-- programmation-fonctionnelle
-- software-design
-- hypermedia
-- rest
-- api
 contacts:
   x: cgrand
   mail: christophe@cgrand.net

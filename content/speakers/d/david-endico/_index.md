@@ -5,15 +5,6 @@ city: fr/rouen
 cities:
 - fr/rouen
 - fr/paris
-tags:
-- ui
-- ux
-- design
-- ergonomie
-- branding
-- graphisme
-- charte
-- graphique
 cover: https://pbs.twimg.com/profile_images/696987947522990080/md67ySS9_400x400.png
 contacts:
   x: davidendico

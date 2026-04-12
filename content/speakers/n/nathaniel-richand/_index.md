@@ -4,8 +4,6 @@ since: '2013-02-09'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- agile
 contacts:
   x: nrichand
   mail: nrichand@brownbaglunch.fr

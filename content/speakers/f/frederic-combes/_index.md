@@ -4,17 +4,6 @@ since: '2019-05-25'
 city: fr/toulouse
 cities:
 - fr/toulouse
-tags:
-- git
-- devtools
-- version
-- spring
-- reactor
-- java
-- webflux
-- architecture
-- hexagonale
-- legacy
 cover: https://blog.ght1pc9kc.fr/img/bio-marthym.webp
 contacts:
   mail: fcombes.bbl@ght1pc9kc.fr

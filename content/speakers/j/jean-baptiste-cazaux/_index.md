@@ -4,11 +4,6 @@ since: '2017-03-02'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- react
-- typescript
-- es6
-- angular
 cover: https://avatars2.githubusercontent.com/u/576429?v=3&s=460
 contacts:
   x: jbcazaux

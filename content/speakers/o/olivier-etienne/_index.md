@@ -4,14 +4,6 @@ since: '2014-06-08'
 city: fr/toulouse
 cities:
 - fr/toulouse
-tags:
-- http
-- java
-- orange
-- raspberry-pi
-- php
-- test
-- automatisation
 contacts:
   x: olivier_etienne
   mail: olivier.etienne@gmail.com

@@ -4,12 +4,6 @@ since: '2014-11-07'
 city: fr/bordeaux
 cities:
 - fr/bordeaux
-tags:
-- tdd
-- extreme-programming
-- agilite
-- agile
-- code
 contacts:
   x: bodysplash
   mail: jbdusseaut@arpinum.fr

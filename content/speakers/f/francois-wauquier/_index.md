@@ -6,14 +6,6 @@ cities:
 - fr/paris
 - fr/versailles
 - fr/lille
-tags:
-- agile
-- scrum
-- kanban
-- web
-- javascript
-- ergonomie
-- open-source
 cover: https://www.gravatar.com/avatar/f2e8cfc6c2f76441b3b8c110fcb12b23?s=256
 contacts:
   x: wokier

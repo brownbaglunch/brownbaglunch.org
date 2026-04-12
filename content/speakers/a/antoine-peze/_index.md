@@ -5,24 +5,6 @@ city: fr/paris
 cities:
 - fr/paris
 - fr/lille
-tags:
-- ux
-- design-thinking
-- ecoute-active
-- emotion
-- interview
-- experience-map
-- hackathon
-- sprint
-- tests-utilisateurs
-- innovation
-- design
-- design-sprint
-- lean-ux
-- lean-startup
-- methodo
-- rex
-- ecoute
 cover: http://antoinepeze.com/images/antoine-peze.png
 contacts:
   x: antoinepeze

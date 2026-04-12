@@ -4,10 +4,6 @@ since: '2016-06-14'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- sketchnote
-- scribing
-- facilitation-graphique
 contacts:
   x: '@Marc_DUGUE'
   mail: marc.dugue@gmail.com

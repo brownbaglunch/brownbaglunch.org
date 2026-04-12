@@ -4,13 +4,6 @@ since: '2015-10-29'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- ux
-- ux-designer
-- ergonomie
-- user-interface
-- personas
-- design-thinking
 cover: http://fatenhabachi.com/images/fatenhabachi.jpg
 contacts:
   x: fatenh

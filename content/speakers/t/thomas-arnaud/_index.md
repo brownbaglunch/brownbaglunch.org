@@ -4,14 +4,6 @@ since: '2014-06-06'
 city: fr/clermont-ferrand-et-environs
 cities:
 - fr/clermont-ferrand
-tags:
-- java
-- performance
-- calcul-distrubue
-- hadoop
-- storm
-- cassandra
-- nosql
 cover: http://www.gravatar.com/avatar/36656f02d742ed98c85c8c80a83fbb41.png?s=200
 contacts:
   x: level5_c

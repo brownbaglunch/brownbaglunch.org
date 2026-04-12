@@ -4,13 +4,6 @@ since: '2014-03-29'
 city: fr/rennes
 cities:
 - fr/rennes
-tags:
-- agile
-- kanban
-- alm
-- git
-- tdd
-- coding-dojo
 cover: http://www.gravatar.com/avatar/bb477281f4de9e113b37d74c949d6ee5?s=512
 contacts:
   x: gcollic

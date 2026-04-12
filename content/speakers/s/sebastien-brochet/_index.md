@@ -4,10 +4,6 @@ since: '2015-03-09'
 city: fr/paris-et-rp
 cities:
 - fr/paris
-tags:
-- devops
-- azure
-- vsts
 cover: https://s.gravatar.com/avatar/9080bb346b547fd66c136e4f11d9cfaf?s=200
 contacts:
   x: sebbrochet

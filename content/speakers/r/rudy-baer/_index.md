@@ -5,17 +5,6 @@ city: fr/rouen
 cities:
 - fr/rouen
 - fr/paris
-tags:
-- entreprendre
-- entrepreneur
-- startup
-- startuper
-- projet
-- numerique
-- ui
-- ux
-- design
-- ergonomie
 cover: https://www.bearstudio.fr/user/themes/bearstudio/dist/assets/app/img/rudy-baer-md.jpg
 contacts:
   x: rudybaer

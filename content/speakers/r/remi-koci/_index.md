@@ -6,20 +6,6 @@ cities:
 - fr/nantes
 - fr/paris
 - fr/remote
-tags:
-- agile
-- scrum
-- serious-game
-- team-building
-- lego
-- initiation
-- agilite
-- management
-- culuture
-- vision
-- responsabilisation
-- motivation
-- innovation-manageriale
 cover: https://lh3.googleusercontent.com/pw/ABLVV84iytG5lnElHOd-h34vD239OX_vdHsbAcJld8dd-q5xllcYXWmIYP4bk8ZlwcyF_7XD_Q2IX7hniGNz8Lz1oDs49nQLO9bgfpgfxfg4E3GJA4SdQJ4DdpefKcldPfT9ZNjMjNJatx2kQ5I9EG_4wKGFHw=w1340-h1340-s-no-gm
 contacts:
   x: remikoci

@@ -4,13 +4,6 @@ since: '2013-02-27'
 city: fr/lyon
 cities:
 - fr/lyon
-tags:
-- java
-- lambda
-- angularjs
-- javascript
-- play
-- git
 cover: http://www.gravatar.com/avatar/0f0edb7904c4eea5f1b60fba0bf88537?s=250
 contacts:
   x: cedric_exbrayat

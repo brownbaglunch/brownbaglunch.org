@@ -5,29 +5,6 @@ city: fr/ouest-parisien-proche-versailles
 cities:
 - fr/versailles
 - fr/saint-quentin-en-yvelines
-tags:
-- docker
-- container
-- devops
-- administration-systeme
-- automatisation
-- industrialisation
-- ansible
-- tick
-- telegraf
-- influxdb
-- chronograf
-- kapacitor
-- grafana
-- time-series
-- donnees-temporelles
-- proxy
-- apache
-- nginx
-- traefik
-- web
-- reverse-proxy
-- securite
 cover: https://nicolas.steinmetz.fr/public/ns_240x160.jpg
 contacts:
   x: _CerenIT

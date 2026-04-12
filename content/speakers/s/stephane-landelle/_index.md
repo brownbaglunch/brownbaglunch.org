@@ -4,13 +4,6 @@ since: '2013-11-20'
 city: fr/paris-et-proche-couronne
 cities:
 - fr/paris
-tags:
-- presentation
-- gatling
-- test
-- stress
-- load
-- scala
 contacts:
   x: slandelle
   mail: slandelle@gatling.io

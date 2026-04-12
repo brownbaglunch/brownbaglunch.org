@@ -4,12 +4,6 @@ since: '2017-07-19'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- rust
-- behat
-- embarque
-- php
-- symfony
 cover: https://nicolas.joseph.pro/avatar
 contacts:
   x: sanpi_

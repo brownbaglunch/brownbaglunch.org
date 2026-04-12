@@ -4,24 +4,6 @@ since: '2018-03-22'
 city: fr/bordeaux
 cities:
 - fr/bordeaux
-tags:
-- container
-- docker
-- kubernetes
-- orchestration
-- cncf
-- infrastructure-as-code
-- ansible
-- ssh
-- idempotence
-- 12-factors
-- bonnes-pratiques
-- operator
-- extensions
-- go
-- monitoring
-- prometheus
-- fullstack
 cover: https://goo.gl/jcJoWs
 contacts:
   x: etiennecoutaud

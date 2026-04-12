@@ -4,13 +4,6 @@ since: '2014-05-10'
 city: fr/o
 cities:
 - fr/toulouse
-tags:
-- ssl
-- akka
-- acteurs
-- jvm
-- scala
-- java
 contacts:
   x: fcabestre
   mail: frederic.cabestre@free.fr

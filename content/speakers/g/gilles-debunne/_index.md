@@ -4,16 +4,6 @@ since: '2015-04-14'
 city: fr/toulouse-et-tele-travail
 cities:
 - fr/toulouse
-tags:
-- experience-utilisateur
-- ui
-- mobile
-- cocos2d
-- angularjs
-- ionic
-- git
-- agile
-- lean-startup
 cover: https://cloudinary-a.akamaihd.net/hopwork/image/upload/t_bigprofile/etn9it6jsyy2cqaiwbll.jpg
 contacts:
   x: gdebunne

@@ -4,18 +4,6 @@ since: '2018-11-17'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- kafka
-- agile
-- autonomie
-- just-culture
-- post-mortem
-- chaos-engineering
-- gameday
-- leader
-- anti-fragile-pattern
-- sre
-- 12-factor
 cover: https://avatars2.githubusercontent.com/u/2259101?s=460&v=4
 contacts:
   x: sylv3k

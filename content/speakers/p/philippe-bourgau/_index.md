@@ -4,10 +4,6 @@ since: '2018-04-06'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- bdd
-- ddd
-- refactoring
 cover: http://www.gravatar.com/avatar/686399bd630ecc9381e4dfec8720816e?s=250
 contacts:
   x: pbourgau

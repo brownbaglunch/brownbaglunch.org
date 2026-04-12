@@ -5,16 +5,6 @@ city: fr/bordeaux
 cities:
 - fr/bordeaux
 - fr/paris
-tags:
-- java
-- clean-code
-- gamification
-- dette-technique
-- ddd
-- js
-- web
-- crawling
-- finger-printing
 cover: https://avatars3.githubusercontent.com/u/10332041?s=460&v=4
 contacts:
   mail: xavier.blanc@u-bordeaux.fr

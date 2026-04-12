@@ -4,12 +4,6 @@ since: '2015-05-11'
 city: fr/montreuil-paris
 cities:
 - fr/paris
-tags:
-- code-legacy
-- javascript
-- bugs
-- tech-leadership
-- planification
 cover: http://adrienjoly.com/img/photo.jpg
 contacts:
   x: adrienjoly

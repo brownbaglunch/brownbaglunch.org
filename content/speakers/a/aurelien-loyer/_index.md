@@ -4,20 +4,6 @@ since: '2017-11-29'
 city: fr/lille
 cities:
 - fr/lille
-tags:
-- angularjs
-- angular
-- react
-- javascript
-- vue-js
-- bad-usb
-- diy
-- arduino
-- hacking
-- securite
-- node-js
-- nestjs
-- express
 cover: https://avatars0.githubusercontent.com/u/3717296?s=460
 contacts:
   x: AurelienLoyer

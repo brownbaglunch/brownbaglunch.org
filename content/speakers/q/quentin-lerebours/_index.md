@@ -5,15 +5,6 @@ city: fr/rouen
 cities:
 - fr/rouen
 - fr/paris
-tags:
-- googlehome
-- actions-on-google
-- dialogflow
-- firebase
-- react-native
-- iot
-- ble
-- gatt
 cover: https://lh5.googleusercontent.com/-BO6pCTEZS0c/AAAAAAAAAAI/AAAAAAAAAA4/I0rcyN8skhk/photo.jpg
 contacts:
   x: qlerebours_

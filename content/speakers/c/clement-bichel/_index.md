@@ -4,16 +4,6 @@ since: '2019-11-25'
 city: fr/bordeaux
 cities:
 - fr/bordeaux
-tags:
-- agilite
-- methodes-agiles
-- coach-agile
-- scrum
-- kanban
-- management-3-0
-- serious-game
-- liberating-structures
-- safe
 cover: https://pbs.twimg.com/profile_images/1090679366374305793/60Izz_T2_400x400.jpg
 contacts:
   x: clementbichel

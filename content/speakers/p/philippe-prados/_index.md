@@ -4,12 +4,6 @@ since: '2014-01-31'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- architecture
-- scala
-- java
-- android
-- securite
 cover: http://www.prados.fr/_/rsrc/1351608832371/cv/MOI%20300x297.png?height=198&width=200
 contacts:
   x: pprados

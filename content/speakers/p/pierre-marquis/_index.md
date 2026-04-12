@@ -4,12 +4,6 @@ since: '2014-07-28'
 city: fr/rennes-et-alentours
 cities:
 - fr/rennes
-tags:
-- agile
-- scrum
-- kanban
-- management
-- cto
 cover: https://media-exp1.licdn.com/dms/image/C5603AQEYHTSORNrQ9g/profile-displayphoto-shrink_200_200/0?e=1588204800&v=beta&t=pejmtKDPIQwMQKfbA975mKeFxZ5tx8TBWSwdNYxAJYo
 contacts:
   x: PierMarquis

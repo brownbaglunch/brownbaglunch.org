@@ -5,11 +5,6 @@ city: fr/nantes
 cities:
 - fr/nantes
 - fr/la-roche-sur-yon
-tags:
-- lego-serious-play
-- intelligence-collective
-- serious-game
-- agilite
 cover: http://1.gravatar.com/avatar/ea9ebb2e0f991a8656aeabed7b341aa8
 contacts:
   x: alagoye

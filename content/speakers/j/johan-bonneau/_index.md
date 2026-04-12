@@ -4,14 +4,6 @@ since: '2019-11-25'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- agile
-- coaching
-- management
-- safe
-- kanban
-- scrum
-- git
 cover: http://www.johanbonneau.com/assets/img/johan_bonneau.jpg
 contacts:
   x: JohanBonneau

@@ -4,11 +4,6 @@ since: '2013-02-26'
 city: fr/nantes-et-environs
 cities:
 - fr/nantes
-tags:
-- agile
-- serious-game
-- devops
-- tddlego
 cover: http://www.cecile-especel.com/var/users/7831/avatar/8108/avatar_cp.jpg
 contacts:
   x: Cecile_Especel

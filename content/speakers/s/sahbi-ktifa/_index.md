@@ -4,14 +4,6 @@ since: '2019-04-19'
 city: fr/thoiry
 cities:
 - fr/paris
-tags:
-- jhipster
-- dev
-- vue-js
-- heroku
-- java
-- angular
-- react
 cover: https://github.com/sahbi-ktifa.png
 contacts:
   x: SahbiKtifa

@@ -4,17 +4,6 @@ since: '2016-07-18'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- poc
-- saas
-- scalabilite
-- rh
-- product-owner
-- engagement
-- team-building
-- recrutement
-- transparence
-- management
 cover: https://avatars1.githubusercontent.com/u/2751422?v=3&u=93aa7a0037a926090eb975aaf590840a069f6a44&s=140
 contacts:
   x: fpot

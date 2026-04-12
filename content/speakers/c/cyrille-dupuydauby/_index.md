@@ -4,24 +4,6 @@ since: '2014-04-21'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- ddd
-- tdd
-- fluent
-- net
-- test
-- nfluent
-- reactive
-- finance
-- sequencer
-- conflation
-- performance
-- changement
-- transformation
-- rh
-- cleancode
-- iteratif
-- refactoring
 cover: http://gravatar.com/avatar/43022845c143b75a94c7c4b855975ee3&size=200
 contacts:
   x: cyrdup

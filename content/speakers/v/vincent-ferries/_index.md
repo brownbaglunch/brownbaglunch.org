@@ -4,11 +4,6 @@ since: '2013-10-17'
 city: fr/toulouse-et-agglomeration
 cities:
 - fr/toulouse
-tags:
-- javaee
-- android
-- dojo
-- dart
 contacts:
   x: VincentFERRIES
   mail: vincent.ferries@gmail.com

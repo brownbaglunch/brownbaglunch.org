@@ -4,14 +4,6 @@ since: '2019-04-16'
 city: fr/bordeaux
 cities:
 - fr/bordeaux
-tags:
-- react
-- javascript
-- redux
-- ddd
-- developpeur
-- recrutement
-- front
 cover: https://secure.gravatar.com/avatar/5aaaecf4c870c833121f034df92b7586?s=400
 contacts:
   x: caedes

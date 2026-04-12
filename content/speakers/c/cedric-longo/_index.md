@@ -4,8 +4,6 @@ since: '2015-08-28'
 city: fr/montpellier
 cities:
 - fr/montpellier
-tags:
-- java
 cover: https://lh6.googleusercontent.com/-uIJAnywy0hM/VOjcAR_EWSI/AAAAAAAAHGE/PkZUYbadokc/w820-h819-no/RD071.jpg
 contacts:
   x: u2032

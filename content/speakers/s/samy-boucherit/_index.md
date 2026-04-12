@@ -7,14 +7,6 @@ cities:
 - fr/nancy
 - fr/toulouse
 - fr/nantes
-tags:
-- blockchain
-- bitcoin
-- ethereum
-- solidity
-- remote
-- cryptocurrency
-- cryptomonnaies
 cover: https://i.imgur.com/rabw5jl.png
 contacts:
   mail: sboucherit@palo-it.com

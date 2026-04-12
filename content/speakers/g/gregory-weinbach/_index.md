@@ -6,18 +6,6 @@ cities:
 - fr/paris
 - fr/versailles
 - fr/saint-quentin-en-yvelines
-tags:
-- ux
-- design
-- agile
-- ddd
-- domain-driven-design
-- modele
-- bounded-context
-- modelisation
-- lean
-- enterprise-architecture
-- architecture-d-entreprise
 cover: http://www.gravatar.com/avatar/ba2153e6f9d0b36cc822d59f6c7355a9?s=200
 contacts:
   x: gweinbach

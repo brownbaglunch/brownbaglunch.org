@@ -4,21 +4,6 @@ since: '2019-12-23'
 city: fr/lille
 cities:
 - fr/lille
-tags:
-- developpement
-- java
-- jhipster
-- front
-- back
-- microservices
-- vue
-- javascript
-- typescript
-- kubernetes
-- docker
-- devops
-- micronaut
-- quarkus
 cover: https://www.francois-delbrayelle.fr/images/fdelbrayelle.jpg
 contacts:
   x: fdelbrayelle

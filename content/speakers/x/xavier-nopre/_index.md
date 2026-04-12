@@ -4,23 +4,6 @@ since: '2013-05-07'
 city: fr/grenoble
 cities:
 - fr/grenoble
-tags:
-- tests
-- tests-unitaires
-- tdd
-- java
-- agilite
-- scrum
-- ingenierie-agile
-- usine-logicielle
-- industrialisation
-- web
-- play
-- framework
-- ansible
-- devops
-- docker
-- developpement
 contacts:
   x: xnopre
   mail: xnopre@gmail.com

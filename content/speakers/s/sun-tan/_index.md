@@ -4,17 +4,6 @@ since: '2015-11-08'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- kubernetes
-- java
-- openshift
-- docker
-- podman
-- container
-- cloud
-- devops
-- operator
-- crd
 cover: https://avatars3.githubusercontent.com/u/650571?v=3&s=460
 contacts:
   x: __sunix_

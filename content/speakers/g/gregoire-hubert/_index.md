@@ -5,12 +5,6 @@ city: fr/nantes
 cities:
 - fr/paris
 - fr/nantes
-tags:
-- php
-- postgresql
-- silex
-- pomm
-- sql
 cover: http://gravatar.com/avatar/f32f06ab7d033c171c5c0ea1e1c1c00e?s=200
 contacts:
   x: chanmix51

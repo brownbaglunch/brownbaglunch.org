@@ -4,10 +4,6 @@ since: '2016-10-04'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- clips
-- expert-system
-- pizza
 cover: https://secure.gravatar.com/avatar/58f2522ae863d49748f891dcaa34e7d1
 contacts:
   x: alexcarpe

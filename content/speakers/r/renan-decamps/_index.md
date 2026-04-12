@@ -4,12 +4,6 @@ since: '2019-06-24'
 city: fr/rouen
 cities:
 - fr/rouen
-tags:
-- javascript
-- react
-- angular
-- web
-- front
 cover: https://gravatar.com/avatar/a9864e9b341567213872b78f3e7bc4c1
 contacts:
   x: decampsrenan

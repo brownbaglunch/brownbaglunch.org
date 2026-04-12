@@ -4,12 +4,6 @@ since: '2023-02-20'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- android
-- ios
-- mobile
-- dev
-- discovery
 cover: https://avatars.githubusercontent.com/u/15615569
 contacts:
   x: cy_hue

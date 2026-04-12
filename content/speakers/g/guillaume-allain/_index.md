@@ -4,20 +4,6 @@ since: '2016-07-18'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- trello
-- saas
-- si
-- tooling
-- slack
-- objectifs
-- leanstartup
-- retour-d-experience
-- evaluation
-- scrum
-- startup
-- startupweekend
-- get-things-done-in-team
 cover: https://secure.gravatar.com/avatar/4bd61d872d5e2596c631a4f1d3041451?size=256
 contacts:
   x: gallain

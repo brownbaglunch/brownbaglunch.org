@@ -4,10 +4,6 @@ since: '2013-03-29'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- intelligence-artificielle
-- java
-- code
 contacts:
   x: elefevre
   mail: contact@ericlefevre.net

@@ -4,21 +4,6 @@ since: '2018-05-17'
 city: fr/caen
 cities:
 - fr/caen
-tags:
-- remote
-- teletravail
-- agile
-- team
-- docker
-- docker-compose
-- devops
-- open-source
-- javascript
-- tests
-- jest
-- cypress
-- git
-- github
 cover: https://pbs.twimg.com/profile_images/547088902385700864/l7UMrYDT_400x400.jpeg
 contacts:
   x: alexisjanvier

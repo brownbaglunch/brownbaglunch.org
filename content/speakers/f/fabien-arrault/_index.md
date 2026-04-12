@@ -4,9 +4,6 @@ since: '2016-01-10'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- spring
-- spring-boot
 cover: https://dl.dropboxusercontent.com/u/29509621/farrault.jpg
 contacts:
   x: farrault

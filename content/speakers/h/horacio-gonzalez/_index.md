@@ -4,13 +4,6 @@ since: '2013-11-29'
 city: fr/la-pointe-de-la-bretagne
 cities:
 - fr/brest
-tags:
-- web
-- java
-- groovy
-- javascript
-- angularjs
-- dart
 contacts:
   x: lostinbrittany
   mail: horacio.gonzalez@gmail.com

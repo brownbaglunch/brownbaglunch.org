@@ -5,16 +5,6 @@ city: fr/lyon
 cities:
 - fr/lyon
 - fr/saint-etienne
-tags:
-- functional-programming
-- programmation-fonctionnelle
-- scala
-- haskell
-- sml
-- idris
-- nix
-- monad
-- lenses
 cover: http://www.gravatar.com/avatar/757cdab5633c1935bb37b24b1fe2729f?s=250
 contacts:
   x: karolchmist

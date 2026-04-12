@@ -5,10 +5,6 @@ city: fr/paris
 cities:
 - fr/paris
 - fr/orleans
-tags:
-- scalability
-- graphql
-- happiness-at-work
 cover: https://avatars2.githubusercontent.com/u/158689?v=3&s=460
 contacts:
   x: tsunammis

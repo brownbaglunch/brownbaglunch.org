@@ -4,8 +4,6 @@ since: '2014-02-27'
 city: fr/regions-francophones
 cities:
 - fr/paris
-tags:
-- cassandra
 cover: http://www.gravatar.com/avatar/ffa96040bb4211cad1c66f385d8cb77b.png
 contacts:
   x: doanduyhai

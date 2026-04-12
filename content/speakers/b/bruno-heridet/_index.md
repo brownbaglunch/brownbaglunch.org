@@ -5,9 +5,6 @@ city: fr/lyon
 cities:
 - fr/lyon
 - fr/nantes
-tags:
-- vim
-- outils
 cover: http://www.gravatar.com/avatar/1de6337421c1eac0227c88502b275952?size=200
 contacts:
   x: delapouite

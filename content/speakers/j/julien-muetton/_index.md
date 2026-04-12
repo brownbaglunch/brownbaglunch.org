@@ -4,13 +4,6 @@ since: '2013-09-06'
 city: fr/clermont-ferrand-et-environs
 cities:
 - fr/clermont-ferrand
-tags:
-- javascript
-- php
-- http
-- rest
-- test
-- git
 cover: http://clermontech.org/images/speaker-images/themouette.jpeg
 contacts:
   x: themouette

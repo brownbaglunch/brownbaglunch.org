@@ -4,10 +4,6 @@ since: '2013-11-04'
 city: fr/bordeaux
 cities:
 - fr/bordeaux
-tags:
-- performance
-- jee
-- java
 cover: http://www.jperf.com/images/jpl.jpg
 contacts:
   x: jlerbsc

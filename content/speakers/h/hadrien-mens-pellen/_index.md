@@ -5,14 +5,6 @@ city: fr/nantes
 cities:
 - fr/nantes
 - fr/remote
-tags:
-- tdd
-- xp
-- mob-programming
-- extreme-programming
-- agile
-- dojo
-- pair-programming
 cover: https://hadrienmp.fr/images/Profil.webp
 contacts:
   x: hadrienmp

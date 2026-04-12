@@ -4,10 +4,6 @@ since: '2014-06-07'
 city: fr/toulon-et-environs
 cities:
 - fr/toulon
-tags:
-- python
-- performance
-- web
 contacts:
   x: providenz
   mail: lp@providenz.fr

@@ -4,18 +4,6 @@ since: '2018-06-01'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- boxes
-- router
-- diy
-- mikrotik
-- ipv6
-- fai
-- cryptographie
-- xor
-- php
-- vernam
-- lfsr
 cover: https://avatars2.githubusercontent.com/u/72415?s=460&v=4
 contacts:
   x: julienpauli

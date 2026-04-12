@@ -4,10 +4,6 @@ since: '2018-01-25'
 city: fr/metropole-lilloise
 cities:
 - fr/lille
-tags:
-- machine-learning
-- rnn
-- go
 cover: https://s3.amazonaws.com/askbob/users/photos/914/big/me_dublin.jpg
 contacts:
   x: owulveryck

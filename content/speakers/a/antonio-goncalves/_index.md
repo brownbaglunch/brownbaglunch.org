@@ -4,23 +4,6 @@ since: '2013-06-03'
 city: fr/paris-intramuros-mais-je-veux-bien-faire-un-effort
 cities:
 - fr/paris
-tags:
-- langchain4j
-- ai
-- ia
-- intelligence-artificielle
-- rag
-- microservices
-- microprofile
-- quarkus
-- graalvm
-- panache
-- cloud
-- ddd
-- rest
-- circuit-breaker
-- registry
-- pros-and-cons
 cover: http://agoncal.files.wordpress.com/2013/05/antonio2013square2562.jpg
 contacts:
   x: agoncal

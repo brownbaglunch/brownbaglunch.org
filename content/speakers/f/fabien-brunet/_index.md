@@ -4,11 +4,6 @@ since: '2023-06-26'
 city: fr/rennes
 cities:
 - fr/rennes
-tags:
-- frontend
-- developpement
-- architecture
-- sustainable
 cover: https://avatars.githubusercontent.com/u/29751338?v=4
 contacts:
   mail: dev@linktogo.fr

@@ -5,12 +5,6 @@ city: fr/lille
 cities:
 - fr/paris
 - fr/lille
-tags:
-- tsung
-- test
-- performance
-- sig
-- osm
 cover: http://www.gravatar.com/avatar/95a63eeb28d5e8237cfb8d6c75798ef1.png
 contacts:
   x: rodoq

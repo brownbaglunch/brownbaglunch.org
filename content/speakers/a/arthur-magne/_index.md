@@ -4,12 +4,6 @@ since: '2018-08-03'
 city: fr/bordeaux
 cities:
 - fr/bordeaux
-tags:
-- software-craftsmanship
-- clean-code
-- dette-technique
-- tests
-- communication
 cover: https://secure.gravatar.com/avatar/81bc7a35930c4ab2ae9400ff8a325206?size=400
 contacts:
   mail: arthur.magne@promyze.com

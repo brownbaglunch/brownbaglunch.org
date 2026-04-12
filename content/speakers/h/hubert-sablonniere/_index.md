@@ -6,11 +6,6 @@ cities:
 - fr/lille
 - fr/paris
 - fr/nantes
-tags:
-- web
-- securite
-- cookies
-- auth
 cover: https://www.hsablonniere.com/theme/img/hsablonniere.jpg
 contacts:
   x: hsablonniere

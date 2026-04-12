@@ -5,18 +5,6 @@ city: fr/quimper
 cities:
 - fr/brest
 - fr/vannes
-tags:
-- javascript
-- react
-- react-native
-- test
-- git
-- ci-cd
-- devops
-- organisation-d-equipe
-- usage-utilisateur
-- qualite-de-code
-- ''
 cover: https://s.gravatar.com/avatar/9a4ff1ce22ad3b6c2e7d38b5a2ab0a41?s=200
 contacts:
   mail: gurvan@hojopa.com

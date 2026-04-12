@@ -4,17 +4,6 @@ since: '2016-02-27'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- management
-- agile
-- continuous-learning
-- okr
-- scale
-- organization
-- security
-- privacy
-- threat
-- risk
 cover: https://secure.gravatar.com/avatar/d20f256700e1666bc32d5904c8225e13?size=200
 contacts:
   x: FredericRivain

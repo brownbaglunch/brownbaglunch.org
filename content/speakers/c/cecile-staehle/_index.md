@@ -4,14 +4,6 @@ since: '2023-04-27'
 city: fr/nantes
 cities:
 - fr/nantes
-tags:
-- sociocratie
-- organisation
-- decision
-- gouvernance
-- consentement
-- management
-- autogestion
 cover: https://strapi.troopers.agency/uploads/cecile_9ee7f62fb0.jpeg
 contacts:
   mail: cecile@troopers.email

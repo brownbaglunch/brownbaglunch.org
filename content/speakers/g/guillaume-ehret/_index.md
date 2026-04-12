@@ -5,15 +5,6 @@ city: fr/saint-etienne
 cities:
 - fr/saint-etienne
 - fr/lyon
-tags:
-- agilite
-- android
-- java
-- test
-- maven
-- jenkins
-- angularjs
-- yeoman
 cover: https://raw.github.com/javamind/partage/master/guillaumeehret.jpg
 contacts:
   x: guillaumeehret

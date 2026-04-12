@@ -4,19 +4,6 @@ since: '2016-06-02'
 city: fr/toulouse
 cities:
 - fr/toulouse
-tags:
-- javascript
-- angular2
-- typescript
-- angularjs
-- test
-- tdd
-- agile
-- angular
-- deploy
-- java
-- javaslang
-- java-8
 cover: https://www.gravatar.com/avatar/477389c44ffb21d82a4e05dd46f8aaa2?s=200
 contacts:
   x: davinkevin

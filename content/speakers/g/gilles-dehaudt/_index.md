@@ -4,10 +4,6 @@ since: '2015-10-29'
 city: fr/region-lilloise
 cities:
 - fr/lille
-tags:
-- linux
-- systeme
-- docker
 cover: https://s.gravatar.com/avatar/b10c22e79d3f4f4996d6352e3e6002d8?s=80
 contacts:
   x: tonton1728

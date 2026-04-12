@@ -4,23 +4,6 @@ since: '2015-03-10'
 city: fr/paris
 cities:
 - fr/paris
-tags:
-- tdd
-- transformation-priority-premise
-- clean-code
-- tddflow
-- java
-- junit
-- testasyouthink-core
-- programmation-orientee-objet
-- developpements-agiles
-- strategie
-- tests
-- shift-left-testing
-- software-craftsmanship
-- agilite
-- typologie
-- taxonomie
 cover: https://gravatar.com/userimage/29545108/d3a9e2ed3d93ef53aff440e053e0faed.jpeg
 contacts:
   x: XEngineer

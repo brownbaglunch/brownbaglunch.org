@@ -4,14 +4,6 @@ since: '2018-07-27'
 city: fr/toulouse
 cities:
 - fr/toulouse
-tags:
-- architecture
-- microservices
-- cloud
-- docker
-- devops
-- scrum
-- tests
 cover: https://secure.gravatar.com/avatar/42b0d0d650595caf785709ecd56768d1
 contacts:
   x: svanacker

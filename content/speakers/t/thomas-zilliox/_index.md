@@ -4,13 +4,6 @@ since: '2015-02-26'
 city: fr/lyon
 cities:
 - fr/lyon
-tags:
-- css
-- bem
-- sass
-- less
-- javascript
-- php
 cover: http://www.gravatar.com/avatar/ce82bc828376d978362c1e905b8ea32c?s=256
 contacts:
   x: iamtzi

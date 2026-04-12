@@ -4,9 +4,6 @@ since: '2013-03-05'
 city: fr/paris-banlieue-ouest
 cities:
 - fr/paris
-tags:
-- hadoop
-- nosql
 contacts:
   x: vhe74
   mail: vhe@affini-tech.com
