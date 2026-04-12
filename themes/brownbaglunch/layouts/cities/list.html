@@ -52,7 +52,11 @@
     {{ end }}
   {{ end }}
   {{/* Sort: fr first, rest alphabetical */}}
-  {{ $otherCountries := sort (where $countryCodes "." "ne" "fr") }}
+  {{ $otherCountries := slice }}
+  {{ range $countryCodes }}
+    {{ if ne . "fr" }}{{ $otherCountries = $otherCountries | append . }}{{ end }}
+  {{ end }}
+  {{ $otherCountries = sort $otherCountries }}
   {{ if in $countryCodes "fr" }}
     {{ $countryCodes = slice "fr" | append $otherCountries }}
   {{ else }}

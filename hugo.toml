@@ -29,7 +29,12 @@ theme = 'brownbaglunch'
     source = "public/pagefind"
     target = "static/pagefind"
     disableWatch = true
-  # Share speaker and city content with EN (untranslated data)
+  # FR gets all content (default language)
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+    lang = "fr"
+  # EN shares speaker and city content (untranslated data)
   [[module.mounts]]
     source = "content/speakers"
     target = "content/speakers"
