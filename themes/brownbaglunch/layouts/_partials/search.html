@@ -11,7 +11,7 @@
 </style>
 <script>
 (function () {
-  const LABELS   = {{ $l | jsonify }};
+  const LABELS   = {{ $l | jsonify | safeJS }};
   const SECTIONS = ['speakers', 'talks', 'cities'];
   let   _pf      = null;
 
