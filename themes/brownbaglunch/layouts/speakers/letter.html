@@ -1,0 +1,45 @@
+{{ define "main" }}
+{{ $allSpeakers := where site.RegularPages "Section" "speakers" }}
+{{ $currentLetter := .Params.letter | upper }}
+
+{{/* Build per-letter speaker counts for the nav bar */}}
+{{ $letterCounts := dict }}
+{{ range $allSpeakers }}
+  {{ if .Params.name }}
+    {{ $first := partial "first-letter.html" .Params.name }}
+    {{ $count := add (default 0 (index $letterCounts $first)) 1 }}
+    {{ $letterCounts = merge $letterCounts (dict $first $count) }}
+  {{ end }}
+{{ end }}
+
+{{/* Filter speakers matching the current letter */}}
+{{ $filtered := slice }}
+{{ range $allSpeakers }}
+  {{ if .Params.name }}
+    {{ if eq (partial "first-letter.html" .Params.name) $currentLetter }}
+      {{ $filtered = $filtered | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $filtered = sort $filtered "Params.name" }}
+
+{{/* Render */}}
+{{ partial "alphabet-nav.html" (dict "currentLetter" $currentLetter "letterCounts" $letterCounts "showCounts" false) }}
+
+<div class="flex items-center justify-between mb-6">
+  <h1 class="text-3xl font-black">Speakers — {{ $currentLetter }}</h1>
+  <span class="text-warm-brown/60">
+    {{ len $filtered }} speaker{{ if ne (len $filtered) 1 }}s{{ end }}
+  </span>
+</div>
+
+{{ if $filtered }}
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+    {{ range $filtered }}
+      {{ partial "speaker-card.html" . }}
+    {{ end }}
+  </div>
+{{ else }}
+  <p class="text-warm-brown/60 text-center py-12">Aucun speaker pour cette lettre.</p>
+{{ end }}
+{{ end }}
