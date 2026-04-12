@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/eric-siber/talks/la-relecture-de-code-avant-tout-des-pratiques/
 tags:
 - agile
-- extreme-programmming
+- extreme-programming
 - craftsmanship
 - code-review
 versions:

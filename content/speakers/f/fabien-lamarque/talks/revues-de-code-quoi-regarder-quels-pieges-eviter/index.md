@@ -4,7 +4,7 @@ url: /speakers/fabien-lamarque/talks/revues-de-code-quoi-regarder-quels-pieges-e
 tags:
 - code-review
 - agile
-- xp
+- extreme-programming
 - software-craftsmanship
 - team
 versions:

@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/quentin-adam/talks/why-postgres-sql-deserve-nosql-fan-respect/
 tags:
-- postgres
+- postgresql
 - sql
 - database
 - nosql

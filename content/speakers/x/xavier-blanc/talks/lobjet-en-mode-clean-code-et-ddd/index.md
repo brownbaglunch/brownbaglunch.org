@@ -4,7 +4,7 @@ url: /speakers/xavier-blanc/talks/lobjet-en-mode-clean-code-et-ddd/
 tags:
 - java
 - clean-code
-- ddd
+- domain-driven-design
 versions:
 - label: FR
   flag: fr

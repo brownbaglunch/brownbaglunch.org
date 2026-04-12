@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/xavier-f-gouchet/talks/property-based-testing-javakotlinandroid/
 tags:
-- tests
+- test
 - coverage
 - mutation
 - android

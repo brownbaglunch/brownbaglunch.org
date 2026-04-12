@@ -6,7 +6,7 @@ tags:
 - scala
 - java
 - android
-- securite
+- security
 versions:
 - label: FR
   flag: fr

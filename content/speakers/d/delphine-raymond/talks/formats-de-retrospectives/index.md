@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/delphine-raymond/talks/formats-de-retrospectives/
 tags:
-- innovation-game
+- innovation-games
 - facilitation
 - serious-game
 - scrum

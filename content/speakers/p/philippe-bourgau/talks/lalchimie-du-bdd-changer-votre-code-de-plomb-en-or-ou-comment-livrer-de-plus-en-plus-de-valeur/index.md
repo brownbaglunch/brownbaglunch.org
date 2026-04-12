@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/philippe-bourgau/talks/lalchimie-du-bdd-changer-votre-code-de-plomb-en-or-ou-comment-livrer-de-plus-en-plus-de-valeur/
 tags:
 - bdd
-- ddd
+- domain-driven-design
 - refactoring
 versions:
 - label: FR

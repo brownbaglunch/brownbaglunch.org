@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/yoan-thirion/talks/quest-ce-quun-software-craftsman/
 tags:
 - craftsmanship
-- xp
+- extreme-programming
 - agile
 versions:
 - label: FR

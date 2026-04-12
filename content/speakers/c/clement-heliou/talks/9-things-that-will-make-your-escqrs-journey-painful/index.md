@@ -2,10 +2,10 @@
 layout: talk
 url: /speakers/clement-heliou/talks/9-things-that-will-make-your-escqrs-journey-painful/
 tags:
-- eventsourcing
+- event-sourcing
 - cqrs
-- ddd
-- eventstorming
+- domain-driven-design
+- event-storming
 - processmanager
 versions:
 - label: FR

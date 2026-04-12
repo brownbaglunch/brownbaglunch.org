@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/remi-koci/talks/developper-une-culture-de-la-gagne-lexemple-des-brooklyn-nets/
 tags:
 - management
-- culuture
+- culture
 - vision
 - responsabilisation
 - motivation

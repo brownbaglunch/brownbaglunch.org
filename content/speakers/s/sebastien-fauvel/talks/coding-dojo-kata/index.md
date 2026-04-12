@@ -4,7 +4,7 @@ url: /speakers/sebastien-fauvel/talks/coding-dojo-kata/
 tags:
 - java
 - craftsmanship
-- cleancode
+- clean-code
 versions:
 - label: FR
   flag: fr

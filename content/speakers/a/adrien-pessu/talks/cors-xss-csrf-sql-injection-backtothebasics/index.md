@@ -6,7 +6,7 @@ tags:
 - xss
 - csrf
 - sql-injection
-- securite
+- security
 - devsec
 versions:
 - label: FR

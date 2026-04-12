@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/guillaume-allain/talks/organiser-un-startup-weekend-interne/
 tags:
 - startupweekend
-- leanstartup
+- lean-startup
 - retour-d-experience
 - get-things-done-in-team
 versions:

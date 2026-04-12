@@ -5,7 +5,7 @@ tags:
 - software-craftsmanship
 - clean-code
 - dette-technique
-- tests
+- test
 - communication
 versions:
 - label: FR

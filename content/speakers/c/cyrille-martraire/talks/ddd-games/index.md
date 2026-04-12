@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/cyrille-martraire/talks/ddd-games/
 tags:
-- ddd
+- domain-driven-design
 - bdd
 - tdd
 - legacy-code

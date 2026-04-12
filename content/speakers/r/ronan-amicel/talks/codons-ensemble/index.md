@@ -6,7 +6,7 @@ tags:
 - code
 - test
 - software-craftsmanship
-- xp
+- extreme-programming
 - tdd
 - clean-code
 versions:

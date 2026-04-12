@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/cyrille-martraire/talks/extremist-programming-avec-eric-lefevre-ardant/
 tags:
-- ddd
+- domain-driven-design
 - bdd
 - tdd
 - legacy-code

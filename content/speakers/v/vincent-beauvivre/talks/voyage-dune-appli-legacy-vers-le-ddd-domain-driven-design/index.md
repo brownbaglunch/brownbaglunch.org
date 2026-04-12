@@ -4,7 +4,7 @@ url: /speakers/vincent-beauvivre/talks/voyage-dune-appli-legacy-vers-le-ddd-doma
 tags:
 - backend
 - architecture
-- ddd
+- domain-driven-design
 versions:
 - label: FR
   flag: fr

@@ -7,9 +7,9 @@ tags:
 - tdd
 - agile
 - scrum
-- serious-games
+- serious-game
 - meddlers
-- xp
+- extreme-programming
 versions:
 - label: FR
   flag: fr

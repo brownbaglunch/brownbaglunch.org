@@ -4,7 +4,7 @@ url: /speakers/sahbi-ktifa/talks/du-neant-a-lespace-moins-dune-heure-pour-aller-
 tags:
 - jhipster
 - dev
-- vue-js
+- vue
 - heroku
 - java
 versions:

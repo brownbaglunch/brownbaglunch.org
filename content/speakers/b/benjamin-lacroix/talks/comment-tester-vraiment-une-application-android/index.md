@@ -6,7 +6,7 @@ tags:
 - android
 - mobile
 - qualite
-- tests
+- test
 versions:
 - label: FR
   flag: fr

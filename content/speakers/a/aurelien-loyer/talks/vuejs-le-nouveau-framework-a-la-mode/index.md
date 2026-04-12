@@ -6,7 +6,7 @@ tags:
 - angular
 - react
 - javascript
-- vue-js
+- vue
 versions:
 - label: FR
   flag: fr

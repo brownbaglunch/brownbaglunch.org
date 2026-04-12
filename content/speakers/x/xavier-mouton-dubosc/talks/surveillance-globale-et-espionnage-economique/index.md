@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/xavier-mouton-dubosc/talks/surveillance-globale-et-espionnage-economique/
 tags:
 - vie-privee
-- securite
+- security
 - chiffrement
 - ethique
 versions:

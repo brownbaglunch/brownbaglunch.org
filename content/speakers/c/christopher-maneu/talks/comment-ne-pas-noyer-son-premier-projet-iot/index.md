@@ -4,7 +4,7 @@ url: /speakers/christopher-maneu/talks/comment-ne-pas-noyer-son-premier-projet-i
 tags:
 - iot
 - cloud
-- opensource
+- open-source
 - ml
 - plongee
 versions:

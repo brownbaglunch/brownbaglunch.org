@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/cyrille-martraire/talks/domain-driven-design-dans-un-contexte-legacy/
 tags:
-- ddd
+- domain-driven-design
 - bdd
 - tdd
 - legacy-code

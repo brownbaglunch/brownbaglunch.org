@@ -3,11 +3,11 @@ layout: talk
 url: /speakers/tomasz-jaskula/talks/recettes-cqrs-pour-bien-cuisiner-son-architecture/
 tags:
 - f
-- ddd
+- domain-driven-design
 - programmation-fonctionnelle
 - cqrs
 - event-sourcing
-- es
+- ecmascript
 - architecture
 - net
 versions:

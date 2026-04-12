@@ -4,7 +4,7 @@ url: /speakers/romain-laurent/talks/comment-animer-un-entretien-technique-front-
 tags:
 - developpeur
 - recrutement
-- front
+- frontend
 - react
 - javascript
 versions:

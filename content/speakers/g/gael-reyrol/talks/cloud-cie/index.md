@@ -6,7 +6,7 @@ tags:
 - sysadmin
 - cloud
 - aws
-- googlecloud
+- google-cloud
 - azure
 - ovh
 - scaleway

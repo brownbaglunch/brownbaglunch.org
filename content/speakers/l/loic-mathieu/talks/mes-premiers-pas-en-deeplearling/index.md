@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/loic-mathieu/talks/mes-premiers-pas-en-deeplearling/
 tags:
-- deeplearning
+- deep-learning
 - keras
 - tensorflow
 - python

@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/francois-liot/talks/monitoring-et-alerting-opensource/
 tags:
 - architecture
-- asynchrone
+- asynchronous
 - automatisation
 - cloud
 - elasticsearch

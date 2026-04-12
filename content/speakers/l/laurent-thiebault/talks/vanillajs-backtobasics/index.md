@@ -4,7 +4,7 @@ url: /speakers/laurent-thiebault/talks/vanillajs-backtobasics/
 tags:
 - vanillajs
 - javascript
-- front
+- frontend
 - basics
 versions:
 - label: FR

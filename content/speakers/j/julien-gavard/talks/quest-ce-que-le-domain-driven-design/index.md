@@ -2,7 +2,6 @@
 layout: talk
 url: /speakers/julien-gavard/talks/quest-ce-que-le-domain-driven-design/
 tags:
-- ddd
 - domain-driven-design
 - conception
 - metier

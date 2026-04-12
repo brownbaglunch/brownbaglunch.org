@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/jean-pierre-lerbscher/talks/performance/
 tags:
 - performance
-- jee
+- javaee
 - java
 versions:
 - label: FR

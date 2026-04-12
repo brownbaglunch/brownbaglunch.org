@@ -5,7 +5,7 @@ tags:
 - management-3-0
 - happiness
 - remote
-- teambuilding
+- team-building
 versions:
 - label: FR
   flag: fr

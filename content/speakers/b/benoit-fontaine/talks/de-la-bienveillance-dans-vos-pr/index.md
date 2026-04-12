@@ -10,7 +10,7 @@ tags:
 - soi
 - open
 - source
-- guithub
+- github
 versions:
 - label: FR
   flag: fr

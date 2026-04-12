@@ -5,8 +5,8 @@ tags:
 - junit
 - jbehave
 - serenity-bdd
-- t-d-d
-- b-d-d
+- tdd
+- bdd
 - tests-unitaires
 - tests-d-integration
 - tests-end-to-end

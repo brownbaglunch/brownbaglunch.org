@@ -10,7 +10,7 @@ tags:
 - web
 - reverse-proxy
 - administration-systeme
-- securite
+- security
 versions:
 - label: FR
   flag: fr

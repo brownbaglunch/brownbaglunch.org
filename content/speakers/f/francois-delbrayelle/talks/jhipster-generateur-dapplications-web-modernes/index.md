@@ -4,7 +4,7 @@ url: /speakers/francois-delbrayelle/talks/jhipster-generateur-dapplications-web-
 tags:
 - java
 - jhipster
-- front
+- frontend
 - back
 - microservices
 versions:

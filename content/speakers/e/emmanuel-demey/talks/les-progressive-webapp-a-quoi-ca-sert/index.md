@@ -6,7 +6,7 @@ tags:
 - pwa
 - offline
 - mobile
-- serviceworker
+- service-worker
 versions:
 - label: FR
   flag: fr

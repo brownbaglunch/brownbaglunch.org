@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/julien-topcu/talks/kanban-noestimates-extreme-programming/
 tags:
 - kanban
-- xp
+- extreme-programming
 - noestimates
 - agilite
 versions:

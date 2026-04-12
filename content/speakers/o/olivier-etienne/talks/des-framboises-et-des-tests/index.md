@@ -6,7 +6,6 @@ tags:
 - java
 - orange
 - raspberry-pi
-- java
 - php
 - test
 - automatisation

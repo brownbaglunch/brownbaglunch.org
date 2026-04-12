@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/florian-beaufume/talks/websocket-avec-java-ee-7/
 tags:
 - websocket
-- java-ee
+- javaee
 - java
 versions:
 - label: FR

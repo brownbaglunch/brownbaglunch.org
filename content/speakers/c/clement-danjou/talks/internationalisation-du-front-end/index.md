@@ -4,7 +4,7 @@ url: /speakers/clement-danjou/talks/internationalisation-du-front-end/
 tags:
 - internationalisation
 - i18n
-- front-end
+- frontend
 versions:
 - label: FR
   flag: fr

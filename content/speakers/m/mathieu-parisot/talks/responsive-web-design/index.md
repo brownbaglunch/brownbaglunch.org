@@ -8,8 +8,7 @@ tags:
 - javascript
 - babel
 - postcss
-- es6
-- es2015
+- ecmascript
 versions:
 - label: FR
   flag: fr

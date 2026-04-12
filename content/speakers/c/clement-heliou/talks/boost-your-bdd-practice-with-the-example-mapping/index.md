@@ -2,9 +2,9 @@
 layout: talk
 url: /speakers/clement-heliou/talks/boost-your-bdd-practice-with-the-example-mapping/
 tags:
-- examplemapping
+- example-mapping
 - bdd
-- ddd
+- domain-driven-design
 versions:
 - label: FR
   flag: fr

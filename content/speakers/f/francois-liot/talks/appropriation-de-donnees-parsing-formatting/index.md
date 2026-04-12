@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/francois-liot/talks/appropriation-de-donnees-parsing-formatting/
 tags:
 - agile
-- asynchrone
+- asynchronous
 - big-data
 - data-mining
 - elasticsearch

@@ -5,7 +5,7 @@ tags:
 - cloud
 - architecture
 - gcp
-- gooogle
+- google
 - google-cloud
 - kubernetes
 versions:

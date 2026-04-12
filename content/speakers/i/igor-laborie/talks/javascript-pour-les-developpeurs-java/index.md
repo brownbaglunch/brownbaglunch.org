@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/igor-laborie/talks/javascript-pour-les-developpeurs-java/
 tags:
 - javascript
-- es6
+- ecmascript
 - nodejs
 versions:
 - label: FR

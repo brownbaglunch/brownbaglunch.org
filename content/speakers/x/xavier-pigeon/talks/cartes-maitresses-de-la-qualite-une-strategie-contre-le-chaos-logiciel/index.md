@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/xavier-pigeon/talks/cartes-maitresses-de-la-qualite-une-strategie-contre-le-chaos-logiciel/
 tags:
 - strategie
-- tests
+- test
 - shift-left-testing
 - software-craftsmanship
 - agilite

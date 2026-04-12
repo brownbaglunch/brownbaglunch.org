@@ -4,7 +4,7 @@ url: /speakers/francois-liot/talks/crawling/
 tags:
 - agile
 - architecture
-- asynchrone
+- asynchronous
 - automatisation
 - big-data
 - cloud

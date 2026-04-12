@@ -3,7 +3,6 @@ layout: talk
 url: /speakers/stephane-schildknecht/talks/postgresql-reprenons-le-controle-de-nos-donnees/
 tags:
 - postgresql
-- postgres
 - haute-disponibilite
 - database
 - bases-de-donnees

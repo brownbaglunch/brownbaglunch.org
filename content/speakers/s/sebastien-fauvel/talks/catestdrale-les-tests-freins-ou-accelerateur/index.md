@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/sebastien-fauvel/talks/catestdrale-les-tests-freins-ou-accelerateur/
 tags:
-- seriousgame
+- serious-game
 - test
 versions:
 - label: FR

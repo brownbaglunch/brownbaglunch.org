@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/sebastien-friess/talks/microservice-comment-peler-le-monolith-et-en-faire-de-bonnes-frites/
 tags:
-- microservice
+- microservices
 - architecture
 - monolith
 versions:

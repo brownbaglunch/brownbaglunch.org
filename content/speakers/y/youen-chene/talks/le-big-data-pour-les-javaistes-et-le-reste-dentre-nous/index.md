@@ -5,7 +5,7 @@ tags:
 - big-data
 - hadoop
 - impala
-- spark
+- apache-spark
 versions:
 - label: FR
   flag: fr

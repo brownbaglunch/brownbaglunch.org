@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/emilien-pecoul/talks/le-ddd-au-quotidien/
 tags:
-- ddd
+- domain-driven-design
 - agile
 - tdd
 - test
@@ -11,7 +11,7 @@ tags:
 - microsoft
 - clean-code
 - cqrs
-- es
+- ecmascript
 versions:
 - label: FR
   flag: fr

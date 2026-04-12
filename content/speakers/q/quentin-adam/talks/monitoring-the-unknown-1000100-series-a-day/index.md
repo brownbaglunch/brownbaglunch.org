@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/quentin-adam/talks/monitoring-the-unknown-1000100-series-a-day/
 tags:
-- warp10
+- warp-10
 - kafka
 - hadoop
 - observability

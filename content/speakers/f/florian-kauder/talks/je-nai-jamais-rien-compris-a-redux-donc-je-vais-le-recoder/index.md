@@ -3,12 +3,12 @@ layout: talk
 url: /speakers/florian-kauder/talks/je-nai-jamais-rien-compris-a-redux-donc-je-vais-le-recoder/
 tags:
 - redux
-- react-js
+- react
 - javascript
 - architecture
 - patterns
 - coding-live
-- front-end
+- frontend
 versions:
 - label: FR
   flag: fr

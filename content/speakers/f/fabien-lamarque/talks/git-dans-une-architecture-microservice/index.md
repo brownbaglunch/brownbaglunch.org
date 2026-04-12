@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/fabien-lamarque/talks/git-dans-une-architecture-microservice/
 tags:
 - git
-- microservice
+- microservices
 versions:
 - label: FR
   flag: fr

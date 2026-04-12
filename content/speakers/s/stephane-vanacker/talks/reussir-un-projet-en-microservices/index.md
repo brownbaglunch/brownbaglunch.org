@@ -8,7 +8,7 @@ tags:
 - docker
 - devops
 - scrum
-- tests
+- test
 versions:
 - label: FR
   flag: fr

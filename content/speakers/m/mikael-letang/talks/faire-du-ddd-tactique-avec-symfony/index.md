@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/mikael-letang/talks/faire-du-ddd-tactique-avec-symfony/
 tags:
-- ddd
+- domain-driven-design
 - symfony
 - php
 versions:

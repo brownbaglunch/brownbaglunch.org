@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/benedetta-pastore/talks/facilitation-a-linnovation/
 tags:
 - innovation
-- innovation-game
+- innovation-games
 - facilitation
 - experience-client
 - co-construction

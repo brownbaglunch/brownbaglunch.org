@@ -6,7 +6,7 @@ tags:
 - workshop
 - facilitation
 - agile
-- ddd
+- domain-driven-design
 versions:
 - label: FR
   flag: fr

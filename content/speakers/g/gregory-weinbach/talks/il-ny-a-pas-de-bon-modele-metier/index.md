@@ -4,7 +4,6 @@ url: /speakers/gregory-weinbach/talks/il-ny-a-pas-de-bon-modele-metier/
 tags:
 - modele
 - bounded-context
-- ddd
 - domain-driven-design
 versions:
 - label: FR

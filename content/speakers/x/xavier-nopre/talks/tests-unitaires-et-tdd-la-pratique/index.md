@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/xavier-nopre/talks/tests-unitaires-et-tdd-la-pratique/
 tags:
-- tests
+- test
 - tests-unitaires
 - tdd
 - agilite

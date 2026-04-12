@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/cyrille-martraire/talks/votre-sujet-sur-mesure/
 tags:
-- ddd
+- domain-driven-design
 - bdd
 - tdd
 - legacy-code

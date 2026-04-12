@@ -4,7 +4,7 @@ url: /speakers/christopher-maneu/talks/beaucoup-dautres-sujets/
 tags:
 - devops
 - agilite
-- opensource
+- open-source
 - azure
 - microsoft
 versions:

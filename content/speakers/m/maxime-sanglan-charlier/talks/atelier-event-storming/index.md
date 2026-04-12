@@ -2,10 +2,10 @@
 layout: talk
 url: /speakers/maxime-sanglan-charlier/talks/atelier-event-storming/
 tags:
-- eventstorming
+- event-storming
 - ubiquitous-language
 - workshop
-- ddd
+- domain-driven-design
 versions:
 - label: FR
   flag: fr

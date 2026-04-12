@@ -3,7 +3,6 @@ layout: talk
 url: /speakers/cyrille-hemidy/talks/decouvrir-le-langage-go/
 tags:
 - cloud
-- go
 - golang
 - google
 versions:

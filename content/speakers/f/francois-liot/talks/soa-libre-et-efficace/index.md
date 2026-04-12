@@ -4,7 +4,7 @@ url: /speakers/francois-liot/talks/soa-libre-et-efficace/
 tags:
 - api
 - agile
-- asynchrone
+- asynchronous
 - continuous-delivery
 - devops
 - industrialisation
@@ -12,7 +12,7 @@ tags:
 - integration
 - java
 - maven
-- micro-services
+- microservices
 - open-source
 - ops
 - outils

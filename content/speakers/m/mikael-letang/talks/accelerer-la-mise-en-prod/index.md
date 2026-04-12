@@ -5,7 +5,7 @@ tags:
 - continuous-delivery
 - automation
 - trunk-based-development
-- feature-toggling
+- feature-toggle
 versions:
 - label: FR
   flag: fr

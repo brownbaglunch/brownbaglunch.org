@@ -2,12 +2,11 @@
 layout: talk
 url: /speakers/florent-pellet/talks/event-storming-comprendre-le-metier-autrement/
 tags:
-- ddd
 - domain-driven-design
 - event-sourcing
 - cqrs
 - event-storming
-- codingdojo
+- coding-dojo
 - knockout-js
 - mvvm
 - signalr

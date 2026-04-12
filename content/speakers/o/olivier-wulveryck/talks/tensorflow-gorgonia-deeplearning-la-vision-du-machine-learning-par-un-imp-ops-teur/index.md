@@ -4,7 +4,7 @@ url: /speakers/olivier-wulveryck/talks/tensorflow-gorgonia-deeplearning-la-visio
 tags:
 - machine-learning
 - rnn
-- go
+- golang
 versions:
 - label: FR
   flag: fr

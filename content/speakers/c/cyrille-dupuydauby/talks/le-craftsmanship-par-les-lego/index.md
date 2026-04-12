@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/cyrille-dupuydauby/talks/le-craftsmanship-par-les-lego/
 tags:
-- cleancode
+- clean-code
 - tdd
 - iteratif
 - refactoring

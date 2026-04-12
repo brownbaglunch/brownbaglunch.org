@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/thomas-pierrain/talks/haut-debit-et-faible-latence/
 tags:
-- ddd
+- domain-driven-design
 - tdd
 - fluent
 - net

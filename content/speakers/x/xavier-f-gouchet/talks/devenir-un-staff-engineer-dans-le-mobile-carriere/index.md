@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/xavier-f-gouchet/talks/devenir-un-staff-engineer-dans-le-mobile-carriere/
 tags:
-- tests
+- test
 - pyramide
 - android
 - java

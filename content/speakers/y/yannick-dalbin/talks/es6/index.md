@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/yannick-dalbin/talks/es6/
 tags:
 - javascript
-- es6
+- ecmascript
 versions:
 - label: FR
   flag: fr

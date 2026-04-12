@@ -6,7 +6,7 @@ tags:
 - diy
 - arduino
 - hacking
-- securite
+- security
 versions:
 - label: FR
   flag: fr

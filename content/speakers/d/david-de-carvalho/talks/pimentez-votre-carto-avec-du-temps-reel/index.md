@@ -3,14 +3,12 @@ layout: talk
 url: /speakers/david-de-carvalho/talks/pimentez-votre-carto-avec-du-temps-reel/
 tags:
 - sse
-- serversentevent
-- node
+- server-sent-event
 - nodejs
 - rabbitmq
 - mom
 - message-oriented-middleware
-- asynchrone
-- assynchronisme
+- asynchronous
 versions:
 - label: FR
   flag: fr

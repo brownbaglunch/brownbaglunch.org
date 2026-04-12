@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/quentin-adam/talks/immutability-from-code-to-infrastructure-the-way-of-scalability/
 tags:
-- functional-programing
+- functional-programming
 - code
 - devops
 - cloud

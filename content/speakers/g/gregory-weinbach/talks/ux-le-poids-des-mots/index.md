@@ -5,7 +5,6 @@ tags:
 - ux
 - design
 - agile
-- ddd
 - domain-driven-design
 versions:
 - label: FR

@@ -6,7 +6,7 @@ tags:
 - jboss
 - docker
 - devops
-- j2ee
+- javaee
 - agilite
 versions:
 - label: FR

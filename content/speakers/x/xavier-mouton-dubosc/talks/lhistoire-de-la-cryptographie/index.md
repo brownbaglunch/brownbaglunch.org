@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/xavier-mouton-dubosc/talks/lhistoire-de-la-cryptographie/
 tags:
 - vie-privee
-- securite
+- security
 - chiffrement
 - ethique
 versions:

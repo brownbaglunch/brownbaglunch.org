@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/romain-tartiere/talks/demystification-des-infrastructures-a-cles-publiques-pki/
 tags:
 - cryptographie
-- securite
+- security
 - pki
 - ssl
 - x-509

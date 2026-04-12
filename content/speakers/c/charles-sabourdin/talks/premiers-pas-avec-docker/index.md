@@ -6,7 +6,7 @@ tags:
 - kubernetes
 - docker
 - devops
-- securite
+- security
 versions:
 - label: FR
   flag: fr

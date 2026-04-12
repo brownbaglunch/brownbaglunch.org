@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/riadh-mnasri/talks/architectures-microservices/
 tags:
-- architectures
+- architecture
 - microservices
 - patterns
 versions:

@@ -3,8 +3,7 @@ layout: talk
 url: /speakers/jordane-grenat/talks/mettez-votre-javascript-a-jour/
 tags:
 - javascript
-- es6
-- es2015
+- ecmascript
 versions:
 - label: FR
   flag: fr

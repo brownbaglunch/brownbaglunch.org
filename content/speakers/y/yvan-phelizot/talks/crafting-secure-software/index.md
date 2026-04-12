@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/yvan-phelizot/talks/crafting-secure-software/
 tags:
-- securite
+- security
 - clean-code
 - craftsmanship
 versions:

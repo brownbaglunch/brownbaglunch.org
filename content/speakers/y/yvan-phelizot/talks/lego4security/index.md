@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/yvan-phelizot/talks/lego4security/
 tags:
-- securite
+- security
 - craftsmanship
 versions:
 - label: FR

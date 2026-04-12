@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/sebastien-descamps/talks/lheritage-en-go/
 tags:
-- go
+- golang
 versions:
 - label: FR
   flag: fr

@@ -2,9 +2,9 @@
 layout: talk
 url: /speakers/arnaud-bailly/talks/tdd-a-tous-les-etages/
 tags:
-- tests
+- test
 - tdd
-- xp
+- extreme-programming
 - ci
 versions:
 - label: FR

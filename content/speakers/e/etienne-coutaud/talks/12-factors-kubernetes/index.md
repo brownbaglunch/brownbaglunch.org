@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/etienne-coutaud/talks/12-factors-kubernetes/
 tags:
-- 12-factors
+- 12-factor
 - kubernetes
 - container
 - bonnes-pratiques

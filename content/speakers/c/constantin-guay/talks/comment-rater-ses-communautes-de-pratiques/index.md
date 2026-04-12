@@ -8,7 +8,7 @@ tags:
 - management
 - dependance
 - collaboration
-- equipes
+- equipe
 versions:
 - label: FR
   flag: fr

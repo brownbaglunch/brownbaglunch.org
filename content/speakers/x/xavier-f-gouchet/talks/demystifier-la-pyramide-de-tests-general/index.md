@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/xavier-f-gouchet/talks/demystifier-la-pyramide-de-tests-general/
 tags:
-- tests
+- test
 - pyramide
 - android
 - java

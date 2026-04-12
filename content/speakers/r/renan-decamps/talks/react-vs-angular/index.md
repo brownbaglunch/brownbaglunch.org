@@ -6,7 +6,7 @@ tags:
 - react
 - angular
 - web
-- front
+- frontend
 versions:
 - label: FR
   flag: fr

@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/alexis-janvier/talks/les-tests-en-javascript/
 tags:
 - javascript
-- tests
+- test
 - jest
 - cypress
 versions:

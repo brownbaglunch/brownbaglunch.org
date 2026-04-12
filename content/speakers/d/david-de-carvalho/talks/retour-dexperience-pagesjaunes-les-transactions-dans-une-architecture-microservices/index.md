@@ -9,8 +9,7 @@ tags:
 - mom
 - message-oriented-middleware
 - cassandra
-- asynchrone
-- assynchronisme
+- asynchronous
 - architecture
 versions:
 - label: FR

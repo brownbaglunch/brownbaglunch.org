@@ -2,8 +2,8 @@
 layout: talk
 url: /speakers/thomas-verhoken/talks/mutation-testing-tester-vos-test/
 tags:
-- tests
-- t-d-d
+- test
+- tdd
 versions:
 - label: FR
   flag: fr

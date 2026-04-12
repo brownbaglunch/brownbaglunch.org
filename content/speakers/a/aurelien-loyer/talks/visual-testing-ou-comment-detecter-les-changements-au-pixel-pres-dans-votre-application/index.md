@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/aurelien-loyer/talks/visual-testing-ou-comment-detecter-les-changements-au-pixel-pres-dans-votre-application/
 tags:
-- node-js
+- nodejs
 - nestjs
 - angular
 - express

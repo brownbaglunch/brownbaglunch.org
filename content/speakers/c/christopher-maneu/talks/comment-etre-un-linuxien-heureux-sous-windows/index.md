@@ -4,7 +4,7 @@ url: /speakers/christopher-maneu/talks/comment-etre-un-linuxien-heureux-sous-win
 tags:
 - linux
 - windows
-- opensource
+- open-source
 versions:
 - label: FR
   flag: fr

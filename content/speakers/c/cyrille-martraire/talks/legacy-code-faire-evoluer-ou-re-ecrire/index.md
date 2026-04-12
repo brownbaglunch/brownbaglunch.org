@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/cyrille-martraire/talks/legacy-code-faire-evoluer-ou-re-ecrire/
 tags:
-- ddd
+- domain-driven-design
 - bdd
 - tdd
 - legacy-code

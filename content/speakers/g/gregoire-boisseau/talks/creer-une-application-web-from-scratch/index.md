@@ -4,7 +4,7 @@ url: /speakers/gregoire-boisseau/talks/creer-une-application-web-from-scratch/
 tags:
 - architecture
 - react
-- node-js
+- nodejs
 - api
 - deploiement
 versions:

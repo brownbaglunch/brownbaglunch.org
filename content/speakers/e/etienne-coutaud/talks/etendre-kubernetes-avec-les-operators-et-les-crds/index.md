@@ -5,7 +5,7 @@ tags:
 - kubernetes
 - operator
 - extensions
-- go
+- golang
 - cncf
 versions:
 - label: FR

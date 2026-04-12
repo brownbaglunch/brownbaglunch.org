@@ -5,7 +5,7 @@ tags:
 - agilite
 - scrum
 - ingenierie-agile
-- tests
+- test
 - tests-unitaires
 - tdd
 - usine-logicielle

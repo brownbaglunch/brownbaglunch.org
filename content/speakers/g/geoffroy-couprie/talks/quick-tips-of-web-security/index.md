@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/geoffroy-couprie/talks/quick-tips-of-web-security/
 tags:
-- securite
+- security
 - cryptographie
 - ssl
 - performance

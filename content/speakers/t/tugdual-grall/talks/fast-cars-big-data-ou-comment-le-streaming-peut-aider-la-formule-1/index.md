@@ -6,7 +6,7 @@ tags:
 - nosql
 - mapr
 - streaming
-- apache-kafka
+- kafka
 - apache-flink
 - apache-spark
 versions:

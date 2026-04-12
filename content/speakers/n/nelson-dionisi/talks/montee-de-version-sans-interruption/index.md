@@ -4,7 +4,7 @@ url: /speakers/nelson-dionisi/talks/montee-de-version-sans-interruption/
 tags:
 - deployment
 - database
-- continous-delivery
+- continuous-delivery
 - java
 versions:
 - label: FR

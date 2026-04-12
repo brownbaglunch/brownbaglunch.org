@@ -3,8 +3,8 @@ layout: talk
 url: /speakers/francois-guillaume-ribreau/talks/choisir-entre-une-api-rpc-soap-rest-graphql-et-si-le-probleme-etait-ailleurs/
 tags:
 - history
-- apis
-- rest-api
+- api
+- rest
 - soap
 - rpc
 - graphql

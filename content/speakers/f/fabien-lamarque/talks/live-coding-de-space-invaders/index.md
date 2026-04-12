@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/fabien-lamarque/talks/live-coding-de-space-invaders/
 tags:
 - javascript
-- livecoding
+- live-coding
 versions:
 - label: FR
   flag: fr

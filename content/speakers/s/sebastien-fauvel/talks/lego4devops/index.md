@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/sebastien-fauvel/talks/lego4devops/
 tags:
-- seriousgame
+- serious-game
 - devops
 - lego
 versions:

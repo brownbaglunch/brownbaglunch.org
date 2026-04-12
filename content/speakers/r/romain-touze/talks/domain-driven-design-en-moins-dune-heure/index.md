@@ -3,7 +3,6 @@ layout: talk
 url: /speakers/romain-touze/talks/domain-driven-design-en-moins-dune-heure/
 tags:
 - domain-driven-design
-- ddd
 - conception
 - methodologie
 versions:

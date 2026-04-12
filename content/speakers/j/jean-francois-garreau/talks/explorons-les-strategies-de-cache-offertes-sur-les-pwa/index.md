@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/jean-francois-garreau/talks/explorons-les-strategies-de-cache-offertes-sur-les-pwa/
 tags:
 - pwa
-- serviceworker
+- service-worker
 versions:
 - label: FR
   flag: fr

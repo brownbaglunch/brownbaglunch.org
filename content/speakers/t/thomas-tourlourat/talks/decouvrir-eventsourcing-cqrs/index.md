@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/thomas-tourlourat/talks/decouvrir-eventsourcing-cqrs/
 tags:
 - cqrs
-- eventsourcing
+- event-sourcing
 - architecture
 - cloud
 versions:

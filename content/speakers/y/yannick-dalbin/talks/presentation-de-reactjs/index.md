@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/yannick-dalbin/talks/presentation-de-reactjs/
 tags:
 - javascript
-- react-js
+- react
 - librairie
 - vue
 - component

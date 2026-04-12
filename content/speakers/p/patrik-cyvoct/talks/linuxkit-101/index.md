@@ -5,7 +5,7 @@ tags:
 - linuxkit
 - linux
 - docker
-- containers
+- container
 - immutable
 - infrastructure
 versions:

@@ -9,7 +9,7 @@ tags:
 - docker
 - devops
 - automation
-- continous
+- continuous-delivery
 - deployment
 - integration
 versions:

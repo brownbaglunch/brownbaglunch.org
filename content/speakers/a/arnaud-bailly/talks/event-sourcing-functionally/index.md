@@ -3,8 +3,8 @@ layout: talk
 url: /speakers/arnaud-bailly/talks/event-sourcing-functionally/
 tags:
 - fp
-- eventsourcing
-- ddd
+- event-sourcing
+- domain-driven-design
 versions:
 - label: FR
   flag: fr

@@ -3,7 +3,6 @@ layout: talk
 url: /speakers/maxime-sanglan-charlier/talks/presentation-du-domain-driven-design/
 tags:
 - domain-driven-design
-- ddd
 versions:
 - label: FR
   flag: fr

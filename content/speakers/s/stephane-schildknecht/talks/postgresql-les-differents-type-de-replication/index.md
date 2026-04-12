@@ -3,7 +3,6 @@ layout: talk
 url: /speakers/stephane-schildknecht/talks/postgresql-les-differents-type-de-replication/
 tags:
 - postgresql
-- postgres
 - haute-disponibilite
 - database
 - bases-de-donnees

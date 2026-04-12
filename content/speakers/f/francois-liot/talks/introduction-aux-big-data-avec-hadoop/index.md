@@ -13,7 +13,7 @@ tags:
 - open-source
 - scalabilite
 - solr
-- spark
+- apache-spark
 versions:
 - label: FR
   flag: fr

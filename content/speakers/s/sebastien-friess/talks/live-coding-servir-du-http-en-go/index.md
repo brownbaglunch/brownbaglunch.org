@@ -2,10 +2,9 @@
 layout: talk
 url: /speakers/sebastien-friess/talks/live-coding-servir-du-http-en-go/
 tags:
-- go
 - golang
 - http
-- http-2
+- http2
 - https
 - push
 versions:

@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/cyrille-dupuydauby/talks/as-if-you-meant-it/
 tags:
-- ddd
+- domain-driven-design
 - tdd
 - fluent
 - net

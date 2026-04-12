@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/geoffroy-couprie/talks/introduction-a-la-cryptographie/
 tags:
-- securite
+- security
 - cryptographie
 - ssl
 - performance

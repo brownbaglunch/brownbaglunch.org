@@ -10,7 +10,7 @@ tags:
 - microsoft
 - clean-code
 - cqrs
-- es
+- ecmascript
 versions:
 - label: FR
   flag: fr

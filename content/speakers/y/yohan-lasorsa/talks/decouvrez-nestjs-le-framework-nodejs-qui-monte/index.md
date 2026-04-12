@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/yohan-lasorsa/talks/decouvrez-nestjs-le-framework-nodejs-qui-monte/
 tags:
 - nestjs
-- node-js
+- nodejs
 - backend
 - framework
 - typescript

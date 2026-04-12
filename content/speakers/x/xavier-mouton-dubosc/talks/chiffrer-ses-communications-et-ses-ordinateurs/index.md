@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/xavier-mouton-dubosc/talks/chiffrer-ses-communications-et-ses-ordinateurs/
 tags:
 - vie-privee
-- securite
+- security
 - chiffrement
 - ethique
 versions:

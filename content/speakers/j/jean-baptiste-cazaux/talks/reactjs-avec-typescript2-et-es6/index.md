@@ -4,7 +4,7 @@ url: /speakers/jean-baptiste-cazaux/talks/reactjs-avec-typescript2-et-es6/
 tags:
 - react
 - typescript
-- es6
+- ecmascript
 - angular
 versions:
 - label: FR

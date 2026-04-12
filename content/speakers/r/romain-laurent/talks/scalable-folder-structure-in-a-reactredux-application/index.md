@@ -5,7 +5,7 @@ tags:
 - react
 - javascript
 - redux
-- ddd
+- domain-driven-design
 versions:
 - label: FR
   flag: fr

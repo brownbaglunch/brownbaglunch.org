@@ -5,7 +5,7 @@ tags:
 - code
 - qualite
 - solid
-- tests
+- test
 - tests-unitaires
 - injection-de-dependance
 - ios

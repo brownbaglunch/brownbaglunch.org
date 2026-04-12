@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/francois-liot/talks/opensource-pour-les-administrations-et-les-collectivites-locales/
 tags:
 - architecture
-- asynchrone
+- asynchronous
 - automatisation
 - build
 - cloud
@@ -15,10 +15,9 @@ tags:
 - ingenierie-agile
 - integration
 - it-automation
-- micro-services
 - microservices
 - outils
-- securite
+- security
 - strategie
 - usine-logicielle
 versions:

@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/jean-francois-garreau/talks/js-in-css-yes-we-can/
 tags:
-- js
+- javascript
 - css
 versions:
 - label: FR

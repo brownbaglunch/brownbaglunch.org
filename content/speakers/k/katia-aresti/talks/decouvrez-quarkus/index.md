@@ -7,7 +7,7 @@ tags:
 - microservices
 - cloudnative
 - graalvm
-- opensource
+- open-source
 - devtools
 - javaframework
 - quarkusdev

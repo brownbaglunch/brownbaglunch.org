@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/yohan-lasorsa/talks/oups-jai-mis-du-typescript-dans-mon-appli-nodejs/
 tags:
-- node-js
+- nodejs
 - typescript
 - live-coding
 - developpement

@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/xavier-blanc/talks/framework-js-pour-crawler-le-web-et-aussi-faire-les-tests-e2e/
 tags:
-- js
+- javascript
 - web
 - crawling
 - finger-printing

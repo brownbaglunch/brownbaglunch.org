@@ -5,7 +5,7 @@ tags:
 - cloud
 - angular
 - react
-- vuejs
+- vue
 - gcp
 - google
 - google-cloud

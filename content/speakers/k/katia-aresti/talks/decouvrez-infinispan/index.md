@@ -6,7 +6,7 @@ tags:
 - cache
 - distributed
 - inmemorydatabase
-- opensource
+- open-source
 - scalability
 - performance
 - datastorage

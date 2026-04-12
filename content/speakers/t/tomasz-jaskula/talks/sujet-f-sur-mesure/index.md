@@ -3,11 +3,11 @@ layout: talk
 url: /speakers/tomasz-jaskula/talks/sujet-f-sur-mesure/
 tags:
 - f
-- ddd
+- domain-driven-design
 - programmation-fonctionnelle
 - cqrs
 - event-sourcing
-- es
+- ecmascript
 - architecture
 - net
 versions:

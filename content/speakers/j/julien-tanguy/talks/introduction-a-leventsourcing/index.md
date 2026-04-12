@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/julien-tanguy/talks/introduction-a-leventsourcing/
 tags:
-- eventsourcing
+- event-sourcing
 - architecture
 versions:
 - label: FR

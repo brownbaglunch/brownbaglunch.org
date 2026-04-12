@@ -3,11 +3,11 @@ layout: talk
 url: /speakers/tomasz-jaskula/talks/renforcez-votre-code-metier-en-adaptant-f/
 tags:
 - f
-- ddd
+- domain-driven-design
 - programmation-fonctionnelle
 - cqrs
 - event-sourcing
-- es
+- ecmascript
 - architecture
 - net
 versions:

@@ -2,7 +2,6 @@
 layout: talk
 url: /speakers/vincent-dubois/talks/quest-ce-que-le-domain-driven-design/
 tags:
-- ddd
 - domain-driven-design
 - conception
 - metier

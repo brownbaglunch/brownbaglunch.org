@@ -3,7 +3,7 @@ layout: talk
 url: /speakers/antonio-goncalves/talks/microservices/
 tags:
 - microservices
-- ddd
+- domain-driven-design
 - rest
 - circuit-breaker
 - registry

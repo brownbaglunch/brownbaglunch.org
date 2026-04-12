@@ -5,7 +5,7 @@ tags:
 - https
 - ssl
 - tls
-- securite
+- security
 - web
 versions:
 - label: FR

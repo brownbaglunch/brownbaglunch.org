@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/geoffroy-couprie/talks/le-stockage-des-mots-de-passe/
 tags:
-- securite
+- security
 - cryptographie
 - ssl
 - performance

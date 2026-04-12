@@ -2,7 +2,7 @@
 layout: talk
 url: /speakers/delphine-raymond/talks/innovation-games/
 tags:
-- innovation-game
+- innovation-games
 - facilitation
 - serious-game
 - agile

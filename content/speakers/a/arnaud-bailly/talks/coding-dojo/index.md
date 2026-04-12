@@ -4,7 +4,7 @@ url: /speakers/arnaud-bailly/talks/coding-dojo/
 tags:
 - clean-code
 - tdd
-- xp
+- extreme-programming
 versions:
 - label: FR
   flag: fr

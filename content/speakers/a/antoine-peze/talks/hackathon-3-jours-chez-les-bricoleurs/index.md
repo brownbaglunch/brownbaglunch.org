@@ -5,7 +5,6 @@ tags:
 - ux
 - hackathon
 - sprint
-- hackathon
 - tests-utilisateurs
 versions:
 - label: FR
