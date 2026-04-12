@@ -1,52 +1,213 @@
 {{ define "main" }}
-<div class="flex items-center justify-between mb-6">
-  <h1 class="text-3xl font-black">Speakers</h1>
-  <span class="text-warm-brown/60">{{ len (where site.RegularPages "Section" "speakers") }} speakers</span>
-</div>
-
-{{/* Use site.RegularPages filtered by section to get ALL nested speaker pages */}}
 {{ $allSpeakers := where site.RegularPages "Section" "speakers" }}
 
-{{/* Collect unique countries from speaker home cities */}}
-{{ $countries := slice }}
+{{/* ── Letter counts ── */}}
+{{ $letterCounts := dict }}
 {{ range $allSpeakers }}
-  {{ with .Params.city }}
-    {{ $country := index (split . "/") 0 }}
-    {{ if not (in $countries $country) }}
-      {{ $countries = $countries | append $country }}
+  {{ if .Params.name }}
+    {{ $first := partial "first-letter.html" .Params.name }}
+    {{ $count := add (default 0 (index $letterCounts $first)) 1 }}
+    {{ $letterCounts = merge $letterCounts (dict $first $count) }}
+  {{ end }}
+{{ end }}
+
+{{/* ── Country counts — 1 per speaker per unique country ── */}}
+{{ $countryCounts := dict }}
+{{ range $allSpeakers }}
+  {{ $seenCountries := slice }}
+  {{ range .Params.cities }}
+    {{ $parts   := split . "/" }}
+    {{ $country := index $parts 0 }}
+    {{ $city    := index $parts 1 }}
+    {{ if and (ne $country "") (ne $country "*") (ne $city "*") (not (in $seenCountries $country)) }}
+      {{ $seenCountries = $seenCountries | append $country }}
+      {{ $n := add (default 0 (index $countryCounts $country)) 1 }}
+      {{ $countryCounts = merge $countryCounts (dict $country $n) }}
     {{ end }}
   {{ end }}
 {{ end }}
-{{ $countries = sort $countries }}
+{{ $countryList := slice }}
+{{ range $k, $v := $countryCounts }}
+  {{ $countryList = $countryList | append (dict "name" $k "count" $v) }}
+{{ end }}
+{{ $countryList = sort $countryList "count" "desc" }}
 
-{{ if gt (len $countries) 1 }}
-<div class="flex gap-2 flex-wrap mb-6">
-  <span class="text-sm font-semibold self-center">Pays :</span>
-  {{ range $countries }}
-    <a href="#{{ . }}"
-       class="badge hover:bg-terracotta hover:text-white transition-colors cursor-pointer">
-      {{ . | upper }}
-    </a>
+{{/* ── City counts (exclude wildcards) ── */}}
+{{ $cityCounts := dict }}
+{{ range $allSpeakers }}
+  {{ range .Params.cities }}
+    {{ $parts := split . "/" }}
+    {{ $city := index $parts 1 }}
+    {{ if and (ne $city "") (ne $city "*") }}
+      {{ $n := add (default 0 (index $cityCounts .)) 1 }}
+      {{ $cityCounts = merge $cityCounts (dict . $n) }}
+    {{ end }}
   {{ end }}
+{{ end }}
+{{ $cityList := slice }}
+{{ range $k, $v := $cityCounts }}
+  {{ $cityList = $cityList | append (dict "name" $k "count" $v) }}
+{{ end }}
+{{ $cityList = sort $cityList "count" "desc" }}
+
+{{/* ── Tag counts ── */}}
+{{ $tagCounts := dict }}
+{{ range $allSpeakers }}
+  {{ range .Params.sessions }}
+    {{ range .tags }}
+      {{ $n := add (default 0 (index $tagCounts .)) 1 }}
+      {{ $tagCounts = merge $tagCounts (dict . $n) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $tagList := slice }}
+{{ range $k, $v := $tagCounts }}
+  {{ $tagList = $tagList | append (dict "name" $k "count" $v) }}
+{{ end }}
+{{ $tagList = sort $tagList "count" "desc" }}
+
+{{/* ── Speakers available everywhere (wildcard city) ── */}}
+{{ $worldwide := slice }}
+{{ range $allSpeakers }}
+  {{ $speaker := . }}
+  {{ range .Params.cities }}
+    {{ $parts := split . "/" }}
+    {{ if eq (index $parts 1) "*" }}
+      {{ $worldwide = $worldwide | append $speaker }}
+      {{ break }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $worldwide = sort $worldwide "Params.name" }}
+
+{{/* ── Latest arrivals (top 5 by since date) ── */}}
+{{ $withDate := where $allSpeakers "Params.since" "ne" nil }}
+{{ $latest   := first 5 (sort $withDate "Params.since" "desc") }}
+
+{{/* ══════════════════════ RENDER ══════════════════════ */}}
+
+{{/* Header */}}
+<div class="flex items-center justify-between mb-8">
+  <h1 class="text-3xl font-black">Speakers</h1>
+  <span class="text-5xl font-black text-terracotta">{{ len $allSpeakers }}</span>
 </div>
+
+{{/* Alphabet distribution + navigation */}}
+<section class="mb-10 card">
+  <h2 class="text-xl font-bold mb-4">Parcourir par lettre</h2>
+  {{ partial "alphabet-nav.html" (dict "currentLetter" "" "letterCounts" $letterCounts "showCounts" true) }}
+</section>
+
+{{/* Top countries + Top cities side by side */}}
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10">
+
+  {{/* Top 10 countries */}}
+  <section class="card">
+    <h2 class="text-xl font-bold mb-4">Top pays</h2>
+    <ol class="space-y-2">
+      {{ range first 10 $countryList }}
+        <li class="flex items-center justify-between">
+          <span class="font-mono text-sm uppercase">{{ .name }}</span>
+          <span class="badge">{{ .count }}</span>
+        </li>
+      {{ end }}
+    </ol>
+  </section>
+
+  {{/* Top 10 cities overall */}}
+  <section class="card">
+    <h2 class="text-xl font-bold mb-4">Top villes</h2>
+    <ol class="space-y-2">
+      {{ range first 10 $cityList }}
+        {{ $parts := split .name "/" }}
+        <li class="flex items-center justify-between">
+          <span class="text-sm">
+            {{ index $parts 1 | title }}
+            <span class="text-warm-brown/50 text-xs">({{ index $parts 0 | upper }})</span>
+          </span>
+          <span class="badge">{{ .count }}</span>
+        </li>
+      {{ end }}
+    </ol>
+  </section>
+
+</div>
+
+{{/* Top 10 cities excluding #1 */}}
+{{ if gt (len $cityList) 1 }}
+<section class="card mb-10">
+  <h2 class="text-xl font-bold mb-1">Top villes hors #1</h2>
+  {{ with index $cityList 0 }}
+    {{ $parts := split .name "/" }}
+    <p class="text-sm text-warm-brown/50 mb-4">
+      ({{ index $parts 1 | title }} mis de côté pour laisser la place aux autres)
+    </p>
+  {{ end }}
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-2">
+    {{ range first 10 (after 1 $cityList) }}
+      {{ $parts := split .name "/" }}
+      <div class="flex items-center justify-between px-2 py-1 rounded hover:bg-warm-light transition-colors">
+        <span class="text-sm">
+          {{ index $parts 1 | title }}
+          <span class="text-warm-brown/50 text-xs">({{ index $parts 0 | upper }})</span>
+        </span>
+        <span class="badge">{{ .count }}</span>
+      </div>
+    {{ end }}
+  </div>
+</section>
 {{ end }}
 
-{{/* Group speakers by country */}}
-{{ range $countries }}
-  {{ $country := . }}
-  {{ $countryPages := where $allSpeakers "Params.city" "like" (printf "^%s/" $country) }}
-  {{ if $countryPages }}
-    <section id="{{ $country }}" class="mb-10">
-      <h2 class="text-xl font-bold mb-4 flex items-center gap-2">
-        <span class="badge bg-warm-brown text-cream">{{ $country | upper }}</span>
-        <span class="text-warm-brown/50 text-sm font-normal">{{ len $countryPages }} speakers</span>
-      </h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-        {{ range sort $countryPages "Params.name" }}
-          {{ partial "speaker-card.html" . }}
-        {{ end }}
-      </div>
-    </section>
-  {{ end }}
+{{/* Top 10 tags */}}
+<section class="card mb-10">
+  <h2 class="text-xl font-bold mb-4">Top sujets</h2>
+  <div class="flex flex-wrap gap-2">
+    {{ range first 10 $tagList }}
+      <a href="{{ printf "/talks/%s/" .name | relURL }}"
+         class="badge hover:bg-terracotta hover:text-white transition-colors">
+        #{{ .name }}
+        <span class="ml-1 opacity-60">{{ .count }}</span>
+      </a>
+    {{ end }}
+  </div>
+</section>
+
+{{/* Speakers available everywhere */}}
+{{ if $worldwide }}
+<section class="card mb-10">
+  <h2 class="text-xl font-bold mb-4">
+    🌍 Disponibles partout
+    <span class="text-warm-brown/50 text-base font-normal">({{ len $worldwide }})</span>
+  </h2>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+    {{ range $worldwide }}
+      {{ partial "speaker-card.html" . }}
+    {{ end }}
+  </div>
+</section>
 {{ end }}
+
+{{/* Latest arrivals */}}
+{{ if $latest }}
+<section class="card mb-10">
+  <h2 class="text-xl font-bold mb-4">Derniers arrivés</h2>
+  <div class="space-y-3">
+    {{ range $latest }}
+      <div class="flex items-center gap-3">
+        {{ if .Params.picture }}
+          <img src="{{ .Params.picture }}" alt="{{ .Params.name }}"
+               class="w-10 h-10 rounded-full object-cover border-2 border-warm-border shrink-0">
+        {{ end }}
+        <div class="flex-1">
+          <a href="{{ .RelPermalink }}" class="font-semibold hover:text-terracotta transition-colors">
+            {{ .Params.name }}
+          </a>
+        </div>
+        <span class="text-sm text-warm-brown/50 shrink-0">{{ .Params.since }}</span>
+      </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
 {{ end }}
