@@ -8,25 +8,32 @@
 
   {{ $cityTitle := .Title }}
   {{ $coverSrc := partial "cover-url.html" . }}
-  <div class="flex items-center gap-4 mb-8">
-    {{ if $coverSrc }}
-      <img src="{{ $coverSrc }}" alt="{{ $cityTitle }}" class="w-20 h-20 rounded-xl object-cover border border-warm-border">
-    {{ end }}
-    <div>
-      <h1 class="text-3xl font-black">{{ .Title }}</h1>
-      <p class="text-warm-brown/60">{{ len $speakers }} speakers disponibles</p>
-    </div>
-  </div>
 
-  {{ if $speakers }}
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-      {{ range sort $speakers "Params.name" }}
-        {{ partial "speaker-card.html" . }}
+  <div class="flex flex-col md:flex-row gap-8 mb-8">
+    {{/* Left: title + speaker list */}}
+    <div class="flex-1 min-w-0">
+      <h1 class="text-3xl font-black mb-1">{{ .Title }}</h1>
+      <p class="text-warm-brown/60 mb-6">{{ len $speakers }} speakers disponibles</p>
+
+      {{ if $speakers }}
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          {{ range sort $speakers "Params.name" }}
+            {{ partial "speaker-card.html" . }}
+          {{ end }}
+        </div>
+      {{ else }}
+        <p class="text-warm-brown/60">Aucun speaker dans cette ville pour le moment.</p>
       {{ end }}
     </div>
-  {{ else }}
-    <p class="text-warm-brown/60">Aucun speaker dans cette ville pour le moment.</p>
-  {{ end }}
+
+    {{/* Right: city image, full size, not cropped */}}
+    {{ if $coverSrc }}
+      <div class="md:w-64 lg:w-80 shrink-0">
+        <img src="{{ $coverSrc }}" alt="{{ $cityTitle }}"
+             class="w-full rounded-xl border border-warm-border object-contain">
+      </div>
+    {{ end }}
+  </div>
 
 {{ else }}
   {{/* Top-level /villes/ page */}}
