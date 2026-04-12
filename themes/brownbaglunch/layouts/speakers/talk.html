@@ -11,7 +11,7 @@
   {{ if eq .label $siteLang }}{{ $version = . }}{{ end }}
 {{ end }}
 
-<div class="max-w-3xl mx-auto">
+<div class="max-w-3xl mx-auto" data-pagefind-filter="section:talks">
 
   {{/* Breadcrumb */}}
   {{ if $speakerPage }}
@@ -33,7 +33,7 @@
       <span class="badge">🏳️ {{ .label }}</span>
     {{ end }}
     {{ range .Params.tags }}
-      <a href="{{ printf "/talks/%s/" . | relURL }}"
+      <a href="{{ printf "/talks/%s/" . | relLangURL }}"
          class="badge hover:bg-terracotta hover:text-white transition-colors">#{{ . }}</a>
     {{ end }}
   </div>
