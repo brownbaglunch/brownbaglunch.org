@@ -50,6 +50,9 @@ jobs:
         with:
           node-version: 22
 
+      - name: Install Node dependencies
+        run: npm install
+
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
