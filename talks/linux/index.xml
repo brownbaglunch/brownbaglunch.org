@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/linux/</link>
+    <description>Recent content in Linux on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/christopher-maneu/talks/comment-etre-un-linuxien-heureux-sous-windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/christopher-maneu/talks/comment-etre-un-linuxien-heureux-sous-windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/gilles-dehaudt/talks/docker-en-production-retour-dexperience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/gilles-dehaudt/talks/docker-en-production-retour-dexperience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/patrik-cyvoct/talks/linuxkit-101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/patrik-cyvoct/talks/linuxkit-101/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/quentin-adam/talks/comment-ca-marche-systemd-deja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/quentin-adam/talks/comment-ca-marche-systemd-deja/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/quentin-adam/talks/containers-vms-processes-isolation-performances-io-how-all-of-these-technologies-work-and-compare-to-each-other-deep-dive-and-learn-about-your-operating-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/quentin-adam/talks/containers-vms-processes-isolation-performances-io-how-all-of-these-technologies-work-and-compare-to-each-other-deep-dive-and-learn-about-your-operating-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/rachid-zarouali/talks/docker-decouverte-et-retour-dexperience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/rachid-zarouali/talks/docker-decouverte-et-retour-dexperience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/rachid-zarouali/talks/monitoring-et-alerting-opensource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/rachid-zarouali/talks/monitoring-et-alerting-opensource/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

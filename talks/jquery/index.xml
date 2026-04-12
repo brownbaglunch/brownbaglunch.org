@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jquery on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/jquery/</link>
+    <description>Recent content in Jquery on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/jquery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-lombardot/talks/introduction-au-leanstartup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-lombardot/talks/introduction-au-leanstartup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-lombardot/talks/ionicframework-ma-premiere-application/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-lombardot/talks/ionicframework-ma-premiere-application/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-lombardot/talks/symfony2-admingenerator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-lombardot/talks/symfony2-admingenerator/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

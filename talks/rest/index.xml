@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rest on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/rest/</link>
+    <description>Recent content in Rest on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/rest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/antonio-goncalves/talks/microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/antonio-goncalves/talks/microservices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedrick-lunven/talks/cas-dusages-et-implementation-des-apis-en-java-avec-rest-grpc-ou-graphql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedrick-lunven/talks/cas-dusages-et-implementation-des-apis-en-java-avec-rest-grpc-ou-graphql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/christophe-grand/talks/introduction-a-la-programmation-orientee-donnees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/christophe-grand/talks/introduction-a-la-programmation-orientee-donnees/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/christophe-grand/talks/rest-lincompris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/christophe-grand/talks/rest-lincompris/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/david-de-carvalho/talks/retour-dexperience-pagesjaunes-les-transactions-dans-une-architecture-microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/david-de-carvalho/talks/retour-dexperience-pagesjaunes-les-transactions-dans-une-architecture-microservices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/david-martin/talks/api-web-best-pratices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/david-martin/talks/api-web-best-pratices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/david-martin/talks/api-web-et-cache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/david-martin/talks/api-web-et-cache/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/david-martin/talks/hypermedia-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/david-martin/talks/hypermedia-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-guillaume-ribreau/talks/choisir-entre-une-api-rpc-soap-rest-graphql-et-si-le-probleme-etait-ailleurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-guillaume-ribreau/talks/choisir-entre-une-api-rpc-soap-rest-graphql-et-si-le-probleme-etait-ailleurs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/igor-laborie/talks/micorservices-feign/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/igor-laborie/talks/micorservices-feign/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-muetton/talks/casperjs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-muetton/talks/casperjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-muetton/talks/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-muetton/talks/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-muetton/talks/http-and-rest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-muetton/talks/http-and-rest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-muetton/talks/javascript-101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-muetton/talks/javascript-101/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-muetton/talks/phpunit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-muetton/talks/phpunit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/william-durand/talks/git-github-open-source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/william-durand/talks/git-github-open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/william-durand/talks/introduction-a-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/william-durand/talks/introduction-a-docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/william-durand/talks/open-source-for-dummies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/william-durand/talks/open-source-for-dummies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/william-durand/talks/oriented-object-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/william-durand/talks/oriented-object-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/william-durand/talks/rest-apis-with-symfony-the-right-way/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/william-durand/talks/rest-apis-with-symfony-the-right-way/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-carpentier/talks/restful-really/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-carpentier/talks/restful-really/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

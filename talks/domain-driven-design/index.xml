@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domain-Driven-Design on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/domain-driven-design/</link>
+    <description>Recent content in Domain-Driven-Design on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/domain-driven-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/antonio-goncalves/talks/microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/antonio-goncalves/talks/microservices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/arnaud-bailly/talks/event-sourcing-functionally/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/arnaud-bailly/talks/event-sourcing-functionally/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/clement-heliou/talks/9-things-that-will-make-your-escqrs-journey-painful/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/clement-heliou/talks/9-things-that-will-make-your-escqrs-journey-painful/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/clement-heliou/talks/boost-your-bdd-practice-with-the-example-mapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/clement-heliou/talks/boost-your-bdd-practice-with-the-example-mapping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-dupuydauby/talks/as-if-you-meant-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-dupuydauby/talks/as-if-you-meant-it/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/ddd-games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/ddd-games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/domain-driven-design-dans-un-contexte-legacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/domain-driven-design-dans-un-contexte-legacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/extremist-programming-avec-eric-lefevre-ardant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/extremist-programming-avec-eric-lefevre-ardant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/legacy-code-faire-evoluer-ou-re-ecrire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/legacy-code-faire-evoluer-ou-re-ecrire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/votre-sujet-sur-mesure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/votre-sujet-sur-mesure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/delphine-raymond/talks/event-storming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/delphine-raymond/talks/event-storming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/emilien-pecoul/talks/le-ddd-au-quotidien/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/emilien-pecoul/talks/le-ddd-au-quotidien/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florent-pellet/talks/coding-dojo-a-la-demande/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florent-pellet/talks/coding-dojo-a-la-demande/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florent-pellet/talks/ddd-agilite-par-le-code-grace-a-cqrs-et-eventsourcing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florent-pellet/talks/ddd-agilite-par-le-code-grace-a-cqrs-et-eventsourcing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florent-pellet/talks/event-storming-comprendre-le-metier-autrement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florent-pellet/talks/event-storming-comprendre-le-metier-autrement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florent-pellet/talks/knockoutjs-ou-la-rencontre-dmvvm-et-du-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florent-pellet/talks/knockoutjs-ou-la-rencontre-dmvvm-et-du-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florent-pellet/talks/real-time-web-en-net-avec-signalr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florent-pellet/talks/real-time-web-en-net-avec-signalr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/gregory-weinbach/talks/il-ny-a-pas-de-bon-modele-metier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/gregory-weinbach/talks/il-ny-a-pas-de-bon-modele-metier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/gregory-weinbach/talks/ux-le-poids-des-mots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/gregory-weinbach/talks/ux-le-poids-des-mots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-gavard/talks/quest-ce-que-le-domain-driven-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-gavard/talks/quest-ce-que-le-domain-driven-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-topcu/talks/larchitecture-hexagonale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-topcu/talks/larchitecture-hexagonale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/maxime-sanglan-charlier/talks/atelier-event-storming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/maxime-sanglan-charlier/talks/atelier-event-storming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/maxime-sanglan-charlier/talks/presentation-du-domain-driven-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/maxime-sanglan-charlier/talks/presentation-du-domain-driven-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mikael-letang/talks/faire-du-ddd-tactique-avec-symfony/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mikael-letang/talks/faire-du-ddd-tactique-avec-symfony/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/philippe-bourgau/talks/lalchimie-du-bdd-changer-votre-code-de-plomb-en-or-ou-comment-livrer-de-plus-en-plus-de-valeur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/philippe-bourgau/talks/lalchimie-du-bdd-changer-votre-code-de-plomb-en-or-ou-comment-livrer-de-plus-en-plus-de-valeur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/romain-laurent/talks/scalable-folder-structure-in-a-reactredux-application/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/romain-laurent/talks/scalable-folder-structure-in-a-reactredux-application/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/romain-touze/talks/domain-driven-design-en-moins-dune-heure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/romain-touze/talks/domain-driven-design-en-moins-dune-heure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-pierrain/talks/as-if-you-meant-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-pierrain/talks/as-if-you-meant-it/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-pierrain/talks/haut-debit-et-faible-latence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-pierrain/talks/haut-debit-et-faible-latence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/tomasz-jaskula/talks/recettes-cqrs-pour-bien-cuisiner-son-architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/tomasz-jaskula/talks/recettes-cqrs-pour-bien-cuisiner-son-architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/tomasz-jaskula/talks/renforcez-votre-code-metier-en-adaptant-f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/tomasz-jaskula/talks/renforcez-votre-code-metier-en-adaptant-f/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/tomasz-jaskula/talks/sujet-f-sur-mesure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/tomasz-jaskula/talks/sujet-f-sur-mesure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/vincent-beauvivre/talks/voyage-dune-appli-legacy-vers-le-ddd-domain-driven-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/vincent-beauvivre/talks/voyage-dune-appli-legacy-vers-le-ddd-domain-driven-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/vincent-dubois/talks/quest-ce-que-le-domain-driven-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/vincent-dubois/talks/quest-ce-que-le-domain-driven-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-blanc/talks/lobjet-en-mode-clean-code-et-ddd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-blanc/talks/lobjet-en-mode-clean-code-et-ddd/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

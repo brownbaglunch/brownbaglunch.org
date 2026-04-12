@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Live-Coding on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/live-coding/</link>
+    <description>Recent content in Live-Coding on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/live-coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/eric-siber/talks/renforcons-notre-developer-experience-pour-faire-face-aux-menaces-dobsolescence-et-de-vulnerabilites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/eric-siber/talks/renforcons-notre-developer-experience-pour-faire-face-aux-menaces-dobsolescence-et-de-vulnerabilites/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/fabien-lamarque/talks/live-coding-de-space-invaders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/fabien-lamarque/talks/live-coding-de-space-invaders/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-mouron/talks/construire-un-moteur-de-regles-en-c-en-1h-chrono/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-mouron/talks/construire-un-moteur-de-regles-en-c-en-1h-chrono/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-wolf/talks/30-minutes-pour-reduire-lempreinte-encironnementale-dun-site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-wolf/talks/30-minutes-pour-reduire-lempreinte-encironnementale-dun-site/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/johan-martinsson/talks/developpeurs-anonymes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/johan-martinsson/talks/developpeurs-anonymes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/johan-martinsson/talks/la-pyramide-des-tests-dou-sort-il/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/johan-martinsson/talks/la-pyramide-des-tests-dou-sort-il/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/johan-martinsson/talks/la-valeur-du-bon-code-pour-les-non-devs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/johan-martinsson/talks/la-valeur-du-bon-code-pour-les-non-devs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/johan-martinsson/talks/refactorer-legacy-meme-pas-peur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/johan-martinsson/talks/refactorer-legacy-meme-pas-peur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/laurent-thiebault/talks/monte-le-son-sur-ton-desktop-avec-electron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/laurent-thiebault/talks/monte-le-son-sur-ton-desktop-avec-electron/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/yohan-lasorsa/talks/oups-jai-mis-du-typescript-dans-mon-appli-nodejs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/yohan-lasorsa/talks/oups-jai-mis-du-typescript-dans-mon-appli-nodejs/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/docker/</link>
+    <description>Recent content in Docker on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/alexis-janvier/talks/decouverte-de-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/alexis-janvier/talks/decouverte-de-docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/amrouche-hamza/talks/deploiement-continu-dapplication-api-centric-avec-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/amrouche-hamza/talks/deploiement-continu-dapplication-api-centric-avec-kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/augustin-de-laveaucoupet/talks/discussions-libre-sur-la-qualite-logiciel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/augustin-de-laveaucoupet/talks/discussions-libre-sur-la-qualite-logiciel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/augustin-de-laveaucoupet/talks/docker-sur-votre-poste-de-dev-comme-en-prod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/augustin-de-laveaucoupet/talks/docker-sur-votre-poste-de-dev-comme-en-prod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/augustin-de-laveaucoupet/talks/outils-et-methodo-pour-des-mises-en-prod-sans-sueur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/augustin-de-laveaucoupet/talks/outils-et-methodo-pour-des-mises-en-prod-sans-sueur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/baptiste-mathus/talks/git-avance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/baptiste-mathus/talks/git-avance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/baptiste-mathus/talks/git-pourquoi-cest-cool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/baptiste-mathus/talks/git-pourquoi-cest-cool/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/baptiste-mathus/talks/monter-une-forge-jenkins-qui-deboite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/baptiste-mathus/talks/monter-une-forge-jenkins-qui-deboite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/charles-sabourdin/talks/introduction-a-openshift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/charles-sabourdin/talks/introduction-a-openshift/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/charles-sabourdin/talks/java-dans-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/charles-sabourdin/talks/java-dans-docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/charles-sabourdin/talks/premiers-pas-avec-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/charles-sabourdin/talks/premiers-pas-avec-docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/christophe-furmaniak/talks/containers-et-configuration-des-promesses-au-concret-avec-git-et-confd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/christophe-furmaniak/talks/containers-et-configuration-des-promesses-au-concret-avec-git-et-confd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/christophe-furmaniak/talks/docker-en-prod-bonnes-pratiques-et-points-dattention/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/christophe-furmaniak/talks/docker-en-prod-bonnes-pratiques-et-points-dattention/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/christophe-furmaniak/talks/orchestration-de-conteneurs-dcos-mesos-kubernetes-ou-swarm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/christophe-furmaniak/talks/orchestration-de-conteneurs-dcos-mesos-kubernetes-ou-swarm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/christophe-furmaniak/talks/rancher-le-petit-orchestrateur-docker-qui-vous-veut-du-bien/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/christophe-furmaniak/talks/rancher-le-petit-orchestrateur-docker-qui-vous-veut-du-bien/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/christophe-labouisse/talks/git-pour-les-nuls-et-les-autres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/christophe-labouisse/talks/git-pour-les-nuls-et-les-autres/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/christophe-labouisse/talks/introduction-a-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/christophe-labouisse/talks/introduction-a-docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/david-gageot/talks/transform-your-legacy-application-with-kubernetes-and-istio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/david-gageot/talks/transform-your-legacy-application-with-kubernetes-and-istio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/eric-meallier/talks/docker-encore-un-buzzword-ou-reel-concept/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/eric-meallier/talks/docker-encore-un-buzzword-ou-reel-concept/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/etienne-coutaud/talks/introduction-a-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/etienne-coutaud/talks/introduction-a-docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-delbrayelle/talks/kubernetes-pour-orchestrer-nos-containers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-delbrayelle/talks/kubernetes-pour-orchestrer-nos-containers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-liot/talks/devops-et-integration-continue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-liot/talks/devops-et-integration-continue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-liot/talks/virtualisation-daccord-mais-apres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-liot/talks/virtualisation-daccord-mais-apres/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/gilles-dehaudt/talks/docker-en-production-retour-dexperience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/gilles-dehaudt/talks/docker-en-production-retour-dexperience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-wittouck/talks/spring-boot-containers-dos-donts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-wittouck/talks/spring-boot-containers-dos-donts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/laurent-tardif/talks/devops-de-git-a-kubernetes-en-passant-par-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/laurent-tardif/talks/devops-de-git-a-kubernetes-en-passant-par-docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/laurent-tardif/talks/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/laurent-tardif/talks/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/laurent-tardif/talks/kafka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/laurent-tardif/talks/kafka/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/marc-bouvier/talks/docker-sur-le-poste-du-developpeur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/marc-bouvier/talks/docker-sur-le-poste-du-developpeur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mathieu-laude/talks/jenkinsfile-wtf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mathieu-laude/talks/jenkinsfile-wtf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nicolas-muller/talks/docker-des-containers-de-la-cale-au-pont/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nicolas-muller/talks/docker-des-containers-de-la-cale-au-pont/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nicolas-muller/talks/influxdb-la-base-de-donnees-chronologique-opensource-autonome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nicolas-muller/talks/influxdb-la-base-de-donnees-chronologique-opensource-autonome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nicolas-steinmetz/talks/introduction-a-la-plateforme-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nicolas-steinmetz/talks/introduction-a-la-plateforme-docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/patrik-cyvoct/talks/linuxkit-101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/patrik-cyvoct/talks/linuxkit-101/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/pierre-leresteux/talks/docker-au-quotidien-ameliorons-la-vie-des-developpeurs-avec-des-conteneurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/pierre-leresteux/talks/docker-au-quotidien-ameliorons-la-vie-des-developpeurs-avec-des-conteneurs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/quentin-adam/talks/containers-vms-processes-isolation-performances-io-how-all-of-these-technologies-work-and-compare-to-each-other-deep-dive-and-learn-about-your-operating-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/quentin-adam/talks/containers-vms-processes-isolation-performances-io-how-all-of-these-technologies-work-and-compare-to-each-other-deep-dive-and-learn-about-your-operating-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/rachid-zarouali/talks/docker-decouverte-et-retour-dexperience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/rachid-zarouali/talks/docker-decouverte-et-retour-dexperience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/rachid-zarouali/talks/monitoring-et-alerting-opensource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/rachid-zarouali/talks/monitoring-et-alerting-opensource/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/riadh-mnasri/talks/initiation-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/riadh-mnasri/talks/initiation-docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/romain-prignon/talks/ameliorons-ensemble-votre-infra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/romain-prignon/talks/ameliorons-ensemble-votre-infra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/stephane-vanacker/talks/reussir-un-projet-en-microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/stephane-vanacker/talks/reussir-un-projet-en-microservices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/sun-tan/talks/java-dans-kubernetes-pour-les-nuls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/sun-tan/talks/java-dans-kubernetes-pour-les-nuls/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thibault-duchateau/talks/docker-en-production-retour-dexperience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thibault-duchateau/talks/docker-en-production-retour-dexperience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/william-durand/talks/git-github-open-source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/william-durand/talks/git-github-open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/william-durand/talks/introduction-a-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/william-durand/talks/introduction-a-docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/william-durand/talks/open-source-for-dummies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/william-durand/talks/open-source-for-dummies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/william-durand/talks/oriented-object-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/william-durand/talks/oriented-object-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/william-durand/talks/rest-apis-with-symfony-the-right-way/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/william-durand/talks/rest-apis-with-symfony-the-right-way/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-nopre/talks/ansible/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-nopre/talks/ansible/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/yohan-lasorsa/talks/un-environnement-de-dev-propre-et-qui-marche-a-tous-les-coups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/yohan-lasorsa/talks/un-environnement-de-dev-propre-et-qui-marche-a-tous-les-coups/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nosql on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/nosql/</link>
+    <description>Recent content in Nosql on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/nosql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/alexander-dejanovski/talks/apache-cassandra-guide-de-survie-en-production/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/alexander-dejanovski/talks/apache-cassandra-guide-de-survie-en-production/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/alexander-dejanovski/talks/apache-cassandra-les-reparations-dans-la-vraie-vie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/alexander-dejanovski/talks/apache-cassandra-les-reparations-dans-la-vraie-vie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/alexander-dejanovski/talks/apache-cassandra-operations-coherence-et-failover-en-multi-datacenter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/alexander-dejanovski/talks/apache-cassandra-operations-coherence-et-failover-en-multi-datacenter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/alexander-dejanovski/talks/apache-cassandra-pour-les-devs-et-aussi-pour-les-ops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/alexander-dejanovski/talks/apache-cassandra-pour-les-devs-et-aussi-pour-les-ops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/alexander-dejanovski/talks/apache-cassandra-pour-les-ops-et-aussi-pour-les-devs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/alexander-dejanovski/talks/apache-cassandra-pour-les-ops-et-aussi-pour-les-devs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-liot/talks/appropriation-de-donnees-parsing-formatting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-liot/talks/appropriation-de-donnees-parsing-formatting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-liot/talks/crawling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-liot/talks/crawling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-liot/talks/introduction-aux-big-data-avec-hadoop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-liot/talks/introduction-aux-big-data-avec-hadoop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/katia-aresti/talks/decouvrez-infinispan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/katia-aresti/talks/decouvrez-infinispan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/kevin-biger/talks/decouvrir-les-bases-nosql-orientees-graphes-avec-neo4j/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/kevin-biger/talks/decouvrir-les-bases-nosql-orientees-graphes-avec-neo4j/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/laurent-doguin/talks/a-la-decouverte-de-couchbase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/laurent-doguin/talks/a-la-decouverte-de-couchbase/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/leonardo-noleto/talks/anomaly-detection-aka-outlier-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/leonardo-noleto/talks/anomaly-detection-aka-outlier-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/leonardo-noleto/talks/transformez-vos-logs-en-insights-avec-elk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/leonardo-noleto/talks/transformez-vos-logs-en-insights-avec-elk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-knuchel/talks/anatomie-dun-plugin-cordova/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-knuchel/talks/anatomie-dun-plugin-cordova/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-knuchel/talks/attention-aux-pieges-du-mobile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-knuchel/talks/attention-aux-pieges-du-mobile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-knuchel/talks/decouvrir-ionic-en-codant-une-application-de-chat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-knuchel/talks/decouvrir-ionic-en-codant-une-application-de-chat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-knuchel/talks/introduction-a-ionic-framework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-knuchel/talks/introduction-a-ionic-framework/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-knuchel/talks/ionic-framework-cest-aussi-des-outils/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-knuchel/talks/ionic-framework-cest-aussi-des-outils/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-knuchel/talks/ionic-sur-commande/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-knuchel/talks/ionic-sur-commande/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/quentin-adam/talks/why-postgres-sql-deserve-nosql-fan-respect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/quentin-adam/talks/why-postgres-sql-deserve-nosql-fan-respect/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/stephane-lang/talks/bases-de-donnees-distribuees-faire-le-bon-choix-darchitecture-et-de-coherence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/stephane-lang/talks/bases-de-donnees-distribuees-faire-le-bon-choix-darchitecture-et-de-coherence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/stephane-lang/talks/introduction-a-couchbase-et-aux-bases-de-donnees-nosql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/stephane-lang/talks/introduction-a-couchbase-et-aux-bases-de-donnees-nosql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/sylvain-wallez/talks/hazelcast-le-developpement-distribue-facile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/sylvain-wallez/talks/hazelcast-le-developpement-distribue-facile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/sylvain-wallez/talks/introduction-a-mongodb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/sylvain-wallez/talks/introduction-a-mongodb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/sylvain-wallez/talks/lopen-source-la-fondation-apache-comment-ca-marche/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/sylvain-wallez/talks/lopen-source-la-fondation-apache-comment-ca-marche/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/sylvain-wallez/talks/open-hardware-kesako/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/sylvain-wallez/talks/open-hardware-kesako/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/sylvain-wallez/talks/war-stories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/sylvain-wallez/talks/war-stories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/cassandra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/cassandra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/hadoop-introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/hadoop-introduction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/hadoop-programmation-de-jobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/hadoop-programmation-de-jobs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/storm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/storm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/tests-de-charge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/tests-de-charge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/tugdual-grall/talks/fast-cars-big-data-ou-comment-le-streaming-peut-aider-la-formule-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/tugdual-grall/talks/fast-cars-big-data-ou-comment-le-streaming-peut-aider-la-formule-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/tugdual-grall/talks/introduction-au-big-data-et-nosql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/tugdual-grall/talks/introduction-au-big-data-et-nosql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/tugdual-grall/talks/stream-processing-avec-apache-flink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/tugdual-grall/talks/stream-processing-avec-apache-flink/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/vincent-heuschling/talks/apache-spark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/vincent-heuschling/talks/apache-spark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/vincent-heuschling/talks/bases-de-donnees-nosql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/vincent-heuschling/talks/bases-de-donnees-nosql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/vincent-heuschling/talks/developpement-hadoop-avec-scalding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/vincent-heuschling/talks/developpement-hadoop-avec-scalding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/vincent-heuschling/talks/google-cloud-platform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/vincent-heuschling/talks/google-cloud-platform/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/vincent-heuschling/talks/hadoop-et-son-ecosysteme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/vincent-heuschling/talks/hadoop-et-son-ecosysteme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/vincent-heuschling/talks/hadoop-pig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/vincent-heuschling/talks/hadoop-pig/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

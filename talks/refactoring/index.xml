@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refactoring on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/refactoring/</link>
+    <description>Recent content in Refactoring on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/refactoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/charles-bouttaz/talks/coding-dojo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/charles-bouttaz/talks/coding-dojo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/clement-poissonnier/talks/sensibilisation-au-software-craftsmanship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/clement-poissonnier/talks/sensibilisation-au-software-craftsmanship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-dupuydauby/talks/le-craftsmanship-par-les-lego/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-dupuydauby/talks/le-craftsmanship-par-les-lego/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/fabien-lamarque/talks/gilded-rose-inn-comment-refactorer-un-code-legacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/fabien-lamarque/talks/gilded-rose-inn-comment-refactorer-un-code-legacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-wallet/talks/le-code-source-cest-comme-les-toilettes-cest-bien-quand-ca-marche-cest-mieux-quand-cest-propre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-wallet/talks/le-code-source-cest-comme-les-toilettes-cest-bien-quand-ca-marche-cest-mieux-quand-cest-propre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/johan-martinsson/talks/developpeurs-anonymes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/johan-martinsson/talks/developpeurs-anonymes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/johan-martinsson/talks/la-pyramide-des-tests-dou-sort-il/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/johan-martinsson/talks/la-pyramide-des-tests-dou-sort-il/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/johan-martinsson/talks/la-valeur-du-bon-code-pour-les-non-devs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/johan-martinsson/talks/la-valeur-du-bon-code-pour-les-non-devs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/johan-martinsson/talks/refactorer-legacy-meme-pas-peur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/johan-martinsson/talks/refactorer-legacy-meme-pas-peur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/bonus-groupe-de-lecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/bonus-groupe-de-lecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/programmation-et-musique-avec-clojure-et-overtone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/programmation-et-musique-avec-clojure-et-overtone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/travailler-efficacement-sur-du-code-legacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/travailler-efficacement-sur-du-code-legacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/philippe-bourgau/talks/lalchimie-du-bdd-changer-votre-code-de-plomb-en-or-ou-comment-livrer-de-plus-en-plus-de-valeur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/philippe-bourgau/talks/lalchimie-du-bdd-changer-votre-code-de-plomb-en-or-ou-comment-livrer-de-plus-en-plus-de-valeur/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

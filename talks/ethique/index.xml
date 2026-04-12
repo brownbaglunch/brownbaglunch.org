@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethique on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/ethique/</link>
+    <description>Recent content in Ethique on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/ethique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/olivier-philippot/talks/comment-etre-un-developpeur-ethique-et-green-dilemne-entre-la-course-technologique-et-mon-impact-sur-la-societe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/olivier-philippot/talks/comment-etre-un-developpeur-ethique-et-green-dilemne-entre-la-course-technologique-et-mon-impact-sur-la-societe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-mouton-dubosc/talks/chiffrer-ses-communications-et-ses-ordinateurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-mouton-dubosc/talks/chiffrer-ses-communications-et-ses-ordinateurs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-mouton-dubosc/talks/lhistoire-de-la-cryptographie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-mouton-dubosc/talks/lhistoire-de-la-cryptographie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-mouton-dubosc/talks/politique-de-securite-et-de-respect-de-vie-privee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-mouton-dubosc/talks/politique-de-securite-et-de-respect-de-vie-privee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-mouton-dubosc/talks/surveillance-globale-et-espionnage-economique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-mouton-dubosc/talks/surveillance-globale-et-espionnage-economique/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/java/</link>
+    <description>Recent content in Java on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/agnes-crepet/talks/architectures-contemporaines-des-systemes-dinformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/agnes-crepet/talks/architectures-contemporaines-des-systemes-dinformation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/agnes-crepet/talks/il-etait-une-fois-les-grands-principes-du-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/agnes-crepet/talks/il-etait-une-fois-les-grands-principes-du-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/agnes-crepet/talks/introduction-au-behaviour-driven-development-bdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/agnes-crepet/talks/introduction-au-behaviour-driven-development-bdd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/agnes-crepet/talks/lagilite-par-la-pratique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/agnes-crepet/talks/lagilite-par-la-pratique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/agnes-crepet/talks/lapprentissage-continue-les-mooc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/agnes-crepet/talks/lapprentissage-continue-les-mooc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/agnes-crepet/talks/testons-testons-testons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/agnes-crepet/talks/testons-testons-testons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/alexander-dejanovski/talks/apache-cassandra-pour-les-devs-et-aussi-pour-les-ops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/alexander-dejanovski/talks/apache-cassandra-pour-les-devs-et-aussi-pour-les-ops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/arnaud-tournier/talks/architecture-performance-maintenabilite-et-satisfaction-client/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/arnaud-tournier/talks/architecture-performance-maintenabilite-et-satisfaction-client/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/arnaud-tournier/talks/differences-x86-x64/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/arnaud-tournier/talks/differences-x86-x64/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/arnaud-tournier/talks/faciliter-le-developpement-dapplications-web-hors-ligne-avec-gwt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/arnaud-tournier/talks/faciliter-le-developpement-dapplications-web-hors-ligne-avec-gwt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/arnaud-tournier/talks/gwt-en-general-et-en-particulier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/arnaud-tournier/talks/gwt-en-general-et-en-particulier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/arnaud-tournier/talks/retour-dexperience-avec-google-app-engine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/arnaud-tournier/talks/retour-dexperience-avec-google-app-engine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/baptiste-mathus/talks/git-avance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/baptiste-mathus/talks/git-avance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/baptiste-mathus/talks/git-pourquoi-cest-cool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/baptiste-mathus/talks/git-pourquoi-cest-cool/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/baptiste-mathus/talks/monter-une-forge-jenkins-qui-deboite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/baptiste-mathus/talks/monter-une-forge-jenkins-qui-deboite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/benjamin-lacroix/talks/comment-tester-vraiment-une-application-android/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/benjamin-lacroix/talks/comment-tester-vraiment-une-application-android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/benjamin-lacroix/talks/kotlin-intro-live-coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/benjamin-lacroix/talks/kotlin-intro-live-coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/angularjs-le-framework-javascript-de-demain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/angularjs-le-framework-javascript-de-demain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/apache-camel-un-framework-dintegration-ultralight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/apache-camel-un-framework-dintegration-ultralight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/git-lincontournable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/git-lincontournable/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/java-8-decouvrir-les-lambdas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/java-8-decouvrir-les-lambdas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/play-framework-fast-web-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/play-framework-fast-web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-gatay/talks/astuces-dutilisation-de-maven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-gatay/talks/astuces-dutilisation-de-maven/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-gatay/talks/construction-dun-systeme-de-statistiques-avec-mongodb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-gatay/talks/construction-dun-systeme-de-statistiques-avec-mongodb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-gatay/talks/exporter-une-api-depuis-un-site-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-gatay/talks/exporter-une-api-depuis-un-site-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-gatay/talks/git-moi-aussi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-gatay/talks/git-moi-aussi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-gatay/talks/retour-dexperience-sur-la-plateforme-de-test-mise-en-place-pour-srmvision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-gatay/talks/retour-dexperience-sur-la-plateforme-de-test-mise-en-place-pour-srmvision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-longo/talks/java-8-chez-les-inuits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-longo/talks/java-8-chez-les-inuits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/charles-bouttaz/talks/tests-unitaires-et-tdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/charles-bouttaz/talks/tests-unitaires-et-tdd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/charles-sabourdin/talks/java-dans-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/charles-sabourdin/talks/java-dans-docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/david-de-carvalho/talks/retour-dexperience-pagesjaunes-les-transactions-dans-une-architecture-microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/david-de-carvalho/talks/retour-dexperience-pagesjaunes-les-transactions-dans-une-architecture-microservices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/david-martin/talks/api-web-best-pratices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/david-martin/talks/api-web-best-pratices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/david-martin/talks/api-web-et-cache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/david-martin/talks/api-web-et-cache/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/david-martin/talks/hypermedia-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/david-martin/talks/hypermedia-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/eric-lefevre-ardant/talks/boucles-etranges-etranges-boucles-avec-guillaume-tardif/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/eric-lefevre-ardant/talks/boucles-etranges-etranges-boucles-avec-guillaume-tardif/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/eric-meallier/talks/docker-encore-un-buzzword-ou-reel-concept/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/eric-meallier/talks/docker-encore-un-buzzword-ou-reel-concept/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/eric-siber/talks/renforcons-notre-developer-experience-pour-faire-face-aux-menaces-dobsolescence-et-de-vulnerabilites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/eric-siber/talks/renforcons-notre-developer-experience-pour-faire-face-aux-menaces-dobsolescence-et-de-vulnerabilites/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/eric-siber/talks/si-tes-toujours-pas-dev-a-40-ans-il-nest-pas-trop-tard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/eric-siber/talks/si-tes-toujours-pas-dev-a-40-ans-il-nest-pas-trop-tard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/fabien-lamarque/talks/gilded-rose-inn-comment-refactorer-un-code-legacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/fabien-lamarque/talks/gilded-rose-inn-comment-refactorer-un-code-legacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/fabrice-sznajderman/talks/lagom-architecture-microservices-reactive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/fabrice-sznajderman/talks/lagom-architecture-microservices-reactive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/fabrice-sznajderman/talks/sbt-et-pourquoi-pas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/fabrice-sznajderman/talks/sbt-et-pourquoi-pas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/fabrice-sznajderman/talks/scala-de-0-a-linfini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/fabrice-sznajderman/talks/scala-de-0-a-linfini/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florian-beaufume/talks/programmation-concurrente-en-java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florian-beaufume/talks/programmation-concurrente-en-java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florian-beaufume/talks/programmation-reactive-avec-spring-5-et-reactor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florian-beaufume/talks/programmation-reactive-avec-spring-5-et-reactor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florian-beaufume/talks/websocket-avec-java-ee-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florian-beaufume/talks/websocket-avec-java-ee-7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-delbrayelle/talks/jhipster-generateur-dapplications-web-modernes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-delbrayelle/talks/jhipster-generateur-dapplications-web-modernes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-delbrayelle/talks/lapres-java-8-les-nouveautes-depuis-java-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-delbrayelle/talks/lapres-java-8-les-nouveautes-depuis-java-9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-delbrayelle/talks/micronaut-et-quarkus-lavenir-du-monde-java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-delbrayelle/talks/micronaut-et-quarkus-lavenir-du-monde-java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-liot/talks/git-github-open-source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-liot/talks/git-github-open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-liot/talks/introduction-aux-big-data-avec-hadoop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-liot/talks/introduction-aux-big-data-avec-hadoop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-liot/talks/soa-libre-et-efficace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-liot/talks/soa-libre-et-efficace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-sarradin/talks/une-alternative-a-aop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-sarradin/talks/une-alternative-a-aop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/frederic-cabestre/talks/comment-la-jvm-ramasse-t-elle-ses-miettes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/frederic-cabestre/talks/comment-la-jvm-ramasse-t-elle-ses-miettes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/frederic-cabestre/talks/des-acteurs-en-concurrence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/frederic-cabestre/talks/des-acteurs-en-concurrence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/frederic-cabestre/talks/ssl-du-sol-au-plafond/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/frederic-cabestre/talks/ssl-du-sol-au-plafond/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/frederic-combes/talks/architecture-hexagonale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/frederic-combes/talks/architecture-hexagonale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/frederic-combes/talks/programmation-reactive-avec-reactor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/frederic-combes/talks/programmation-reactive-avec-reactor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/frederic-combes/talks/renovation-dun-monolithe-legacy-rex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/frederic-combes/talks/renovation-dun-monolithe-legacy-rex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-bitaudeau/talks/decouvrez-les-mockups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-bitaudeau/talks/decouvrez-les-mockups/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-bitaudeau/talks/discussions-informelles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-bitaudeau/talks/discussions-informelles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-bitaudeau/talks/faire-des-transitions-entre-vues-en-ios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-bitaudeau/talks/faire-des-transitions-entre-vues-en-ios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-bitaudeau/talks/introduction-a-ios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-bitaudeau/talks/introduction-a-ios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-bitaudeau/talks/questions-reponses-sur-les-achats-integres-en-ios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-bitaudeau/talks/questions-reponses-sur-les-achats-integres-en-ios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-ehret/talks/ameliorer-la-qualite-de-ses-tests-unitaires/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-ehret/talks/ameliorer-la-qualite-de-ses-tests-unitaires/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-ehret/talks/angular-js-concepts-de-base/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-ehret/talks/angular-js-concepts-de-base/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-ehret/talks/angular-js-level-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-ehret/talks/angular-js-level-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-ehret/talks/industrialiser-la-construction-de-ces-projets-avec-mavenjenkins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-ehret/talks/industrialiser-la-construction-de-ces-projets-avec-mavenjenkins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-ehret/talks/integration-continue-avec-jenkins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-ehret/talks/integration-continue-avec-jenkins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-ehret/talks/lagilite-par-la-pratique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-ehret/talks/lagilite-par-la-pratique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-ehret/talks/yeoman-ou-comment-industrialiser-le-cycle-de-vie-de-ses-applications-js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-ehret/talks/yeoman-ou-comment-industrialiser-le-cycle-de-vie-de-ses-applications-js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-lours/talks/kanban-pour-les-nuls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-lours/talks/kanban-pour-les-nuls/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-lours/talks/personal-kanban-retrouvez-votre-efficacite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-lours/talks/personal-kanban-retrouvez-votre-efficacite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-tardif/talks/boucles-etranges-etranges-boucles-avec-eric-lefevre-ardant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-tardif/talks/boucles-etranges-etranges-boucles-avec-eric-lefevre-ardant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/henri-tremblay/talks/discussion-informelle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/henri-tremblay/talks/discussion-informelle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/henri-tremblay/talks/lambda-et-generiques-le-cocktail-explosif/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/henri-tremblay/talks/lambda-et-generiques-le-cocktail-explosif/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/henri-tremblay/talks/universite-de-la-performance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/henri-tremblay/talks/universite-de-la-performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/angularjs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/angularjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/dart-le-nouveau-langage-de-google-pour-le-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/dart-le-nouveau-langage-de-google-pour-le-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/la-forge-du-developpeur-javascript-moderne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/la-forge-du-developpeur-javascript-moderne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/les-web-components-aujourdhui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/les-web-components-aujourdhui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/pourquoi-je-ne-code-plus-en-java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/pourquoi-je-ne-code-plus-en-java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/igor-laborie/talks/les-nouveautes-de-java-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/igor-laborie/talks/les-nouveautes-de-java-8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/igor-laborie/talks/micorservices-feign/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/igor-laborie/talks/micorservices-feign/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-bisutti/talks/eliminez-rapidement-des-bottlenecks-de-performance-avec-quickperf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-bisutti/talks/eliminez-rapidement-des-bottlenecks-de-performance-avec-quickperf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-francois-le-foll/talks/introduction-au-tdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-francois-le-foll/talks/introduction-au-tdd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-francois-le-foll/talks/jouons-avec-votre-organisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-francois-le-foll/talks/jouons-avec-votre-organisation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-pierre-lerbscher/talks/audit-de-performance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-pierre-lerbscher/talks/audit-de-performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-pierre-lerbscher/talks/performance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-pierre-lerbscher/talks/performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/coding-dojo-sur-mesure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/coding-dojo-sur-mesure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/les-tests-automatises-ca-nest-pas-possible-chez-moi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/les-tests-automatises-ca-nest-pas-possible-chez-moi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-roy/talks/se-lancer-dans-laventure-microservices-avec-spring-cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-roy/talks/se-lancer-dans-laventure-microservices-avec-spring-cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-roy/talks/spring-boot-ameliorer-votre-productivite-en-1-heure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-roy/talks/spring-boot-ameliorer-votre-productivite-en-1-heure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-roy/talks/spring-data-une-api-quinze-possibilites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-roy/talks/spring-data-une-api-quinze-possibilites/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/katia-aresti/talks/decouvrez-infinispan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/katia-aresti/talks/decouvrez-infinispan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/katia-aresti/talks/decouvrez-quarkus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/katia-aresti/talks/decouvrez-quarkus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/kevin-davin/talks/programmation-fonctionnelle-avec-javaslang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/kevin-davin/talks/programmation-fonctionnelle-avec-javaslang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/laurent-doguin/talks/apprendre-la-programmation-reactive-avec-les-base-de-donnees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/laurent-doguin/talks/apprendre-la-programmation-reactive-avec-les-base-de-donnees/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-mathieu/talks/de-java-8-a-java-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-mathieu/talks/de-java-8-a-java-11/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-mathieu/talks/developper-une-api-cloud-ready-avec-quarkus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-mathieu/talks/developper-une-api-cloud-ready-avec-quarkus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-mathieu/talks/inside-the-jvm-gc-and-jit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-mathieu/talks/inside-the-jvm-gc-and-jit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-mathieu/talks/introduction-a-apache-kafka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-mathieu/talks/introduction-a-apache-kafka/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mathieu-bolla/talks/aws-java-sdk-prise-en-main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mathieu-bolla/talks/aws-java-sdk-prise-en-main/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mathieu-bolla/talks/thermoduino-le-thermometre-java-fx-arduino-raspberry-pi-qui-ne-fait-pas-le-cafe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mathieu-bolla/talks/thermoduino-le-thermometre-java-fx-arduino-raspberry-pi-qui-ne-fait-pas-le-cafe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/bonus-groupe-de-lecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/bonus-groupe-de-lecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/programmation-et-musique-avec-clojure-et-overtone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/programmation-et-musique-avec-clojure-et-overtone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/travailler-efficacement-sur-du-code-legacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/travailler-efficacement-sur-du-code-legacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mathilde-lemee/talks/cache-bigdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mathilde-lemee/talks/cache-bigdata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mathilde-lemee/talks/le-mobile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mathilde-lemee/talks/le-mobile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mathilde-lemee/talks/les-tests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mathilde-lemee/talks/les-tests/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/michael-bitard/talks/coding-dojo-java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/michael-bitard/talks/coding-dojo-java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/michael-bitard/talks/docker-ftw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/michael-bitard/talks/docker-ftw/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/michael-bitard/talks/et-si-on-codait-son-poste-de-travail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/michael-bitard/talks/et-si-on-codait-son-poste-de-travail/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/michael-bonfils/talks/sauvegarder-ses-donnees-bigdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/michael-bonfils/talks/sauvegarder-ses-donnees-bigdata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nelson-dionisi/talks/montee-de-version-sans-interruption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nelson-dionisi/talks/montee-de-version-sans-interruption/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/olivier-etienne/talks/des-framboises-et-des-tests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/olivier-etienne/talks/des-framboises-et-des-tests/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/philippe-charriere/talks/microservices-choisir-le-bon-cheval-vertx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/philippe-charriere/talks/microservices-choisir-le-bon-cheval-vertx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/philippe-prados/talks/architecture-android/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/philippe-prados/talks/architecture-android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/philippe-prados/talks/la-mort-prochaine-du-gc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/philippe-prados/talks/la-mort-prochaine-du-gc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/philippe-prados/talks/le-secret-de-nouvelles-architectures-code-reactif-et-persistance-versionnee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/philippe-prados/talks/le-secret-de-nouvelles-architectures-code-reactif-et-persistance-versionnee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/philippe-prados/talks/montez-une-forteresse-dans-android/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/philippe-prados/talks/montez-une-forteresse-dans-android/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/philippe-prados/talks/multithread-sans-thread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/philippe-prados/talks/multithread-sans-thread/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/riadh-mnasri/talks/un-tour-dhorizon-des-fonctionnalites-cle-du-langage-kotlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/riadh-mnasri/talks/un-tour-dhorizon-des-fonctionnalites-cle-du-langage-kotlin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/sahbi-ktifa/talks/du-neant-a-lespace-moins-dune-heure-pour-aller-en-prod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/sahbi-ktifa/talks/du-neant-a-lespace-moins-dune-heure-pour-aller-en-prod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/sebastien-fauvel/talks/coding-dojo-kata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/sebastien-fauvel/talks/coding-dojo-kata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/shoun-ichida/talks/realiser-une-bonne-recette-grace-au-concombre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/shoun-ichida/talks/realiser-une-bonne-recette-grace-au-concombre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/sun-tan/talks/java-dans-kubernetes-pour-les-nuls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/sun-tan/talks/java-dans-kubernetes-pour-les-nuls/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/sun-tan/talks/kubernetes-crd-en-action-avec-java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/sun-tan/talks/kubernetes-crd-en-action-avec-java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thibault-duchateau/talks/docker-en-production-retour-dexperience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thibault-duchateau/talks/docker-en-production-retour-dexperience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/decouvrez-les-profils-disc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/decouvrez-les-profils-disc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/guava-mon-ami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/guava-mon-ami/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/les-tests-en-trois-temps-3t/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/les-tests-en-trois-temps-3t/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/lombok-pour-la-paix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/lombok-pour-la-paix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/cassandra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/cassandra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/hadoop-introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/hadoop-introduction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/hadoop-programmation-de-jobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/hadoop-programmation-de-jobs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/storm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/storm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/tests-de-charge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-arnaud/talks/tests-de-charge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-blanc/talks/clean-code-coder-proprement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-blanc/talks/clean-code-coder-proprement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-blanc/talks/lobjet-en-mode-clean-code-et-ddd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-blanc/talks/lobjet-en-mode-clean-code-et-ddd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/architecture-mobile-offline-first-androidkotlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/architecture-mobile-offline-first-androidkotlin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/comment-gradle-peut-simplifier-votre-vie-gradleandroidkotlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/comment-gradle-peut-simplifier-votre-vie-gradleandroidkotlin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/demystifier-la-pyramide-de-tests-general/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/demystifier-la-pyramide-de-tests-general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/devenir-un-staff-engineer-dans-le-mobile-carriere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/devenir-un-staff-engineer-dans-le-mobile-carriere/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/mutation-testing-javakotlinandroid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/mutation-testing-javakotlinandroid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/property-based-testing-javakotlinandroid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/property-based-testing-javakotlinandroid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-nopre/talks/play-framework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-nopre/talks/play-framework/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-nopre/talks/tests-unitaires-et-tdd-la-theorie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-nopre/talks/tests-unitaires-et-tdd-la-theorie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-pigeon/talks/une-lettre-pour-un-diamant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-pigeon/talks/une-lettre-pour-un-diamant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/yoann-buch/talks/comprendre-rapidement-une-application-legacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/yoann-buch/talks/comprendre-rapidement-une-application-legacy/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

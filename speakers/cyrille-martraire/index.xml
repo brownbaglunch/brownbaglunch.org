@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/speakers/cyrille-martraire/</link>
+    <description>Recent content on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/speakers/cyrille-martraire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/ddd-games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/ddd-games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/domain-driven-design-dans-un-contexte-legacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/domain-driven-design-dans-un-contexte-legacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/extremist-programming-avec-eric-lefevre-ardant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/extremist-programming-avec-eric-lefevre-ardant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/legacy-code-faire-evoluer-ou-re-ecrire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/legacy-code-faire-evoluer-ou-re-ecrire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/votre-sujet-sur-mesure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/votre-sujet-sur-mesure/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

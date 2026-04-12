@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innovation on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/innovation/</link>
+    <description>Recent content in Innovation on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/innovation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/antoine-peze/talks/le-design-thinking-au-service-de-votre-innovation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/antoine-peze/talks/le-design-thinking-au-service-de-votre-innovation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/benedetta-pastore/talks/facilitation-a-linnovation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/benedetta-pastore/talks/facilitation-a-linnovation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/franck-debane/talks/decouverte-du-lean-startup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/franck-debane/talks/decouverte-du-lean-startup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/quicky-faire-de-lagilite-dans-les-equipes-agiles-cest-possible/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/quicky-faire-de-lagilite-dans-les-equipes-agiles-cest-possible/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/robin-caroff/talks/quicky-app-elles-exemple-de-tech-for-good-a-lheure-du-confinement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/robin-caroff/talks/quicky-app-elles-exemple-de-tech-for-good-a-lheure-du-confinement/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/speakers/emmanuel-bonnet/</link>
+    <description>Recent content on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/speakers/emmanuel-bonnet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/emmanuel-bonnet/talks/brms-moteurs-de-regles-business-rules-entrons-dans-les-details-techniques-sordides-what-else/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/emmanuel-bonnet/talks/brms-moteurs-de-regles-business-rules-entrons-dans-les-details-techniques-sordides-what-else/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/emmanuel-bonnet/talks/comprendre-red-hat-drools-et-ibm-odm-principaux-leaders-du-marche/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/emmanuel-bonnet/talks/comprendre-red-hat-drools-et-ibm-odm-principaux-leaders-du-marche/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/emmanuel-bonnet/talks/ia-symbolique-vs-ia-learning-les-moteurs-regles-optim-ca-sert-vraiment-encore-aujourdhui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/emmanuel-bonnet/talks/ia-symbolique-vs-ia-learning-les-moteurs-regles-optim-ca-sert-vraiment-encore-aujourdhui/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

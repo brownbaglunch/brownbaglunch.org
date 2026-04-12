@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/speakers/cedric-exbrayat/</link>
+    <description>Recent content on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/speakers/cedric-exbrayat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/angularjs-le-framework-javascript-de-demain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/angularjs-le-framework-javascript-de-demain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/apache-camel-un-framework-dintegration-ultralight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/apache-camel-un-framework-dintegration-ultralight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/git-lincontournable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/git-lincontournable/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/java-8-decouvrir-les-lambdas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/java-8-decouvrir-les-lambdas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/play-framework-fast-web-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedric-exbrayat/talks/play-framework-fast-web-development/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

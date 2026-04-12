@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/web/</link>
+    <description>Recent content in Web on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/boris-schapira/talks/mon-site-web-est-un-restaurant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/boris-schapira/talks/mon-site-web-est-un-restaurant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florent-pellet/talks/coding-dojo-a-la-demande/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florent-pellet/talks/coding-dojo-a-la-demande/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florent-pellet/talks/ddd-agilite-par-le-code-grace-a-cqrs-et-eventsourcing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florent-pellet/talks/ddd-agilite-par-le-code-grace-a-cqrs-et-eventsourcing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florent-pellet/talks/event-storming-comprendre-le-metier-autrement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florent-pellet/talks/event-storming-comprendre-le-metier-autrement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florent-pellet/talks/knockoutjs-ou-la-rencontre-dmvvm-et-du-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florent-pellet/talks/knockoutjs-ou-la-rencontre-dmvvm-et-du-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florent-pellet/talks/real-time-web-en-net-avec-signalr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florent-pellet/talks/real-time-web-en-net-avec-signalr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-wauquier/talks/cross-communication-entre-applications-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-wauquier/talks/cross-communication-entre-applications-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-wauquier/talks/gwt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-wauquier/talks/gwt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/gregory-paul/talks/http/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/gregory-paul/talks/http/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/gregory-paul/talks/https-naura-plus-de-secret-pour-vous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/gregory-paul/talks/https-naura-plus-de-secret-pour-vous/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/angularjs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/angularjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/dart-le-nouveau-langage-de-google-pour-le-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/dart-le-nouveau-langage-de-google-pour-le-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/la-forge-du-developpeur-javascript-moderne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/la-forge-du-developpeur-javascript-moderne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/les-web-components-aujourdhui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/les-web-components-aujourdhui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/pourquoi-je-ne-code-plus-en-java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/horacio-gonzalez/talks/pourquoi-je-ne-code-plus-en-java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/hubert-sablonniere/talks/backtobasics-les-cookies-http/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/hubert-sablonniere/talks/backtobasics-les-cookies-http/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-francois-garreau/talks/faisons-de-la-magie-grace-a-houdini-css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-francois-garreau/talks/faisons-de-la-magie-grace-a-houdini-css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-francois-garreau/talks/le-web-natif-debarque/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-francois-garreau/talks/le-web-natif-debarque/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-francois-garreau/talks/pourquoi-les-pwa-sont-la-prochaine-etape-majeure-du-web-et-y-passer-des-aujourdhui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-francois-garreau/talks/pourquoi-les-pwa-sont-la-prochaine-etape-majeure-du-web-et-y-passer-des-aujourdhui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/laurent-paoletti/talks/et-si-votre-prochain-developpement-etait-plus-propre-et-robuste-une-introduction-a-django/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/laurent-paoletti/talks/et-si-votre-prochain-developpement-etait-plus-propre-et-robuste-une-introduction-a-django/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/laurent-paoletti/talks/la-trousse-a-outil-du-developpement-web-moderne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/laurent-paoletti/talks/la-trousse-a-outil-du-developpement-web-moderne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/laurent-paoletti/talks/performance-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/laurent-paoletti/talks/performance-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/laurent-paoletti/talks/pourquoi-passent-ils-a-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/laurent-paoletti/talks/pourquoi-passent-ils-a-python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-knuchel/talks/anatomie-dun-plugin-cordova/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-knuchel/talks/anatomie-dun-plugin-cordova/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-knuchel/talks/attention-aux-pieges-du-mobile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-knuchel/talks/attention-aux-pieges-du-mobile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-knuchel/talks/decouvrir-ionic-en-codant-une-application-de-chat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-knuchel/talks/decouvrir-ionic-en-codant-une-application-de-chat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-knuchel/talks/introduction-a-ionic-framework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-knuchel/talks/introduction-a-ionic-framework/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-knuchel/talks/ionic-framework-cest-aussi-des-outils/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-knuchel/talks/ionic-framework-cest-aussi-des-outils/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/loic-knuchel/talks/ionic-sur-commande/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/loic-knuchel/talks/ionic-sur-commande/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nicolas-martignole/talks/http-et-architectures-orientees-webs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nicolas-martignole/talks/http-et-architectures-orientees-webs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nicolas-martignole/talks/les-clefs-pour-reussir-ses-presentations-techniques/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nicolas-martignole/talks/les-clefs-pour-reussir-ses-presentations-techniques/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nicolas-martignole/talks/play2-et-scala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nicolas-martignole/talks/play2-et-scala/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nicolas-martignole/talks/redis-une-base-nosql-simple-et-puissante/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nicolas-martignole/talks/redis-une-base-nosql-simple-et-puissante/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nicolas-martignole/talks/scala-ce-quil-faut-retenir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nicolas-martignole/talks/scala-ce-quil-faut-retenir/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nicolas-steinmetz/talks/le-reverse-proxy-ce-majordome-a-votre-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nicolas-steinmetz/talks/le-reverse-proxy-ce-majordome-a-votre-service/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/philippe-chevreul/talks/le-bon-sens-au-service-de-vos-utilisateurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/philippe-chevreul/talks/le-bon-sens-au-service-de-vos-utilisateurs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/raphael-luta/talks/amelioration-des-performances-dun-site-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/raphael-luta/talks/amelioration-des-performances-dun-site-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/raphael-luta/talks/discussions-informelles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/raphael-luta/talks/discussions-informelles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/raphael-luta/talks/http-next-generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/raphael-luta/talks/http-next-generation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/raphael-luta/talks/mon-mobile-le-web-et-moi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/raphael-luta/talks/mon-mobile-le-web-et-moi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/raphael-luta/talks/performance-applicative-impact-du-reseau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/raphael-luta/talks/performance-applicative-impact-du-reseau/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/renan-decamps/talks/react-vs-angular/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/renan-decamps/talks/react-vs-angular/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thibault-duchateau/talks/docker-en-production-retour-dexperience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thibault-duchateau/talks/docker-en-production-retour-dexperience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-blanc/talks/framework-js-pour-crawler-le-web-et-aussi-faire-les-tests-e2e/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-blanc/talks/framework-js-pour-crawler-le-web-et-aussi-faire-les-tests-e2e/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-nopre/talks/play-framework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-nopre/talks/play-framework/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

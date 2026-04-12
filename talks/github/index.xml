@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/github/</link>
+    <description>Recent content in Github on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/alexis-janvier/talks/la-revue-de-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/alexis-janvier/talks/la-revue-de-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/benjamin-marguin/talks/git-au-quotidien/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/benjamin-marguin/talks/git-au-quotidien/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/benoit-fontaine/talks/de-la-bienveillance-dans-vos-pr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/benoit-fontaine/talks/de-la-bienveillance-dans-vos-pr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/domhnall-campbell/talks/de-la-bienveillance-dans-vos-pr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/domhnall-campbell/talks/de-la-bienveillance-dans-vos-pr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-danjou/talks/automatiser-votre-workflow-github-avec-mergify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-danjou/talks/automatiser-votre-workflow-github-avec-mergify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/philippe-charriere/talks/ci-cd-finalement-ce-nest-pas-dur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/philippe-charriere/talks/ci-cd-finalement-ce-nest-pas-dur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/philippe-charriere/talks/utilisez-votre-dvcs-comme-un-intranet-pour-autre-chose-que-du-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/philippe-charriere/talks/utilisez-votre-dvcs-comme-un-intranet-pour-autre-chose-que-du-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/vincent-massol/talks/creating-your-own-projects-quality-dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/vincent-massol/talks/creating-your-own-projects-quality-dashboard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/yohan-lasorsa/talks/devenez-un-heros-des-github-actions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/yohan-lasorsa/talks/devenez-un-heros-des-github-actions/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/</link>
+    <description>Recent content on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/decouvrez-les-profils-disc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/decouvrez-les-profils-disc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/guava-mon-ami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/guava-mon-ami/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/les-tests-en-trois-temps-3t/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/les-tests-en-trois-temps-3t/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/lombok-pour-la-paix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thierry-leriche-dessirier/talks/lombok-pour-la-paix/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

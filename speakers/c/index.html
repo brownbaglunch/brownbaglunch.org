@@ -1,0 +1,6532 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Speakers — C — Brown Bag Lunch</title>
+<meta name="description" content="Brown Bag Lunch">
+
+
+  
+
+<link rel="stylesheet" href="/css/main.min.c98677c8f3646e7938a994511911a1f194c29fc4a20439998bd51438090120aa.css" integrity="sha256-yYZ3yPNkbnk4qZRRGRGh8ZTCn8SiBDmZi9UUOAkBIKo=">
+</head>
+<body class="bg-cream text-warm-brown min-h-screen flex flex-col">
+  <nav class="bg-warm-brown text-cream shadow-md">
+  <div class="max-w-6xl mx-auto px-4 py-3 flex items-center gap-6 flex-wrap">
+    <a href="/" class="font-bold text-lg shrink-0">☕ Brown Bag Lunch</a>
+    <div class="flex gap-4 text-sm">
+      <a href="/speakers/" class="hover:text-terracotta transition-colors">Speakers</a>
+      <a href="/talks/" class="hover:text-terracotta transition-colors">Talks</a>
+      <a href="/cities/" class="hover:text-terracotta transition-colors">Villes</a>
+    </div>
+    <div class="ml-auto w-64 relative">
+      <div id="search-box"></div>
+    </div>
+  </div>
+</nav>
+
+  <main class="flex-1 max-w-6xl mx-auto w-full px-4 py-8">
+    
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+      
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex gap-1 flex-wrap mb-6">
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/a/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">A</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/b/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">B</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <span class="badge bg-terracotta text-white font-bold font-mono">C</span>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/d/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">D</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/e/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">E</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/f/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">F</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/g/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">G</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/h/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">H</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/i/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">I</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/j/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">J</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/k/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">K</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/l/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">L</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/m/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">M</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/n/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">N</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/o/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">O</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/p/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">P</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/q/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">Q</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/r/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">R</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/s/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">S</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/t/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">T</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        <span class="badge bg-gray-200 text-gray-400 cursor-default font-mono select-none">U</span>
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/v/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">V</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/w/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">W</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/x/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">X</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        
+          <a href="/speakers/y/"
+             class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">Y</a>
+        
+      
+    
+  
+    
+    
+    
+    
+      
+        <span class="badge bg-gray-200 text-gray-400 cursor-default font-mono select-none">Z</span>
+      
+    
+  
+</div>
+
+
+<div class="flex items-center justify-between mb-6">
+  <h1 class="text-3xl font-black">Speakers — C</h1>
+  <span class="text-warm-brown/60">
+    32 speakers
+  </span>
+</div>
+
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="http://www.gravatar.com/avatar/29668d9eaaf486727a446f7d03c59f07.jpg?s=250" alt="Camille Roux"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/camille-roux/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Camille Roux
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Montpellier</span>
+        
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Paris</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Développeur/Entrepreneur/Artiste • Directeur associé de Human Coders, centre de formation pour développeur·se·s
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#art</span>
+      
+        <span class="badge text-xs">#art-generatif</span>
+      
+        <span class="badge text-xs">#creative-coding</span>
+      
+        <span class="badge text-xs">#p5-js</span>
+      
+        <span class="badge text-xs">#three-js</span>
+      
+        <span class="badge text-xs">#glsl</span>
+      
+        <span class="badge text-xs">#fragment-shaders</span>
+      
+        <span class="badge text-xs">#entrepreneuriat</span>
+      
+        <span class="badge text-xs">#lean-startup</span>
+      
+        <span class="badge text-xs">#business-model</span>
+      
+        <span class="badge text-xs">#lean-canvas</span>
+      
+        <span class="badge text-xs">#customer-development</span>
+      
+        <span class="badge text-xs">#veille-technologique</span>
+      
+        <span class="badge text-xs">#flux-rss</span>
+      
+        <span class="badge text-xs">#revue-de-presse</span>
+      
+        <span class="badge text-xs">#curation</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:contact@camilleroux.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="http://www.cecile-especel.com/var/users/7831/avatar/8108/avatar_cp.jpg" alt="Cécile Especel"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cecile-especel/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cécile Especel
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Nantes</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">J’ai découvert les méthodes agiles en 2009 alors que j’étais développeuse. 10 ans plus tard, je suis toujours convaincue …</p>
+    
+    
+    
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+          
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#agile</span>
+      
+        <span class="badge text-xs">#serious-game</span>
+      
+        <span class="badge text-xs">#lego</span>
+      
+        <span class="badge text-xs">#devops</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:cecile@especel.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://strapi.troopers.agency/uploads/cecile_9ee7f62fb0.jpeg" alt="Cécile Staehle"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cecile-staehle/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cécile Staehle
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Nantes</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Je suis associée coopératrice de la SCOP Troopers, en charge du Développement RH (culture d&rsquo;entreprise et …</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+          
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#sociocratie</span>
+      
+        <span class="badge text-xs">#organization</span>
+      
+        <span class="badge text-xs">#decision</span>
+      
+        <span class="badge text-xs">#gouvernance</span>
+      
+        <span class="badge text-xs">#consentement</span>
+      
+        <span class="badge text-xs">#management</span>
+      
+        <span class="badge text-xs">#autogestion</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:cecile@troopers.email" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://www.dropbox.com/s/jo8x92bany93i9v/Cecilia%20Bossard.jpg?dl=0" alt="Cécilia Bossard"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cecilia-bossard/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cécilia Bossard
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Nantes</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Développeuse, agiliste convaincue et joueuse invétérée. Dev chez Code Lutin.
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#programmation-visuelle</span>
+      
+        <span class="badge text-xs">#diversite</span>
+      
+        <span class="badge text-xs">#womenintech</span>
+      
+        <span class="badge text-xs">#git</span>
+      
+        <span class="badge text-xs">#agile</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:cecilia.bossard@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="http://cedricbodin.files.wordpress.com/2013/03/cedric-bodin.jpg" alt="Cédric Bodin"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cedric-bodin/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cédric Bodin
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Nantes</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Coach agile, formateur et facilitateur chez Orange Applications for Business, j’essaye d’aider les individus et les …</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#agile</span>
+      
+        <span class="badge text-xs">#scrum</span>
+      
+        <span class="badge text-xs">#kanban</span>
+      
+        <span class="badge text-xs">#facilitation</span>
+      
+        <span class="badge text-xs">#lean-startup</span>
+      
+        <span class="badge text-xs">#serious-game</span>
+      
+        <span class="badge text-xs">#musique</span>
+      
+        <span class="badge text-xs">#marathon</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:contact@cedricbodin.net" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://dl.dropboxusercontent.com/u/20288797/minimoi2.jpg" alt="Cédric Champeau"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cedric-champeau/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cédric Champeau
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Nantes</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Committer sur le langage Groovy, accessoirement geek
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#groovy</span>
+      
+        <span class="badge text-xs">#gradle</span>
+      
+        <span class="badge text-xs">#grails</span>
+      
+        <span class="badge text-xs">#jvm</span>
+      
+        <span class="badge text-xs">#spock</span>
+      
+        <span class="badge text-xs">#test</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:cedric.champeau@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="http://www.gravatar.com/avatar/0f0edb7904c4eea5f1b60fba0bf88537?s=250" alt="Cédric Exbrayat"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cedric-exbrayat/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cédric Exbrayat
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Lyon</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Développe des trucs cools en Java et Javascript par passion et pour vivre. Leader du Lyon Java User Group, de la …</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#java</span>
+      
+        <span class="badge text-xs">#lambda</span>
+      
+        <span class="badge text-xs">#angularjs</span>
+      
+        <span class="badge text-xs">#javascript</span>
+      
+        <span class="badge text-xs">#play</span>
+      
+        <span class="badge text-xs">#git</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:contact&#43;bbl@ninja-squad.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="http://www.gravatar.com/avatar/9600dc1bda25e979e656559914e00021.png?s=240" alt="Cedric Gatay"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cedric-gatay/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cedric Gatay
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Tours</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Code-Trooper, code quality obsessed. Startup adventurer
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#continuous-integration</span>
+      
+        <span class="badge text-xs">#maven</span>
+      
+        <span class="badge text-xs">#java</span>
+      
+        <span class="badge text-xs">#git</span>
+      
+        <span class="badge text-xs">#mongodb</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:cedric@gatay.fr" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://cloudinary-a.akamaihd.net/hopwork/image/upload/t_bigprofile/h0w8ma1bqz9eqotrbcoi.jpg" alt="Cédric Lombardot"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cedric-lombardot/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cédric Lombardot
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Paris</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Développeur Web Full Stack - AngularJS - Mobile IonicFramework - Symfony - Lean Startup &amp; Entrepreneur
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#symfony</span>
+      
+        <span class="badge text-xs">#angularjs</span>
+      
+        <span class="badge text-xs">#php</span>
+      
+        <span class="badge text-xs">#agile</span>
+      
+        <span class="badge text-xs">#sass</span>
+      
+        <span class="badge text-xs">#jquery</span>
+      
+        <span class="badge text-xs">#git</span>
+      
+        <span class="badge text-xs">#apache</span>
+      
+        <span class="badge text-xs">#cucumber</span>
+      
+        <span class="badge text-xs">#cordova</span>
+      
+        <span class="badge text-xs">#capistrano</span>
+      
+        <span class="badge text-xs">#symfony2</span>
+      
+        <span class="badge text-xs">#ionic</span>
+      
+        <span class="badge text-xs">#lean-startup</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:cedric@donkeycode.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://lh6.googleusercontent.com/-uIJAnywy0hM/VOjcAR_EWSI/AAAAAAAAHGE/PkZUYbadokc/w820-h819-no/RD071.jpg" alt="Cédric Longo"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cedric-longo/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cédric Longo
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Montpellier</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Anciennement devops dans le domaine du Jeu vidéo, nouvellement créateur d&rsquo;entreprise. Mention spéciale au …</p>
+    
+    
+    
+      
+        
+          
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#java</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:cedric.longo@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://avatars3.githubusercontent.com/u/726536?v=3&amp;s=466" alt="Cedrick Lunven"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cedrick-lunven/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cedrick Lunven
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Paris</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Developer Advocate chez DataStax, créateur de FF4j, contributeur JHispter
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#api</span>
+      
+        <span class="badge text-xs">#graphql</span>
+      
+        <span class="badge text-xs">#rest</span>
+      
+        <span class="badge text-xs">#grpc</span>
+      
+        <span class="badge text-xs">#feature-toggle</span>
+      
+        <span class="badge text-xs">#ff4j</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:cedrick.lunven@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://www.gravatar.com/avatar/bd0f602050b2f95901199d3a3789eb56?size=200" alt="Charles Bouttaz"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/charles-bouttaz/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Charles Bouttaz
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Lyon</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Developer, Agile &amp; Software Craftsmanship advocate. Co-organisateur du LyonJUG et de la conférence MiXiT.
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#coding-dojo</span>
+      
+        <span class="badge text-xs">#refactoring</span>
+      
+        <span class="badge text-xs">#clean-code</span>
+      
+        <span class="badge text-xs">#git</span>
+      
+        <span class="badge text-xs">#tdd</span>
+      
+        <span class="badge text-xs">#test</span>
+      
+        <span class="badge text-xs">#java</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:c.bouttaz&#43;bbl@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://pbs.twimg.com/media/C9MsXMRWAAALBZr.jpg" alt="Charles Sabourdin"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/charles-sabourdin/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Charles Sabourdin
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Paris</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Consultant Architecture/DevOps chez Ippon Technologies
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#openshift</span>
+      
+        <span class="badge text-xs">#kubernetes</span>
+      
+        <span class="badge text-xs">#docker</span>
+      
+        <span class="badge text-xs">#devops</span>
+      
+        <span class="badge text-xs">#java</span>
+      
+        <span class="badge text-xs">#jvm</span>
+      
+        <span class="badge text-xs">#security</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:kanedafromparis@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/christophe-begot/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Christophe Bégot
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Rennes</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Facilitateur Agile
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#agile</span>
+      
+        <span class="badge text-xs">#coaching</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:cbegot@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://722.kalaari.net/wp-content/uploads/2017/06/Zenika-16-cropped-400x400.png" alt="Christophe Furmaniak"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/christophe-furmaniak/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Christophe Furmaniak
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Lille</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Consultant Architecture et Culture DevOps chez Zenika
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+          
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#docker</span>
+      
+        <span class="badge text-xs">#configuration</span>
+      
+        <span class="badge text-xs">#git</span>
+      
+        <span class="badge text-xs">#confd</span>
+      
+        <span class="badge text-xs">#production</span>
+      
+        <span class="badge text-xs">#orchestrateur</span>
+      
+        <span class="badge text-xs">#mesos</span>
+      
+        <span class="badge text-xs">#dc-os</span>
+      
+        <span class="badge text-xs">#kubernetes</span>
+      
+        <span class="badge text-xs">#swarm</span>
+      
+        <span class="badge text-xs">#rancher</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:christophe.furmaniak@zenika.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/christophe-grand/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Christophe Grand
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Saint-Etienne</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Clojuriste de la première heure (début 2008) et co-auteur de Clojure Programming (O&rsquo;Reilly). Passionné par les API …</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#clojure</span>
+      
+        <span class="badge text-xs">#functional-programming</span>
+      
+        <span class="badge text-xs">#software-design</span>
+      
+        <span class="badge text-xs">#hypermedia</span>
+      
+        <span class="badge text-xs">#rest</span>
+      
+        <span class="badge text-xs">#api</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:christophe@cgrand.net" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="http://www.gravatar.com/avatar/2898ad2474ba25b87a9326585d3a234e.png" alt="Christophe Keromen"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/christophe-keromen/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Christophe Keromen
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Vannes</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Facilitateur et accompagnateur agile et lean, co-organisateur Agile Tour Vannes
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#agile</span>
+      
+        <span class="badge text-xs">#lean</span>
+      
+        <span class="badge text-xs">#kanban</span>
+      
+        <span class="badge text-xs">#games</span>
+      
+        <span class="badge text-xs">#management</span>
+      
+        <span class="badge text-xs">#scrum</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:ckeromen@ckti.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="http://www.gravatar.com/avatar/5a9a33e6c0397ed112a7c955728f3a1f.png?s=240" alt="Christophe Labouisse"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/christophe-labouisse/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Christophe Labouisse
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Bordeaux</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Développeur Java Freelance qui aime mettre les mains dans le moteur.
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#git</span>
+      
+        <span class="badge text-xs">#docker</span>
+      
+    </div>
+  </div>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="http://gravatar.com/avatar/f6c06223e3759e7b9c93bdb58fc241f5?s=200" alt="Christopher Maneu"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/christopher-maneu/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Christopher Maneu
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Paris</span>
+        
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Bordeaux</span>
+        
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Toulouse</span>
+        
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Marseille</span>
+        
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Lyon</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Ingénieur Cloud / Developer Advocate @ Microsoft R&amp;D
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#devops</span>
+      
+        <span class="badge text-xs">#agile</span>
+      
+        <span class="badge text-xs">#open-source</span>
+      
+        <span class="badge text-xs">#azure</span>
+      
+        <span class="badge text-xs">#microsoft</span>
+      
+        <span class="badge text-xs">#linux</span>
+      
+        <span class="badge text-xs">#windows</span>
+      
+        <span class="badge text-xs">#iot</span>
+      
+        <span class="badge text-xs">#cloud</span>
+      
+        <span class="badge text-xs">#ml</span>
+      
+        <span class="badge text-xs">#plongee</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:hello@maneu.net" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://d33wubrfki0l68.cloudfront.net/dddd2605dce105601dcba9587f14633175792c58/82039/assets/images/avatar.png" alt="Claire Zuliani"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/claire-zuliani/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Claire Zuliani
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Epinal</span>
+        
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Nancy</span>
+        
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Metz</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Outilleuse de projets à la croisée du numérique et des humains. Venue du monde associatif et culturel et reconvertie …</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#opendata</span>
+      
+        <span class="badge text-xs">#open-source</span>
+      
+        <span class="badge text-xs">#statique</span>
+      
+        <span class="badge text-xs">#outils</span>
+      
+        <span class="badge text-xs">#cooperation</span>
+      
+        <span class="badge text-xs">#strategie</span>
+      
+        <span class="badge text-xs">#jekyll</span>
+      
+        <span class="badge text-xs">#static-site-generator</span>
+      
+        <span class="badge text-xs">#jamstack</span>
+      
+        <span class="badge text-xs">#headless-cms</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:clairezuliani@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://pbs.twimg.com/profile_images/1090679366374305793/60Izz_T2_400x400.jpg" alt="Clément Bichel"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/clement-bichel/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Clément Bichel
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Bordeaux</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Coach agile indépendant | cultivateur d&rsquo;esprits agiles
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+          
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#agile</span>
+      
+        <span class="badge text-xs">#methodes-agiles</span>
+      
+        <span class="badge text-xs">#coach-agile</span>
+      
+        <span class="badge text-xs">#scrum</span>
+      
+        <span class="badge text-xs">#kanban</span>
+      
+        <span class="badge text-xs">#management-3-0</span>
+      
+        <span class="badge text-xs">#serious-game</span>
+      
+        <span class="badge text-xs">#safe</span>
+      
+        <span class="badge text-xs">#liberating-structures</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:clement.bichel@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://www.gravatar.com/avatar/7c78e70c64fe464a708c465cdbcc5432?s=200" alt="Clément Danjou"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/clement-danjou/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Clément Danjou
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Paris</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Front-end Consultant, Javascript developer
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#internationalisation</span>
+      
+        <span class="badge text-xs">#i18n</span>
+      
+        <span class="badge text-xs">#frontend</span>
+      
+        <span class="badge text-xs">#react</span>
+      
+        <span class="badge text-xs">#angularjs</span>
+      
+        <span class="badge text-xs">#javascript</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:clement@danjou.io" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/clement-delafargue/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Clément Delafargue
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Nantes</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">λ dev @ Fretlink
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#scala</span>
+      
+        <span class="badge text-xs">#nodejs</span>
+      
+        <span class="badge text-xs">#functional-programming</span>
+      
+        <span class="badge text-xs">#it-automation</span>
+      
+        <span class="badge text-xs">#javascript</span>
+      
+        <span class="badge text-xs">#haskell</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:clement&#43;bbl@delafargue.name" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://pbs.twimg.com/profile_images/865131946908635139/hONda4V3_400x400.jpg" alt="Clément Héliou"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/clement-heliou/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Clément Héliou
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Paris</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Pragmatism Driven Developer passionate about xDD, clean architectures and code quality. Enthusiastic defender of …</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#event-sourcing</span>
+      
+        <span class="badge text-xs">#cqrs</span>
+      
+        <span class="badge text-xs">#domain-driven-design</span>
+      
+        <span class="badge text-xs">#event-storming</span>
+      
+        <span class="badge text-xs">#processmanager</span>
+      
+        <span class="badge text-xs">#example-mapping</span>
+      
+        <span class="badge text-xs">#bdd</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:cheliou@xebia.fr" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://fr.gravatar.com/userimage/37635203/825f66895424aa318429a239631cbb84.png?size=200" alt="Clément Poissonnier"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/clement-poissonnier/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Clément Poissonnier
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Lille</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Software Craftsman @ INEAT
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#postman</span>
+      
+        <span class="badge text-xs">#lego</span>
+      
+        <span class="badge text-xs">#software-craftsmanship</span>
+      
+        <span class="badge text-xs">#tdd</span>
+      
+        <span class="badge text-xs">#clean-code</span>
+      
+        <span class="badge text-xs">#refactoring</span>
+      
+        <span class="badge text-xs">#dette-technique</span>
+      
+        <span class="badge text-xs">#pair-programming</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:clement.poissonnier@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://const.fr/wp-content/uploads/2019/02/photo_cg_2019_square_p.jpg" alt="Constantin Guay"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/constantin-guay/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Constantin Guay
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Paris</span>
+        
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Versailles</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Team Facilitator, Impediment Remover, Scrum Master. Writer of blog const.fr (in French and English) and Author on Scrum …</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+          
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+        
+      
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#agile</span>
+      
+        <span class="badge text-xs">#scrum</span>
+      
+        <span class="badge text-xs">#produit</span>
+      
+        <span class="badge text-xs">#valeur</span>
+      
+        <span class="badge text-xs">#priorisation</span>
+      
+        <span class="badge text-xs">#architecture</span>
+      
+        <span class="badge text-xs">#sprint-0</span>
+      
+        <span class="badge text-xs">#cadrage</span>
+      
+        <span class="badge text-xs">#coaching</span>
+      
+        <span class="badge text-xs">#management</span>
+      
+        <span class="badge text-xs">#dependance</span>
+      
+        <span class="badge text-xs">#collaboration</span>
+      
+        <span class="badge text-xs">#equipe</span>
+      
+        <span class="badge text-xs">#dark-agile</span>
+      
+        <span class="badge text-xs">#product-owner</span>
+      
+        <span class="badge text-xs">#po</span>
+      
+        <span class="badge text-xs">#workshop</span>
+      
+        <span class="badge text-xs">#sprint</span>
+      
+        <span class="badge text-xs">#planning</span>
+      
+        <span class="badge text-xs">#roadmap</span>
+      
+        <span class="badge text-xs">#management-3-0</span>
+      
+        <span class="badge text-xs">#estimation</span>
+      
+        <span class="badge text-xs">#budget</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:constantin.guay@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="http://www.gravatar.com/avatar/2f9e679e419b245e05e6f7bf6606499a.png" alt="Cyril Gravelier"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cyril-gravelier/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cyril Gravelier
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Bordeaux</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Développeur/Concepteur web et mobile passionné
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#php</span>
+      
+        <span class="badge text-xs">#drupal</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:cyril@18ruedivona.eu" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://avatars.githubusercontent.com/u/15615569" alt="Cyril Hue"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cyril-hue/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cyril Hue
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Nantes</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Développeur Front &amp; Amoureux ❤️ de rétrogaming, comics, et autres collections.
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#android</span>
+      
+        <span class="badge text-xs">#ios</span>
+      
+        <span class="badge text-xs">#mobile</span>
+      
+        <span class="badge text-xs">#dev</span>
+      
+        <span class="badge text-xs">#discovery</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:cy.hue80@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="https://s.gravatar.com/avatar/21843b4b8796bb4d73cbe48368eb5575?s=256" alt="Cyril Lakech"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cyril-lakech/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cyril Lakech
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Lille</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Développeur, Tech Leader, organisateur du Ch&rsquo;ti JUG et de la conquête du monde par les développeurs!
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#developpeur</span>
+      
+        <span class="badge text-xs">#recruiting</span>
+      
+        <span class="badge text-xs">#carriere</span>
+      
+        <span class="badge text-xs">#technologie</span>
+      
+        <span class="badge text-xs">#radar</span>
+      
+        <span class="badge text-xs">#communaute</span>
+      
+        <span class="badge text-xs">#nodejs</span>
+      
+        <span class="badge text-xs">#typescript</span>
+      
+        <span class="badge text-xs">#angular</span>
+      
+        <span class="badge text-xs">#api</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:cyril.lakech@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="http://gravatar.com/avatar/43022845c143b75a94c7c4b855975ee3&amp;size=200" alt="Cyrille Dupuydauby"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cyrille-dupuydauby/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cyrille Dupuydauby
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Paris</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Je vis l&rsquo;informatique avec passion depuis plus de 30 ans; très expérimenté dans de nombreux domaines, j&rsquo;ai …</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#domain-driven-design</span>
+      
+        <span class="badge text-xs">#tdd</span>
+      
+        <span class="badge text-xs">#fluent</span>
+      
+        <span class="badge text-xs">#net</span>
+      
+        <span class="badge text-xs">#test</span>
+      
+        <span class="badge text-xs">#nfluent</span>
+      
+        <span class="badge text-xs">#reactive</span>
+      
+        <span class="badge text-xs">#finance</span>
+      
+        <span class="badge text-xs">#sequencer</span>
+      
+        <span class="badge text-xs">#conflation</span>
+      
+        <span class="badge text-xs">#performance</span>
+      
+        <span class="badge text-xs">#clean-code</span>
+      
+        <span class="badge text-xs">#iteratif</span>
+      
+        <span class="badge text-xs">#refactoring</span>
+      
+        <span class="badge text-xs">#changement</span>
+      
+        <span class="badge text-xs">#transformation</span>
+      
+        <span class="badge text-xs">#rh</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:dupdob@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="http://pbs.twimg.com/profile_images/899909859763773440/boLLAjZn_400x400.jpg" alt="Cyrille Hemidy"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cyrille-hemidy/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cyrille Hemidy
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Lyon</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Cloud Software Architect chez Cadre de Vie
+</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+          
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#dev</span>
+      
+        <span class="badge text-xs">#debug</span>
+      
+        <span class="badge text-xs">#lecture</span>
+      
+        <span class="badge text-xs">#log</span>
+      
+        <span class="badge text-xs">#probleme</span>
+      
+        <span class="badge text-xs">#chezmoicamarche</span>
+      
+        <span class="badge text-xs">#cloud</span>
+      
+        <span class="badge text-xs">#firebase</span>
+      
+        <span class="badge text-xs">#google</span>
+      
+        <span class="badge text-xs">#mobile</span>
+      
+        <span class="badge text-xs">#architecture</span>
+      
+        <span class="badge text-xs">#gcp</span>
+      
+        <span class="badge text-xs">#google-cloud</span>
+      
+        <span class="badge text-xs">#kubernetes</span>
+      
+        <span class="badge text-xs">#grpc</span>
+      
+        <span class="badge text-xs">#http2</span>
+      
+        <span class="badge text-xs">#protocol-buffers</span>
+      
+        <span class="badge text-xs">#protobuf</span>
+      
+        <span class="badge text-xs">#microservices</span>
+      
+        <span class="badge text-xs">#golang</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:cyrille.hemidy&#43;bbl@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+      
+
+
+<div class="card flex gap-4 items-start">
+  
+    <img src="http://gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3.png" alt="Cyrille Martraire"
+         class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
+  
+  <div class="flex-1 min-w-0">
+    <a href="/speakers/cyrille-martraire/" class="font-bold text-lg hover:text-terracotta transition-colors">
+      Cyrille Martraire
+    </a>
+    <div class="flex gap-1 mt-1 flex-wrap">
+      
+        
+        
+        
+          <span class="badge text-xs">📍 Paris</span>
+        
+      
+    </div>
+    <p class="text-sm text-warm-brown/70 mt-1 line-clamp-2">Développeur avec passion depuis 1999, Paris. Fondateur de la communauté Software Craftsmanship Paris, et Directeur …</p>
+    
+    
+    
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    <div class="flex gap-1 mt-2 flex-wrap">
+      
+        <span class="badge text-xs">#domain-driven-design</span>
+      
+        <span class="badge text-xs">#bdd</span>
+      
+        <span class="badge text-xs">#tdd</span>
+      
+        <span class="badge text-xs">#legacy-code</span>
+      
+        <span class="badge text-xs">#functional-programming</span>
+      
+        <span class="badge text-xs">#clean-code</span>
+      
+        <span class="badge text-xs">#test</span>
+      
+    </div>
+  </div>
+  
+    <a href="mailto:cyrillemartraire@gmail.com" class="btn-primary text-sm shrink-0 self-center">
+      Inviter
+    </a>
+  
+</div>
+
+    
+  </div>
+
+
+  </main>
+  <footer class="bg-warm-brown text-cream text-center text-sm py-6 mt-auto">
+  <p>© 2026 Brown Bag Lunch —
+    <a href="https://github.com/brownbaglunch/bblfr" class="underline hover:text-terracotta">Contribuer</a>
+  </p>
+</footer>
+
+  
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<style>
+   
+  :root {
+    --pagefind-ui-scale: 0.8;
+    --pagefind-ui-primary: #e07b39;
+    --pagefind-ui-text: #3d2b1f;
+    --pagefind-ui-background: #fdf6ee;
+    --pagefind-ui-border: #f0e4d0;
+    --pagefind-ui-tag: #f0e4d0;
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 999px;
+    --pagefind-ui-image-border-radius: 8px;
+    --pagefind-ui-font: inherit;
+  }
+   
+  .pagefind-ui__drawer {
+    position: absolute !important;
+    right: 0;
+    top: 100%;
+    width: 32rem;
+    max-height: 80vh;
+    overflow-y: auto;
+    background: #fdf6ee !important;
+    color: #3d2b1f !important;
+    border: 1px solid #f0e4d0;
+    border-radius: 0.75rem;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    z-index: 100;
+    padding: 1rem;
+    margin-top: 0.5rem;
+  }
+  mark {
+    background: #fde68a;
+    color: #3d2b1f;
+    border-radius: 2px;
+    padding: 0 2px;
+  }
+</style>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    new PagefindUI({
+      element: '#search-box',
+      showSubResults: true,
+      translations: {
+        placeholder: 'Rechercher...'
+      }
+    });
+  });
+</script>
+
+</body>
+</html>

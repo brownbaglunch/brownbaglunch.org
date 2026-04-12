@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/speakers/vincent-laine/</link>
+    <description>Recent content on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/speakers/vincent-laine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/vincent-laine/talks/architecture-cloud-sur-azure-en-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/vincent-laine/talks/architecture-cloud-sur-azure-en-c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/vincent-laine/talks/developper-des-applications-mobile-avec-xamarin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/vincent-laine/talks/developper-des-applications-mobile-avec-xamarin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/vincent-laine/talks/developper-en-c-pour-le-cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/vincent-laine/talks/developper-en-c-pour-le-cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/vincent-laine/talks/lagile-supporte-par-visual-studio-online-tfs-2015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/vincent-laine/talks/lagile-supporte-par-visual-studio-online-tfs-2015/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

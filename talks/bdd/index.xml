@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bdd on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/bdd/</link>
+    <description>Recent content in Bdd on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/bdd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/agnes-crepet/talks/architectures-contemporaines-des-systemes-dinformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/agnes-crepet/talks/architectures-contemporaines-des-systemes-dinformation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/agnes-crepet/talks/il-etait-une-fois-les-grands-principes-du-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/agnes-crepet/talks/il-etait-une-fois-les-grands-principes-du-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/agnes-crepet/talks/introduction-au-behaviour-driven-development-bdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/agnes-crepet/talks/introduction-au-behaviour-driven-development-bdd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/agnes-crepet/talks/lagilite-par-la-pratique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/agnes-crepet/talks/lagilite-par-la-pratique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/agnes-crepet/talks/lapprentissage-continue-les-mooc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/agnes-crepet/talks/lapprentissage-continue-les-mooc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/agnes-crepet/talks/testons-testons-testons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/agnes-crepet/talks/testons-testons-testons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/arnaud-langlade/talks/example-mapping-expliquer-facilement-les-attentes-du-metier-a-vos-equipes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/arnaud-langlade/talks/example-mapping-expliquer-facilement-les-attentes-du-metier-a-vos-equipes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/clement-heliou/talks/boost-your-bdd-practice-with-the-example-mapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/clement-heliou/talks/boost-your-bdd-practice-with-the-example-mapping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/ddd-games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/ddd-games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/domain-driven-design-dans-un-contexte-legacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/domain-driven-design-dans-un-contexte-legacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/extremist-programming-avec-eric-lefevre-ardant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/extremist-programming-avec-eric-lefevre-ardant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/legacy-code-faire-evoluer-ou-re-ecrire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/legacy-code-faire-evoluer-ou-re-ecrire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/votre-sujet-sur-mesure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-martraire/talks/votre-sujet-sur-mesure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/emilien-pecoul/talks/clean-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/emilien-pecoul/talks/clean-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/emilien-pecoul/talks/cqrses-from-scratch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/emilien-pecoul/talks/cqrses-from-scratch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/emilien-pecoul/talks/introduction-au-bdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/emilien-pecoul/talks/introduction-au-bdd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/emilien-pecoul/talks/le-ddd-au-quotidien/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/emilien-pecoul/talks/le-ddd-au-quotidien/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/emilien-pecoul/talks/tdd-by-example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/emilien-pecoul/talks/tdd-by-example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/eve-vinclair-berkemeier/talks/le-sprint-0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/eve-vinclair-berkemeier/talks/le-sprint-0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-xavier-thomassin/talks/tester-cest-douter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-xavier-thomassin/talks/tester-cest-douter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-wallet/talks/ca-ne-coute-pas-plus-cher-de-bien-tester/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-wallet/talks/ca-ne-coute-pas-plus-cher-de-bien-tester/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/allies-contre-les-defauts-talk-avec-le-webcenter-axa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/allies-contre-les-defauts-talk-avec-le-webcenter-axa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/coding-dojo-sur-mesure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/coding-dojo-sur-mesure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/les-tests-automatises-ca-nest-pas-possible-chez-moi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/les-tests-automatises-ca-nest-pas-possible-chez-moi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/speed-consulting-sur-la-productivite-des-developpements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/speed-consulting-sur-la-productivite-des-developpements/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/sur-le-chemin-de-la-qualite-en-equipe-et-des-demain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/sur-le-chemin-de-la-qualite-en-equipe-et-des-demain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/laurent-doguin/talks/apprendre-la-programmation-reactive-avec-les-base-de-donnees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/laurent-doguin/talks/apprendre-la-programmation-reactive-avec-les-base-de-donnees/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/lenaic-couellan/talks/le-behavior-driven-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/lenaic-couellan/talks/le-behavior-driven-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/philippe-bourgau/talks/lalchimie-du-bdd-changer-votre-code-de-plomb-en-or-ou-comment-livrer-de-plus-en-plus-de-valeur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/philippe-bourgau/talks/lalchimie-du-bdd-changer-votre-code-de-plomb-en-or-ou-comment-livrer-de-plus-en-plus-de-valeur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/romain-tartiere/talks/tester-cest-douter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/romain-tartiere/talks/tester-cest-douter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/shoun-ichida/talks/realiser-une-bonne-recette-grace-au-concombre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/shoun-ichida/talks/realiser-une-bonne-recette-grace-au-concombre/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

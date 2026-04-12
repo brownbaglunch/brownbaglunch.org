@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communaute on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/communaute/</link>
+    <description>Recent content in Communaute on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/communaute/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyril-lakech/talks/la-technologie-conduite-par-les-communautes-a-lechelle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyril-lakech/talks/la-technologie-conduite-par-les-communautes-a-lechelle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/delphine-raymond/talks/creer-une-communaute-ou-un-meetup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/delphine-raymond/talks/creer-une-communaute-ou-un-meetup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/yohan-lasorsa/talks/comment-devenir-un-contributeur-open-source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/yohan-lasorsa/talks/comment-devenir-un-contributeur-open-source/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

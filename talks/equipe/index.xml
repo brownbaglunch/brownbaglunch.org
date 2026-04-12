@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Equipe on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/equipe/</link>
+    <description>Recent content in Equipe on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/equipe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/constantin-guay/talks/comment-rater-ses-communautes-de-pratiques/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/constantin-guay/talks/comment-rater-ses-communautes-de-pratiques/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/constantin-guay/talks/management-30-comprendre-les-motivateurs-de-votre-equipe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/constantin-guay/talks/management-30-comprendre-les-motivateurs-de-votre-equipe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/constantin-guay/talks/peut-on-se-passer-des-estimations-comment-sy-prendre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/constantin-guay/talks/peut-on-se-passer-des-estimations-comment-sy-prendre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/fabien-lamarque/talks/animation-de-coding-dojo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/fabien-lamarque/talks/animation-de-coding-dojo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

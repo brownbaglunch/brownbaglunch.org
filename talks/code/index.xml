@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/code/</link>
+    <description>Recent content in Code on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/antoine-vernois/talks/clean-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/antoine-vernois/talks/clean-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/antoine-vernois/talks/coding-dojo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/antoine-vernois/talks/coding-dojo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/antoine-vernois/talks/refactoring-legacy-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/antoine-vernois/talks/refactoring-legacy-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/antoine-vernois/talks/test-unitaire-test-after-test-first-et-tdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/antoine-vernois/talks/test-unitaire-test-after-test-first-et-tdd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/eric-lefevre-ardant/talks/boucles-etranges-etranges-boucles-avec-guillaume-tardif/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/eric-lefevre-ardant/talks/boucles-etranges-etranges-boucles-avec-guillaume-tardif/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-tardif/talks/boucles-etranges-etranges-boucles-avec-eric-lefevre-ardant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-tardif/talks/boucles-etranges-etranges-boucles-avec-eric-lefevre-ardant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/ilan-zerath/talks/jenkins-pipeline-un-ami-qui-vous-veut-du-bien-version-ios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/ilan-zerath/talks/jenkins-pipeline-un-ami-qui-vous-veut-du-bien-version-ios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/ilan-zerath/talks/les-bonnes-pratiques-pour-faire-des-tests-unitaires/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/ilan-zerath/talks/les-bonnes-pratiques-pour-faire-des-tests-unitaires/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-baptiste-dusseaut/talks/coding-dojo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-baptiste-dusseaut/talks/coding-dojo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-baptiste-dusseaut/talks/introduction-au-test-driven-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-baptiste-dusseaut/talks/introduction-au-test-driven-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-roy/talks/se-lancer-dans-laventure-microservices-avec-spring-cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-roy/talks/se-lancer-dans-laventure-microservices-avec-spring-cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-roy/talks/spring-boot-ameliorer-votre-productivite-en-1-heure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-roy/talks/spring-boot-ameliorer-votre-productivite-en-1-heure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-roy/talks/spring-data-une-api-quinze-possibilites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-roy/talks/spring-data-une-api-quinze-possibilites/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/katia-aresti/talks/jai-rate-ma-carriere-jai-plus-de-40-et-je-code-encore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/katia-aresti/talks/jai-rate-ma-carriere-jai-plus-de-40-et-je-code-encore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/bonus-groupe-de-lecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/bonus-groupe-de-lecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/programmation-et-musique-avec-clojure-et-overtone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/programmation-et-musique-avec-clojure-et-overtone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/travailler-efficacement-sur-du-code-legacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mathieu-gandin/talks/travailler-efficacement-sur-du-code-legacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/mickael-metesreau/talks/fear-the-ponies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/mickael-metesreau/talks/fear-the-ponies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nicolas-deverge/talks/et-pourquoi-pas-un-coding-dojo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nicolas-deverge/talks/et-pourquoi-pas-un-coding-dojo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nicolas-deverge/talks/introduction-a-lagilite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nicolas-deverge/talks/introduction-a-lagilite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nicolas-deverge/talks/retour-dexperience-et-introduction-au-leanstartup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nicolas-deverge/talks/retour-dexperience-et-introduction-au-leanstartup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/quentin-adam/talks/immutability-from-code-to-infrastructure-the-way-of-scalability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/quentin-adam/talks/immutability-from-code-to-infrastructure-the-way-of-scalability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/ronan-amicel/talks/codons-ensemble/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/ronan-amicel/talks/codons-ensemble/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/yannick-grenzinger/talks/inspirez-vous-de-la-psychologie-et-du-design-pour-ameliorer-votre-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/yannick-grenzinger/talks/inspirez-vous-de-la-psychologie-et-du-design-pour-ameliorer-votre-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/yannick-grenzinger/talks/software-craftsmanship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/yannick-grenzinger/talks/software-craftsmanship/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

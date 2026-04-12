@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sprint on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/sprint/</link>
+    <description>Recent content in Sprint on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/sprint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/antoine-peze/talks/hackathon-3-jours-chez-les-bricoleurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/antoine-peze/talks/hackathon-3-jours-chez-les-bricoleurs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/antoine-peze/talks/le-design-sprint-cette-methodo-coup-de-point-pour-avancer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/antoine-peze/talks/le-design-sprint-cette-methodo-coup-de-point-pour-avancer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/constantin-guay/talks/la-gestion-du-backlog-et-la-planification-tout-en-restant-agile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/constantin-guay/talks/la-gestion-du-backlog-et-la-planification-tout-en-restant-agile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/constantin-guay/talks/passer-au-sprint-dune-semaine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/constantin-guay/talks/passer-au-sprint-dune-semaine/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

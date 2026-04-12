@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/speakers/quentin-adam/</link>
+    <description>Recent content on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/speakers/quentin-adam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/quentin-adam/talks/any-other-talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/quentin-adam/talks/any-other-talk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/quentin-adam/talks/cest-quoi-clever-cloud-et-comment-ca-marche/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/quentin-adam/talks/cest-quoi-clever-cloud-et-comment-ca-marche/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/quentin-adam/talks/comment-ca-marche-systemd-deja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/quentin-adam/talks/comment-ca-marche-systemd-deja/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/quentin-adam/talks/containers-vms-processes-isolation-performances-io-how-all-of-these-technologies-work-and-compare-to-each-other-deep-dive-and-learn-about-your-operating-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/quentin-adam/talks/containers-vms-processes-isolation-performances-io-how-all-of-these-technologies-work-and-compare-to-each-other-deep-dive-and-learn-about-your-operating-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/quentin-adam/talks/immutability-from-code-to-infrastructure-the-way-of-scalability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/quentin-adam/talks/immutability-from-code-to-infrastructure-the-way-of-scalability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/quentin-adam/talks/monitoring-the-unknown-1000100-series-a-day/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/quentin-adam/talks/monitoring-the-unknown-1000100-series-a-day/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/quentin-adam/talks/scala-implicits-pour-faire-des-apis-simples-des-dsl-ou-de-la-magie-noire-ca-marche-comment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/quentin-adam/talks/scala-implicits-pour-faire-des-apis-simples-des-dsl-ou-de-la-magie-noire-ca-marche-comment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/quentin-adam/talks/why-postgres-sql-deserve-nosql-fan-respect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/quentin-adam/talks/why-postgres-sql-deserve-nosql-fan-respect/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

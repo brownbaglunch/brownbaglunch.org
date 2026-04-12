@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software-Craftsmanship on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/software-craftsmanship/</link>
+    <description>Recent content in Software-Craftsmanship on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/software-craftsmanship/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/arthur-magne/talks/le-software-craftsmanship-en-contexte-industriel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/arthur-magne/talks/le-software-craftsmanship-en-contexte-industriel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/clement-poissonnier/talks/sensibilisation-au-software-craftsmanship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/clement-poissonnier/talks/sensibilisation-au-software-craftsmanship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/fabien-lamarque/talks/revues-de-code-quoi-regarder-quels-pieges-eviter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/fabien-lamarque/talks/revues-de-code-quoi-regarder-quels-pieges-eviter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/haja-rambelontsalama/talks/mon-equipe-se-focalise-sur-la-valeur-metier-grace-au-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/haja-rambelontsalama/talks/mon-equipe-se-focalise-sur-la-valeur-metier-grace-au-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/allies-contre-les-defauts-talk-avec-le-webcenter-axa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/allies-contre-les-defauts-talk-avec-le-webcenter-axa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/coding-dojo-sur-mesure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/coding-dojo-sur-mesure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/epic-legacy-code-challenge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/epic-legacy-code-challenge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/les-tests-automatises-ca-nest-pas-possible-chez-moi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/les-tests-automatises-ca-nest-pas-possible-chez-moi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/speed-consulting-sur-la-productivite-des-developpements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/speed-consulting-sur-la-productivite-des-developpements/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/sur-le-chemin-de-la-qualite-en-equipe-et-des-demain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-jakubowski/talks/sur-le-chemin-de-la-qualite-en-equipe-et-des-demain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nastasia-saby/talks/sensibilisation-au-software-craftsmanship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nastasia-saby/talks/sensibilisation-au-software-craftsmanship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nicolas-verinaud/talks/du-code-des-humains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nicolas-verinaud/talks/du-code-des-humains/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/ronan-amicel/talks/codons-ensemble/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/ronan-amicel/talks/codons-ensemble/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-pigeon/talks/cartes-maitresses-de-la-qualite-une-strategie-contre-le-chaos-logiciel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-pigeon/talks/cartes-maitresses-de-la-qualite-une-strategie-contre-le-chaos-logiciel/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

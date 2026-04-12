@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/speakers/alizee-gottardo/</link>
+    <description>Recent content on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/speakers/alizee-gottardo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/alizee-gottardo/talks/de-la-conception-a-limplementation-un-atelier-pour-faciliter-la-collaboration-entre-designers-et-developpeureuses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/alizee-gottardo/talks/de-la-conception-a-limplementation-un-atelier-pour-faciliter-la-collaboration-entre-designers-et-developpeureuses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/alizee-gottardo/talks/pourquoi-mettre-en-place-une-equipe-platform-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/alizee-gottardo/talks/pourquoi-mettre-en-place-une-equipe-platform-engineering/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

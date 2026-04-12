@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tooling on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/tooling/</link>
+    <description>Recent content in Tooling on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/tooling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-allain/talks/tools-comment-construire-un-si-uniquement-avec-des-outils-en-ligne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-allain/talks/tools-comment-construire-un-si-uniquement-avec-des-outils-en-ligne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-baptiste-beuzelin/talks/comment-developper-un-outil-qui-permet-de-rendre-vos-collaborateurs-plus-efficaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-baptiste-beuzelin/talks/comment-developper-un-outil-qui-permet-de-rendre-vos-collaborateurs-plus-efficaces/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/olivier-laurendeau/talks/tooling-lafourchette/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/olivier-laurendeau/talks/tooling-lafourchette/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

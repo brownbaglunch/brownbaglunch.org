@@ -1,0 +1,1001 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Clean-Code — Brown Bag Lunch</title>
+<meta name="description" content="Brown Bag Lunch">
+
+
+  
+
+<link rel="stylesheet" href="/css/main.min.c98677c8f3646e7938a994511911a1f194c29fc4a20439998bd51438090120aa.css" integrity="sha256-yYZ3yPNkbnk4qZRRGRGh8ZTCn8SiBDmZi9UUOAkBIKo=">
+</head>
+<body class="bg-cream text-warm-brown min-h-screen flex flex-col">
+  <nav class="bg-warm-brown text-cream shadow-md">
+  <div class="max-w-6xl mx-auto px-4 py-3 flex items-center gap-6 flex-wrap">
+    <a href="/" class="font-bold text-lg shrink-0">☕ Brown Bag Lunch</a>
+    <div class="flex gap-4 text-sm">
+      <a href="/speakers/" class="hover:text-terracotta transition-colors">Speakers</a>
+      <a href="/talks/" class="hover:text-terracotta transition-colors">Talks</a>
+      <a href="/cities/" class="hover:text-terracotta transition-colors">Villes</a>
+    </div>
+    <div class="ml-auto w-64 relative">
+      <div id="search-box"></div>
+    </div>
+  </div>
+</nav>
+
+  <main class="flex-1 max-w-6xl mx-auto w-full px-4 py-8">
+    
+
+
+
+<h1 class="text-3xl font-black mb-2">#clean-code</h1>
+<p class="text-warm-brown/60 mb-8">30 talk(s) avec ce tag</p>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/antoine-vernois/talks/clean-code/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Clean Code
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://blog.crafting-labs.fr/images/antoine-vernois.jpg" alt="Antoine Vernois" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/antoine-vernois/" class="hover:text-terracotta">Antoine Vernois</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          À quoi ça sert de faire du code propre ? Et puis c&rsquo;est quoi d&rsquo;abord ? Comment je m&rsquo;y mets ? Live code inside.
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/antoine-vernois/talks/coding-dojo/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Coding Dojo
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://blog.crafting-labs.fr/images/antoine-vernois.jpg" alt="Antoine Vernois" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/antoine-vernois/" class="hover:text-terracotta">Antoine Vernois</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Une session où c&rsquo;est vous qui pratiquez. Moi, je ne fais que poser des questions :). Comme c&rsquo;est vous qui allez bosser, c&rsquo;est vous …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/antoine-vernois/talks/refactoring-legacy-code/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Refactoring legacy code
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://blog.crafting-labs.fr/images/antoine-vernois.jpg" alt="Antoine Vernois" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/antoine-vernois/" class="hover:text-terracotta">Antoine Vernois</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Quelques techniques pour refactorer du code legacy avec du couplage et des dépendances fortes. Session basée sur le kata TripService. Live code …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/antoine-vernois/talks/test-unitaire-test-after-test-first-et-tdd/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Test unitaire, Test After, Test First et TDD
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://blog.crafting-labs.fr/images/antoine-vernois.jpg" alt="Antoine Vernois" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/antoine-vernois/" class="hover:text-terracotta">Antoine Vernois</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Une courte introduction aux tests unitaires et aux stratégies pour les écrire. Live code inside.
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/arnaud-bailly/talks/coding-dojo/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Coding Dojo
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="http://drcode.io/images/arnaud_hero_white.png" alt="Arnaud Bailly" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/arnaud-bailly/" class="hover:text-terracotta">Arnaud Bailly</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Mettre en place un &lsquo;coding dojo&rsquo; c&rsquo;est très simple, cela demande uniquement un peu de temps, de bonne volonté et surtout beaucoup de …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/arthur-magne/talks/le-software-craftsmanship-en-contexte-industriel/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Le Software Craftsmanship en contexte industriel.
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://secure.gravatar.com/avatar/81bc7a35930c4ab2ae9400ff8a325206?size=400" alt="Arthur Magne" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/arthur-magne/" class="hover:text-terracotta">Arthur Magne</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Dans des contextes où seuls les apports fonctionnels sont valorisés (&ldquo;ce que le client voit&rdquo;), le mouvement du Software Craftsmanship et …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/charles-bouttaz/talks/coding-dojo/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Coding Dojo
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://www.gravatar.com/avatar/bd0f602050b2f95901199d3a3789eb56?size=200" alt="Charles Bouttaz" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/charles-bouttaz/" class="hover:text-terracotta">Charles Bouttaz</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Vous avez envie de découvrir ou d’approfondir des techniques de codes mais vous manquez de temps ? Un coding dojo c’est l’occasion de progresser en …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/clement-poissonnier/talks/sensibilisation-au-software-craftsmanship/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Sensibilisation au software craftsmanship
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://fr.gravatar.com/userimage/37635203/825f66895424aa318429a239631cbb84.png?size=200" alt="Clément Poissonnier" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/clement-poissonnier/" class="hover:text-terracotta">Clément Poissonnier</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Découvre ce qu&rsquo;est le Software Craftsmanship, clean code, le refactoring et la dette technique en manipulant des Legos ! Lego permet de …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/cyrille-dupuydauby/talks/le-craftsmanship-par-les-lego/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Le Craftsmanship par les Lego
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="http://gravatar.com/avatar/43022845c143b75a94c7c4b855975ee3&amp;size=200" alt="Cyrille Dupuydauby" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/cyrille-dupuydauby/" class="hover:text-terracotta">Cyrille Dupuydauby</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Cet atelier propose de découvrir le clean code, refactoring, dette technique, approche iérative grâces à des exerices de construction. Adaptée à tous …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/cyrille-martraire/talks/ddd-games/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        DDD Games
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="http://gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3.png" alt="Cyrille Martraire" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/cyrille-martraire/" class="hover:text-terracotta">Cyrille Martraire</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Découvrez quelques points essentiels de Domain-Driven Design par la pratique sous forme de petits jeux sur papier.
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/cyrille-martraire/talks/domain-driven-design-dans-un-contexte-legacy/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Domain-Driven Design dans un contexte legacy
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="http://gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3.png" alt="Cyrille Martraire" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/cyrille-martraire/" class="hover:text-terracotta">Cyrille Martraire</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Un tour d&rsquo;horizon d&rsquo;aspects importants de DDD sous la forme d&rsquo;un retour d&rsquo;expérience dans le domaine de la finance
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/cyrille-martraire/talks/extremist-programming-avec-eric-lefevre-ardant/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Extremist Programming - avec Eric Lefevre-Ardant
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="http://gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3.png" alt="Cyrille Martraire" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/cyrille-martraire/" class="hover:text-terracotta">Cyrille Martraire</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Bien sûr, notre métier est sérieux ; le Software Craftmanship n&rsquo;est-il pas avant tout le professionnalisme ? Bien sûr, le progrès vient …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/cyrille-martraire/talks/legacy-code-faire-evoluer-ou-re-ecrire/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Legacy Code : faire évoluer ou ré-écrire ?
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="http://gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3.png" alt="Cyrille Martraire" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/cyrille-martraire/" class="hover:text-terracotta">Cyrille Martraire</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Comment livrer des fonctionnalités ambitieuses malgré le code existant sans aucun test ? Visite guidée au travers de retours d&rsquo;expérience.
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/cyrille-martraire/talks/votre-sujet-sur-mesure/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Votre sujet sur-mesure
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="http://gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3.png" alt="Cyrille Martraire" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/cyrille-martraire/" class="hover:text-terracotta">Cyrille Martraire</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Atelier sur papier, en code autour d&rsquo;un kata original, présentation ou retour d&rsquo;expérience sur l&rsquo;un des thèmes qui me passionnent: …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/emilien-pecoul/talks/clean-code/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Clean Code
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="http://www.gravatar.com/avatar/a3b567e54b0e3935c4b53cca2a835f1e.png?size=250" alt="Emilien Pecoul" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/emilien-pecoul/" class="hover:text-terracotta">Emilien Pecoul</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Avez vous déja pris le temps de décortiquer les pratiques du livre de l&rsquo;Oncle Bob: Clean Code? Le temps d&rsquo;un repas, regardons comment …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/emilien-pecoul/talks/cqrses-from-scratch/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        CQRS/ES from Scratch
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="http://www.gravatar.com/avatar/a3b567e54b0e3935c4b53cca2a835f1e.png?size=250" alt="Emilien Pecoul" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/emilien-pecoul/" class="hover:text-terracotta">Emilien Pecoul</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Un livecoding présentant une implémentation CQRS/ES en partant de rien, pour savoir comment débuter
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/emilien-pecoul/talks/introduction-au-bdd/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Introduction au BDD
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="http://www.gravatar.com/avatar/a3b567e54b0e3935c4b53cca2a835f1e.png?size=250" alt="Emilien Pecoul" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/emilien-pecoul/" class="hover:text-terracotta">Emilien Pecoul</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Le Behavior Driven Development est le prolongement coté Spécification du TDD. Cette session vous montrera l&rsquo;intérêt et la mise en oeuvre de …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/emilien-pecoul/talks/le-ddd-au-quotidien/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Le DDD au quotidien
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="http://www.gravatar.com/avatar/a3b567e54b0e3935c4b53cca2a835f1e.png?size=250" alt="Emilien Pecoul" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/emilien-pecoul/" class="hover:text-terracotta">Emilien Pecoul</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Voyons ensemble des pratiques très concrète pour mieux appliquer les concepts du Domain Driven Design
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/emilien-pecoul/talks/tdd-by-example/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        TDD by example
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="http://www.gravatar.com/avatar/a3b567e54b0e3935c4b53cca2a835f1e.png?size=250" alt="Emilien Pecoul" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/emilien-pecoul/" class="hover:text-terracotta">Emilien Pecoul</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Introduction concrète au Test Driven Development, selon le livre de Kent Beck, adapté aux technos Microsoft (Méthodes, Utilisation de MSTests ou …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/fabien-lamarque/talks/gilded-rose-inn-comment-refactorer-un-code-legacy/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Gilded-Rose-Inn, comment refactorer un code legacy
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://media-exp1.licdn.com/dms/image/C5603AQHMXDrCWoR9SA/profile-displayphoto-shrink_200_200/0/1578653950738?e=1668038400&amp;v=beta&amp;t=Zr5kVYzDZ2CP6wENkCgLjitqJA4DshTThXdjMy0xZ5A" alt="Fabien Lamarque" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/fabien-lamarque/" class="hover:text-terracotta">Fabien Lamarque</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          L&rsquo;auberge de Gilded-Rose est situé au cœur de Hurlevent, et propose aux voyageurs de tout Azeroth (le monde de Warcraft) des objets rares et des …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/guillaume-wallet/talks/le-code-source-cest-comme-les-toilettes-cest-bien-quand-ca-marche-cest-mieux-quand-cest-propre/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Le code source c&#39;est comme les toilettes: c&#39;est bien quand ça marche, c&#39;est mieux quand c&#39;est propre!
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://s.gravatar.com/avatar/af22c5952fd5e43d12016def954cf503?s=216" alt="Guillaume Wallet" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/guillaume-wallet/" class="hover:text-terracotta">Guillaume Wallet</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Parce qu&rsquo;une base de code sait nous retourner le respect qu&rsquo;on lui montre, voyons comment lui témoigner un peu plus notre amour &hellip; …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/ronan-amicel/talks/codons-ensemble/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Codons ensemble
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://www.gravatar.com/avatar/b06b5d4777e2734feb91298062539ec8?s=300" alt="Ronan Amicel" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/ronan-amicel/" class="hover:text-terracotta">Ronan Amicel</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Prenons un moment pour coder ensemble. Prenons un petit exercice (kata) pour nous exercer sur certaines pratiques, comme TDD ou Clean Code, dans un …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/sebastien-fauvel/talks/coding-dojo-kata/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Coding dojo / Kata
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="http://1.gravatar.com/avatar/9ab929de00e5eab550c22cf5a32d8d46?size=200" alt="Sébastien Fauvel" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/sebastien-fauvel/" class="hover:text-terracotta">Sébastien Fauvel</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Animation de coding dojo, format randori ou kata, Thèmes TDD, BDD, refactoring, langage au choix (Java, Python, PHP, Haskell, Javascript, Cobol, …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/xavier-blanc/talks/clean-code-coder-proprement/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Clean Code, coder proprement.
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://avatars3.githubusercontent.com/u/10332041?s=460&amp;v=4" alt="Xavier Blanc" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/xavier-blanc/" class="hover:text-terracotta">Xavier Blanc</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Le Clean Code (R.C. Martin) est un magnifique livre qui rassemble toutes les pratiques pour écrire du code lisible. Cette présentation présente les …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/xavier-blanc/talks/lobjet-en-mode-clean-code-et-ddd/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        L&#39;objet en mode Clean Code et DDD
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://avatars3.githubusercontent.com/u/10332041?s=460&amp;v=4" alt="Xavier Blanc" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/xavier-blanc/" class="hover:text-terracotta">Xavier Blanc</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Après plusieurs années à programmer en Java, je découvre encore pleins de belles constructions qui solutionnent bons nombres de mes problèmes. Cet …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/xavier-pigeon/talks/une-lettre-pour-un-diamant/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Une Lettre pour un Diamant
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://gravatar.com/userimage/29545108/d3a9e2ed3d93ef53aff440e053e0faed.jpeg" alt="Xavier Pigeon" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/xavier-pigeon/" class="hover:text-terracotta">Xavier Pigeon</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          (live coding / présentation) Résolution de kata avec Test-Driven Development. En savoir plus sur https://xavierpigeon.com/conferences.html.
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/yannick-grenzinger/talks/software-craftsmanship/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Software craftsmanship.
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://fr.gravatar.com/userimage/45029487/b60c363784b0fd99398c74086b10d8b7.png?size=200" alt="Yannick Grenzinger" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/yannick-grenzinger/" class="hover:text-terracotta">Yannick Grenzinger</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Software craftsmanship? Encore un buzzword pour vendre des certifications? Mis en avant par des célébrités comme Robert Martin ou Sandro Mancuso, …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/yvan-phelizot/talks/apprendre-a-developper-avec-des-legos/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Apprendre à développer avec des Legos
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAN6AAAAJDFkNTNjZDA5LThlZTAtNGVlNS1hMWU4LTFjMWRlMzJhMjEyZg.jpg" alt="Yvan Phélizot" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/yvan-phelizot/" class="hover:text-terracotta">Yvan Phélizot</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Et si on mettait à la même table développeur, chef de projet, métier, testeurs &hellip; et que l&rsquo;on arrivait à comprendre enfin …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/yvan-phelizot/talks/crafting-secure-software/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Crafting Secure Software
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAN6AAAAJDFkNTNjZDA5LThlZTAtNGVlNS1hMWU4LTFjMWRlMzJhMjEyZg.jpg" alt="Yvan Phélizot" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/yvan-phelizot/" class="hover:text-terracotta">Yvan Phélizot</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Le hands-on pour les développeurs qui n&rsquo;ont pas le temps pour la sécurité! Avec un logiciel de qualité, il est possible d&rsquo;avoir plus de …
+        </p>
+      
+    </div>
+  
+    
+    
+
+    
+    
+    
+    
+      
+    
+
+    <div class="card">
+      <a href="/speakers/yvan-phelizot/talks/lego4devops/" class="font-bold leading-snug hover:text-terracotta transition-colors">
+        Lego4DevOps
+      </a>
+      
+        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+          
+          
+            <img src="https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAN6AAAAJDFkNTNjZDA5LThlZTAtNGVlNS1hMWU4LTFjMWRlMzJhMjEyZg.jpg" alt="Yvan Phélizot" class="w-6 h-6 rounded-full object-cover">
+          
+          <a href="/speakers/yvan-phelizot/" class="hover:text-terracotta">Yvan Phélizot</a>
+        </div>
+      
+      
+        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+          Dev et Ops, vous n&rsquo;arrivez pas à vous comprendre? Il est temps que ça change avec une session faite pour ça : Lego4DevOps. Atelier créé par …
+        </p>
+      
+    </div>
+  
+</div>
+
+  </main>
+  <footer class="bg-warm-brown text-cream text-center text-sm py-6 mt-auto">
+  <p>© 2026 Brown Bag Lunch —
+    <a href="https://github.com/brownbaglunch/bblfr" class="underline hover:text-terracotta">Contribuer</a>
+  </p>
+</footer>
+
+  
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<style>
+   
+  :root {
+    --pagefind-ui-scale: 0.8;
+    --pagefind-ui-primary: #e07b39;
+    --pagefind-ui-text: #3d2b1f;
+    --pagefind-ui-background: #fdf6ee;
+    --pagefind-ui-border: #f0e4d0;
+    --pagefind-ui-tag: #f0e4d0;
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 999px;
+    --pagefind-ui-image-border-radius: 8px;
+    --pagefind-ui-font: inherit;
+  }
+   
+  .pagefind-ui__drawer {
+    position: absolute !important;
+    right: 0;
+    top: 100%;
+    width: 32rem;
+    max-height: 80vh;
+    overflow-y: auto;
+    background: #fdf6ee !important;
+    color: #3d2b1f !important;
+    border: 1px solid #f0e4d0;
+    border-radius: 0.75rem;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    z-index: 100;
+    padding: 1rem;
+    margin-top: 0.5rem;
+  }
+  mark {
+    background: #fde68a;
+    color: #3d2b1f;
+    border-radius: 2px;
+    padding: 0 2px;
+  }
+</style>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    new PagefindUI({
+      element: '#search-box',
+      showSubResults: true,
+      translations: {
+        placeholder: 'Rechercher...'
+      }
+    });
+  });
+</script>
+
+</body>
+</html>

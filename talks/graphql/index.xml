@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphql on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/graphql/</link>
+    <description>Recent content in Graphql on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/graphql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedrick-lunven/talks/cas-dusages-et-implementation-des-apis-en-java-avec-rest-grpc-ou-graphql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedrick-lunven/talks/cas-dusages-et-implementation-des-apis-en-java-avec-rest-grpc-ou-graphql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-guillaume-ribreau/talks/choisir-entre-une-api-rpc-soap-rest-graphql-et-si-le-probleme-etait-ailleurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-guillaume-ribreau/talks/choisir-entre-une-api-rpc-soap-rest-graphql-et-si-le-probleme-etait-ailleurs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-drouet/talks/tirez-le-meilleur-de-vos-apis-avec-graphql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-drouet/talks/tirez-le-meilleur-de-vos-apis-avec-graphql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/stanislas-chollet/talks/graphql-the-new-age-of-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/stanislas-chollet/talks/graphql-the-new-age-of-api/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

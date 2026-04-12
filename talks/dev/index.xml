@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/dev/</link>
+    <description>Recent content in Dev on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/alexander-dejanovski/talks/apache-cassandra-pour-les-devs-et-aussi-pour-les-ops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/alexander-dejanovski/talks/apache-cassandra-pour-les-devs-et-aussi-pour-les-ops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyril-hue/talks/a-la-decouverte-du-developpement-mobile-sans-les-maux-de-tete/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyril-hue/talks/a-la-decouverte-du-developpement-mobile-sans-les-maux-de-tete/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-hemidy/talks/apprendre-a-lire-la-bonne-methode-pour-resoudre-un-probleme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-hemidy/talks/apprendre-a-lire-la-bonne-methode-pour-resoudre-un-probleme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/et-si-lia-devenait-votre-nouvel-ami-codeur-imaginaire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/et-si-lia-devenait-votre-nouvel-ami-codeur-imaginaire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/gitlab-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/gitlab-kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/gitlabci-make-cicd-with-gitlab-ci-hype-again/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/gitlabci-make-cicd-with-gitlab-ci-hype-again/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/le-developpement-des-le-plus-jeune-age/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/le-developpement-des-le-plus-jeune-age/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/qui-a-dit-quil-fallait-avoir-un-jdk-sur-son-poste-pour-developper-une-application-java-prenez-votre-ide-cloud-gitpod-et-le-tour-est-joue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/qui-a-dit-quil-fallait-avoir-un-jdk-sur-son-poste-pour-developper-une-application-java-prenez-votre-ide-cloud-gitpod-et-le-tour-est-joue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/quicky-faire-de-lagilite-dans-les-equipes-agiles-cest-possible/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/quicky-faire-de-lagilite-dans-les-equipes-agiles-cest-possible/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/renovatedependabot-ou-comment-reprendre-le-controle-sur-la-mise-a-jour-de-ses-dependances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/renovatedependabot-ou-comment-reprendre-le-controle-sur-la-mise-a-jour-de-ses-dependances/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/katia-aresti/talks/jai-rate-ma-carriere-jai-plus-de-40-et-je-code-encore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/katia-aresti/talks/jai-rate-ma-carriere-jai-plus-de-40-et-je-code-encore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/robin-caroff/talks/a-la-decouverte-du-developpement-mobile-sans-les-maux-de-tete/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/robin-caroff/talks/a-la-decouverte-du-developpement-mobile-sans-les-maux-de-tete/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/robin-caroff/talks/quicky-app-elles-exemple-de-tech-for-good-a-lheure-du-confinement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/robin-caroff/talks/quicky-app-elles-exemple-de-tech-for-good-a-lheure-du-confinement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/robin-caroff/talks/quicky-from-dagger-to-dagger-hilt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/robin-caroff/talks/quicky-from-dagger-to-dagger-hilt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/sahbi-ktifa/talks/du-neant-a-lespace-moins-dune-heure-pour-aller-en-prod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/sahbi-ktifa/talks/du-neant-a-lespace-moins-dune-heure-pour-aller-en-prod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/sahbi-ktifa/talks/quicky-angular-react-vuejs-ne-peut-il-vraiment-en-rester-quun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/sahbi-ktifa/talks/quicky-angular-react-vuejs-ne-peut-il-vraiment-en-rester-quun/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Api on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/api/</link>
+    <description>Recent content in Api on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/amrouche-hamza/talks/api-platform-fast-web-apis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/amrouche-hamza/talks/api-platform-fast-web-apis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/audrey-neveu/talks/le-streaming-dapi-pourquoi-comment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/audrey-neveu/talks/le-streaming-dapi-pourquoi-comment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cedrick-lunven/talks/cas-dusages-et-implementation-des-apis-en-java-avec-rest-grpc-ou-graphql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cedrick-lunven/talks/cas-dusages-et-implementation-des-apis-en-java-avec-rest-grpc-ou-graphql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/christophe-grand/talks/introduction-a-la-programmation-orientee-donnees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/christophe-grand/talks/introduction-a-la-programmation-orientee-donnees/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/christophe-grand/talks/rest-lincompris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/christophe-grand/talks/rest-lincompris/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyril-lakech/talks/un-zeste-de-nest-pour-rehausser-le-gout-du-back-end-js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyril-lakech/talks/un-zeste-de-nest-pour-rehausser-le-gout-du-back-end-js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-guillaume-ribreau/talks/choisir-entre-une-api-rpc-soap-rest-graphql-et-si-le-probleme-etait-ailleurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-guillaume-ribreau/talks/choisir-entre-une-api-rpc-soap-rest-graphql-et-si-le-probleme-etait-ailleurs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-guillaume-ribreau/talks/votre-api-passe-t-elle-les-70-points-du-controle-technique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-guillaume-ribreau/talks/votre-api-passe-t-elle-les-70-points-du-controle-technique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-liot/talks/soa-libre-et-efficace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-liot/talks/soa-libre-et-efficace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/gregoire-boisseau/talks/creer-une-application-web-from-scratch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/gregoire-boisseau/talks/creer-une-application-web-from-scratch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-drouet/talks/tirez-le-meilleur-de-vos-apis-avec-graphql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-drouet/talks/tirez-le-meilleur-de-vos-apis-avec-graphql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/laurent-thiebault/talks/un-zeste-de-nest-pour-rehausser-le-gout-du-back-end-js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/laurent-thiebault/talks/un-zeste-de-nest-pour-rehausser-le-gout-du-back-end-js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/vincent-beauvivre/talks/because-im-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/vincent-beauvivre/talks/because-im-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-carpentier/talks/restful-really/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-carpentier/talks/restful-really/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

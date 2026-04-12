@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patterns on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/patterns/</link>
+    <description>Recent content in Patterns on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/patterns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florian-kauder/talks/je-nai-jamais-rien-compris-a-redux-donc-je-vais-le-recoder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florian-kauder/talks/je-nai-jamais-rien-compris-a-redux-donc-je-vais-le-recoder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/philippe-charriere/talks/microservices-choisir-le-bon-cheval-vertx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/philippe-charriere/talks/microservices-choisir-le-bon-cheval-vertx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/riadh-mnasri/talks/architectures-microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/riadh-mnasri/talks/architectures-microservices/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

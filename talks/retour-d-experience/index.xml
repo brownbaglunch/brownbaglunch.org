@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retour-D-Experience on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/retour-d-experience/</link>
+    <description>Recent content in Retour-D-Experience on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/retour-d-experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/delphine-raymond/talks/creer-une-communaute-ou-un-meetup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/delphine-raymond/talks/creer-une-communaute-ou-un-meetup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-allain/talks/cycle-damelioration-continue-objectifs-evaluations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-allain/talks/cycle-damelioration-continue-objectifs-evaluations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-allain/talks/mise-en-place-de-scrum-dans-une-startup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-allain/talks/mise-en-place-de-scrum-dans-une-startup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-allain/talks/organiser-un-startup-weekend-interne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-allain/talks/organiser-un-startup-weekend-interne/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

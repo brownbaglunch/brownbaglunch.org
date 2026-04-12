@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sql on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/sql/</link>
+    <description>Recent content in Sql on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/gregoire-hubert/talks/le-sql-de-postgres-au-service-de-votre-metier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/gregoire-hubert/talks/le-sql-de-postgres-au-service-de-votre-metier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/gregoire-hubert/talks/silex-le-%C2%B5-framework-a-tout-faire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/gregoire-hubert/talks/silex-le-%C2%B5-framework-a-tout-faire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/gregoire-hubert/talks/utiliser-la-puissance-de-postgresql-dans-vos-developpements-php/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/gregoire-hubert/talks/utiliser-la-puissance-de-postgresql-dans-vos-developpements-php/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-bisutti/talks/eliminez-rapidement-des-bottlenecks-de-performance-avec-quickperf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-bisutti/talks/eliminez-rapidement-des-bottlenecks-de-performance-avec-quickperf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/laurent-doguin/talks/a-la-decouverte-de-couchbase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/laurent-doguin/talks/a-la-decouverte-de-couchbase/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/quentin-adam/talks/why-postgres-sql-deserve-nosql-fan-respect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/quentin-adam/talks/why-postgres-sql-deserve-nosql-fan-respect/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sig on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/sig/</link>
+    <description>Recent content in Sig on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/sig/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/rodolphe-quiedeville/talks/liberez-aussi-vos-donnees-geographiques/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/rodolphe-quiedeville/talks/liberez-aussi-vos-donnees-geographiques/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/rodolphe-quiedeville/talks/tsung-de-1-a-1-million/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/rodolphe-quiedeville/talks/tsung-de-1-a-1-million/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-gratier/talks/faire-des-cartes-en-ligne-quelles-solutions-pour-quels-besoins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-gratier/talks/faire-des-cartes-en-ligne-quelles-solutions-pour-quels-besoins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-gratier/talks/les-outils-pour-creer-de-la-documentation-utilisateur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-gratier/talks/les-outils-pour-creer-de-la-documentation-utilisateur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-gratier/talks/opendata-et-openstreetmap-comment-les-exploiter-comment-contribuer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-gratier/talks/opendata-et-openstreetmap-comment-les-exploiter-comment-contribuer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/thomas-gratier/talks/utiliser-lecosysteme-github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/thomas-gratier/talks/utiliser-lecosysteme-github/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

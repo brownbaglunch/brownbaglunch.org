@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rule-Engine on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/rule-engine/</link>
+    <description>Recent content in Rule-Engine on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/rule-engine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/guillaume-mouron/talks/construire-un-moteur-de-regles-en-c-en-1h-chrono/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/guillaume-mouron/talks/construire-un-moteur-de-regles-en-c-en-1h-chrono/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

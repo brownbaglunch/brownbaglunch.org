@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtualization on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/virtualization/</link>
+    <description>Recent content in Virtualization on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/virtualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/quentin-adam/talks/containers-vms-processes-isolation-performances-io-how-all-of-these-technologies-work-and-compare-to-each-other-deep-dive-and-learn-about-your-operating-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/quentin-adam/talks/containers-vms-processes-isolation-performances-io-how-all-of-these-technologies-work-and-compare-to-each-other-deep-dive-and-learn-about-your-operating-system/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

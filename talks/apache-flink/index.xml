@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apache-Flink on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/apache-flink/</link>
+    <description>Recent content in Apache-Flink on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/apache-flink/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/tugdual-grall/talks/fast-cars-big-data-ou-comment-le-streaming-peut-aider-la-formule-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/tugdual-grall/talks/fast-cars-big-data-ou-comment-le-streaming-peut-aider-la-formule-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/tugdual-grall/talks/stream-processing-avec-apache-flink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/tugdual-grall/talks/stream-processing-avec-apache-flink/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Http2 on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/http2/</link>
+    <description>Recent content in Http2 on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/http2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/cyrille-hemidy/talks/decouvrir-grpc-et-protocol-buffers-une-alternative-a-rest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/cyrille-hemidy/talks/decouvrir-grpc-et-protocol-buffers-une-alternative-a-rest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/sebastien-friess/talks/live-coding-servir-du-http-en-go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/sebastien-friess/talks/live-coding-servir-du-http-en-go/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

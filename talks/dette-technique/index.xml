@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dette-Technique on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/dette-technique/</link>
+    <description>Recent content in Dette-Technique on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/dette-technique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/arthur-magne/talks/le-software-craftsmanship-en-contexte-industriel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/arthur-magne/talks/le-software-craftsmanship-en-contexte-industriel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/clement-poissonnier/talks/sensibilisation-au-software-craftsmanship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/clement-poissonnier/talks/sensibilisation-au-software-craftsmanship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-blanc/talks/gamification-pour-la-dette-technique-et-les-tests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-blanc/talks/gamification-pour-la-dette-technique-et-les-tests/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

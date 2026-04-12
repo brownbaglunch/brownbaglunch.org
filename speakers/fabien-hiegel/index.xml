@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/speakers/fabien-hiegel/</link>
+    <description>Recent content on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/speakers/fabien-hiegel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/fabien-hiegel/talks/pair-programming-pair-practice-sans-coder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/fabien-hiegel/talks/pair-programming-pair-practice-sans-coder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/fabien-hiegel/talks/tests-unitaires-pourquoi-faire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/fabien-hiegel/talks/tests-unitaires-pourquoi-faire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/fabien-hiegel/talks/xtrem-reading-venez-lire-autrement-en-cultivant-votre-intelligence-collective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/fabien-hiegel/talks/xtrem-reading-venez-lire-autrement-en-cultivant-votre-intelligence-collective/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/fabien-hiegel/talks/xtrem-tech-watch-explorez-ensemble-les-sujets-qui-vous-animent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/fabien-hiegel/talks/xtrem-tech-watch-explorez-ensemble-les-sujets-qui-vous-animent/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

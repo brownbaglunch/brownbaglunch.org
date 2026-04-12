@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Behat on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/behat/</link>
+    <description>Recent content in Behat on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/behat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/augustin-de-laveaucoupet/talks/behat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/augustin-de-laveaucoupet/talks/behat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/augustin-de-laveaucoupet/talks/discussions-libre-sur-la-qualite-logiciel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/augustin-de-laveaucoupet/talks/discussions-libre-sur-la-qualite-logiciel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/augustin-de-laveaucoupet/talks/docker-sur-votre-poste-de-dev-comme-en-prod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/augustin-de-laveaucoupet/talks/docker-sur-votre-poste-de-dev-comme-en-prod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/augustin-de-laveaucoupet/talks/outils-et-methodo-pour-des-mises-en-prod-sans-sueur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/augustin-de-laveaucoupet/talks/outils-et-methodo-pour-des-mises-en-prod-sans-sueur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/nicolas-joseph/talks/autre-chose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/nicolas-joseph/talks/autre-chose/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

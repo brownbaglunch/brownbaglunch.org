@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asynchronous on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/asynchronous/</link>
+    <description>Recent content in Asynchronous on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/asynchronous/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/david-de-carvalho/talks/pimentez-votre-carto-avec-du-temps-reel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/david-de-carvalho/talks/pimentez-votre-carto-avec-du-temps-reel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/david-de-carvalho/talks/retour-dexperience-pagesjaunes-les-transactions-dans-une-architecture-microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/david-de-carvalho/talks/retour-dexperience-pagesjaunes-les-transactions-dans-une-architecture-microservices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-liot/talks/appropriation-de-donnees-parsing-formatting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-liot/talks/appropriation-de-donnees-parsing-formatting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-liot/talks/crawling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-liot/talks/crawling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-liot/talks/monitoring-et-alerting-opensource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-liot/talks/monitoring-et-alerting-opensource/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-liot/talks/opensource-pour-les-administrations-et-les-collectivites-locales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-liot/talks/opensource-pour-les-administrations-et-les-collectivites-locales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/francois-liot/talks/soa-libre-et-efficace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/francois-liot/talks/soa-libre-et-efficace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/gilles-barbier/talks/comment-coder-des-process-business-ou-marketing-aussi-sophistiques-quamazon-ou-uber-avec-une-equipe-technique-reduite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/gilles-barbier/talks/comment-coder-des-process-business-ou-marketing-aussi-sophistiques-quamazon-ou-uber-avec-une-equipe-technique-reduite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jordane-grenat/talks/oubliez-les-migraines-faites-de-lasynchrone-synchrone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jordane-grenat/talks/oubliez-les-migraines-faites-de-lasynchrone-synchrone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/louis-cibot/talks/comment-coder-des-process-business-ou-marketing-aussi-sophistiques-quamazon-ou-uber-avec-une-equipe-technique-reduite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/louis-cibot/talks/comment-coder-des-process-business-ou-marketing-aussi-sophistiques-quamazon-ou-uber-avec-une-equipe-technique-reduite/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

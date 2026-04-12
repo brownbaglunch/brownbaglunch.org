@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firestore on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/firestore/</link>
+    <description>Recent content in Firestore on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/firestore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/alexandre-dergham/talks/quand-scala-rencontre-google-cloud-run-et-firestore-rex-dune-amitie-qui-fonctionne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/alexandre-dergham/talks/quand-scala-rencontre-google-cloud-run-et-firestore-rex-dune-amitie-qui-fonctionne/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

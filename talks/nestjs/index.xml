@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nestjs on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/nestjs/</link>
+    <description>Recent content in Nestjs on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/nestjs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/aurelien-loyer/talks/creons-notre-premiere-api-avec-nestjs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/aurelien-loyer/talks/creons-notre-premiere-api-avec-nestjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/aurelien-loyer/talks/visual-testing-ou-comment-detecter-les-changements-au-pixel-pres-dans-votre-application/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/aurelien-loyer/talks/visual-testing-ou-comment-detecter-les-changements-au-pixel-pres-dans-votre-application/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/laurent-thiebault/talks/un-zeste-de-nest-pour-rehausser-le-gout-du-back-end-js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/laurent-thiebault/talks/un-zeste-de-nest-pour-rehausser-le-gout-du-back-end-js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/yohan-lasorsa/talks/decouvrez-nestjs-le-framework-nodejs-qui-monte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/yohan-lasorsa/talks/decouvrez-nestjs-le-framework-nodejs-qui-monte/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

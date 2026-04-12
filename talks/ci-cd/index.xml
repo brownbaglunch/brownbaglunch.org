@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ci-Cd on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/ci-cd/</link>
+    <description>Recent content in Ci-Cd on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/ci-cd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/gurvan-henry/talks/discussion-technique-front-react-react-native-back-serveur-node-ou-baas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/gurvan-henry/talks/discussion-technique-front-react-react-native-back-serveur-node-ou-baas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/et-si-vous-mettiez-a-disposition-vos-jobs-de-cicd-sur-une-etagere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/et-si-vous-mettiez-a-disposition-vos-jobs-de-cicd-sur-une-etagere/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/gitlabci-make-cicd-with-gitlab-ci-hype-again/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-philippe-baconnais/talks/gitlabci-make-cicd-with-gitlab-ci-hype-again/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/yohan-lasorsa/talks/devenez-un-heros-des-github-actions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/yohan-lasorsa/talks/devenez-un-heros-des-github-actions/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

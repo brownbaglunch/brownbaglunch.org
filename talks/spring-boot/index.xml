@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring-Boot on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/spring-boot/</link>
+    <description>Recent content in Spring-Boot on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/spring-boot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/fabien-arrault/talks/spring-boot-on-ouvre-le-capot-et-on-demonte-tout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/fabien-arrault/talks/spring-boot-on-ouvre-le-capot-et-on-demonte-tout/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/jean-bisutti/talks/eliminez-rapidement-des-bottlenecks-de-performance-avec-quickperf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/jean-bisutti/talks/eliminez-rapidement-des-bottlenecks-de-performance-avec-quickperf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-roy/talks/se-lancer-dans-laventure-microservices-avec-spring-cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-roy/talks/se-lancer-dans-laventure-microservices-avec-spring-cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-roy/talks/spring-boot-ameliorer-votre-productivite-en-1-heure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-roy/talks/spring-boot-ameliorer-votre-productivite-en-1-heure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-roy/talks/spring-data-une-api-quinze-possibilites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-roy/talks/spring-data-une-api-quinze-possibilites/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/julien-wittouck/talks/spring-boot-containers-dos-donts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/julien-wittouck/talks/spring-boot-containers-dos-donts/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

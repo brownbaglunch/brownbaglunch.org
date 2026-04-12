@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kotlin on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/kotlin/</link>
+    <description>Recent content in Kotlin on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/benjamin-lacroix/talks/kotlin-intro-live-coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/benjamin-lacroix/talks/kotlin-intro-live-coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/riadh-mnasri/talks/un-tour-dhorizon-des-fonctionnalites-cle-du-langage-kotlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/riadh-mnasri/talks/un-tour-dhorizon-des-fonctionnalites-cle-du-langage-kotlin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/robin-caroff/talks/quicky-from-dagger-to-dagger-hilt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/robin-caroff/talks/quicky-from-dagger-to-dagger-hilt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/architecture-mobile-offline-first-androidkotlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/architecture-mobile-offline-first-androidkotlin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/comment-gradle-peut-simplifier-votre-vie-gradleandroidkotlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/comment-gradle-peut-simplifier-votre-vie-gradleandroidkotlin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/demystifier-la-pyramide-de-tests-general/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/demystifier-la-pyramide-de-tests-general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/devenir-un-staff-engineer-dans-le-mobile-carriere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/devenir-un-staff-engineer-dans-le-mobile-carriere/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/mutation-testing-javakotlinandroid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/mutation-testing-javakotlinandroid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/property-based-testing-javakotlinandroid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/xavier-f-gouchet/talks/property-based-testing-javakotlinandroid/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

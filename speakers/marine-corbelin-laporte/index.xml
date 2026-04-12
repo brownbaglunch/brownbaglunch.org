@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/speakers/marine-corbelin-laporte/</link>
+    <description>Recent content on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/speakers/marine-corbelin-laporte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/marine-corbelin-laporte/talks/comment-gerer-un-projet-vrar-video-360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/marine-corbelin-laporte/talks/comment-gerer-un-projet-vrar-video-360/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/marine-corbelin-laporte/talks/la-vr-dans-unity-unreal-engine-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/marine-corbelin-laporte/talks/la-vr-dans-unity-unreal-engine-4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/marine-corbelin-laporte/talks/les-contraintes-de-la-modelisation-3d-pour-du-temps-reel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/marine-corbelin-laporte/talks/les-contraintes-de-la-modelisation-3d-pour-du-temps-reel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/marine-corbelin-laporte/talks/tour-dhorizon-des-usages-de-la-vr-et-de-lar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/marine-corbelin-laporte/talks/tour-dhorizon-des-usages-de-la-vr-et-de-lar/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

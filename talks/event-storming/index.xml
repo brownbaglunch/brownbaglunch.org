@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event-Storming on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/event-storming/</link>
+    <description>Recent content in Event-Storming on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/event-storming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/clement-heliou/talks/9-things-that-will-make-your-escqrs-journey-painful/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/clement-heliou/talks/9-things-that-will-make-your-escqrs-journey-painful/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/delphine-raymond/talks/event-storming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/delphine-raymond/talks/event-storming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florent-pellet/talks/coding-dojo-a-la-demande/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florent-pellet/talks/coding-dojo-a-la-demande/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florent-pellet/talks/ddd-agilite-par-le-code-grace-a-cqrs-et-eventsourcing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florent-pellet/talks/ddd-agilite-par-le-code-grace-a-cqrs-et-eventsourcing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florent-pellet/talks/event-storming-comprendre-le-metier-autrement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florent-pellet/talks/event-storming-comprendre-le-metier-autrement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florent-pellet/talks/knockoutjs-ou-la-rencontre-dmvvm-et-du-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florent-pellet/talks/knockoutjs-ou-la-rencontre-dmvvm-et-du-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/florent-pellet/talks/real-time-web-en-net-avec-signalr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/florent-pellet/talks/real-time-web-en-net-avec-signalr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/maxime-sanglan-charlier/talks/atelier-event-storming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/maxime-sanglan-charlier/talks/atelier-event-storming/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solid on Brown Bag Lunch</title>
+    <link>https://brownbaglunch.fr/talks/solid/</link>
+    <description>Recent content in Solid on Brown Bag Lunch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://brownbaglunch.fr/talks/solid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/ilan-zerath/talks/les-bonnes-pratiques-pour-faire-des-tests-unitaires/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/ilan-zerath/talks/les-bonnes-pratiques-pour-faire-des-tests-unitaires/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://brownbaglunch.fr/speakers/ilan-zerath/talks/une-grande-architecture-comporte-de-grandes-responsabilites-clean-architecture-viper-version-ios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brownbaglunch.fr/speakers/ilan-zerath/talks/une-grande-architecture-comporte-de-grandes-responsabilites-clean-architecture-viper-version-ios/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
