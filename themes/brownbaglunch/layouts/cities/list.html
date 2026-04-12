@@ -38,29 +38,58 @@
   </div>{{/* end data-pagefind-filter */}}
 
 {{ else }}
-  {{/* Top-level /villes/ page */}}
-  <h1 class="text-3xl font-black mb-8">Villes</h1>
+  {{/* Top-level /cities/ page — grouped by country */}}
+  {{ $flags := dict "fr" "🇫🇷" "be" "🇧🇪" "gb" "🇬🇧" "nl" "🇳🇱" "ca" "🇨🇦" "de" "🇩🇪" "ch" "🇨🇭" "lu" "🇱🇺" "es" "🇪🇸" "it" "🇮🇹" "pt" "🇵🇹" "us" "🇺🇸" "au" "🇦🇺" "pf" "🇵🇫" }}
 
   {{ $cityPages := where (where $srcPages "Section" "cities") "Params.city" "ne" nil }}
-  <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-    {{ range sort $cityPages "Title" }}
 
-      {{ $cityPage := . }}
-      {{ $country := .Params.country }}
-      {{ $city := .Params.city }}
-      {{ $speakers := partial "speakers-for-city.html" (dict "country" $country "city" $city "pages" $speakerPages) }}
-      {{ $coverSrc := partial "cover-url.html" . }}
-      <a href="{{ .RelPermalink }}"
-         class="card text-center hover:border-terracotta transition-colors group">
-        {{ if $coverSrc }}
-          <img src="{{ $coverSrc }}" alt="{{ $cityPage.Title }}" class="w-full h-24 object-cover rounded-lg mb-3">
-        {{ else }}
-          <div class="w-full h-24 bg-warm-border/30 rounded-lg mb-3 flex items-center justify-center text-warm-brown/40 text-2xl">🏙️</div>
-        {{ end }}
-        <h2 class="font-bold group-hover:text-terracotta">{{ .Title }}</h2>
-        <p class="text-sm text-warm-brown/60 mt-1">{{ i18n "city_speakers_available" (dict "Count" (len $speakers)) }}</p>
-      </a>
+  {{/* Build a sorted unique list of country codes, France first */}}
+  {{ $countryCodes := slice }}
+  {{ range $cityPages }}
+    {{ $c := .Params.country }}
+    {{ if not (in $countryCodes $c) }}
+      {{ $countryCodes = $countryCodes | append $c }}
     {{ end }}
-  </div>
+  {{ end }}
+  {{/* Sort: fr first, rest alphabetical */}}
+  {{ $otherCountries := sort (where $countryCodes "." "ne" "fr") }}
+  {{ if in $countryCodes "fr" }}
+    {{ $countryCodes = slice "fr" | append $otherCountries }}
+  {{ else }}
+    {{ $countryCodes = $otherCountries }}
+  {{ end }}
+
+  <h1 class="text-3xl font-black mb-8">{{ i18n "nav_villes" }}</h1>
+
+  {{ range $countryCodes }}
+    {{ $code := . }}
+    {{ $flag := index $flags $code | default "🏳️" }}
+    {{ $name := i18n (printf "country_name_%s" $code) | default ($code | upper) }}
+    {{ $cities := where $cityPages "Params.country" $code }}
+
+    <section class="mb-12">
+      <h2 class="text-2xl font-bold mb-5 flex items-center gap-2">
+        {{ $flag }} {{ $name }}
+      </h2>
+      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+        {{ range sort $cities "Title" }}
+          {{ $cityPage := . }}
+          {{ $city    := .Params.city }}
+          {{ $speakers := partial "speakers-for-city.html" (dict "country" $code "city" $city "pages" $speakerPages) }}
+          {{ $coverSrc := partial "cover-url.html" . }}
+          <a href="{{ .RelPermalink }}"
+             class="card text-center hover:border-terracotta transition-colors group">
+            {{ if $coverSrc }}
+              <img src="{{ $coverSrc }}" alt="{{ $cityPage.Title }}" class="w-full h-24 object-cover rounded-lg mb-3">
+            {{ else }}
+              <div class="w-full h-24 bg-warm-border/30 rounded-lg mb-3 flex items-center justify-center text-warm-brown/40 text-2xl">🏙️</div>
+            {{ end }}
+            <h2 class="font-bold group-hover:text-terracotta">{{ .Title }}</h2>
+            <p class="text-sm text-warm-brown/60 mt-1">{{ i18n "city_speakers_available" (dict "Count" (len $speakers)) }}</p>
+          </a>
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
 {{ end }}
 {{ end }}

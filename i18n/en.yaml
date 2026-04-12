@@ -79,6 +79,36 @@ speakers_latest:
 speakers_no_letter:
   other: No speaker for this letter.
 
+# Countries
+country_name_fr:
+  other: France
+country_name_be:
+  other: Belgium
+country_name_gb:
+  other: United Kingdom
+country_name_nl:
+  other: Netherlands
+country_name_lu:
+  other: Luxembourg
+country_name_ch:
+  other: Switzerland
+country_name_ca:
+  other: Canada
+country_name_es:
+  other: Spain
+country_name_de:
+  other: Germany
+country_name_it:
+  other: Italy
+country_name_pt:
+  other: Portugal
+country_name_us:
+  other: United States
+country_name_au:
+  other: Australia
+country_name_pf:
+  other: French Polynesia
+
 # Cities
 city_speakers_available:
   one: "{{ .Count }} speaker available"
