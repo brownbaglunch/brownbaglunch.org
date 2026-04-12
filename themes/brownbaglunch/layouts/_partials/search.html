@@ -60,7 +60,10 @@
       return '<a href="' + d.url + '" class="flex items-center gap-3 py-2.5 border-b border-warm-border/50 last:border-0 hover:bg-warm-light -mx-2 px-2 rounded-lg transition-colors group">'
         + thumb
         + '<div class="flex-1 min-w-0">'
+        + '<div class="flex items-center justify-between gap-1">'
         + '<p class="font-semibold text-sm truncate group-hover:text-terracotta">' + esc(title) + '</p>'
+        + '<span class="text-base shrink-0 leading-none">' + sectionEmoji(d) + '</span>'
+        + '</div>'
         + '<p class="text-xs text-warm-brown/60 line-clamp-2 mt-0.5">' + (d.excerpt || '') + '</p>'
         + '</div>'
         + '</a>';
@@ -68,9 +71,18 @@
   }
 
   function typeIcon(url) {
-    if (/\/talks\//.test(url))  return '🏷️';
-    if (/\/cities\//.test(url)) return '🏙️';
+    if (/\/cities\//.test(url))                      return '🏙️';
+    if (/\/speakers\/[^/]+\/talks\//.test(url))      return '🍿';
     return '👤';
+  }
+
+  function sectionEmoji(d) {
+    const sec = d.filters && d.filters.section;
+    const s   = Array.isArray(sec) ? sec[0] : sec;
+    if (s === 'cities'   || /\/cities\//.test(d.url))                return '🌍';
+    if (s === 'talks'    || /\/speakers\/[^/]+\/talks\//.test(d.url)) return '🍿';
+    if (s === 'speakers' || /\/speakers\//.test(d.url))              return '🎤';
+    return '';
   }
 
   function esc(s) {
