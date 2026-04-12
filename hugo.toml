@@ -1,4 +1,4 @@
-baseURL = 'https://brownbaglunch.fr/'
+baseURL = 'https://v2.brownbaglunch.org/'
 languageCode = 'fr-fr'
 defaultContentLanguage = 'fr'
 title = 'Brown Bag Lunch'
