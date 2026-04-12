@@ -8,7 +8,6 @@ tags:
   - "git"
   - "rebase"
   - "push"
-picture: "img/baggers/unknown.png"
 contacts:
   mail: "harrich@lucca.fr"
 websites:

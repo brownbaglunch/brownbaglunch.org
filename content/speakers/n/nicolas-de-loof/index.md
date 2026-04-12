@@ -8,7 +8,7 @@ tags:
   - "cloud"
   - "jenkins"
   - "kubernetes"
-picture: "img/baggers/photo_NicolasDeLoof.jpg"
+picture: "/speakers/nicolas-de-loof/photo_NicolasDeLoof.jpg"
 contacts:
   x: "ndeloof"
   mail: "nicolas.deloof@gmail.com"

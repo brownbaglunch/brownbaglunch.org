@@ -7,7 +7,6 @@ cities:
 tags:
   - "cloud"
   - "usine-logicielle"
-picture: "img/baggers/unknown.png"
 contacts:
   x: "jlrigau"
   mail: "jeanlouis.rigau@gmail.com"

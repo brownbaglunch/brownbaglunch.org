@@ -19,7 +19,6 @@ tags:
   - "serversentevent"
   - "node"
   - "nodejs"
-picture: "img/baggers/unknown.png"
 contacts:
   x: "dedece35"
   mail: "ddecarvalho@pagesjaunes.fr"

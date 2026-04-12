@@ -9,7 +9,6 @@ tags:
   - "refactoring"
   - "clojure"
   - "java"
-picture: "img/baggers/unknown.png"
 contacts:
   x: "m_gandin"
   mail: "mathieu.gandin@gmail.com"

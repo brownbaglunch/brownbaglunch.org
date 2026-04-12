@@ -9,7 +9,7 @@ tags:
   - "agile"
   - "ux"
   - "design-thinking"
-picture: "img/baggers/photo_maritza_abreo.png"
+picture: "/speakers/maritza-abreo/photo_maritza_abreo.png"
 contacts:
   x: "MaritzaAbreo"
   mail: "maritzabreo@gmail.com"

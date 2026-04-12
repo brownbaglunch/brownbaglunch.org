@@ -11,7 +11,6 @@ tags:
   - "it-automation"
   - "javascript"
   - "haskell"
-picture: "img/baggers/unknown.png"
 contacts:
   x: "clementd"
   mail: "clement+bbl@delafargue.name"

@@ -7,7 +7,7 @@ cities:
 tags:
   - "hadoop"
   - "nosql"
-picture: "img/baggers/photo_vhe.jpg"
+picture: "/speakers/vincent-heuschling/photo_vhe.jpg"
 contacts:
   x: "vhe74"
   mail: "vhe@affini-tech.com"

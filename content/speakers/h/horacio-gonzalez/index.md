@@ -11,7 +11,7 @@ tags:
   - "javascript"
   - "angularjs"
   - "dart"
-picture: "img/baggers/photo_horacio.jpg"
+picture: "/speakers/horacio-gonzalez/photo_horacio.jpg"
 contacts:
   x: "lostinbrittany"
   mail: "horacio.gonzalez@gmail.com"

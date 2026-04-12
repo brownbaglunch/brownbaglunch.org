@@ -8,7 +8,6 @@ tags:
   - "agile"
   - "lean-startup"
   - "impact-mapping"
-picture: "img/baggers/unknown.png"
 contacts:
   x: "laurentmeurisse"
   mail: "lmeurisse@ekito.fr"

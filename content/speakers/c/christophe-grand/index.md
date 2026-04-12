@@ -12,7 +12,6 @@ tags:
   - "hypermedia"
   - "rest"
   - "api"
-picture: "img/baggers/unknown.png"
 contacts:
   x: "cgrand"
   mail: "christophe@cgrand.net"

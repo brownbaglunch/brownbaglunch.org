@@ -12,7 +12,7 @@ tags:
   - "php"
   - "test"
   - "automatisation"
-picture: "img/baggers/oetienne.png"
+picture: "/speakers/olivier-etienne/oetienne.png"
 contacts:
   x: "olivier_etienne"
   mail: "olivier.etienne@gmail.com"

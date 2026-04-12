@@ -10,7 +10,7 @@ tags:
   - "test"
   - "mobile"
   - "java"
-picture: "img/baggers/photo_mathilde.jpeg"
+picture: "/speakers/mathilde-lemee/photo_mathilde.jpeg"
 contacts:
   x: "mathildelemee"
   mail: "mathilde.lemee@yahoo.fr"

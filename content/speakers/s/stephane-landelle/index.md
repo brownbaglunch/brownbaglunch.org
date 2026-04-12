@@ -11,7 +11,7 @@ tags:
   - "stress"
   - "load"
   - "scala"
-picture: "img/baggers/photo_slandelle.jpg"
+picture: "/speakers/stephane-landelle/photo_slandelle.jpg"
 contacts:
   x: "slandelle"
   mail: "slandelle@gatling.io"

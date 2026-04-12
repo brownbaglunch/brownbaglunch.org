@@ -8,7 +8,6 @@ tags:
   - "sketchnote"
   - "scribing"
   - "facilitation-graphique"
-picture: "img/baggers/unknown.png"
 contacts:
   x: "@Marc_DUGUE"
   mail: "marc.dugue@gmail.com"

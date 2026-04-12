@@ -10,7 +10,6 @@ tags:
   - "agilite"
   - "agile"
   - "code"
-picture: "img/baggers/unknown.png"
 contacts:
   x: "bodysplash"
   mail: "jbdusseaut@arpinum.fr"

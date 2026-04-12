@@ -15,7 +15,7 @@ tags:
   - "dojo"
   - "coding-dojo"
   - "mob-programming"
-picture: "img/baggers/photo_maxime_s.jpg"
+picture: "/speakers/maxime-sanglan-charlier/photo_maxime_s.jpg"
 contacts:
   x: "__MaxS__"
   mail: "m.sanglan.charlier@gmail.com"

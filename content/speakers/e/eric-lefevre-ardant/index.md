@@ -8,7 +8,7 @@ tags:
   - "intelligence-artificielle"
   - "java"
   - "code"
-picture: "img/baggers/photo_eric.jpg"
+picture: "/speakers/eric-lefevre-ardant/photo_eric.jpg"
 contacts:
   x: "elefevre"
   mail: "contact@ericlefevre.net"

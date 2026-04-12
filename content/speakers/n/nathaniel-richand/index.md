@@ -6,7 +6,7 @@ cities:
   - "fr/paris"
 tags:
   - "agile"
-picture: "img/baggers/photo_nathaniel.jpg"
+picture: "/speakers/nathaniel-richand/photo_nathaniel.jpg"
 contacts:
   x: "nrichand"
   mail: "nrichand@brownbaglunch.fr"

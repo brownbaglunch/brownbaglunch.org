@@ -11,7 +11,7 @@ tags:
   - "jvm"
   - "scala"
   - "java"
-picture: "img/baggers/fcabestre.png"
+picture: "/speakers/frederic-cabestre/fcabestre.png"
 contacts:
   x: "fcabestre"
   mail: "frederic.cabestre@free.fr"

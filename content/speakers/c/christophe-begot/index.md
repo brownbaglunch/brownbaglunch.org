@@ -7,7 +7,6 @@ cities:
 tags:
   - "agile"
   - "coaching"
-picture: "img/baggers/unknown.png"
 contacts:
   mail: "cbegot@gmail.com"
 websites:

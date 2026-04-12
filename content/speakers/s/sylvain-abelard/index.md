@@ -8,7 +8,7 @@ tags:
   - "ruby"
   - "ruby-on-rails"
   - "architecture"
-picture: "img/baggers/photo_sylvain.jpg"
+picture: "/speakers/sylvain-abelard/photo_sylvain.jpg"
 contacts:
   x: "abelar_s"
   mail: "sylvain.abelard@gmail.com"

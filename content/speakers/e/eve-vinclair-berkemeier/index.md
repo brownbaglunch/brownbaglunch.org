@@ -13,7 +13,7 @@ tags:
   - "happiness"
   - "remote"
   - "teambuilding"
-picture: "img/baggers/photo_eve_vinclair.jpg"
+picture: "/speakers/eve-vinclair-berkemeier/photo_eve_vinclair.jpg"
 contacts:
   x: "@Evey_Online"
   mail: "eve.vinclair@knplabs.com"

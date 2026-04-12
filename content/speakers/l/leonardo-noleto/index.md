@@ -12,7 +12,7 @@ tags:
   - "valorisation-donnees"
   - "metriques-business"
   - "nosql"
-picture: "img/baggers/leonardo-noleto-avatar.jpg"
+picture: "/speakers/leonardo-noleto/leonardo-noleto-avatar.jpg"
 contacts:
   x: "leonardo_noleto"
 websites:

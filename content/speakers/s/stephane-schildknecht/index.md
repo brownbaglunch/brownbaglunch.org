@@ -15,7 +15,6 @@ tags:
   - "haute-disponibilite"
   - "database"
   - "bases-de-donnees"
-picture: "img/baggers/unknown.png"
 contacts:
   x: "saschild"
   mail: "s.schildknecht@loxodata.com"

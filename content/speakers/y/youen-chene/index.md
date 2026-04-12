@@ -10,7 +10,6 @@ tags:
   - "hadoop"
   - "impala"
   - "spark"
-picture: "img/baggers/unknown.png"
 contacts:
   x: "youen_chene"
   mail: "youen.chene@gadz.org"

@@ -10,7 +10,6 @@ tags:
   - "design"
   - "conception"
   - "ergonomie"
-picture: "img/baggers/unknown.png"
 contacts:
   x: "k_strategy"
   mail: "x.maurin@kstrategy.fr"

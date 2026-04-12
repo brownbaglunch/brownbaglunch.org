@@ -14,7 +14,6 @@ tags:
   - "puppet"
   - "docker"
   - "open-source"
-picture: "img/baggers/unknown.png"
 contacts:
   x: "couac"
   mail: "will+bbl@drnd.me"

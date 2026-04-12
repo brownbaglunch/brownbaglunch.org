@@ -10,7 +10,7 @@ tags:
   - "formation-continue"
   - "gestion-de-projet"
   - "performance-web"
-picture: "//avatars.schapira.dev/boris/2023-peep.png"
+picture: "https://avatars.schapira.dev/boris/2023-peep.png"
 contacts:
   x: "borisschapira"
   mail: "boris@schapira.dev"
