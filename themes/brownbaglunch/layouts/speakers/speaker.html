@@ -41,19 +41,7 @@
       </div>
 
       {{/* Social links */}}
-      {{ $hasSocial := or $speaker.contacts.x $speaker.websites }}
-      {{ if $hasSocial }}
-        <div class="flex gap-2 flex-wrap">
-          {{ with $speaker.contacts.x }}
-            <a href="https://x.com/{{ . }}" target="_blank" rel="noopener"
-               class="badge hover:bg-warm-brown hover:text-cream transition-colors">𝕏 @{{ . }}</a>
-          {{ end }}
-          {{ range $speaker.websites }}
-            <a href="{{ .url }}" target="_blank" rel="noopener"
-               class="badge hover:bg-warm-brown hover:text-cream transition-colors">🔗 {{ .name }}</a>
-          {{ end }}
-        </div>
-      {{ end }}
+      {{ partial "contact-links.html" $speaker }}
     </div>
   </div>
 
