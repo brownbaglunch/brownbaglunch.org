@@ -2,7 +2,6 @@
 layout: talk
 url: /speakers/guillaume-lagorce-gul/talks/la-pyramide-des-tests/
 tags:
-- ''
 versions:
 - label: FR
   flag: fr

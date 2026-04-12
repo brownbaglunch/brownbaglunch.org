@@ -5,7 +5,6 @@ tags:
 - atelier
 - intelligence-collective
 - veille
-- ''
 versions:
 - label: FR
   flag: fr

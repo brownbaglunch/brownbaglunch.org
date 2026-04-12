@@ -5,7 +5,6 @@ tags:
 - organisation-d-equipe
 - usage-utilisateur
 - qualite-de-code
-- ''
 versions:
 - label: FR
   flag: fr

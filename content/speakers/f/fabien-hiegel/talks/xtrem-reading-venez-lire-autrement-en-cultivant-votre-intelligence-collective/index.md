@@ -4,7 +4,6 @@ url: /speakers/fabien-hiegel/talks/xtrem-reading-venez-lire-autrement-en-cultiva
 tags:
 - atelier
 - intelligence-collective
-- ''
 versions:
 - label: FR
   flag: fr
