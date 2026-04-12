@@ -22,10 +22,10 @@
             {{ if eq $country "*" }}
               <span class="badge bg-terracotta text-white">🌍 {{ i18n "available_worldwide" }}</span>
             {{ else }}
-              <span class="badge">{{ $country | upper }} — partout</span>
+              <span class="badge">{{ $country | upper }} — {{ i18n "country_everywhere" }}</span>
             {{ end }}
           {{ else }}
-            <a href="{{ printf "/cities/%s/%s/" $country $city | relURL }}" class="badge hover:bg-warm-brown hover:text-cream transition-colors">
+            <a href="{{ printf "/cities/%s/%s/" $country $city | relLangURL }}" class="badge hover:bg-warm-brown hover:text-cream transition-colors">
               📍 {{ $city | title }}
             </a>
           {{ end }}
@@ -61,7 +61,7 @@
   {{/* Talks */}}
   {{ $talks := .RegularPagesRecursive }}
   {{ if $talks }}
-    <h2 class="text-2xl font-bold mb-4">Talks</h2>
+    <h2 class="text-2xl font-bold mb-4">{{ i18n "nav_talks" }}</h2>
     {{ range $talks }}
       {{ partial "session-card.html" . }}
     {{ end }}

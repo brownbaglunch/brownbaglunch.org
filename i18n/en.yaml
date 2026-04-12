@@ -1,19 +1,99 @@
+# Navigation
 nav_speakers:
   other: Speakers
 nav_talks:
   other: Talks
 nav_villes:
   other: Cities
+
+# Footer
 footer_contribute:
   other: Contribute
+
+# Search
 search_placeholder:
   other: Search...
+
+# Counts
 speakers_count:
   one: "{{ .Count }} speaker"
   other: "{{ .Count }} speakers"
+
+# Speaker availability
 available_in_country:
   other: "Available anywhere in {{ .Country }}"
 available_worldwide:
   other: Available worldwide
+country_everywhere:
+  other: everywhere
 invite:
   other: Invite
+
+# Home page
+home_tagline:
+  other: "Learn over<br>a meal 🍱"
+home_description:
+  other: "Experts come to your office to give a talk during your lunch break.<br>You bring the food, they bring the knowledge."
+home_cta_speakers:
+  other: Find a speaker
+home_cta_talks:
+  other: Explore talks
+home_stat_speakers:
+  other: available speakers
+home_stat_cities:
+  other: cities in France and beyond
+home_stat_free:
+  other: "free for the host"
+home_how_title:
+  other: How does it work?
+home_step1_title:
+  other: "1. Find an expert"
+home_step1_desc:
+  other: Browse available speakers in your city and choose a talk your team would enjoy.
+home_step2_title:
+  other: "2. Invite them"
+home_step2_desc:
+  other: Contact the speaker directly by email to agree on a date.
+home_step3_title:
+  other: "3. Enjoy!"
+home_step3_desc:
+  other: "You order the food, the speaker comes for free to share their expertise."
+
+# Speakers list
+speakers_browse_by_letter:
+  other: Browse by letter
+speakers_top_countries:
+  other: Top countries
+speakers_top_cities:
+  other: Top cities
+speakers_top_cities_excl:
+  other: "Top cities excl. #1"
+speakers_excl_note:
+  other: "({{ .City }} set aside to make room for others)"
+top_subjects:
+  other: Top topics
+speakers_worldwide:
+  other: "🌍 Available everywhere"
+speakers_latest:
+  other: Latest arrivals
+speakers_no_letter:
+  other: No speaker for this letter.
+
+# Cities
+city_speakers_available:
+  one: "{{ .Count }} speaker available"
+  other: "{{ .Count }} speakers available"
+city_no_speaker:
+  other: No speaker in this city yet.
+
+# Talks
+talks_label:
+  other: talks
+subjects_label:
+  other: topics
+all_subjects:
+  other: All topics
+talks_latest:
+  other: Latest talks added
+talks_with_tag:
+  other: "talk(s) with this tag"

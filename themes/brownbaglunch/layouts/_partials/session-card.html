@@ -22,7 +22,7 @@
           <span class="badge">🏳️ {{ .label }}</span>
         {{ end }}
         {{ range .Params.tags }}
-          <a href="{{ printf "/talks/%s/" . | relURL }}" class="badge hover:bg-terracotta hover:text-white transition-colors">#{{ . }}</a>
+          <a href="{{ printf "/talks/%s/" . | relLangURL }}" class="badge hover:bg-terracotta hover:text-white transition-colors">#{{ . }}</a>
         {{ end }}
       </div>
       {{ if $version.abstract }}

@@ -1,19 +1,99 @@
+# Navigation
 nav_speakers:
   other: Speakers
 nav_talks:
   other: Talks
 nav_villes:
   other: Villes
+
+# Footer
 footer_contribute:
   other: Contribuer
+
+# Search
 search_placeholder:
   other: Rechercher...
+
+# Counts
 speakers_count:
   one: "{{ .Count }} speaker"
   other: "{{ .Count }} speakers"
+
+# Speaker availability
 available_in_country:
   other: "Disponible partout en {{ .Country }}"
 available_worldwide:
   other: Disponible dans le monde entier
+country_everywhere:
+  other: partout
 invite:
   other: Inviter
+
+# Home page
+home_tagline:
+  other: "Apprenez autour<br>d'un repas 🍱"
+home_description:
+  other: "Des experts viennent chez vous faire un talk pendant votre pause déjeuner.<br>Vous apportez le repas, ils apportent le savoir."
+home_cta_speakers:
+  other: Trouver un speaker
+home_cta_talks:
+  other: Explorer les talks
+home_stat_speakers:
+  other: speakers disponibles
+home_stat_cities:
+  other: villes en France et ailleurs
+home_stat_free:
+  other: "gratuit pour l'hôte"
+home_how_title:
+  other: Comment ça fonctionne ?
+home_step1_title:
+  other: "1. Trouvez un expert"
+home_step1_desc:
+  other: Parcourez les speakers disponibles dans votre ville et choisissez un talk qui intéresse votre équipe.
+home_step2_title:
+  other: "2. Invitez-le"
+home_step2_desc:
+  other: Contactez le speaker directement par email pour convenir d'une date.
+home_step3_title:
+  other: "3. Profitez !"
+home_step3_desc:
+  other: "Vous commandez le repas, le speaker vient gratuitement partager son expertise."
+
+# Speakers list
+speakers_browse_by_letter:
+  other: Parcourir par lettre
+speakers_top_countries:
+  other: Top pays
+speakers_top_cities:
+  other: Top villes
+speakers_top_cities_excl:
+  other: "Top villes hors #1"
+speakers_excl_note:
+  other: "({{ .City }} mis de côté pour laisser la place aux autres)"
+top_subjects:
+  other: Top sujets
+speakers_worldwide:
+  other: "🌍 Disponibles partout"
+speakers_latest:
+  other: Derniers arrivés
+speakers_no_letter:
+  other: Aucun speaker pour cette lettre.
+
+# Cities
+city_speakers_available:
+  one: "{{ .Count }} speaker disponible"
+  other: "{{ .Count }} speakers disponibles"
+city_no_speaker:
+  other: Aucun speaker dans cette ville pour le moment.
+
+# Talks
+talks_label:
+  other: talks
+subjects_label:
+  other: sujets
+all_subjects:
+  other: Tous les sujets
+talks_latest:
+  other: Derniers talks ajoutés
+talks_with_tag:
+  other: "talk(s) avec ce tag"

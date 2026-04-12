@@ -1,6 +1,13 @@
 {{ define "main" }}
 {{ $siteLang := site.Language.Lang | upper }}
-{{ $allTalks := where site.RegularPages "Section" "speakers" }}
+{{/* Content lives in FR only — fall back to FR site pages when rendering other languages */}}
+{{ $srcRegularPages := site.RegularPages }}
+{{ if ne site.Language.Lang "fr" }}
+  {{ range site.Sites }}
+    {{ if eq .Language.Lang "fr" }}{{ $srcRegularPages = .RegularPages }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ $allTalks := where $srcRegularPages "Section" "speakers" }}
 
 {{/* ── Tag counts ── */}}
 {{ $tagCounts := dict }}
@@ -37,22 +44,22 @@
   <div class="flex gap-6 text-right">
     <div>
       <div class="text-5xl font-black text-terracotta">{{ len $allTalks }}</div>
-      <div class="text-xs text-warm-brown/50 uppercase tracking-wide">talks</div>
+      <div class="text-xs text-warm-brown/50 uppercase tracking-wide">{{ i18n "talks_label" }}</div>
     </div>
     <div>
       <div class="text-5xl font-black text-terracotta">{{ len $tagList }}</div>
-      <div class="text-xs text-warm-brown/50 uppercase tracking-wide">sujets</div>
+      <div class="text-xs text-warm-brown/50 uppercase tracking-wide">{{ i18n "subjects_label" }}</div>
     </div>
   </div>
 </div>
 
 {{/* Top 10 tags */}}
 <section class="card mb-10">
-  <h2 class="text-xl font-bold mb-4">Top sujets</h2>
+  <h2 class="text-xl font-bold mb-4">{{ i18n "top_subjects" }}</h2>
   <ol class="space-y-2">
     {{ range first 10 $tagList }}
       <li class="flex items-center justify-between">
-        <a href="{{ printf "/talks/%s/" .name | relURL }}"
+        <a href="{{ printf "/talks/%s/" .name | relLangURL }}"
            class="font-mono text-sm hover:text-terracotta transition-colors">#{{ .name }}</a>
         <span class="badge">{{ .count }}</span>
       </li>
@@ -62,10 +69,10 @@
 
 {{/* Full tag cloud */}}
 <section class="card mb-10">
-  <h2 class="text-xl font-bold mb-4">Tous les sujets</h2>
+  <h2 class="text-xl font-bold mb-4">{{ i18n "all_subjects" }}</h2>
   <div class="flex flex-wrap gap-2">
     {{ range sort $tagList "name" }}
-      <a href="{{ printf "/talks/%s/" .name | relURL }}"
+      <a href="{{ printf "/talks/%s/" .name | relLangURL }}"
          class="badge hover:bg-terracotta hover:text-white transition-colors">
         #{{ .name }}
         <span class="ml-1 opacity-60">{{ .count }}</span>
@@ -77,7 +84,7 @@
 {{/* Latest talks */}}
 {{ if $latest }}
 <section class="card mb-10">
-  <h2 class="text-xl font-bold mb-4">Derniers talks ajoutés</h2>
+  <h2 class="text-xl font-bold mb-4">{{ i18n "talks_latest" }}</h2>
   <div class="space-y-3">
     {{ range $latest }}
       {{ $talk        := .page }}

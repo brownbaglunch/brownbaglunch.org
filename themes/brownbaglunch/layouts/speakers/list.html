@@ -1,5 +1,12 @@
 {{ define "main" }}
-{{ $allSpeakers := where (where (where site.Pages "Kind" "section") "Section" "speakers") "Params.name" "ne" nil }}
+{{/* Content lives in FR only — fall back to FR site pages when rendering other languages */}}
+{{ $srcPages := site.Pages }}
+{{ if ne site.Language.Lang "fr" }}
+  {{ range site.Sites }}
+    {{ if eq .Language.Lang "fr" }}{{ $srcPages = .Pages }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ $allSpeakers := where (where (where $srcPages "Kind" "section") "Section" "speakers") "Params.name" "ne" nil }}
 
 {{/* ── Letter counts ── */}}
 {{ $letterCounts := dict }}
@@ -94,7 +101,7 @@
 
 {{/* Alphabet distribution + navigation */}}
 <section class="mb-10 card">
-  <h2 class="text-xl font-bold mb-4">Parcourir par lettre</h2>
+  <h2 class="text-xl font-bold mb-4">{{ i18n "speakers_browse_by_letter" }}</h2>
   {{ partial "alphabet-nav.html" (dict "currentLetter" "" "letterCounts" $letterCounts "showCounts" true) }}
 </section>
 
@@ -103,7 +110,7 @@
 
   {{/* Top 10 countries */}}
   <section class="card">
-    <h2 class="text-xl font-bold mb-4">Top pays</h2>
+    <h2 class="text-xl font-bold mb-4">{{ i18n "speakers_top_countries" }}</h2>
     <ol class="space-y-2">
       {{ range first 10 $countryList }}
         <li class="flex items-center justify-between">
@@ -116,7 +123,7 @@
 
   {{/* Top 10 cities overall */}}
   <section class="card">
-    <h2 class="text-xl font-bold mb-4">Top villes</h2>
+    <h2 class="text-xl font-bold mb-4">{{ i18n "speakers_top_cities" }}</h2>
     <ol class="space-y-2">
       {{ range first 10 $cityList }}
         {{ $parts := split .name "/" }}
@@ -136,11 +143,11 @@
 {{/* Top 10 cities excluding #1 */}}
 {{ if gt (len $cityList) 1 }}
 <section class="card mb-10">
-  <h2 class="text-xl font-bold mb-1">Top villes hors #1</h2>
+  <h2 class="text-xl font-bold mb-1">{{ i18n "speakers_top_cities_excl" }}</h2>
   {{ with index $cityList 0 }}
     {{ $parts := split .name "/" }}
     <p class="text-sm text-warm-brown/50 mb-4">
-      ({{ index $parts 1 | title }} mis de côté pour laisser la place aux autres)
+      {{ i18n "speakers_excl_note" (dict "City" (index $parts 1 | title)) }}
     </p>
   {{ end }}
   <div class="grid grid-cols-1 md:grid-cols-2 gap-2">
@@ -160,10 +167,10 @@
 
 {{/* Top 10 tags */}}
 <section class="card mb-10">
-  <h2 class="text-xl font-bold mb-4">Top sujets</h2>
+  <h2 class="text-xl font-bold mb-4">{{ i18n "top_subjects" }}</h2>
   <div class="flex flex-wrap gap-2">
     {{ range first 10 $tagList }}
-      <a href="{{ printf "/talks/%s/" .name | relURL }}"
+      <a href="{{ printf "/talks/%s/" .name | relLangURL }}"
          class="badge hover:bg-terracotta hover:text-white transition-colors">
         #{{ .name }}
         <span class="ml-1 opacity-60">{{ .count }}</span>
@@ -176,7 +183,7 @@
 {{ if $worldwide }}
 <section class="card mb-10">
   <h2 class="text-xl font-bold mb-4">
-    🌍 Disponibles partout
+    {{ i18n "speakers_worldwide" }}
     <span class="text-warm-brown/50 text-base font-normal">({{ len $worldwide }})</span>
   </h2>
   <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -190,7 +197,7 @@
 {{/* Latest arrivals */}}
 {{ if $latest }}
 <section class="card mb-10">
-  <h2 class="text-xl font-bold mb-4">Derniers arrivés</h2>
+  <h2 class="text-xl font-bold mb-4">{{ i18n "speakers_latest" }}</h2>
   <div class="space-y-3">
     {{ range $latest }}
       {{ $latestCover := partial "cover-url.html" . }}

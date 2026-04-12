@@ -29,13 +29,13 @@
         {{ end }}
       {{ else }}
         {{ if $showCounts }}
-          <a href="{{ printf "/speakers/%s/" ($letter | lower) | relURL }}"
+          <a href="{{ printf "/speakers/%s/" ($letter | lower) | relLangURL }}"
              class="badge {{ $twoLine }} hover:bg-warm-brown hover:text-cream transition-colors">
             <span class="leading-tight font-semibold">{{ $letter }}</span>
             <span class="leading-tight opacity-60">{{ $count }}</span>
           </a>
         {{ else }}
-          <a href="{{ printf "/speakers/%s/" ($letter | lower) | relURL }}"
+          <a href="{{ printf "/speakers/%s/" ($letter | lower) | relLangURL }}"
              class="badge hover:bg-warm-brown hover:text-cream transition-colors font-mono">{{ $letter }}</a>
         {{ end }}
       {{ end }}
