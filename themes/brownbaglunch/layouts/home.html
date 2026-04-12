@@ -1,11 +1,5 @@
 {{ define "main" }}
-{{/* Content lives in FR only — fall back to FR site pages when rendering other languages */}}
 {{ $srcPages := site.Pages }}
-{{ if ne site.Language.Lang "fr" }}
-  {{ range site.Sites }}
-    {{ if eq .Language.Lang "fr" }}{{ $srcPages = .Pages }}{{ end }}
-  {{ end }}
-{{ end }}
 <section class="py-16 text-center">
   <h1 class="text-5xl font-black text-warm-brown mb-4 leading-tight">
     {{ i18n "home_tagline" | safeHTML }}

@@ -1,11 +1,5 @@
 {{ define "main" }}
-{{/* Content lives in FR only — fall back to FR site pages when rendering other languages */}}
 {{ $srcPages := site.Pages }}
-{{ if ne site.Language.Lang "fr" }}
-  {{ range site.Sites }}
-    {{ if eq .Language.Lang "fr" }}{{ $srcPages = .Pages }}{{ end }}
-  {{ end }}
-{{ end }}
 {{ $allSpeakers := where (where (where $srcPages "Kind" "section") "Section" "speakers") "Params.name" "ne" nil }}
 
 {{/* ── Letter counts ── */}}

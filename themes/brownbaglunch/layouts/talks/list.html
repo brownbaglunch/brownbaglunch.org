@@ -1,12 +1,6 @@
 {{ define "main" }}
 {{ $siteLang := site.Language.Lang | upper }}
-{{/* Content lives in FR only — fall back to FR site pages when rendering other languages */}}
 {{ $srcRegularPages := site.RegularPages }}
-{{ if ne site.Language.Lang "fr" }}
-  {{ range site.Sites }}
-    {{ if eq .Language.Lang "fr" }}{{ $srcRegularPages = .RegularPages }}{{ end }}
-  {{ end }}
-{{ end }}
 {{ $allTalks := where $srcRegularPages "Section" "speakers" }}
 
 {{/* ── Tag counts ── */}}
