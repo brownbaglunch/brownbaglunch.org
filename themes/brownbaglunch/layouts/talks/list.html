@@ -1,75 +1,121 @@
 {{ define "main" }}
-<h1 class="text-3xl font-black mb-8">Talks</h1>
-
 {{ $siteLang := site.Language.Lang | upper }}
 {{ $allTalks := where site.RegularPages "Section" "speakers" }}
 
-{{/* Collect all unique tags from talk pages */}}
-{{ $allTags := slice }}
+{{/* ── Tag counts ── */}}
+{{ $tagCounts := dict }}
 {{ range $allTalks }}
   {{ range .Params.tags }}
-    {{ if not (in $allTags .) }}
-      {{ $allTags = $allTags | append . }}
-    {{ end }}
+    {{ $n := add (default 0 (index $tagCounts .)) 1 }}
+    {{ $tagCounts = merge $tagCounts (dict . $n) }}
   {{ end }}
 {{ end }}
-{{ $allTags = sort $allTags }}
+{{ $tagList := slice }}
+{{ range $k, $v := $tagCounts }}
+  {{ $tagList = $tagList | append (dict "name" $k "count" $v) }}
+{{ end }}
+{{ $tagList = sort $tagList "count" "desc" }}
 
-{{/* For each tag, list matching talk pages */}}
-{{ range $allTags }}
-  {{ $tag := . }}
-  {{ $talksForTag := slice }}
-  {{ range $allTalks }}
-    {{ if in .Params.tags $tag }}
-      {{ $talksForTag = $talksForTag | append . }}
-    {{ end }}
+{{/* ── Latest talks (talk.since ?? speaker.since) ── */}}
+{{ $withDate := slice }}
+{{ range $allTalks }}
+  {{ $since := .Params.since }}
+  {{ if not $since }}
+    {{ with .Parent }}{{ $since = .Params.since }}{{ end }}
   {{ end }}
+  {{ if $since }}
+    {{ $withDate = $withDate | append (dict "page" . "since" $since) }}
+  {{ end }}
+{{ end }}
+{{ $latest := first 5 (sort $withDate "since" "desc") }}
 
-  <section id="{{ $tag }}" class="mb-10">
-    <h2 class="text-xl font-bold mb-4">
-      <a href="{{ printf "/talks/%s/" $tag | relURL }}" class="hover:text-terracotta">#{{ $tag }}</a>
-      <span class="text-sm font-normal text-warm-brown/50 ml-2">{{ len $talksForTag }} talk(s)</span>
-    </h2>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-      {{ range $talksForTag }}
-        {{ $talkPage := . }}
-        {{ $speakerPage := .Parent }}
+{{/* ══════════════════════ RENDER ══════════════════════ */}}
 
-        {{ $versions := .Params.versions }}
-        {{ $version := index $versions 0 }}
-        {{ range $versions }}
-          {{ if eq .label $siteLang }}{{ $version = . }}{{ end }}
-        {{ end }}
+{{/* Header */}}
+<div class="flex items-center justify-between mb-8">
+  <h1 class="text-3xl font-black">Talks</h1>
+  <div class="flex gap-6 text-right">
+    <div>
+      <div class="text-5xl font-black text-terracotta">{{ len $allTalks }}</div>
+      <div class="text-xs text-warm-brown/50 uppercase tracking-wide">talks</div>
+    </div>
+    <div>
+      <div class="text-5xl font-black text-terracotta">{{ len $tagList }}</div>
+      <div class="text-xs text-warm-brown/50 uppercase tracking-wide">sujets</div>
+    </div>
+  </div>
+</div>
 
-        <div class="card">
-          <h3 class="font-bold leading-snug">
-            <a href="{{ $talkPage.RelPermalink }}" class="hover:text-terracotta">{{ $version.title }}</a>
-          </h3>
-          {{ if $speakerPage }}
-            <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
-              {{ $coverSrc := partial "cover-url.html" $speakerPage }}
-              {{ if $coverSrc }}
-                <img src="{{ $coverSrc }}" alt="{{ $speakerPage.Params.name }}" class="w-6 h-6 rounded-full object-cover">
-              {{ end }}
-              <a href="{{ $speakerPage.RelPermalink }}" class="hover:text-terracotta">{{ $speakerPage.Params.name }}</a>
-            </div>
+{{/* Top 10 tags */}}
+<section class="card mb-10">
+  <h2 class="text-xl font-bold mb-4">Top sujets</h2>
+  <ol class="space-y-2">
+    {{ range first 10 $tagList }}
+      <li class="flex items-center justify-between">
+        <a href="{{ printf "/talks/%s/" .name | relURL }}"
+           class="font-mono text-sm hover:text-terracotta transition-colors">#{{ .name }}</a>
+        <span class="badge">{{ .count }}</span>
+      </li>
+    {{ end }}
+  </ol>
+</section>
+
+{{/* Full tag cloud */}}
+<section class="card mb-10">
+  <h2 class="text-xl font-bold mb-4">Tous les sujets</h2>
+  <div class="flex flex-wrap gap-2">
+    {{ range sort $tagList "name" }}
+      <a href="{{ printf "/talks/%s/" .name | relURL }}"
+         class="badge hover:bg-terracotta hover:text-white transition-colors">
+        #{{ .name }}
+        <span class="ml-1 opacity-60">{{ .count }}</span>
+      </a>
+    {{ end }}
+  </div>
+</section>
+
+{{/* Latest talks */}}
+{{ if $latest }}
+<section class="card mb-10">
+  <h2 class="text-xl font-bold mb-4">Derniers talks ajoutés</h2>
+  <div class="space-y-3">
+    {{ range $latest }}
+      {{ $talk        := .page }}
+      {{ $since       := .since }}
+      {{ $speakerPage := $talk.Parent }}
+
+      {{ $versions := $talk.Params.versions }}
+      {{ $version  := index $versions 0 }}
+      {{ range $versions }}
+        {{ if eq .label $siteLang }}{{ $version = . }}{{ end }}
+      {{ end }}
+
+      <div class="flex items-center gap-3">
+        {{ if $speakerPage }}
+          {{ $coverSrc := partial "cover-url.html" $speakerPage }}
+          {{ if $coverSrc }}
+            <img src="{{ $coverSrc }}" alt="{{ $speakerPage.Params.name }}"
+                 class="w-10 h-10 rounded-full object-cover border-2 border-warm-border shrink-0">
           {{ end }}
-          {{ if $version.abstract }}
-            <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
-              {{ $version.abstract | markdownify | plainify | truncate 150 }}
+        {{ end }}
+        <div class="flex-1 min-w-0">
+          <a href="{{ $talk.RelPermalink }}"
+             class="font-semibold hover:text-terracotta transition-colors line-clamp-1">
+            {{ $version.title }}
+          </a>
+          {{ if $speakerPage }}
+            <p class="text-xs text-warm-brown/50">
+              <a href="{{ $speakerPage.RelPermalink }}" class="hover:text-terracotta">
+                {{ $speakerPage.Params.name }}
+              </a>
             </p>
           {{ end }}
-          <div class="flex gap-1 mt-3 flex-wrap">
-            {{ range $versions }}
-              <span class="badge text-xs">🏳️ {{ .label }}</span>
-            {{ end }}
-            {{ range $talkPage.Params.tags }}
-              <span class="badge text-xs {{ if eq . $tag }}bg-terracotta text-white{{ end }}">#{{ . }}</span>
-            {{ end }}
-          </div>
         </div>
-      {{ end }}
-    </div>
-  </section>
+        <span class="text-sm text-warm-brown/50 shrink-0">{{ dateFormat "2006-01-02" $since }}</span>
+      </div>
+    {{ end }}
+  </div>
+</section>
 {{ end }}
+
 {{ end }}
