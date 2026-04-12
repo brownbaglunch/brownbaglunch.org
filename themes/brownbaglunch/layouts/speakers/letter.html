@@ -2,21 +2,15 @@
 {{ $allSpeakers := where site.RegularPages "Section" "speakers" }}
 {{ $currentLetter := .Params.letter | upper }}
 
-{{/* Build per-letter speaker counts for the nav bar */}}
+{{/* Build letter counts and filter matching speakers in one pass */}}
 {{ $letterCounts := dict }}
+{{ $filtered := slice }}
 {{ range $allSpeakers }}
   {{ if .Params.name }}
     {{ $first := partial "first-letter.html" .Params.name }}
     {{ $count := add (default 0 (index $letterCounts $first)) 1 }}
     {{ $letterCounts = merge $letterCounts (dict $first $count) }}
-  {{ end }}
-{{ end }}
-
-{{/* Filter speakers matching the current letter */}}
-{{ $filtered := slice }}
-{{ range $allSpeakers }}
-  {{ if .Params.name }}
-    {{ if eq (partial "first-letter.html" .Params.name) $currentLetter }}
+    {{ if eq $first $currentLetter }}
       {{ $filtered = $filtered | append . }}
     {{ end }}
   {{ end }}
