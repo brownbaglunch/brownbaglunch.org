@@ -7,9 +7,10 @@
   {{ $speakers := partial "speakers-for-city.html" (dict "country" $country "city" $city "pages" $speakerPages) }}
 
   {{ $cityTitle := .Title }}
+  {{ $coverSrc := partial "cover-url.html" . }}
   <div class="flex items-center gap-4 mb-8">
-    {{ with .Params.image }}
-      <img src="{{ . }}" alt="{{ $cityTitle }}" class="w-20 h-20 rounded-xl object-cover border border-warm-border">
+    {{ if $coverSrc }}
+      <img src="{{ $coverSrc }}" alt="{{ $cityTitle }}" class="w-20 h-20 rounded-xl object-cover border border-warm-border">
     {{ end }}
     <div>
       <h1 class="text-3xl font-black">{{ .Title }}</h1>
@@ -37,10 +38,11 @@
       {{ $country := .Params.country }}
       {{ $city := .Params.city }}
       {{ $speakers := partial "speakers-for-city.html" (dict "country" $country "city" $city "pages" $speakerPages) }}
+      {{ $coverSrc := partial "cover-url.html" . }}
       <a href="{{ .RelPermalink }}"
          class="card text-center hover:border-terracotta transition-colors group">
-        {{ with .Params.image }}
-          <img src="{{ . }}" alt="{{ $cityPage.Title }}" class="w-full h-24 object-cover rounded-lg mb-3">
+        {{ if $coverSrc }}
+          <img src="{{ $coverSrc }}" alt="{{ $cityPage.Title }}" class="w-full h-24 object-cover rounded-lg mb-3">
         {{ else }}
           <div class="w-full h-24 bg-warm-border/30 rounded-lg mb-3 flex items-center justify-center text-warm-brown/40 text-2xl">🏙️</div>
         {{ end }}
