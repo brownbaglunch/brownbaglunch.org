@@ -1,7 +1,7 @@
 ---
-title: Faa'a
+title: Faaa
 country: pf
-city: faa-a
+city: faaa
 lat: -17.551
 lng: -149.5974
 ---
