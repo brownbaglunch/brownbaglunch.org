@@ -203,7 +203,7 @@
             {{ .Params.name }}
           </a>
         </div>
-        <span class="text-sm text-warm-brown/50 shrink-0">{{ .Params.since }}</span>
+        <span class="text-sm text-warm-brown/50 shrink-0">{{ dateFormat "2006-01-02" .Params.since }}</span>
       </div>
     {{ end }}
   </div>
