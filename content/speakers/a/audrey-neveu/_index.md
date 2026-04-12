@@ -1,17 +1,15 @@
 ---
 name: Audrey Neveu
-since: '2017-01-23'
+since: 2017-01-23
 city: fr/rouen
 cities:
-- fr/rouen
-- fr/paris
+  - fr/rouen
+  - fr/paris
 cover: https://en.gravatar.com/userimage/16120898/e33321cc6561b59d677018cb03813802.jpg
 contacts:
   x: Audrey_Neveu
   mail: audrey.neveu@streamdata.io
-websites:
-- name: GitHub
-  url: https://github.com/aneveu/
+  github: aneveu
 layout: speaker
 ---
 

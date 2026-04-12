@@ -1,21 +1,19 @@
 ---
 name: Jean-Philippe Baconnais
-since: '2019-04-16'
+since: 2019-04-16
 city: fr/nantes
 cities:
-- fr/nantes
+  - fr/nantes
 cover: https://s.gravatar.com/avatar/5d2655822def2e889a17ff94e95309e3
 contacts:
   mail: jeanphilippe.baconnais@gmail.com
+  github: jeanphi-baconnais
+  blog: https://jeanphi-baconnais.gitlab.io/
 websites:
-- name: Github
-  url: https://github.com/jeanphi-baconnais
-- name: GitLab
-  url: https://gitlab.com/jeanphi-baconnais
-- name: Blog
-  url: https://jeanphi-baconnais.gitlab.io/
-- name: Bluesky
-  url: https://bsky.app/profile/jeanphi-baconnais.gitlab.io
+  - name: GitLab
+    url: https://gitlab.com/jeanphi-baconnais
+  - name: Bluesky
+    url: https://bsky.app/profile/jeanphi-baconnais.gitlab.io
 layout: speaker
 ---
 

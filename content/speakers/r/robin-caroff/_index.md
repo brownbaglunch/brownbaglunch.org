@@ -1,20 +1,18 @@
 ---
 name: Robin Caroff
-since: '2022-07-22'
+since: 2022-07-22
 city: fr/nantes
 cities:
-- fr/nantes
+  - fr/nantes
 cover: https://s.gravatar.com/avatar/7352e4e763e3b54ac7a91f013dc7c709
 contacts:
   x: RobinCaroff
   mail: robin.caroff@gmail.com
+  github: RobinCaroff
+  linkedin: robincaroff
 websites:
-- name: Github
-  url: https://github.com/RobinCaroff
-- name: LinkedIn
-  url: https://www.linkedin.com/in/robincaroff/
-- name: Speakerdeck
-  url: https://speakerdeck.com/robincaroff/
+  - name: Speakerdeck
+    url: https://speakerdeck.com/robincaroff/
 layout: speaker
 ---
 

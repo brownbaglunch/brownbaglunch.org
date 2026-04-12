@@ -1,19 +1,18 @@
 ---
 name: Jean-Baptiste Beuzelin
-since: '2016-11-20'
+since: 2016-11-20
 city: fr/paris
 cities:
-- fr/paris
-- fr/nantes
+  - fr/paris
+  - fr/nantes
 cover: http://www.lucca.fr/img/equipe/jbeuzelin.png
 contacts:
   x: JB_Beuzelin
   mail: jbbeuzelin@gmail.com
+  github: jbbeuzelin
 websites:
-- name: Web
-  url: https://www.lucca.fr/
-- name: GitHub
-  url: https://github.com/jbbeuzelin
+  - name: Web
+    url: https://www.lucca.fr/
 layout: speaker
 ---
 

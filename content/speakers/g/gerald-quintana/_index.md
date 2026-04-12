@@ -1,21 +1,20 @@
 ---
 name: Gérald Quintana
-since: '2018-10-03'
+since: 2018-10-03
 city: fr/lyon
 cities:
-- fr/lyon
-- fr/saint-etienne
+  - fr/lyon
+  - fr/saint-etienne
 cover: https://avatars1.githubusercontent.com/u/755587?s=460&v=4
 contacts:
   x: gerald_quintana
   mail: gerald.quintana+bbl@gmail.com
+  github: gquintana
 websites:
-- name: Github
-  url: https://github.com/gquintana
-- name: Website
-  url: https://gquintana.github.io/
-- name: Twitter
-  url: https://twitter.com/gerald_quintana
+  - name: Website
+    url: https://gquintana.github.io/
+  - name: Twitter
+    url: https://twitter.com/gerald_quintana
 layout: speaker
 ---
 

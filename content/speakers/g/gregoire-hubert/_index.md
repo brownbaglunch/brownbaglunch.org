@@ -1,21 +1,20 @@
 ---
 name: Grégoire Hubert
-since: '2014-04-09'
+since: 2014-04-09
 city: fr/nantes
 cities:
-- fr/paris
-- fr/nantes
+  - fr/paris
+  - fr/nantes
 cover: http://gravatar.com/avatar/f32f06ab7d033c171c5c0ea1e1c1c00e?s=200
 contacts:
   x: chanmix51
   mail: gregoire.hubert@pragmafabrik.com
+  github: chanmix51
 websites:
-- name: Web
-  url: http://www.pragmafabrik.fr
-- name: LinkedIn
-  url: https://www.linkedin.com/pub/gr%C3%A9goire-hubert/1b/333/32
-- name: GitHub
-  url: https://github.com/chanmix51
+  - name: Web
+    url: http://www.pragmafabrik.fr
+  - name: LinkedIn
+    url: https://www.linkedin.com/pub/gr%C3%A9goire-hubert/1b/333/32
 layout: speaker
 ---
 

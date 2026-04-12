@@ -1,16 +1,14 @@
 ---
 name: Boris Feld
-since: '2015-02-10'
+since: 2015-02-10
 city: fr/paris
 cities:
-- fr/paris
+  - fr/paris
 cover: http://www.gravatar.com/avatar/410e3353165c33043ab69be7fc366428.jpg?s=256
 contacts:
   x: lothiraldan
   mail: lothiraldan@gmail.com
-websites:
-- name: GitHub
-  url: https://github.com/lothiraldan/
+  github: lothiraldan
 layout: speaker
 ---
 

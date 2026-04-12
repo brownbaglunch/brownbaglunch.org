@@ -1,22 +1,20 @@
 ---
 name: Yohan Lasorsa
-since: '2019-01-30'
+since: 2019-01-30
 city: fr/grenoble
 cities:
-- fr/grenoble
+  - fr/grenoble
 cover: https://avatars2.githubusercontent.com/u/593151?s=460&v=4
 contacts:
   x: sinedied
   mail: yohan.lasorsa+bbl@gmail.com
+  github: sinedied
+  linkedin: yohanlasorsa
 websites:
-- name: GitHub
-  url: https://github.com/sinedied/
-- name: LinkedIn
-  url: https://www.linkedin.com/in/yohanlasorsa
-- name: Speakerdeck
-  url: https://speakerdeck.com/sinedied
-- name: Web
-  url: https://dev.to/sinedied/
+  - name: Speakerdeck
+    url: https://speakerdeck.com/sinedied
+  - name: Web
+    url: https://dev.to/sinedied/
 layout: speaker
 ---
 

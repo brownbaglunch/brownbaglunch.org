@@ -1,23 +1,21 @@
 ---
 name: Arnaud Langlade
-since: '2023-01-04'
+since: 2023-01-04
 city: fr/en-ligne
 cities:
-- fr/bayonne
-- fr/biarritz
+  - fr/bayonne
+  - fr/biarritz
 cover: https://s.gravatar.com/avatar/3566a0bf63ad474de1e2d8c35c5d76a1?s=300
 contacts:
   x: arnolanglade
   mail: arnaud.langlade@gmail.com
+  github: arnolanglade
+  linkedin: arnolanglade
 websites:
-- name: Web
-  url: https://arnolanglade.github.io
-- name: GitHub
-  url: https://github.com/arnolanglade
-- name: Twitter
-  url: https://twitter.com/arnolanglade
-- name: Linkedin
-  url: https://www.linkedin.com/in/arnolanglade/
+  - name: Web
+    url: https://arnolanglade.github.io
+  - name: Twitter
+    url: https://twitter.com/arnolanglade
 layout: speaker
 ---
 

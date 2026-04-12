@@ -1,18 +1,15 @@
 ---
 name: Sylvain MAUCOURT
-since: '2018-11-17'
+since: 2018-11-17
 city: fr/paris
 cities:
-- fr/paris
+  - fr/paris
 cover: https://avatars2.githubusercontent.com/u/2259101?s=460&v=4
 contacts:
   x: sylv3k
   mail: smaucourt@gmail.com
-websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/in/sylvainmaucourt/
-- name: GitHub
-  url: https://github.com/sylvek
+  linkedin: sylvainmaucourt
+  github: sylvek
 layout: speaker
 ---
 

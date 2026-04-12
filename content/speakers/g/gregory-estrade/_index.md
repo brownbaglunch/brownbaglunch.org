@@ -1,20 +1,19 @@
 ---
 name: Gregory Estrade
-since: '2015-09-24'
+since: 2015-09-24
 city: fr/toulouse
 cities:
-- fr/toulouse
+  - fr/toulouse
 cover: http://torlus.github.io/hat_pro.png
 contacts:
   x: Torlus
   mail: gregory.estrade@gmail.com
+  github: Torlus
 websites:
-- name: Web
-  url: http://lvt.tl/
-- name: GitHub
-  url: https://github.com/Torlus
-- name: Web
-  url: http://www.silicium.org/
+  - name: Web
+    url: http://lvt.tl/
+  - name: Web
+    url: http://www.silicium.org/
 layout: speaker
 ---
 

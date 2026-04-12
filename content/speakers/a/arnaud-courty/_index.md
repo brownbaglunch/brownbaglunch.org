@@ -1,20 +1,17 @@
 ---
 name: Arnaud COURTY
-since: '2018-11-05'
+since: 2018-11-05
 city: fr/toulouse
 cities:
-- fr/toulouse
-- fr/paris
-- fr/la-rochelle
+  - fr/toulouse
+  - fr/paris
+  - fr/la-rochelle
 cover: http://vulcainreo.com/me.jpg
 contacts:
   x: vulcainreo
   mail: conf@vulcainreo.com
-websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/in/arnaud-courty/
-- name: GitHub
-  url: https://github.com/vulcainreo
+  linkedin: arnaud-courty
+  github: vulcainreo
 layout: speaker
 ---
 

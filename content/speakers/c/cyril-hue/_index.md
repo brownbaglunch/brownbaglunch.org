@@ -1,18 +1,17 @@
 ---
 name: Cyril Hue
-since: '2023-02-20'
+since: 2023-02-20
 city: fr/nantes
 cities:
-- fr/nantes
+  - fr/nantes
 cover: https://avatars.githubusercontent.com/u/15615569
 contacts:
   x: cy_hue
   mail: cy.hue80@gmail.com
+  github: Horsty80
 websites:
-- name: Web
-  url: https://horsty.fr
-- name: GitHub
-  url: https://github.com/Horsty80
+  - name: Web
+    url: https://horsty.fr
 layout: speaker
 ---
 

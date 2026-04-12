@@ -1,21 +1,19 @@
 ---
 name: Yoan Thirion
-since: '2018-03-27'
+since: 2018-03-27
 city: lu/luxembourg
 cities:
-- fr/metz
-- lu/luxembourg
+  - fr/metz
+  - lu/luxembourg
 cover: https://www.gravatar.com/avatar/9489b8d6f2dbdc3e7d26b8702143b86e?s=250
 contacts:
   x: yot88
   mail: yoan.thirion@gmail.com
+  linkedin: yoanthirion
+  github: ythirion
 websites:
-- name: Web
-  url: https://agilepartner.net/
-- name: LinkedIn
-  url: https://www.linkedin.com/in/yoanthirion/
-- name: GitHub
-  url: https://github.com/ythirion
+  - name: Web
+    url: https://agilepartner.net/
 layout: speaker
 ---
 

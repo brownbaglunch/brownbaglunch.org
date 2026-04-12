@@ -1,20 +1,18 @@
 ---
 name: Stephane Vanacker
-since: '2018-07-27'
+since: 2018-07-27
 city: fr/toulouse
 cities:
-- fr/toulouse
+  - fr/toulouse
 cover: https://secure.gravatar.com/avatar/42b0d0d650595caf785709ecd56768d1
 contacts:
   x: svanacker
   mail: svanacker@gmail.com
+  linkedin: st%C3%A9phane-vanacker-4611765
+  github: svanacker
 websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/in/st%C3%A9phane-vanacker-4611765/
-- name: Twitter
-  url: https://twitter.com/svanacker
-- name: GitHub
-  url: https://github.com/svanacker
+  - name: Twitter
+    url: https://twitter.com/svanacker
 layout: speaker
 ---
 

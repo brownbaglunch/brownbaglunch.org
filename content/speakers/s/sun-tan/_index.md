@@ -1,18 +1,17 @@
 ---
 name: Sun Tan
-since: '2015-11-08'
+since: 2015-11-08
 city: fr/paris
 cities:
-- fr/paris
+  - fr/paris
 cover: https://avatars3.githubusercontent.com/u/650571?v=3&s=460
 contacts:
   x: __sunix_
   mail: sunix@sunix.org
+  github: sunix
 websites:
-- name: Web
-  url: https://blog.sunix.org
-- name: GitHub
-  url: https://github.com/sunix
+  - name: Web
+    url: https://blog.sunix.org
 layout: speaker
 ---
 

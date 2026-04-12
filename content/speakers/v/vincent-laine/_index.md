@@ -1,17 +1,14 @@
 ---
 name: Vincent Lainé
-since: '2015-07-29'
+since: 2015-07-29
 city: fr/rennes
 cities:
-- fr/rennes
-cover: ''
+  - fr/rennes
+cover: ""
 contacts:
   mail: phenixdotnet@gmail.com
-websites:
-- name: GitHub
-  url: https://github.com/phenixdotnet
-- name: LinkedIn
-  url: http://fr.linkedin.com/in/vlaine
+  github: phenixdotnet
+  linkedin: vlaine
 layout: speaker
 ---
 

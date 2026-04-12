@@ -1,17 +1,16 @@
 ---
 name: Horacio Gonzalez
-since: '2013-11-29'
+since: 2013-11-29
 city: fr/la-pointe-de-la-bretagne
 cities:
-- fr/brest
+  - fr/brest
 contacts:
   x: lostinbrittany
   mail: horacio.gonzalez@gmail.com
+  linkedin: horaciogonzalez
 websites:
-- name: Web
-  url: http://lostinbrittany.org/blog/
-- name: LinkedIn
-  url: http://fr.linkedin.com/in/horaciogonzalez/
+  - name: Web
+    url: http://lostinbrittany.org/blog/
 layout: speaker
 ---
 

@@ -1,20 +1,18 @@
 ---
 name: Julien Wittouck
-since: '2023-04-28'
+since: 2023-04-28
 city: fr/lille
 cities:
-- fr/lille
+  - fr/lille
 cover: https://secure.gravatar.com/avatar/98ffafe30da35001213aca8704533532?s=200
 contacts:
   x: codekaio
   mail: julien@codeka.io
+  github: juwit
+  linkedin: julien-wittouck
 websites:
-- name: Github
-  url: https://github.com/juwit
-- name: Linkedin
-  url: https://www.linkedin.com/in/julien-wittouck/
-- name: Web
-  url: https://juwit.github.io/
+  - name: Web
+    url: https://juwit.github.io/
 layout: speaker
 ---
 

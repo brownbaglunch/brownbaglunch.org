@@ -1,16 +1,14 @@
 ---
 name: Mikaël Létang
-since: '2018-01-19'
+since: 2018-01-19
 city: fr/bordeaux
 cities:
-- fr/bordeaux
+  - fr/bordeaux
 cover: https://pbs.twimg.com/profile_images/625645296723345408/vALM64V3_400x400.png
 contacts:
   x: mikael_letang
   mail: mikael.letang@gmail.com
-websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/in/mikaelletang/
+  linkedin: mikaelletang
 layout: speaker
 ---
 

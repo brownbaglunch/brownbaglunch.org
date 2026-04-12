@@ -1,25 +1,23 @@
 ---
 name: Guillaume Mouron
-since: '2016-09-22'
+since: 2016-09-22
 city: fr/lyon
 cities:
-- fr/lyon
-- fr/nantes
+  - fr/lyon
+  - fr/nantes
 cover: https://avatars3.githubusercontent.com/u/950148?s=200
 contacts:
   x: GMouron
   mail: gmouron@lucca.fr
+  linkedin: gmouron
+  github: GMouron
 websites:
-- name: Web
-  url: https://www.lucca.fr/
-- name: Web
-  url: http://www.gmo-web.info/
-- name: Web
-  url: https://gmouron.github.io/
-- name: LinkedIn
-  url: https://fr.linkedin.com/in/gmouron
-- name: GitHub
-  url: https://github.com/GMouron
+  - name: Web
+    url: https://www.lucca.fr/
+  - name: Web
+    url: http://www.gmo-web.info/
+  - name: Web
+    url: https://gmouron.github.io/
 layout: speaker
 ---
 

@@ -1,18 +1,17 @@
 ---
 name: Frédéric Camblor
-since: '2017-01-16'
+since: 2017-01-16
 city: fr/bordeaux
 cities:
-- fr/bordeaux
+  - fr/bordeaux
 cover: https://pbs.twimg.com/profile_images/378800000759015070/cb819fce4817052c11c7983fe932d210.png
 contacts:
   x: fcamblor
   mail: fcamblor@gmail.com
+  github: fcamblor
 websites:
-- name: Web
-  url: https://fcamblor.wordpress.com/
-- name: GitHub
-  url: https://github.com/fcamblor/
+  - name: Web
+    url: https://fcamblor.wordpress.com/
 layout: speaker
 ---
 

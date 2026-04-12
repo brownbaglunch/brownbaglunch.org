@@ -1,15 +1,13 @@
 ---
 name: Paula Breton
-since: '2023-05-09'
+since: 2023-05-09
 city: fr/nantes
 cities:
-- fr/nantes
+  - fr/nantes
 cover: https://fr.gravatar.com/userimage/233847729/2830b975e80e13783ab1ae36ad228aeb.png?size=200
 contacts:
   mail: pbreton.designer@gmail.com
-websites:
-- name: Linkedin
-  url: https://www.linkedin.com/in/paulabreton/
+  linkedin: paulabreton
 layout: speaker
 ---
 

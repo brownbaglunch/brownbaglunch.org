@@ -1,21 +1,20 @@
 ---
 name: Xavier Carpentier
-since: '2014-06-17'
+since: 2014-06-17
 city: fr/strasbourg
 cities:
-- fr/strasbourg
-- fr/paris
+  - fr/strasbourg
+  - fr/paris
 cover: https://fr.gravatar.com/userimage/14646520/4f4940b2bdbc85918a045429e92fc118.jpg?size=250
 contacts:
   x: xcapetir
   mail: contact@xavier-carpentier.com
+  github: xcarpentier
 websites:
-- name: Web
-  url: http://xaviercarpentier.com/
-- name: Web
-  url: http://blog.xavier-carpentier.com/
-- name: GitHub
-  url: https://github.com/xcarpentier
+  - name: Web
+    url: http://xaviercarpentier.com/
+  - name: Web
+    url: http://blog.xavier-carpentier.com/
 layout: speaker
 ---
 

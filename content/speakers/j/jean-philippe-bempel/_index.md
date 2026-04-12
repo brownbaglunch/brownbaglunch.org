@@ -1,18 +1,17 @@
 ---
 name: Jean-Philippe Bempel
-since: '2014-05-12'
+since: 2014-05-12
 city: fr/paris
 cities:
-- fr/paris
+  - fr/paris
 cover: https://pbs.twimg.com/profile_images/1019190216995811328/YARM51Fl_400x400.jpg
 contacts:
   x: jpbempel
   mail: jp.bempel@criteo.com
+  linkedin: jeanphilippebempel
 websites:
-- name: Web
-  url: http://jpbempel.blogspot.com
-- name: LinkedIn
-  url: http://fr.linkedin.com/in/jeanphilippebempel
+  - name: Web
+    url: http://jpbempel.blogspot.com
 layout: speaker
 ---
 

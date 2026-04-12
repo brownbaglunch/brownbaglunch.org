@@ -1,18 +1,17 @@
 ---
 name: Kevin Davin
-since: '2016-06-02'
+since: 2016-06-02
 city: fr/toulouse
 cities:
-- fr/toulouse
+  - fr/toulouse
 cover: https://www.gravatar.com/avatar/477389c44ffb21d82a4e05dd46f8aaa2?s=200
 contacts:
   x: davinkevin
   mail: davin.kevin+bbl@gmail.com
+  github: davinkevin
 websites:
-- name: LinkedIn
-  url: publichttps://fr.linkedin.com/in/kevin-davin-a8668a11
-- name: GitHub
-  url: http://github.com/davinkevin/
+  - name: LinkedIn
+    url: publichttps://fr.linkedin.com/in/kevin-davin-a8668a11
 layout: speaker
 ---
 

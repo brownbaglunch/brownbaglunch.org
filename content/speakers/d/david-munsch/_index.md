@@ -1,15 +1,13 @@
 ---
 name: David Munsch
-since: '2025-06-30'
+since: 2025-06-30
 city: fr/strasbourg
 cities:
-- fr/strasbourg
+  - fr/strasbourg
 cover: https://avatars.githubusercontent.com/u/218564081
 contacts:
   mail: munschdavid@gmail.com
-websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/in/david-munsch/
+  linkedin: david-munsch
 layout: speaker
 ---
 

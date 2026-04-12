@@ -1,18 +1,17 @@
 ---
 name: Baptiste Lecocq
-since: '2019-02-05'
+since: 2019-02-05
 city: fr/lille
 cities:
-- fr/lille
+  - fr/lille
 cover: https://static.tiste.io/me.jpg
 contacts:
   x: tiste
   mail: baptiste.lecocq@gmail.com
+  github: tiste
 websites:
-- name: Web
-  url: https://tiste.io
-- name: Github
-  url: https://github.com/tiste
+  - name: Web
+    url: https://tiste.io
 layout: speaker
 ---
 

@@ -1,15 +1,13 @@
 ---
 name: Alizée Gottardo
-since: '2023-04-06'
+since: 2023-04-06
 city: fr/nantes
 cities:
-- fr/nantes
+  - fr/nantes
 cover: https://en.gravatar.com/userimage/73573562/d450ac63ef86c12c106c63042c02c3ce.png?size=200
 contacts:
   mail: alizee.gottardo.pro@gmail.com
-websites:
-- name: Linkedin
-  url: https://www.linkedin.com/in/alizeegottardo/
+  linkedin: alizeegottardo
 layout: speaker
 ---
 

@@ -1,16 +1,14 @@
 ---
 name: Sahbi Ktifa
-since: '2019-04-19'
+since: 2019-04-19
 city: fr/thoiry
 cities:
-- fr/paris
+  - fr/paris
 cover: https://github.com/sahbi-ktifa.png
 contacts:
   x: SahbiKtifa
   mail: sahbi.ktifa@gmail.com
-websites:
-- name: Github
-  url: https://github.com/sahbi-ktifa
+  github: sahbi-ktifa
 layout: speaker
 ---
 

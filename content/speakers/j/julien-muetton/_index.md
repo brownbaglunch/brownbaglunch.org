@@ -1,20 +1,19 @@
 ---
 name: Julien Muetton
-since: '2013-09-06'
+since: 2013-09-06
 city: fr/clermont-ferrand-et-environs
 cities:
-- fr/clermont-ferrand
+  - fr/clermont-ferrand
 cover: http://clermontech.org/images/speaker-images/themouette.jpeg
 contacts:
   x: themouette
   mail: julien@muetton.me
+  github: themouette
 websites:
-- name: GitHub
-  url: https://github.com/themouette
-- name: Web
-  url: http://clermontech.org
-- name: Web
-  url: http://muetton.me
+  - name: Web
+    url: http://clermontech.org
+  - name: Web
+    url: http://muetton.me
 layout: speaker
 ---
 

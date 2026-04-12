@@ -1,15 +1,13 @@
 ---
 name: Mathieu Laude
-since: '2019-01-03'
+since: 2019-01-03
 city: fr/nantes
 cities:
-- fr/nantes
+  - fr/nantes
 cover: https://pbs.twimg.com/profile_images/1213079443205500928/MJw5Wxr7_400x400.jpg
 contacts:
   mail: mathieulaude+bbl@gmail.com
-websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/in/mathieulaude/
+  linkedin: mathieulaude
 layout: speaker
 ---
 

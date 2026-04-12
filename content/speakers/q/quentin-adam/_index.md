@@ -1,21 +1,19 @@
 ---
 name: Quentin ADAM
-since: '2019-02-03'
+since: 2019-02-03
 city: fr/nantes-paris
 cities:
-- fr/paris
-- fr/nantes
+  - fr/paris
+  - fr/nantes
 cover: https://i.imgur.com/YdzlEj0.jpg
 contacts:
   x: waxzce
   mail: quentin.adam@clever-cloud.com
+  linkedin: waxzce
+  github: waxzce
 websites:
-- name: Web
-  url: http://www.waxzce.org
-- name: LinkedIn
-  url: http://fr.linkedin.com/in/waxzce
-- name: GitHub
-  url: https://github.com/waxzce
+  - name: Web
+    url: http://www.waxzce.org
 layout: speaker
 ---
 

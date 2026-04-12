@@ -1,18 +1,17 @@
 ---
 name: Gaël Prudhomme
-since: '2016-05-03'
+since: 2016-05-03
 city: fr/nantes
 cities:
-- fr/nantes
+  - fr/nantes
 cover: http://www.gravatar.com/avatar/88e825193cba7c1b64f6c1debeda061f?s=256
 contacts:
   x: mr_Prud
   mail: gael+bbl@alfa-safety.fr
+  linkedin: gaelprud
 websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/in/gaelprud
-- name: Web
-  url: https://www.alfa-safety.fr
+  - name: Web
+    url: https://www.alfa-safety.fr
 layout: speaker
 ---
 

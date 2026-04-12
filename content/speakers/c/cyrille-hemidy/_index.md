@@ -1,17 +1,14 @@
 ---
 name: Cyrille Hemidy
-since: '2017-11-24'
+since: 2017-11-24
 city: fr/lyon-et-environs
 cities:
-- fr/lyon
+  - fr/lyon
 cover: http://pbs.twimg.com/profile_images/899909859763773440/boLLAjZn_400x400.jpg
 contacts:
   mail: cyrille.hemidy+bbl@gmail.com
-websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/in/cyrillehemidy/
-- name: GitHub
-  url: https://github.com/chemidy
+  linkedin: cyrillehemidy
+  github: chemidy
 layout: speaker
 ---
 

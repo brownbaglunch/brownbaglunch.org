@@ -1,16 +1,14 @@
 ---
 name: Olivier Durgeau
-since: '2019-10-31'
+since: 2019-10-31
 city: fr/le-mans
 cities:
-- fr/le-mans
-- fr/paris
+  - fr/le-mans
+  - fr/paris
 cover: https://www.gravatar.com/avatar/4847e688fa553955d1c0b8e7764a7be9?s=200
 contacts:
   mail: olivier@odevsystem.com
-websites:
-- name: Linkedin
-  url: https://www.linkedin.com/in/olivier-durgeau-04b141b4
+  linkedin: olivier-durgeau-04b141b4
 layout: speaker
 ---
 

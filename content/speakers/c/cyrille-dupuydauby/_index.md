@@ -1,20 +1,19 @@
 ---
 name: Cyrille Dupuydauby
-since: '2014-04-21'
+since: 2014-04-21
 city: fr/paris
 cities:
-- fr/paris
+  - fr/paris
 cover: http://gravatar.com/avatar/43022845c143b75a94c7c4b855975ee3&size=200
 contacts:
   x: cyrdup
   mail: dupdob@gmail.com
+  linkedin: cyrille-dupuydauby-29885313
 websites:
-- name: Web
-  url: http://dupdob.wordpress.com/
-- name: Web
-  url: http://www.n-fluent.net/
-- name: LinkedIn
-  url: https://www.linkedin.com/in/cyrille-dupuydauby-29885313
+  - name: Web
+    url: http://dupdob.wordpress.com/
+  - name: Web
+    url: http://www.n-fluent.net/
 layout: speaker
 ---
 

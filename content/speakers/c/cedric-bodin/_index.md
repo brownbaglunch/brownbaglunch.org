@@ -1,18 +1,17 @@
 ---
 name: Cédric Bodin
-since: '2015-01-27'
+since: 2015-01-27
 city: fr/nantes-et-a-distance
 cities:
-- fr/nantes
+  - fr/nantes
 cover: http://cedricbodin.files.wordpress.com/2013/03/cedric-bodin.jpg
 contacts:
   x: cedricbodin
   mail: contact@cedricbodin.net
+  linkedin: cedricbodin
 websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/in/cedricbodin/
-- name: Web
-  url: http://cedricbodin.net/
+  - name: Web
+    url: http://cedricbodin.net/
 layout: speaker
 ---
 

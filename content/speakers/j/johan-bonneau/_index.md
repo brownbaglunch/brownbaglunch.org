@@ -1,20 +1,18 @@
 ---
 name: Johan Bonneau
-since: '2019-11-25'
+since: 2019-11-25
 city: fr/nantes
 cities:
-- fr/nantes
+  - fr/nantes
 cover: http://www.johanbonneau.com/assets/img/johan_bonneau.jpg
 contacts:
   x: JohanBonneau
   mail: johan@johanbonneau.com
+  linkedin: johanbonneau
+  github: Zenigata
 websites:
-- name: Web
-  url: http://www.johanbonneau.com/
-- name: LinkedIn
-  url: https://www.linkedin.com/in/johanbonneau/
-- name: GitHub
-  url: https://github.com/Zenigata/
+  - name: Web
+    url: http://www.johanbonneau.com/
 layout: speaker
 ---
 

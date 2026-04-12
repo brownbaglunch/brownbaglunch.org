@@ -1,20 +1,18 @@
 ---
 name: Gilles Barbier
-since: '2018-04-12'
+since: 2018-04-12
 city: fr/paris
 cities:
-- fr/paris
+  - fr/paris
 cover: https://avatars2.githubusercontent.com/u/134669
 contacts:
   x: gillesbarbier
   mail: gilles@zenaton.com
+  linkedin: gillesbarbier
+  github: geomagilles
 websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/in/gillesbarbier/
-- name: Twitter
-  url: https://twitter.com/gillesbarbier
-- name: GitHub
-  url: https://github.com/geomagilles
+  - name: Twitter
+    url: https://twitter.com/gillesbarbier
 layout: speaker
 ---
 

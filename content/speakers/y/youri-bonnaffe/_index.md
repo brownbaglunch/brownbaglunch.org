@@ -1,18 +1,15 @@
 ---
 name: Youri Bonnaffé
-since: '2014-03-28'
+since: 2014-03-28
 city: fr/sophia-antipolis
 cities:
-- fr/sophia-antipolis
+  - fr/sophia-antipolis
 cover: http://www.gravatar.com/avatar/ae929ea94c27f7836e3c1cac2e961b2b.pn?size=200g
 contacts:
   x: youribm
   mail: youribm@gmail.com
-websites:
-- name: GitHub
-  url: https://github.com/youribonnaffe
-- name: LinkedIn
-  url: http://fr.linkedin.com/in/youribonnaffe
+  github: youribonnaffe
+  linkedin: youribonnaffe
 layout: speaker
 ---
 

@@ -1,19 +1,17 @@
 ---
 name: Jérôme Heissler
-since: '2014-05-09'
+since: 2014-05-09
 city: fr/tours
 cities:
-- fr/tours
+  - fr/tours
 cover: https://gravatar.com/userimage/41602360/57ac8a31a8714082663a324faeff3d6a.jpeg
 contacts:
   x: jeromeheissler
+  linkedin: jeromeheissler
+  github: jeromeheissler
 websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/in/jeromeheissler
-- name: Web
-  url: https://perfectpost.social
-- name: GitHub
-  url: https://github.com/jeromeheissler
+  - name: Web
+    url: https://perfectpost.social
 layout: speaker
 ---
 

@@ -1,16 +1,14 @@
 ---
 name: Benjamin Marguin
-since: '2018-02-22'
+since: 2018-02-22
 city: fr/toulouse
 cities:
-- fr/toulouse
+  - fr/toulouse
 cover: https://avatars3.githubusercontent.com/u/1846633
 contacts:
   x: mab_
   mail: brownbaglunch.fr@ma-b.com
-websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/in/benjamin-marguin
+  linkedin: benjamin-marguin
 layout: speaker
 ---
 

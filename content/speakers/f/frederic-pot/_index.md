@@ -1,18 +1,17 @@
 ---
 name: Frédéric Pot
-since: '2016-07-18'
+since: 2016-07-18
 city: fr/nantes
 cities:
-- fr/nantes
+  - fr/nantes
 cover: https://avatars1.githubusercontent.com/u/2751422?v=3&u=93aa7a0037a926090eb975aaf590840a069f6a44&s=140
 contacts:
   x: fpot
   mail: fpot@lucca.fr
+  linkedin: frederic-pot-96777b1
 websites:
-- name: Web
-  url: https://www.lucca.fr/
-- name: LinkedIn
-  url: https://www.linkedin.com/in/frederic-pot-96777b1
+  - name: Web
+    url: https://www.lucca.fr/
 layout: speaker
 ---
 

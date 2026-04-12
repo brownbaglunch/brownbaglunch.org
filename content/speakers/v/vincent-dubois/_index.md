@@ -1,16 +1,14 @@
 ---
 name: Vincent Dubois
-since: '2022-04-28'
+since: 2022-04-28
 city: fr/bordeaux
 cities:
-- fr/bordeaux
+  - fr/bordeaux
 cover: https://fr.gravatar.com/userimage/7083739/e289e7a4313d70ab7d1a3ccaaf785551.png?size=200
 contacts:
   x: vdubois
   mail: v.dubois@primobox.com
-websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/in/vincent-dubois-5463b08b/
+  linkedin: vincent-dubois-5463b08b
 layout: speaker
 ---
 

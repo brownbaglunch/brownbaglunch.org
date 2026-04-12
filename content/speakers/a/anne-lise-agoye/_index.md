@@ -1,17 +1,15 @@
 ---
 name: Anne-Lise Agoyé
-since: '2020-07-20'
+since: 2020-07-20
 city: fr/nantes
 cities:
-- fr/nantes
-- fr/la-roche-sur-yon
+  - fr/nantes
+  - fr/la-roche-sur-yon
 cover: http://1.gravatar.com/avatar/ea9ebb2e0f991a8656aeabed7b341aa8
 contacts:
   x: alagoye
   mail: alagoye@gmail.com
-websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/in/anne-lise-agoye-9746a833/
+  linkedin: anne-lise-agoye-9746a833
 layout: speaker
 ---
 

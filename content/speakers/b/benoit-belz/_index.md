@@ -1,17 +1,16 @@
 ---
 name: Benoît Belz
-since: '2016-10-03'
+since: 2016-10-03
 city: fr/nantes
 cities:
-- fr/nantes
+  - fr/nantes
 cover: http://secure.gravatar.com/userimage/111133732/8fe655abb8ebc0bcf90d9c431e7763ff.png
 contacts:
   mail: bbelz@lucca.fr
+  linkedin: benoit-belz-95846270
 websites:
-- name: Web
-  url: https://www.lucca.fr/
-- name: LinkedIn
-  url: https://fr.linkedin.com/in/benoit-belz-95846270
+  - name: Web
+    url: https://www.lucca.fr/
 layout: speaker
 ---
 

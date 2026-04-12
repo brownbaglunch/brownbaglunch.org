@@ -1,18 +1,17 @@
 ---
 name: Adrien Lecharpentier
-since: '2016-06-15'
+since: 2016-06-15
 city: fr/nantes
 cities:
-- fr/nantes
+  - fr/nantes
 cover: https://www.gravatar.com/avatar/8254814a3136a30724cd428841f8e155?s=200
 contacts:
   x: alecharp
   mail: me+bbl@alecharp.fr
+  github: alecharp
 websites:
-- name: Web
-  url: https://alecharp.fr
-- name: Github
-  url: https://github.com/alecharp
+  - name: Web
+    url: https://alecharp.fr
 layout: speaker
 ---
 

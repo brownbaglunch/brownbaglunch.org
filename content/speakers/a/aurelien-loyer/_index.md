@@ -1,18 +1,17 @@
 ---
 name: Aurélien Loyer
-since: '2017-11-29'
+since: 2017-11-29
 city: fr/lille
 cities:
-- fr/lille
+  - fr/lille
 cover: https://avatars0.githubusercontent.com/u/3717296?s=460
 contacts:
   x: AurelienLoyer
   mail: aurelien.loyer@zenika.com
+  github: T3kstiil3
 websites:
-- name: Web
-  url: http://aurelien-loyer.fr/
-- name: Github
-  url: https://github.com/T3kstiil3
+  - name: Web
+    url: http://aurelien-loyer.fr/
 layout: speaker
 ---
 

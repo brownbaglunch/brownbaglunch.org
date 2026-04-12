@@ -1,17 +1,14 @@
 ---
 name: Romain Laurent
-since: '2019-04-16'
+since: 2019-04-16
 city: fr/bordeaux
 cities:
-- fr/bordeaux
+  - fr/bordeaux
 cover: https://secure.gravatar.com/avatar/5aaaecf4c870c833121f034df92b7586?s=400
 contacts:
   x: caedes
-websites:
-- name: Github
-  url: https://github.com/caedes
-- name: LinkedIn
-  url: https://www.linkedin.com/in/romainlaurent/
+  github: caedes
+  linkedin: romainlaurent
 layout: speaker
 ---
 

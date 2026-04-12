@@ -1,22 +1,21 @@
 ---
 name: Stéphane Schildknecht
-since: '2015-08-12'
+since: 2015-08-12
 city: fr/vesoul
 cities:
-- fr/paris
-- fr/vesoul
-- fr/besancon
-- fr/belfort
-- fr/mulhouse
-- fr/nancy
+  - fr/paris
+  - fr/vesoul
+  - fr/besancon
+  - fr/belfort
+  - fr/mulhouse
+  - fr/nancy
 contacts:
   x: saschild
   mail: s.schildknecht@loxodata.com
+  linkedin: sasjob
 websites:
-- name: LinkedIn
-  url: https://fr.linkedin.com/in/sasjob
-- name: Web
-  url: http://www.loxodata.com
+  - name: Web
+    url: http://www.loxodata.com
 layout: speaker
 ---
 

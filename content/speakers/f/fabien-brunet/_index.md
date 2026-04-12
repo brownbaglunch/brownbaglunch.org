@@ -1,17 +1,16 @@
 ---
 name: Fabien Brunet
-since: '2023-06-26'
+since: 2023-06-26
 city: fr/rennes
 cities:
-- fr/rennes
+  - fr/rennes
 cover: https://avatars.githubusercontent.com/u/29751338?v=4
 contacts:
   mail: dev@linktogo.fr
+  linkedin: fbrunet
 websites:
-- name: Linkedin
-  url: https://www.linkedin.com/in/fbrunet/
-- name: Website
-  url: https://fabien-brunet.fr/
+  - name: Website
+    url: https://fabien-brunet.fr/
 layout: speaker
 ---
 

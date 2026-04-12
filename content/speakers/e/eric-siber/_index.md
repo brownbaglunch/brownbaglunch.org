@@ -1,18 +1,16 @@
 ---
 name: Eric Siber
-since: '2016-01-31'
+since: 2016-01-31
 city: fr/paris-et-alentours
 cities:
-- fr/paris
+  - fr/paris
 contacts:
   mail: eric@agiledev.tech
+  linkedin: siber
+  slideshare: ericsiber
 websites:
-- name: LinkedIn
-  url: https://fr.linkedin.com/in/siber
-- name: Web
-  url: https://eric.siber.fr
-- name: Slideshare
-  url: http://fr.slideshare.net/ericsiber/
+  - name: Web
+    url: https://eric.siber.fr
 layout: speaker
 ---
 

@@ -1,18 +1,17 @@
 ---
 name: Maxime Bréhin
-since: '2019-06-04'
+since: 2019-06-04
 city: fr/paris
 cities:
-- fr/paris
+  - fr/paris
 cover: https://secure.gravatar.com/avatar/42ee5cd1395bf807e2aced719a331cb2
 contacts:
   x: mbrehin
   mail: maxime@delicious-insights.com
+  linkedin: maxime-brehin-0061724
 websites:
-- name: Web
-  url: https://delicious-insights.com/
-- name: LinkedIn
-  url: https://www.linkedin.com/in/maxime-brehin-0061724/
+  - name: Web
+    url: https://delicious-insights.com/
 layout: speaker
 ---
 

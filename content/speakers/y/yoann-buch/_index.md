@@ -1,19 +1,18 @@
 ---
 name: Yoann Buch
-since: '2016-10-26'
+since: 2016-10-26
 city: fr/paris
 cities:
-- fr/paris
-- fr/lyon
+  - fr/paris
+  - fr/lyon
 cover: https://www.gravatar.com/avatar/e600f3739070d957a1393e02c935bacc?s=250
 contacts:
   x: YoannBuch
   mail: yoann.buch@gmail.com
+  linkedin: yoannbuch
 websites:
-- name: Web
-  url: http://findtheflow.io
-- name: Linkedin
-  url: https://fr.linkedin.com/in/yoannbuch
+  - name: Web
+    url: http://findtheflow.io
 layout: speaker
 ---
 

@@ -1,18 +1,17 @@
 ---
 name: Benoit Fontaine
-since: '2018-06-29'
+since: 2018-06-29
 city: fr/lille
 cities:
-- fr/lille
+  - fr/lille
 cover: https://fr.gravatar.com/avatar/71b290a594201074c708a7d023b31ed6?size=200
 contacts:
   x: benotfontaine
   mail: benoit.fontaine@live.fr
+  github: Bogala
 websites:
-- name: Github
-  url: https://github.com/Bogala
-- name: Website
-  url: http://benoitfontaine.net/
+  - name: Website
+    url: http://benoitfontaine.net/
 layout: speaker
 ---
 

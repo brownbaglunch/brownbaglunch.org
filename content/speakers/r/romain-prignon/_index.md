@@ -1,17 +1,16 @@
 ---
 name: Romain Prignon
-since: '2019-03-21'
+since: 2019-03-21
 city: fr/lyon
 cities:
-- fr/lyon
+  - fr/lyon
 cover: http://www.gravatar.com/avatar/f38eb007b831b5300be45271ef29520e
 contacts:
   mail: pro.rprignon@gmail.com
+  linkedin: romain-prignon
 websites:
-- name: Web
-  url: https://romainprignon.github.io/resume/resume.flat.html
-- name: LinkedIn
-  url: https://www.linkedin.com/in/romain-prignon
+  - name: Web
+    url: https://romainprignon.github.io/resume/resume.flat.html
 layout: speaker
 ---
 

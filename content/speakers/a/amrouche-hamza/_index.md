@@ -1,17 +1,15 @@
 ---
 name: Amrouche Hamza
-since: '2017-09-28'
+since: 2017-09-28
 city: fr/amiens
 cities:
-- fr/amiens
-- fr/lille
+  - fr/amiens
+  - fr/lille
 cover: https://les-tilleuls.coop/client/a46ea2d55c88fdb3d284dae09ff0d984.jpg
 contacts:
   x: cDaed
   mail: hamza@les-tilleuls.coop
-websites:
-- name: Web
-  url: https://github.com/Simperfit
+  github: Simperfit
 layout: speaker
 ---
 

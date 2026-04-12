@@ -1,17 +1,16 @@
 ---
 name: Laurent Paoletti
-since: '2014-06-07'
+since: 2014-06-07
 city: fr/toulon-et-environs
 cities:
-- fr/toulon
+  - fr/toulon
 contacts:
   x: providenz
   mail: lp@providenz.fr
+  linkedin: laurentpaoletti
 websites:
-- name: Web
-  url: http://www.providenz.fr/
-- name: LinkedIn
-  url: http://fr.linkedin.com/in/laurentpaoletti
+  - name: Web
+    url: http://www.providenz.fr/
 layout: speaker
 ---
 

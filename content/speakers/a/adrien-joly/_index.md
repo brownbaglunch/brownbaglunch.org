@@ -1,22 +1,21 @@
 ---
 name: Adrien Joly
-since: '2015-05-11'
+since: 2015-05-11
 city: fr/montreuil-paris
 cities:
-- fr/paris
+  - fr/paris
 cover: http://adrienjoly.com/img/photo.jpg
 contacts:
   x: adrienjoly
   mail: contact@adrienjoly.com
+  linkedin: adrienjoly
 websites:
-- name: Bluesky
-  url: https://bsky.app/profile/adrienjoly.com
-- name: X / Twitter
-  url: https://twitter.com/adrienjoly
-- name: LinkedIn
-  url: https://www.linkedin.com/in/adrienjoly/
-- name: Web
-  url: https://adrienjoly.com/
+  - name: Bluesky
+    url: https://bsky.app/profile/adrienjoly.com
+  - name: X / Twitter
+    url: https://twitter.com/adrienjoly
+  - name: Web
+    url: https://adrienjoly.com/
 layout: speaker
 ---
 

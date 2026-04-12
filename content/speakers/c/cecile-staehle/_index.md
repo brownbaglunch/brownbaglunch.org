@@ -1,17 +1,16 @@
 ---
 name: Cécile Staehle
-since: '2023-04-27'
+since: 2023-04-27
 city: fr/nantes
 cities:
-- fr/nantes
+  - fr/nantes
 cover: https://strapi.troopers.agency/uploads/cecile_9ee7f62fb0.jpeg
 contacts:
   mail: cecile@troopers.email
+  linkedin: cécile-staehle
 websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/in/cécile-staehle/
-- name: Web
-  url: https://troopers.coop
+  - name: Web
+    url: https://troopers.coop
 layout: speaker
 ---
 

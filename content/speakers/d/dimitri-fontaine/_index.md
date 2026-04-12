@@ -1,19 +1,17 @@
 ---
 name: Dimitri Fontaine
-since: '2014-05-23'
+since: 2014-05-23
 city: fr/paris
 cities:
-- fr/paris
+  - fr/paris
 contacts:
   x: tapoueh
   mail: dim@tapoueh.org
+  github: dimitri
+  linkedin: dimitrifontaine
 websites:
-- name: Web
-  url: http://tapoueh.org
-- name: GitHub
-  url: https://github.com/dimitri
-- name: LinkedIn
-  url: http://fr.linkedin.com/in/dimitrifontaine
+  - name: Web
+    url: http://tapoueh.org
 layout: speaker
 ---
 

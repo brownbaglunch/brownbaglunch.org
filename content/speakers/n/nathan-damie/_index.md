@@ -1,16 +1,14 @@
 ---
 name: Nathan Damie
-since: '2017-12-28'
+since: 2017-12-28
 city: fr/lille
 cities:
-- fr/lille
+  - fr/lille
 cover: https://s.gravatar.com/avatar/09aec3477a937ad618eaeb77fd2eb337?s=200
 contacts:
-  x: '@Nathan_damie'
+  x: "@Nathan_damie"
   mail: nathan.damie@zenika.com
-websites:
-- name: Github
-  url: https://github.com/NathanDM
+  github: NathanDM
 layout: speaker
 ---
 

@@ -1,17 +1,16 @@
 ---
 name: François-Xavier Thomassin
-since: '2016-09-29'
+since: 2016-09-29
 city: fr/nantes
 cities:
-- fr/nantes
+  - fr/nantes
 cover: https://avatars2.githubusercontent.com/u/5735635?s=200
 contacts:
   mail: fx@lucca.fr
+  github: thomaf
 websites:
-- name: Web
-  url: https://www.lucca.fr/
-- name: GitHub
-  url: https://github.com/thomaf
+  - name: Web
+    url: https://www.lucca.fr/
 layout: speaker
 ---
 

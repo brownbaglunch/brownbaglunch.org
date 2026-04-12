@@ -1,18 +1,17 @@
 ---
 name: Stéphane Lagraulet
-since: '2015-10-23'
+since: 2015-10-23
 city: fr/bordeaux
 cities:
-- fr/bordeaux
+  - fr/bordeaux
 cover: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/251/2cc/3efae7d.jpg
 contacts:
   x: stephlag
   mail: slagraulet@ippon.fr
+  linkedin: stephanlagraulet
 websites:
-- name: Web
-  url: http://blog.ippon.fr/
-- name: LinkedIn
-  url: https://fr.linkedin.com/in/stephanlagraulet
+  - name: Web
+    url: http://blog.ippon.fr/
 layout: speaker
 ---
 

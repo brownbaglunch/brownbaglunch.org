@@ -1,17 +1,16 @@
 ---
 name: Jean-louis Rigau
-since: '2013-02-17'
+since: 2013-02-17
 city: fr/la-defense-et-alentours
 cities:
-- fr/paris
+  - fr/paris
 contacts:
   x: jlrigau
   mail: jeanlouis.rigau@gmail.com
+  linkedin: jlrigau
 websites:
-- name: Web
-  url: http://blog.xebia.fr/author/jlrigau
-- name: LinkedIn
-  url: http://fr.linkedin.com/in/jlrigau/
+  - name: Web
+    url: http://blog.xebia.fr/author/jlrigau
 layout: speaker
 ---
 

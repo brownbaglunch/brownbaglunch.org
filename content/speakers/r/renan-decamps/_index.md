@@ -1,18 +1,17 @@
 ---
 name: Renan Decamps
-since: '2019-06-24'
+since: 2019-06-24
 city: fr/rouen
 cities:
-- fr/rouen
+  - fr/rouen
 cover: https://gravatar.com/avatar/a9864e9b341567213872b78f3e7bc4c1
 contacts:
   x: decampsrenan
   mail: renan@bearstudio.fr
+  linkedin: decampsrenan
 websites:
-- name: Web
-  url: https://renandecamps.com
-- name: LinkedIn
-  url: https://www.linkedin.com/in/decampsrenan/
+  - name: Web
+    url: https://renandecamps.com
 layout: speaker
 ---
 

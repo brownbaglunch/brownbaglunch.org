@@ -1,22 +1,19 @@
 ---
 name: Christopher Maneu
-since: '2019-03-26'
+since: 2019-03-26
 city: fr/paris
 cities:
-- fr/paris
-- fr/bordeaux
-- fr/toulouse
-- fr/marseille
-- fr/lyon
+  - fr/paris
+  - fr/bordeaux
+  - fr/toulouse
+  - fr/marseille
+  - fr/lyon
 cover: http://gravatar.com/avatar/f6c06223e3759e7b9c93bdb58fc241f5?s=200
 contacts:
   x: cmaneu
   mail: hello@maneu.net
-websites:
-- name: Github
-  url: https://github.com/cmaneu
-- name: Blog
-  url: https://www.maneu.fr/
+  github: cmaneu
+  blog: https://www.maneu.fr/
 layout: speaker
 ---
 

@@ -1,20 +1,18 @@
 ---
 name: Thibault Duchateau
-since: '2015-10-29'
+since: 2015-10-29
 city: fr/region-lilloise
 cities:
-- fr/lille
+  - fr/lille
 cover: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/24e/0b5/330eaba.jpg
 contacts:
   x: tduchateau
   mail: thibault.duchateau@gmail.com
+  github: tduchateau
+  linkedin: tduchateau
 websites:
-- name: Web
-  url: http://dandelion.github.io/
-- name: GitHub
-  url: https://github.com/tduchateau
-- name: LinkedIn
-  url: https://fr.linkedin.com/in/tduchateau
+  - name: Web
+    url: http://dandelion.github.io/
 layout: speaker
 ---
 

@@ -1,22 +1,20 @@
 ---
 name: Philippe Prados
-since: '2014-01-31'
+since: 2014-01-31
 city: fr/paris
 cities:
-- fr/paris
+  - fr/paris
 cover: http://www.prados.fr/_/rsrc/1351608832371/cv/MOI%20300x297.png?height=198&width=200
 contacts:
   x: pprados
   mail: brownbaglunch@prados
+  slideshare: pprados
+  linkedin: pprados
 websites:
-- name: Web
-  url: http://www.prados.fr
-- name: Google+
-  url: https://www.google.com/+PhilippePrados
-- name: Slideshare
-  url: http://fr.slideshare.net/pprados/presentations
-- name: LinkedIn
-  url: http://www.linkedin.com/in/pprados/fr
+  - name: Web
+    url: http://www.prados.fr
+  - name: Google+
+    url: https://www.google.com/+PhilippePrados
 layout: speaker
 ---
 

@@ -1,20 +1,19 @@
 ---
 name: Simone Civetta
-since: '2015-11-25'
+since: 2015-11-25
 city: fr/paris
 cities:
-- fr/paris
+  - fr/paris
 cover: https://s3.amazonaws.com/civetta-works/works/personal/profile.png
 contacts:
   x: viteinfinite
   mail: scivetta+bbl@xebia.fr
+  github: viteinfinite
 websites:
-- name: Web
-  url: http://blog.xebia.fr
-- name: Web
-  url: http://viteinfinite.com
-- name: GitHub
-  url: https://github.com/viteinfinite
+  - name: Web
+    url: http://blog.xebia.fr
+  - name: Web
+    url: http://viteinfinite.com
 layout: speaker
 ---
 

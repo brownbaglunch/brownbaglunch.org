@@ -1,18 +1,17 @@
 ---
 name: Nicolas Muller
-since: '2015-07-13'
+since: 2015-07-13
 city: fr/aix-marseille-et-a-distance
 cities:
-- fr/aix-en-provence
+  - fr/aix-en-provence
 cover: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/0fe/013/03d214d.jpg
 contacts:
   x: zepouet
   mail: n.muller@treeptik.fr
+  linkedin: mullernicolas
 websites:
-- name: LinkedIn
-  url: https://fr.linkedin.com/in/mullernicolas
-- name: Web
-  url: http://treeptik.fr/language/fr/blog/
+  - name: Web
+    url: http://treeptik.fr/language/fr/blog/
 layout: speaker
 ---
 

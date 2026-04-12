@@ -1,16 +1,14 @@
 ---
 name: Cyril Gravelier
-since: '2014-02-17'
+since: 2014-02-17
 city: fr/bordeaux
 cities:
-- fr/bordeaux
+  - fr/bordeaux
 cover: http://www.gravatar.com/avatar/2f9e679e419b245e05e6f7bf6606499a.png
 contacts:
   x: magiccyril
   mail: cyril@18ruedivona.eu
-websites:
-- name: GitHub
-  url: https://github.com/magiccyil/
+  github: magiccyil
 layout: speaker
 ---
 

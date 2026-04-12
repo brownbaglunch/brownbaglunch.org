@@ -1,18 +1,17 @@
 ---
 name: Marine Corbelin Laporte
-since: '2018-03-23'
+since: 2018-03-23
 city: fr/lille
 cities:
-- fr/lille
+  - fr/lille
 cover: https://pbs.twimg.com/profile_images/851152816429203456/cNAdBzYr_400x400.jpg
 contacts:
   x: nanakola
   mail: marine.teapotmc@gmail.com
+  linkedin: marine-corbelin-a03bb023
 websites:
-- name: Web
-  url: http://teapotmc.fr/
-- name: LinkedIn
-  url: https://www.linkedin.com/in/marine-corbelin-a03bb023/
+  - name: Web
+    url: http://teapotmc.fr/
 layout: speaker
 ---
 
