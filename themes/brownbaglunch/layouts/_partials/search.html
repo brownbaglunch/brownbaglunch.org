@@ -1,14 +1,49 @@
-{{/* _partials/search.html — Pagefind UI widget (production only) */}}
-{{ if not hugo.IsServer }}
+{{/* _partials/search.html — Pagefind UI widget */}}
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
-{{ end }}
+<style>
+  /* Override pagefind :root defaults — must come after pagefind-ui.css */
+  :root {
+    --pagefind-ui-scale: 0.8;
+    --pagefind-ui-primary: #e07b39;
+    --pagefind-ui-text: #3d2b1f;
+    --pagefind-ui-background: #fdf6ee;
+    --pagefind-ui-border: #f0e4d0;
+    --pagefind-ui-tag: #f0e4d0;
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 999px;
+    --pagefind-ui-image-border-radius: 8px;
+    --pagefind-ui-font: inherit;
+  }
+  /* Dropdown panel — anchored below the search input */
+  .pagefind-ui__drawer {
+    position: absolute !important;
+    right: 0;
+    top: 100%;
+    width: 32rem;
+    max-height: 80vh;
+    overflow-y: auto;
+    background: #fdf6ee !important;
+    color: #3d2b1f !important;
+    border: 1px solid #f0e4d0;
+    border-radius: 0.75rem;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    z-index: 100;
+    padding: 1rem;
+    margin-top: 0.5rem;
+  }
+  mark {
+    background: #fde68a;
+    color: #3d2b1f;
+    border-radius: 2px;
+    padding: 0 2px;
+  }
+</style>
 <script>
   window.addEventListener('DOMContentLoaded', () => {
     new PagefindUI({
       element: '#search-box',
       showSubResults: true,
-      resetStyles: false,
       translations: {
         placeholder: '{{ i18n "search_placeholder" }}'
       }

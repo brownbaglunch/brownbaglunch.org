@@ -18,6 +18,18 @@ theme = 'brownbaglunch'
   [permalinks.term]
     tags = '/talks/:slug/'
 
+[module]
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "public/pagefind"
+    target = "static/pagefind"
+    disableWatch = true
+
 [languages]
   [languages.fr]
     languageName = 'Français'
