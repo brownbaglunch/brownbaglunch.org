@@ -25,7 +25,7 @@
               <span class="badge">{{ $country | upper }} — partout</span>
             {{ end }}
           {{ else }}
-            <a href="{{ printf "/villes/%s/%s/" $country $city | relURL }}" class="badge hover:bg-warm-brown hover:text-cream transition-colors">
+            <a href="{{ printf "/cities/%s/%s/" $country $city | relURL }}" class="badge hover:bg-warm-brown hover:text-cream transition-colors">
               📍 {{ $city | title }}
             </a>
           {{ end }}
