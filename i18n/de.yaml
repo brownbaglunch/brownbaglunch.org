@@ -1,0 +1,131 @@
+# Navigation
+nav_speakers:
+  other: Sprecher
+nav_talks:
+  other: Vorträge
+nav_villes:
+  other: Städte
+
+# Footer
+footer_contribute:
+  other: Beitragen
+
+# Search
+search_placeholder:
+  other: Suchen...
+
+# Counts
+speakers_count:
+  one: "{{ .Count }} Sprecher"
+  other: "{{ .Count }} Sprecher"
+
+# Speaker availability
+available_in_country:
+  other: "Verfügbar in {{ .Country }}"
+available_worldwide:
+  other: Weltweit verfügbar
+country_everywhere:
+  other: überall
+invite:
+  other: Einladen
+
+# Home page
+home_tagline:
+  other: "Lernen beim<br>Mittagessen 🍱"
+home_description:
+  other: "Experten kommen in Ihr Büro und halten einen Vortrag in Ihrer Mittagspause.<br>Sie bringen das Essen, sie bringen das Wissen."
+home_cta_speakers:
+  other: Sprecher finden
+home_cta_talks:
+  other: Vorträge entdecken
+home_stat_speakers:
+  other: verfügbare Sprecher
+home_stat_cities:
+  other: Städte in Frankreich und darüber hinaus
+home_stat_free:
+  other: "kostenlos für den Gastgeber"
+home_how_title:
+  other: Wie funktioniert es?
+home_step1_title:
+  other: "1. Experten finden"
+home_step1_desc:
+  other: Durchsuchen Sie verfügbare Sprecher in Ihrer Stadt und wählen Sie einen Vortrag, den Ihr Team genießen würde.
+home_step2_title:
+  other: "2. Einladen"
+home_step2_desc:
+  other: Kontaktieren Sie den Sprecher direkt per E-Mail, um einen Termin zu vereinbaren.
+home_step3_title:
+  other: "3. Genießen!"
+home_step3_desc:
+  other: "Sie bestellen das Essen, der Sprecher kommt kostenlos, um sein Wissen zu teilen."
+
+# Speakers list
+speakers_browse_by_letter:
+  other: Nach Buchstaben durchsuchen
+speakers_top_countries:
+  other: Top-Länder
+speakers_top_cities:
+  other: Top-Städte
+speakers_top_cities_excl:
+  other: "Top-Städte ohne #1"
+speakers_excl_note:
+  other: "({{ .City }} ausgeblendet, um Platz für andere zu schaffen)"
+top_subjects:
+  other: Top-Themen
+speakers_worldwide:
+  other: "🌍 Überall verfügbar"
+speakers_latest:
+  other: Neueste Zugänge
+speakers_no_letter:
+  other: Kein Sprecher für diesen Buchstaben.
+
+# Countries
+country_name_fr:
+  other: Frankreich
+country_name_be:
+  other: Belgien
+country_name_gb:
+  other: Vereinigtes Königreich
+country_name_nl:
+  other: Niederlande
+country_name_lu:
+  other: Luxemburg
+country_name_ch:
+  other: Schweiz
+country_name_ca:
+  other: Kanada
+country_name_es:
+  other: Spanien
+country_name_de:
+  other: Deutschland
+country_name_it:
+  other: Italien
+country_name_pt:
+  other: Portugal
+country_name_us:
+  other: Vereinigte Staaten
+country_name_au:
+  other: Australien
+country_name_pf:
+  other: Französisch-Polynesien
+
+# Cities
+city_speakers_available:
+  one: "{{ .Count }} Sprecher verfügbar"
+  other: "{{ .Count }} Sprecher verfügbar"
+city_no_speaker:
+  other: Noch kein Sprecher in dieser Stadt.
+
+# Talks
+talks_label:
+  other: Vorträge
+subjects_label:
+  other: Themen
+all_subjects:
+  other: Alle Themen
+talks_latest:
+  other: Zuletzt hinzugefügte Vorträge
+talks_with_tag:
+  other: "Vortrag/Vorträge mit diesem Tag"
+search_no_results:
+  other: "Keine Ergebnisse"

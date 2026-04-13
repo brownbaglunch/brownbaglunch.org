@@ -35,17 +35,17 @@ theme = 'brownbaglunch'
     target = "content"
   [module.mounts.sites.matrix]
     languages = ["fr"]
-  # EN shares speaker and city content (untranslated data)
+  # EN and DE share speaker and city content (untranslated data)
   [[module.mounts]]
     source = "content/speakers"
     target = "content/speakers"
   [module.mounts.sites.matrix]
-    languages = ["en"]
+    languages = ["en", "de"]
   [[module.mounts]]
     source = "content/cities"
     target = "content/cities"
   [module.mounts.sites.matrix]
-    languages = ["en"]
+    languages = ["en", "de"]
 
 [languages]
   [languages.fr]
@@ -55,4 +55,8 @@ theme = 'brownbaglunch'
   [languages.en]
     languageName = 'English'
     weight = 2
+    title = 'Brown Bag Lunch'
+  [languages.de]
+    languageName = 'Deutsch'
+    weight = 3
     title = 'Brown Bag Lunch'

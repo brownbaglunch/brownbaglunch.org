@@ -101,7 +101,7 @@ Your bio in Markdown here.
 ```yaml
 ---
 layout: talk
-url: /speakers/jane-doe/talks/introduction-to-docker/
+url: speakers/jane-doe/talks/introduction-to-docker/
 tags:
   - docker
   - devops
@@ -118,6 +118,105 @@ versions:
       Description in **Markdown**.
 ---
 ```
+
+## Adding a new language
+
+The site is multilingual (FR default, EN and DE currently supported). Speakers and city
+content is shared across all languages — only the UI strings need translating.
+
+### 1. `hugo.toml` — declare the language and extend the content mounts
+
+Add a `[languages.xx]` block (replace `xx` with the ISO 639-1 code):
+
+```toml
+[languages.xx]
+  languageName = 'Your Language'
+  weight = 4               # display order in the language switcher
+  title = 'Brown Bag Lunch'
+```
+
+Extend the two content mounts so the new language shares speakers and cities:
+
+```toml
+  [[module.mounts]]
+    source = "content/speakers"
+    target = "content/speakers"
+  [module.mounts.sites.matrix]
+    languages = ["en", "de", "xx"]   # ← add "xx" here
+
+  [[module.mounts]]
+    source = "content/cities"
+    target = "content/cities"
+  [module.mounts.sites.matrix]
+    languages = ["en", "de", "xx"]   # ← and here
+```
+
+### 2. `i18n/xx.yaml` — translate all UI strings
+
+Copy `i18n/en.yaml` to `i18n/xx.yaml` and translate every value.
+The keys that matter most:
+
+| Key | Description |
+|-----|-------------|
+| `nav_speakers`, `nav_talks`, `nav_villes` | Navigation labels |
+| `invite` | Button on speaker / talk pages |
+| `city_speakers_available` | Speaker count in city cards |
+| `country_name_*` | Country names in the city list |
+| `home_*` | Home page copy |
+
+### 3. Section index files — titles for the list pages
+
+Create these three files so Hugo generates the section list pages:
+
+```
+content/speakers/_index.xx.md   → title: "Speakers in your language"
+content/cities/_index.xx.md     → title: "Cities in your language"
+content/talks/_index.xx.md      → title: "Talks in your language"
+```
+
+Minimal content for each:
+
+```yaml
+---
+title: "Sprecher"   # translated title
+---
+```
+
+For `content/speakers/_index.xx.md` only, also add the canonical URL so
+Hugo generates the list page at the right path:
+
+```yaml
+---
+title: "Sprecher"
+url: /xx/speakers/
+---
+```
+
+> **Note on the leading `/`:** Unlike talk files (which are shared across all languages
+> and must use a relative URL like `speakers/foo/talks/bar/`), `_index.xx.md` carries a
+> language suffix so it only generates one page. An absolute URL like `/xx/speakers/` is
+> therefore safe here — there is no other language mount that could overwrite it.
+
+### 4. `themes/brownbaglunch/layouts/_partials/nav.html` — language switcher
+
+Add a flag and label for the new language in the two `{{ if eq ... }}` chains:
+
+```html
+{{ else if eq $currentLang "xx" }}🏳️ XX
+```
+
+```html
+{{ else if eq .Language.Lang "xx" }}🏳️ Your Language
+```
+
+### What you get for free
+
+Once the four steps above are done:
+- All speaker profiles are available at `/xx/speakers/…`
+- All city pages are available at `/xx/cities/…`
+- Talk pages are available at `/xx/speakers/…/talks/…`
+- The full-text search (Pagefind) indexes the new language automatically
+- Talk abstracts fall back to the first `versions` entry if no `xx` version exists
 
 ## Development
 
