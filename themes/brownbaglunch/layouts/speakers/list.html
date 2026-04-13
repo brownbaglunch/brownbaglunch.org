@@ -51,14 +51,12 @@
 {{ end }}
 {{ $cityList = sort $cityList "count" "desc" }}
 
-{{/* ── Tag counts ── */}}
+{{/* ── Tag counts (from child talk pages) ── */}}
 {{ $tagCounts := dict }}
-{{ range $allSpeakers }}
-  {{ range .Params.sessions }}
-    {{ range .tags }}
-      {{ $n := add (default 0 (index $tagCounts .)) 1 }}
-      {{ $tagCounts = merge $tagCounts (dict . $n) }}
-    {{ end }}
+{{ range where site.RegularPages "Section" "speakers" }}
+  {{ range .Params.tags }}
+    {{ $n := add (default 0 (index $tagCounts .)) 1 }}
+    {{ $tagCounts = merge $tagCounts (dict . $n) }}
   {{ end }}
 {{ end }}
 {{ $tagList := slice }}
@@ -198,7 +196,7 @@
       <div class="flex items-center gap-3">
         {{ if $latestCover }}
           <img src="{{ $latestCover }}" alt="{{ .Params.name }}"
-               class="w-10 h-10 rounded-full object-cover border-2 border-warm-border shrink-0">
+               class="w-10 h-10 rounded-full object-cover border-2 border-warm-border shrink-0 hover-zoom cursor-pointer">
         {{ end }}
         <div class="flex-1">
           <a href="{{ .RelPermalink }}" class="font-semibold hover:text-terracotta transition-colors">

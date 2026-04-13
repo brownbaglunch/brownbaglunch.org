@@ -91,13 +91,15 @@
         {{ if eq .label $siteLang }}{{ $version = . }}{{ end }}
       {{ end }}
 
+      {{ $talkCover    := partial "cover-url.html" $talk }}
+      {{ $coverSrc     := $talkCover }}
+      {{ if and (not $coverSrc) $speakerPage }}
+        {{ $coverSrc = partial "cover-url.html" $speakerPage }}
+      {{ end }}
       <div class="flex items-center gap-3">
-        {{ if $speakerPage }}
-          {{ $coverSrc := partial "cover-url.html" $speakerPage }}
-          {{ if $coverSrc }}
-            <img src="{{ $coverSrc }}" alt="{{ $speakerPage.Params.name }}"
-                 class="w-10 h-10 rounded-full object-cover border-2 border-warm-border shrink-0">
-          {{ end }}
+        {{ if $coverSrc }}
+          <img src="{{ $coverSrc }}" alt="{{ $version.title }}"
+               class="w-10 h-10 {{ if $talkCover }}rounded-lg object-contain{{ else }}rounded-full object-cover{{ end }} border-2 border-warm-border shrink-0 hover-zoom cursor-pointer">
         {{ end }}
         <div class="flex-1 min-w-0">
           <a href="{{ $talk.RelPermalink }}"

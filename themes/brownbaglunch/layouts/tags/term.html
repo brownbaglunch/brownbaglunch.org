@@ -18,23 +18,31 @@
       {{ if eq .label $siteLang }}{{ $version = . }}{{ end }}
     {{ end }}
 
-    <div class="card">
-      <a href="{{ $talkPage.RelPermalink }}" class="font-bold leading-snug hover:text-terracotta transition-colors">
-        {{ $version.title }}
-      </a>
-      {{ if $speakerPage }}
-        <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
-          {{ $coverSrc := partial "cover-url.html" $speakerPage }}
-          {{ if $coverSrc }}
-            <img src="{{ $coverSrc }}" alt="{{ $speakerPage.Params.name }}" class="w-6 h-6 rounded-full object-cover">
-          {{ end }}
-          <a href="{{ $speakerPage.RelPermalink }}" class="hover:text-terracotta">{{ $speakerPage.Params.name }}</a>
-        </div>
-      {{ end }}
-      {{ if $version.abstract }}
-        <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
-          {{ $version.abstract | markdownify | plainify | truncate 150 }}
-        </p>
+    {{ $talkCover    := partial "cover-url.html" $talkPage }}
+    {{ $speakerCover := partial "cover-url.html" $speakerPage }}
+    <div class="card flex gap-3">
+      <div class="flex-1 min-w-0">
+        <a href="{{ $talkPage.RelPermalink }}" class="font-bold leading-snug hover:text-terracotta transition-colors">
+          {{ $version.title }}
+        </a>
+        {{ if $speakerPage }}
+          <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
+            {{ if $speakerCover }}
+              <img src="{{ $speakerCover }}" alt="{{ $speakerPage.Params.name }}"
+                   class="w-6 h-6 rounded-full object-cover shrink-0 hover-zoom cursor-pointer">
+            {{ end }}
+            <a href="{{ $speakerPage.RelPermalink }}" class="hover:text-terracotta">{{ $speakerPage.Params.name }}</a>
+          </div>
+        {{ end }}
+        {{ if $version.abstract }}
+          <p class="text-sm text-warm-brown/70 mt-2 line-clamp-3">
+            {{ $version.abstract | markdownify | plainify | truncate 150 }}
+          </p>
+        {{ end }}
+      </div>
+      {{ if $talkCover }}
+        <img src="{{ $talkCover }}" alt="{{ $version.title }}"
+             class="w-24 h-24 rounded-lg object-contain shrink-0 self-start hover-zoom cursor-pointer">
       {{ end }}
     </div>
   {{ end }}

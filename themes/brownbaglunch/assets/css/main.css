@@ -12,4 +12,15 @@
   .card {
     @apply bg-white border border-warm-border rounded-xl p-5 hover:shadow-md transition-shadow;
   }
+  .hover-zoom {
+    transition: transform 200ms ease;
+    position: relative;
+    z-index: 0;
+  }
+  .hover-zoom:hover {
+    transform: scale(5);
+    z-index: 10;
+    background-color: white;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  }
 }

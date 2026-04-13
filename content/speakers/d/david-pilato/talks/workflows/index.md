@@ -1,6 +1,7 @@
 ---
 layout: talk
 url: speakers/david-pilato/talks/workflows/
+since: 2026-04-12
 tags:
   - ai
   - automation
