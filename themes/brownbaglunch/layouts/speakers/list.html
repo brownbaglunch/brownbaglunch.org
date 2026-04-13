@@ -65,19 +65,6 @@
 {{ end }}
 {{ $tagList = sort $tagList "count" "desc" }}
 
-{{/* ── Speakers available everywhere (wildcard city) ── */}}
-{{ $worldwide := slice }}
-{{ range $allSpeakers }}
-  {{ $speaker := . }}
-  {{ range .Params.cities }}
-    {{ $parts := split . "/" }}
-    {{ if eq (index $parts 1) "*" }}
-      {{ $worldwide = $worldwide | append $speaker }}
-      {{ break }}
-    {{ end }}
-  {{ end }}
-{{ end }}
-{{ $worldwide = sort $worldwide "Params.name" }}
 
 {{/* ── Latest arrivals (top 5 by since date) ── */}}
 {{ $withDate := where $allSpeakers "Params.since" "ne" nil }}
@@ -171,20 +158,6 @@
   </div>
 </section>
 
-{{/* Speakers available everywhere */}}
-{{ if $worldwide }}
-<section class="card mb-10">
-  <h2 class="text-xl font-bold mb-4">
-    {{ i18n "speakers_worldwide" }}
-    <span class="text-warm-brown/50 text-base font-normal">({{ len $worldwide }})</span>
-  </h2>
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-    {{ range $worldwide }}
-      {{ partial "speaker-card.html" . }}
-    {{ end }}
-  </div>
-</section>
-{{ end }}
 
 {{/* Latest arrivals */}}
 {{ if $latest }}
