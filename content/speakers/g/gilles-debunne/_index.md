@@ -11,8 +11,6 @@ contacts:
 websites:
   - name: Web
     url: http://gillesdebunne.github.io/
-  - name: Hopwork
-    url: https://www.hopwork.com/profile/gillesdebunne
 layout: speaker
 ---
 

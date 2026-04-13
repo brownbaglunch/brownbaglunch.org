@@ -4,7 +4,6 @@ since: 2018-03-22
 city: fr/bordeaux
 cities:
   - fr/bordeaux
-cover: https://goo.gl/jcJoWs
 contacts:
   x: etiennecoutaud
   mail: e.coutaud@gmail.com

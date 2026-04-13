@@ -8,11 +8,10 @@ contacts:
   x: cedriclombardot
   mail: cedric@donkeycode.com
   github: cedriclombardot
+  linkedin: clombardot
 websites:
   - name: Web
-    url: http://donkeycode.com
-  - name: LinkedIn
-    url: https://fr.linkedin.com/pub/cédric-lombardot/23/110/217
+    url: https://donkeycode.com
 layout: speaker
 ---
 

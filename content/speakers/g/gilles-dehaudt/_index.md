@@ -8,9 +8,7 @@ cover: https://s.gravatar.com/avatar/b10c22e79d3f4f4996d6352e3e6002d8?s=80
 contacts:
   x: tonton1728
   mail: tonton1728@gmail.com
-websites:
-- name: LinkedIn
-  url: https://www.linkedin.com/pub/gilles-dehaudt/19/a96/1b7
+  linkedin: gilles-dehaudt-1b7a9619
 layout: speaker
 ---
 

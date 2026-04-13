@@ -9,9 +9,7 @@ contacts:
   x: davinkevin
   mail: davin.kevin+bbl@gmail.com
   github: davinkevin
-websites:
-  - name: LinkedIn
-    url: publichttps://fr.linkedin.com/in/kevin-davin-a8668a11
+  linkedin: davinkevin
 layout: speaker
 ---
 

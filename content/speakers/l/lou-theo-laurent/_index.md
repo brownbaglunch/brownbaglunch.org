@@ -4,7 +4,6 @@ since: 2023-10-28
 city: fr/strasbourg-et-environs
 cities:
   - fr/strasbourg
-cover: https://media.licdn.com/dms/image/C4D03AQGhAgP_RVN3Fg/profile-displayphoto-shrink_400_400/0/1561902693360?e=1703721600&v=beta&t=cUyKHv0xiEM6TVVERY3FGgQ-WOCctfobQ0ZUZ_X1nqU
 contacts:
   mail: laurent.lt@sfeir.com
   github: lou-theo

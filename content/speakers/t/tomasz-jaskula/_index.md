@@ -8,11 +8,6 @@ cover: http://1.gravatar.com/userimage/12224826/df20a86f93b56052b5a8cfb469ada07b
 contacts:
   x: tjaskula
   mail: tjaskula@composeitsoft.com
-websites:
-- name: Web
-  url: http://www.codedistillers.com/tja/
-- name: LinkedIn
-  url: https://www.linkedin.com/pub/thomas-jaskula/3/282/16b
 layout: speaker
 ---
 

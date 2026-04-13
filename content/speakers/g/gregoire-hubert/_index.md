@@ -10,11 +10,10 @@ contacts:
   x: chanmix51
   mail: gregoire.hubert@pragmafabrik.com
   github: chanmix51
+  linkedin: grégoire-hubert-0323331b
 websites:
   - name: Web
     url: http://www.pragmafabrik.fr
-  - name: LinkedIn
-    url: https://www.linkedin.com/pub/gr%C3%A9goire-hubert/1b/333/32
 layout: speaker
 ---
 

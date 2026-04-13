@@ -7,11 +7,7 @@ cities:
 contacts:
   x: iguane39
   mail: sebastien@pesme.net
-websites:
-- name: Viadeo
-  url: http://goo.gl/gQ7N4O
-- name: Web
-  url: https://goo.gl/zeHwll
+  linkedin: sebpesme
 layout: speaker
 ---
 

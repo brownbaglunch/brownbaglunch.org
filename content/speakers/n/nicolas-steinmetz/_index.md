@@ -15,8 +15,6 @@ websites:
     url: https://www.cerenit.fr/
   - name: Web
     url: https://nicolas.steinmetz.fr/
-  - name: HopWork
-    url: https://www.hopwork.fr/profile/nicolassteinmetz
 layout: speaker
 ---
 
