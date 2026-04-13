@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-hiegel/talks/xtrem-tech-watch-explorez-ensemble-les-sujets-qui-vous-animent/
+url: speakers/fabien-hiegel/talks/xtrem-tech-watch-explorez-ensemble-les-sujets-qui-vous-animent/
 tags:
 - workshop
 - intelligence-collective

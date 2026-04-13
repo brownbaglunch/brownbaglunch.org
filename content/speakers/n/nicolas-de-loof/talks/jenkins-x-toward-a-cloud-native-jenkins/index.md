@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-de-loof/talks/jenkins-x-toward-a-cloud-native-jenkins/
+url: speakers/nicolas-de-loof/talks/jenkins-x-toward-a-cloud-native-jenkins/
 tags:
 - cloud
 - jenkins

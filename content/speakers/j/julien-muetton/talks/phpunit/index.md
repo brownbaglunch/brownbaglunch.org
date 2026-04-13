@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-muetton/talks/phpunit/
+url: speakers/julien-muetton/talks/phpunit/
 tags:
 - javascript
 - php

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-grand/talks/rest-lincompris/
+url: speakers/christophe-grand/talks/rest-lincompris/
 tags:
 - clojure
 - functional-programming

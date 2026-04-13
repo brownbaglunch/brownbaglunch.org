@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-collic/talks/introduction-au-tdd-par-la-pratique/
+url: speakers/guillaume-collic/talks/introduction-au-tdd-par-la-pratique/
 tags:
 - agile
 - kanban

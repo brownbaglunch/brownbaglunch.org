@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-allain/talks/mise-en-place-de-scrum-dans-une-startup/
+url: speakers/guillaume-allain/talks/mise-en-place-de-scrum-dans-une-startup/
 tags:
 - scrum
 - startup

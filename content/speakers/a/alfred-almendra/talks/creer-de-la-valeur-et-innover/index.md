@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alfred-almendra/talks/creer-de-la-valeur-et-innover/
+url: speakers/alfred-almendra/talks/creer-de-la-valeur-et-innover/
 tags:
 - agile
 - ux

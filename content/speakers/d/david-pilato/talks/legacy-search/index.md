@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/legacy-search/
+url: speakers/david-pilato/talks/legacy-search/
 tags:
   - elasticsearch
   - spring-boot

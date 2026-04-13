@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/leonardo-noleto/talks/transformez-vos-logs-en-insights-avec-elk/
+url: speakers/leonardo-noleto/talks/transformez-vos-logs-en-insights-avec-elk/
 tags:
 - machine-learning
 - data-mining

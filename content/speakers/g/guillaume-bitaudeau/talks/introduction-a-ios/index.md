@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-bitaudeau/talks/introduction-a-ios/
+url: speakers/guillaume-bitaudeau/talks/introduction-a-ios/
 tags:
 - java
 - agile

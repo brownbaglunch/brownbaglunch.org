@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/cloud-discovery/
+url: speakers/david-pilato/talks/cloud-discovery/
 tags:
   - elasticsearch
 versions:

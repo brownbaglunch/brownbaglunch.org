@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/amrouche-hamza/talks/api-platform-fast-web-apis/
+url: speakers/amrouche-hamza/talks/api-platform-fast-web-apis/
 tags:
 - api
 - php

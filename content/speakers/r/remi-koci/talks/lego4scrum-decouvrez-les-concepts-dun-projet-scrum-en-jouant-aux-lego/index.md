@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/remi-koci/talks/lego4scrum-decouvrez-les-concepts-dun-projet-scrum-en-jouant-aux-lego/
+url: speakers/remi-koci/talks/lego4scrum-decouvrez-les-concepts-dun-projet-scrum-en-jouant-aux-lego/
 tags:
 - agile
 - scrum

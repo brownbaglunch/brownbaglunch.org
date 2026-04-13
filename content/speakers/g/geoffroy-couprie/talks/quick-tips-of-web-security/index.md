@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/geoffroy-couprie/talks/quick-tips-of-web-security/
+url: speakers/geoffroy-couprie/talks/quick-tips-of-web-security/
 tags:
 - security
 - cryptographie

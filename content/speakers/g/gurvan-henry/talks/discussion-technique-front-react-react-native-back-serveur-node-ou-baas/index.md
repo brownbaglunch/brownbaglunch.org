@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gurvan-henry/talks/discussion-technique-front-react-react-native-back-serveur-node-ou-baas/
+url: speakers/gurvan-henry/talks/discussion-technique-front-react-react-native-back-serveur-node-ou-baas/
 tags:
 - javascript
 - react

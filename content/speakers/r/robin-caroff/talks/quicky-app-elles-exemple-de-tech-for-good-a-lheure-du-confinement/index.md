@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/robin-caroff/talks/quicky-app-elles-exemple-de-tech-for-good-a-lheure-du-confinement/
+url: speakers/robin-caroff/talks/quicky-app-elles-exemple-de-tech-for-good-a-lheure-du-confinement/
 tags:
 - techforgood
 - dev

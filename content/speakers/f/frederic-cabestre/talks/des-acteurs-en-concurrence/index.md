@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-cabestre/talks/des-acteurs-en-concurrence/
+url: speakers/frederic-cabestre/talks/des-acteurs-en-concurrence/
 tags:
 - ssl
 - akka

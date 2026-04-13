@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/aurelien-loyer/talks/vuejs-le-nouveau-framework-a-la-mode/
+url: speakers/aurelien-loyer/talks/vuejs-le-nouveau-framework-a-la-mode/
 tags:
 - angularjs
 - angular

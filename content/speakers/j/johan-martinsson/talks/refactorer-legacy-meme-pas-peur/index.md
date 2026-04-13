@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/johan-martinsson/talks/refactorer-legacy-meme-pas-peur/
+url: speakers/johan-martinsson/talks/refactorer-legacy-meme-pas-peur/
 tags:
 - legacy-code
 - test

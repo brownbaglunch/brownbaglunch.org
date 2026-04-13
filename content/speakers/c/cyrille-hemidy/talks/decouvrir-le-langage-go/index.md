@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyrille-hemidy/talks/decouvrir-le-langage-go/
+url: speakers/cyrille-hemidy/talks/decouvrir-le-langage-go/
 tags:
 - cloud
 - golang

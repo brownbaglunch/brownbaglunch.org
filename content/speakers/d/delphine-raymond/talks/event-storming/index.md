@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/delphine-raymond/talks/event-storming/
+url: speakers/delphine-raymond/talks/event-storming/
 tags:
 - event-storming
 - workshop

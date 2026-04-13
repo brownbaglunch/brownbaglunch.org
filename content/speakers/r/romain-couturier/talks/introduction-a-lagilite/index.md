@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-couturier/talks/introduction-a-lagilite/
+url: speakers/romain-couturier/talks/introduction-a-lagilite/
 tags:
 - coaching
 - agile

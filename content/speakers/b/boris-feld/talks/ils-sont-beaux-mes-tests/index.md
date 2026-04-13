@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/boris-feld/talks/ils-sont-beaux-mes-tests/
+url: speakers/boris-feld/talks/ils-sont-beaux-mes-tests/
 tags:
 - python
 - test

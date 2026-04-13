@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/louis-cibot/talks/comment-coder-des-process-business-ou-marketing-aussi-sophistiques-quamazon-ou-uber-avec-une-equipe-technique-reduite/
+url: speakers/louis-cibot/talks/comment-coder-des-process-business-ou-marketing-aussi-sophistiques-quamazon-ou-uber-avec-une-equipe-technique-reduite/
 tags:
 - zenaton
 - process

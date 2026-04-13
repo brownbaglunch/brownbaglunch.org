@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-f-gouchet/talks/devenir-un-staff-engineer-dans-le-mobile-carriere/
+url: speakers/xavier-f-gouchet/talks/devenir-un-staff-engineer-dans-le-mobile-carriere/
 tags:
 - test
 - pyramide

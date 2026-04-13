@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyrille-dupuydauby/talks/as-if-you-meant-it/
+url: speakers/cyrille-dupuydauby/talks/as-if-you-meant-it/
 tags:
 - domain-driven-design
 - tdd

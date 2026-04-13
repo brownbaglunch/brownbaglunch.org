@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-philippe-baconnais/talks/le-developpement-des-le-plus-jeune-age/
+url: speakers/jean-philippe-baconnais/talks/le-developpement-des-le-plus-jeune-age/
 tags:
 - dev
 - kids

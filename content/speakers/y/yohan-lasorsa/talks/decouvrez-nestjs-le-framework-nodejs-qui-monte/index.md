@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yohan-lasorsa/talks/decouvrez-nestjs-le-framework-nodejs-qui-monte/
+url: speakers/yohan-lasorsa/talks/decouvrez-nestjs-le-framework-nodejs-qui-monte/
 tags:
 - nestjs
 - nodejs

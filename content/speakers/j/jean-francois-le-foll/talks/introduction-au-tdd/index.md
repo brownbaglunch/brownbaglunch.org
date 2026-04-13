@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-francois-le-foll/talks/introduction-au-tdd/
+url: speakers/jean-francois-le-foll/talks/introduction-au-tdd/
 tags:
 - developpement
 - java

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/etienne-coutaud/talks/12-factors-kubernetes/
+url: speakers/etienne-coutaud/talks/12-factors-kubernetes/
 tags:
 - 12-factor
 - kubernetes

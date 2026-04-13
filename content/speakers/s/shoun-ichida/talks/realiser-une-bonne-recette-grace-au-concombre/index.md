@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/shoun-ichida/talks/realiser-une-bonne-recette-grace-au-concombre/
+url: speakers/shoun-ichida/talks/realiser-une-bonne-recette-grace-au-concombre/
 tags:
 - java
 - cucumber

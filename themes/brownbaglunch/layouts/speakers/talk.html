@@ -28,7 +28,8 @@
   {{ $talkCover := partial "cover-url.html" . }}
   {{ if $talkCover }}
     <img src="{{ $talkCover }}" alt="{{ $version.title }}"
-         class="w-full rounded-xl object-contain mb-6" style="max-height: 20rem">
+         class="w-full rounded-xl object-contain mb-6" style="max-height: 20rem"
+         data-pagefind-meta="image[src], image_alt[alt]">
   {{ end }}
 
   {{/* Talk header */}}

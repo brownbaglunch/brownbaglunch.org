@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/baptiste-mathus/talks/monter-une-forge-jenkins-qui-deboite/
+url: speakers/baptiste-mathus/talks/monter-une-forge-jenkins-qui-deboite/
 tags:
 - jenkins
 - docker

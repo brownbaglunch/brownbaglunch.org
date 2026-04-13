@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-lamarque/talks/gilded-rose-inn-comment-refactorer-un-code-legacy/
+url: speakers/fabien-lamarque/talks/gilded-rose-inn-comment-refactorer-un-code-legacy/
 tags:
 - java
 - clean-code

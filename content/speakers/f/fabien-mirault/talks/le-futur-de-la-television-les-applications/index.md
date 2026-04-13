@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-mirault/talks/le-futur-de-la-television-les-applications/
+url: speakers/fabien-mirault/talks/le-futur-de-la-television-les-applications/
 tags:
 - tvos
 - android-tv

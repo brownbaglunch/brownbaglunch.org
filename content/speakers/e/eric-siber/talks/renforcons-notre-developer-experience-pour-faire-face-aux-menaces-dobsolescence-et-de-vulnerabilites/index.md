@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/eric-siber/talks/renforcons-notre-developer-experience-pour-faire-face-aux-menaces-dobsolescence-et-de-vulnerabilites/
+url: speakers/eric-siber/talks/renforcons-notre-developer-experience-pour-faire-face-aux-menaces-dobsolescence-et-de-vulnerabilites/
 tags:
 - java
 - developer-productivity-engineering

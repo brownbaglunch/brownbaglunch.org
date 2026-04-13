@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/loic-knuchel/talks/ionic-framework-cest-aussi-des-outils/
+url: speakers/loic-knuchel/talks/ionic-framework-cest-aussi-des-outils/
 tags:
 - scala
 - angularjs

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/stephane-schildknecht/talks/postgresql-la-haute-disponibilite-oui-mais-comment/
+url: speakers/stephane-schildknecht/talks/postgresql-la-haute-disponibilite-oui-mais-comment/
 tags:
 - postgresql
 - highavailability

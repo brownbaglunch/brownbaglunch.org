@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-martin/talks/api-web-et-cache/
+url: speakers/david-martin/talks/api-web-et-cache/
 tags:
 - java
 - api-web

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-nopre/talks/play-framework/
+url: speakers/xavier-nopre/talks/play-framework/
 tags:
 - java
 - web

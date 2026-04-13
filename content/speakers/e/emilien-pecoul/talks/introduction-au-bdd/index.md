@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/emilien-pecoul/talks/introduction-au-bdd/
+url: speakers/emilien-pecoul/talks/introduction-au-bdd/
 tags:
 - agile
 - tdd

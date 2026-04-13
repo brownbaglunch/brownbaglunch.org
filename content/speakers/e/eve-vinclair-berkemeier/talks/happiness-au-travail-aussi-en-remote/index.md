@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/eve-vinclair-berkemeier/talks/happiness-au-travail-aussi-en-remote/
+url: speakers/eve-vinclair-berkemeier/talks/happiness-au-travail-aussi-en-remote/
 tags:
 - management-3-0
 - happiness

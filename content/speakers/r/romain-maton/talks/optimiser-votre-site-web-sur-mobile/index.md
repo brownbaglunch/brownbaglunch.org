@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-maton/talks/optimiser-votre-site-web-sur-mobile/
+url: speakers/romain-maton/talks/optimiser-votre-site-web-sur-mobile/
 tags:
 - javascript
 - nodejs

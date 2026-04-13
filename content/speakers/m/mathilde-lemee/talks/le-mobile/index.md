@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathilde-lemee/talks/le-mobile/
+url: speakers/mathilde-lemee/talks/le-mobile/
 tags:
 - cache
 - big-data

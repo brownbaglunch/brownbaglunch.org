@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-delbrayelle/talks/jhipster-generateur-dapplications-web-modernes/
+url: speakers/francois-delbrayelle/talks/jhipster-generateur-dapplications-web-modernes/
 tags:
 - java
 - jhipster

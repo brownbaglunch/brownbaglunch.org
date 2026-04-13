@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-sarradin/talks/ce-que-vous-devez-savoir-de-la-programmation-fonctionnelle/
+url: speakers/francois-sarradin/talks/ce-que-vous-devez-savoir-de-la-programmation-fonctionnelle/
 tags:
 - functional-programming
 versions:

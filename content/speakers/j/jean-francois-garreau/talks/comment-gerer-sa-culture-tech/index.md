@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-francois-garreau/talks/comment-gerer-sa-culture-tech/
+url: speakers/jean-francois-garreau/talks/comment-gerer-sa-culture-tech/
 tags:
 - conseils
 - tech-talks

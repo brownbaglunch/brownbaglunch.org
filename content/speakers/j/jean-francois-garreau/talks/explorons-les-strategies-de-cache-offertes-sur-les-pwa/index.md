@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-francois-garreau/talks/explorons-les-strategies-de-cache-offertes-sur-les-pwa/
+url: speakers/jean-francois-garreau/talks/explorons-les-strategies-de-cache-offertes-sur-les-pwa/
 tags:
 - pwa
 - service-worker

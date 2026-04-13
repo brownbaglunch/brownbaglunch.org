@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/black-friday/
+url: speakers/david-pilato/talks/black-friday/
 tags:
   - elasticsearch
 versions:

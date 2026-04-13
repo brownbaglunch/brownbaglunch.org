@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-wauquier/talks/cross-communication-entre-applications-web/
+url: speakers/francois-wauquier/talks/cross-communication-entre-applications-web/
 tags:
 - web
 - javascript

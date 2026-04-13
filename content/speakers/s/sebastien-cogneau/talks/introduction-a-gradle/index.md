@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-cogneau/talks/introduction-a-gradle/
+url: speakers/sebastien-cogneau/talks/introduction-a-gradle/
 tags:
 - jenkins
 - sonar

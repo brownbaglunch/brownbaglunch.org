@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/michael-bitard/talks/et-si-on-codait-son-poste-de-travail/
+url: speakers/michael-bitard/talks/et-si-on-codait-son-poste-de-travail/
 tags:
 - java
 - scrum

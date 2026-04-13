@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/adrien-pessu/talks/cors-xss-csrf-sql-injection-backtothebasics/
+url: speakers/adrien-pessu/talks/cors-xss-csrf-sql-injection-backtothebasics/
 tags:
 - cors
 - xss

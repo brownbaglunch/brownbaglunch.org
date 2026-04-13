@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-wolf/talks/30-minutes-pour-reduire-lempreinte-encironnementale-dun-site/
+url: speakers/guillaume-wolf/talks/30-minutes-pour-reduire-lempreinte-encironnementale-dun-site/
 tags:
 - live-coding
 - green

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/bruno-heridet/talks/vim-neovim/
+url: speakers/bruno-heridet/talks/vim-neovim/
 tags:
 - vim
 - outils

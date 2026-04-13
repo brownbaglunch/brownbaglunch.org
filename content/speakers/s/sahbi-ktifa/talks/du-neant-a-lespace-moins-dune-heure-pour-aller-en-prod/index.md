@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sahbi-ktifa/talks/du-neant-a-lespace-moins-dune-heure-pour-aller-en-prod/
+url: speakers/sahbi-ktifa/talks/du-neant-a-lespace-moins-dune-heure-pour-aller-en-prod/
 tags:
 - jhipster
 - dev

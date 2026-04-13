@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-hiegel/talks/pair-programming-pair-practice-sans-coder/
+url: speakers/fabien-hiegel/talks/pair-programming-pair-practice-sans-coder/
 tags:
 - serious-game
 - pair-programming

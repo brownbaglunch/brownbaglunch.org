@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-muetton/talks/http-and-rest/
+url: speakers/julien-muetton/talks/http-and-rest/
 tags:
 - javascript
 - php

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/potion-magique/
+url: speakers/david-pilato/talks/potion-magique/
 tags:
   - open-source
 versions:

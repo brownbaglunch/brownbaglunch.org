@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/philippe-charriere/talks/utilisez-votre-dvcs-comme-un-intranet-pour-autre-chose-que-du-code/
+url: speakers/philippe-charriere/talks/utilisez-votre-dvcs-comme-un-intranet-pour-autre-chose-que-du-code/
 tags:
 - dvcs
 - gestion-de-configuration

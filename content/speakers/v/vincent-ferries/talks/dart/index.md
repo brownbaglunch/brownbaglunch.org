@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-ferries/talks/dart/
+url: speakers/vincent-ferries/talks/dart/
 tags:
 - javaee
 - android

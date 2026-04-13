@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thomas-zilliox/talks/organiser-son-code-javascript/
+url: speakers/thomas-zilliox/talks/organiser-son-code-javascript/
 tags:
 - css
 - bem

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/william-durand/talks/git-github-open-source/
+url: speakers/william-durand/talks/git-github-open-source/
 tags:
 - php
 - symfony

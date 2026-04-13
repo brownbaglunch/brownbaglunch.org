@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/quentin-adam/talks/any-other-talk/
+url: speakers/quentin-adam/talks/any-other-talk/
 tags: []
 versions:
 - label: FR

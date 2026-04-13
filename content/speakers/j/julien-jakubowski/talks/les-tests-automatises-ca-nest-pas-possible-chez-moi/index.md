@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-jakubowski/talks/les-tests-automatises-ca-nest-pas-possible-chez-moi/
+url: speakers/julien-jakubowski/talks/les-tests-automatises-ca-nest-pas-possible-chez-moi/
 tags:
 - javascript
 - java

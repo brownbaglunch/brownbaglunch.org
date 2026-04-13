@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yoan-thirion/talks/comprendre-le-manifeste-agile/
+url: speakers/yoan-thirion/talks/comprendre-le-manifeste-agile/
 tags:
 - agile
 versions:

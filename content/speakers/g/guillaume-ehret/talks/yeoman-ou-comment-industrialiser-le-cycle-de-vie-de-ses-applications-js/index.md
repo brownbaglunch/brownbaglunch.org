@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-ehret/talks/yeoman-ou-comment-industrialiser-le-cycle-de-vie-de-ses-applications-js/
+url: speakers/guillaume-ehret/talks/yeoman-ou-comment-industrialiser-le-cycle-de-vie-de-ses-applications-js/
 tags:
 - agile
 - android

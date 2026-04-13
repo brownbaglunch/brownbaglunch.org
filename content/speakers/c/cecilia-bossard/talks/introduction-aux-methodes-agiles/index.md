@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cecilia-bossard/talks/introduction-aux-methodes-agiles/
+url: speakers/cecilia-bossard/talks/introduction-aux-methodes-agiles/
 tags:
 - agile
 versions:

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-lamarque/talks/introduction-a-git/
+url: speakers/fabien-lamarque/talks/introduction-a-git/
 tags:
 - git
 - introduction

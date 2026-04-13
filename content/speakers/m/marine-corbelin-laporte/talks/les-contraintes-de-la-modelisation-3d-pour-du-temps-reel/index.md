@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/marine-corbelin-laporte/talks/les-contraintes-de-la-modelisation-3d-pour-du-temps-reel/
+url: speakers/marine-corbelin-laporte/talks/les-contraintes-de-la-modelisation-3d-pour-du-temps-reel/
 tags:
 - 3d
 - vr

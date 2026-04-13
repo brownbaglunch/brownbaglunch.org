@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-maton/talks/tout-ce-que-vous-devez-savoir-sur-nodejs/
+url: speakers/romain-maton/talks/tout-ce-que-vous-devez-savoir-sur-nodejs/
 tags:
 - javascript
 - nodejs

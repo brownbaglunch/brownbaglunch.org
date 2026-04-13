@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-laine/talks/developper-des-applications-mobile-avec-xamarin/
+url: speakers/vincent-laine/talks/developper-des-applications-mobile-avec-xamarin/
 tags:
 - developpement
 - net

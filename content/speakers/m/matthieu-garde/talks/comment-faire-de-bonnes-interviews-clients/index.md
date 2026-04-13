@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/matthieu-garde/talks/comment-faire-de-bonnes-interviews-clients/
+url: speakers/matthieu-garde/talks/comment-faire-de-bonnes-interviews-clients/
 tags:
 - lean-startup
 - entrepreneuriat

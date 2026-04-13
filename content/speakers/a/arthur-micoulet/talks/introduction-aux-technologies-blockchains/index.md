@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/arthur-micoulet/talks/introduction-aux-technologies-blockchains/
+url: speakers/arthur-micoulet/talks/introduction-aux-technologies-blockchains/
 tags:
 - blockchain
 - bitcoin

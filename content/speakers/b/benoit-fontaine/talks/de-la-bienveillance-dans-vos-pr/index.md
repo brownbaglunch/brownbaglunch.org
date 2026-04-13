@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/benoit-fontaine/talks/de-la-bienveillance-dans-vos-pr/
+url: speakers/benoit-fontaine/talks/de-la-bienveillance-dans-vos-pr/
 tags:
 - bienveillance
 - pr

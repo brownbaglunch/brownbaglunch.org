@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/benjamin-moitie/talks/kanban-et-le-management-visuel/
+url: speakers/benjamin-moitie/talks/kanban-et-le-management-visuel/
 tags:
 - agile
 - lean-startup

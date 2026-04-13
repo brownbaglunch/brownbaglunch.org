@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-sebrien/talks/introduction-aux-algorithmes-genetiques/
+url: speakers/julien-sebrien/talks/introduction-aux-algorithmes-genetiques/
 tags:
 - algorithmes-genetiques
 - intelligence-artificielle

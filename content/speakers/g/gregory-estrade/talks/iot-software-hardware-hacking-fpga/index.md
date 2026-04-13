@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gregory-estrade/talks/iot-software-hardware-hacking-fpga/
+url: speakers/gregory-estrade/talks/iot-software-hardware-hacking-fpga/
 tags:
 - software-development
 - hardware-hacking

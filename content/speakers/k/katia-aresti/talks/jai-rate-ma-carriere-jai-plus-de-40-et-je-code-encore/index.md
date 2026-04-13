@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/katia-aresti/talks/jai-rate-ma-carriere-jai-plus-de-40-et-je-code-encore/
+url: speakers/katia-aresti/talks/jai-rate-ma-carriere-jai-plus-de-40-et-je-code-encore/
 tags:
 - developper
 - developpeuse

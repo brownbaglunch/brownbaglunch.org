@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/emmanuel-demey/talks/developpez-votre-prochaine-application-web-avec-firebase/
+url: speakers/emmanuel-demey/talks/developpez-votre-prochaine-application-web-avec-firebase/
 tags:
 - javascript
 - gcp

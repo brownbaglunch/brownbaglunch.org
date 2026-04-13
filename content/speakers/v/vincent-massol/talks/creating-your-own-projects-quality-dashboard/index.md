@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-massol/talks/creating-your-own-projects-quality-dashboard/
+url: speakers/vincent-massol/talks/creating-your-own-projects-quality-dashboard/
 tags:
 - quality
 - metrics

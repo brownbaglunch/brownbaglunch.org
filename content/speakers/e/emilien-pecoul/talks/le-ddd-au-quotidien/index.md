@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/emilien-pecoul/talks/le-ddd-au-quotidien/
+url: speakers/emilien-pecoul/talks/le-ddd-au-quotidien/
 tags:
 - domain-driven-design
 - agile

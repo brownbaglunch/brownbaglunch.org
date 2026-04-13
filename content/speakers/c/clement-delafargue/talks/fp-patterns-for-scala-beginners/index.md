@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/clement-delafargue/talks/fp-patterns-for-scala-beginners/
+url: speakers/clement-delafargue/talks/fp-patterns-for-scala-beginners/
 tags:
 - scala
 - nodejs

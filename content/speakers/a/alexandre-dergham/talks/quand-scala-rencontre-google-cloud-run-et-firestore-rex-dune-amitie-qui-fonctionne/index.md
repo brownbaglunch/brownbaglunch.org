@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alexandre-dergham/talks/quand-scala-rencontre-google-cloud-run-et-firestore-rex-dune-amitie-qui-fonctionne/
+url: speakers/alexandre-dergham/talks/quand-scala-rencontre-google-cloud-run-et-firestore-rex-dune-amitie-qui-fonctionne/
 tags:
 - cloud
 - gcp

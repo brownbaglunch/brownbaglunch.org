@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yohan-lasorsa/talks/comment-devenir-un-contributeur-open-source/
+url: speakers/yohan-lasorsa/talks/comment-devenir-un-contributeur-open-source/
 tags:
 - open-source
 - communaute

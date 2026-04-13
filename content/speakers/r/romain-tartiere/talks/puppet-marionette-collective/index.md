@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-tartiere/talks/puppet-marionette-collective/
+url: speakers/romain-tartiere/talks/puppet-marionette-collective/
 tags:
 - puppet
 - marionette-collective

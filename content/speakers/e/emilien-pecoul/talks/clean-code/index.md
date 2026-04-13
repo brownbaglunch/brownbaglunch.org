@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/emilien-pecoul/talks/clean-code/
+url: speakers/emilien-pecoul/talks/clean-code/
 tags:
 - agile
 - tdd

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-ehret/talks/integration-continue-avec-jenkins/
+url: speakers/guillaume-ehret/talks/integration-continue-avec-jenkins/
 tags:
 - agile
 - android

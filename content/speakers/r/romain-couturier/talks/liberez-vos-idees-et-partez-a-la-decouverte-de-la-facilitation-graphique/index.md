@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-couturier/talks/liberez-vos-idees-et-partez-a-la-decouverte-de-la-facilitation-graphique/
+url: speakers/romain-couturier/talks/liberez-vos-idees-et-partez-a-la-decouverte-de-la-facilitation-graphique/
 tags:
 - coaching
 - agile

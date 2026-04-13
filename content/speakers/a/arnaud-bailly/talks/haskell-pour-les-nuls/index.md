@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/arnaud-bailly/talks/haskell-pour-les-nuls/
+url: speakers/arnaud-bailly/talks/haskell-pour-les-nuls/
 tags:
 - functional-programming
 - haskell

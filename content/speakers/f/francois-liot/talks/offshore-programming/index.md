@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-liot/talks/offshore-programming/
+url: speakers/francois-liot/talks/offshore-programming/
 tags:
 - agile
 - architecture

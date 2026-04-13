@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathieu-parisot/talks/responsive-web-design/
+url: speakers/mathieu-parisot/talks/responsive-web-design/
 tags:
 - responsive
 - html5

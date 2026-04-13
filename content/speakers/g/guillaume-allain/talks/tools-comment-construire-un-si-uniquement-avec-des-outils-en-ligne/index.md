@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-allain/talks/tools-comment-construire-un-si-uniquement-avec-des-outils-en-ligne/
+url: speakers/guillaume-allain/talks/tools-comment-construire-un-si-uniquement-avec-des-outils-en-ligne/
 tags:
 - trello
 - saas

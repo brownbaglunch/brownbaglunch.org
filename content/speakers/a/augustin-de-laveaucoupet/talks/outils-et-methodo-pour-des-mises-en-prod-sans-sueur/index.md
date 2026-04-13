@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/augustin-de-laveaucoupet/talks/outils-et-methodo-pour-des-mises-en-prod-sans-sueur/
+url: speakers/augustin-de-laveaucoupet/talks/outils-et-methodo-pour-des-mises-en-prod-sans-sueur/
 tags:
 - symfony2
 - performance

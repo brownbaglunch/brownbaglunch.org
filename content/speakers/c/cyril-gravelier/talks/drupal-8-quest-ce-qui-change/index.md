@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyril-gravelier/talks/drupal-8-quest-ce-qui-change/
+url: speakers/cyril-gravelier/talks/drupal-8-quest-ce-qui-change/
 tags:
 - php
 - drupal

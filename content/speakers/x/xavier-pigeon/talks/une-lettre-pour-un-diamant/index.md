@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-pigeon/talks/une-lettre-pour-un-diamant/
+url: speakers/xavier-pigeon/talks/une-lettre-pour-un-diamant/
 tags:
 - tdd
 - transformation-priority-premise

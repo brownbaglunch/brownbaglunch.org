@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/etienne-coutaud/talks/faire-du-fullstack-monitoring-avec-prometheus/
+url: speakers/etienne-coutaud/talks/faire-du-fullstack-monitoring-avec-prometheus/
 tags:
 - monitoring
 - prometheus

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/johan-bonneau/talks/martine-est-manager-agile/
+url: speakers/johan-bonneau/talks/martine-est-manager-agile/
 tags:
 - agile
 - coaching

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/claire-zuliani/talks/un-site-leger-et-sur-qui-a-tout-dun-grand-avec-les-generateurs-de-sites-statiques/
+url: speakers/claire-zuliani/talks/un-site-leger-et-sur-qui-a-tout-dun-grand-avec-les-generateurs-de-sites-statiques/
 tags:
 - jekyll
 - static-site-generator

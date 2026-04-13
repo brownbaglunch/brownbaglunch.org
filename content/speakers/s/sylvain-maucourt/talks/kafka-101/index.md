@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sylvain-maucourt/talks/kafka-101/
+url: speakers/sylvain-maucourt/talks/kafka-101/
 tags:
 - kafka
 versions:

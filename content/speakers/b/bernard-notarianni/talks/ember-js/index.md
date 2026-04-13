@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/bernard-notarianni/talks/ember-js/
+url: speakers/bernard-notarianni/talks/ember-js/
 tags:
 - agile
 - startup

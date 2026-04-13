@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yoan-thirion/talks/devops-awareness/
+url: speakers/yoan-thirion/talks/devops-awareness/
 tags:
 - devops
 - agile

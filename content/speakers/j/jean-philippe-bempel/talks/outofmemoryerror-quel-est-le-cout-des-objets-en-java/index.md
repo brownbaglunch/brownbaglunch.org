@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-philippe-bempel/talks/outofmemoryerror-quel-est-le-cout-des-objets-en-java/
+url: speakers/jean-philippe-bempel/talks/outofmemoryerror-quel-est-le-cout-des-objets-en-java/
 tags:
 - jvm
 - gc

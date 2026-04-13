@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/eric-siber/talks/et-si-vous-abandonniez-la-revue-de-code-systematique-et-reinventiez-vos-workflows-de-developpement/
+url: speakers/eric-siber/talks/et-si-vous-abandonniez-la-revue-de-code-systematique-et-reinventiez-vos-workflows-de-developpement/
 tags:
 - agile
 - extreme-programming

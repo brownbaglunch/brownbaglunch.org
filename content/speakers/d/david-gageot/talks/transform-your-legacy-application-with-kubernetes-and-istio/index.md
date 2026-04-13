@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-gageot/talks/transform-your-legacy-application-with-kubernetes-and-istio/
+url: speakers/david-gageot/talks/transform-your-legacy-application-with-kubernetes-and-istio/
 tags:
 - docker
 - kubernetes

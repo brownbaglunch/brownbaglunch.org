@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/boris-schapira/talks/la-performance-web-pourquoi-et-comment/
+url: speakers/boris-schapira/talks/la-performance-web-pourquoi-et-comment/
 tags:
 - gestion-de-projet
 - performance-web

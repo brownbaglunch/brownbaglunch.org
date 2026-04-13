@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/baptiste-mathus/talks/git-avance/
+url: speakers/baptiste-mathus/talks/git-avance/
 tags:
 - jenkins
 - docker

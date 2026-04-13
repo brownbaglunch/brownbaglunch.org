@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-couturier/talks/creer-le-bon-produit-avec-le-lean-caneva/
+url: speakers/romain-couturier/talks/creer-le-bon-produit-avec-le-lean-caneva/
 tags:
 - coaching
 - agile

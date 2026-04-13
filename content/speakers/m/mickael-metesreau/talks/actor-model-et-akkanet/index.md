@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mickael-metesreau/talks/actor-model-et-akkanet/
+url: speakers/mickael-metesreau/talks/actor-model-et-akkanet/
 tags:
 - net
 - akka

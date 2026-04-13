@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-nopre/talks/ansible/
+url: speakers/xavier-nopre/talks/ansible/
 tags:
 - ansible
 - devops

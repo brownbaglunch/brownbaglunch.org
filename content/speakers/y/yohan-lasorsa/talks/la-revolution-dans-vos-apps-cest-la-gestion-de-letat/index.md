@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yohan-lasorsa/talks/la-revolution-dans-vos-apps-cest-la-gestion-de-letat/
+url: speakers/yohan-lasorsa/talks/la-revolution-dans-vos-apps-cest-la-gestion-de-letat/
 tags:
 - frontend
 - redux

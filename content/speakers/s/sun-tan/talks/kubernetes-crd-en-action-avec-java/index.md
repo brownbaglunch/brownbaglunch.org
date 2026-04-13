@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sun-tan/talks/kubernetes-crd-en-action-avec-java/
+url: speakers/sun-tan/talks/kubernetes-crd-en-action-avec-java/
 tags:
 - kubernetes
 - java

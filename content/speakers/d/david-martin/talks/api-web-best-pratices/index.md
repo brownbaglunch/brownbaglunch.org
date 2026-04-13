@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-martin/talks/api-web-best-pratices/
+url: speakers/david-martin/talks/api-web-best-pratices/
 tags:
 - java
 - api-web

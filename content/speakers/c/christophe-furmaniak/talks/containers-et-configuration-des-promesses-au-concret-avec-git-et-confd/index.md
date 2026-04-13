@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-furmaniak/talks/containers-et-configuration-des-promesses-au-concret-avec-git-et-confd/
+url: speakers/christophe-furmaniak/talks/containers-et-configuration-des-promesses-au-concret-avec-git-et-confd/
 tags:
 - docker
 - configuration

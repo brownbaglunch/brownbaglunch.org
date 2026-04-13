@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alexis-janvier/talks/la-revue-de-code/
+url: speakers/alexis-janvier/talks/la-revue-de-code/
 tags:
 - git
 - github

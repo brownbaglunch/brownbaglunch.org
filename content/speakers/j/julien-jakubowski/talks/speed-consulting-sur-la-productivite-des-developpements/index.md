@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-jakubowski/talks/speed-consulting-sur-la-productivite-des-developpements/
+url: speakers/julien-jakubowski/talks/speed-consulting-sur-la-productivite-des-developpements/
 tags:
 - test
 - coding-dojo

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-carpentier/talks/restful-really/
+url: speakers/xavier-carpentier/talks/restful-really/
 tags:
 - rest
 - api

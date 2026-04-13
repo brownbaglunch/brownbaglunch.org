@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thierry-leriche-dessirier/talks/les-tests-en-trois-temps-3t/
+url: speakers/thierry-leriche-dessirier/talks/les-tests-en-trois-temps-3t/
 tags:
 - java
 - guava

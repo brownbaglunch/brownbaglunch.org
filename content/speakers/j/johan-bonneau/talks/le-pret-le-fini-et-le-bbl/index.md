@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/johan-bonneau/talks/le-pret-le-fini-et-le-bbl/
+url: speakers/johan-bonneau/talks/le-pret-le-fini-et-le-bbl/
 tags:
 - agile
 - scrum

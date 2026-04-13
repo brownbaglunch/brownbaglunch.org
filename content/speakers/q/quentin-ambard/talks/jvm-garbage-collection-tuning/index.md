@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/quentin-ambard/talks/jvm-garbage-collection-tuning/
+url: speakers/quentin-ambard/talks/jvm-garbage-collection-tuning/
 tags:
 - jvm
 - gc

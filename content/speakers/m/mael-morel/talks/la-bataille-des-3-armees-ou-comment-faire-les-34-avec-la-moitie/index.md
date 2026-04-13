@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mael-morel/talks/la-bataille-des-3-armees-ou-comment-faire-les-34-avec-la-moitie/
+url: speakers/mael-morel/talks/la-bataille-des-3-armees-ou-comment-faire-les-34-avec-la-moitie/
 tags:
 - agile
 - scrum

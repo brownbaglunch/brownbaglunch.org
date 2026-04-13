@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/katia-aresti/talks/decouvrez-quarkus/
+url: speakers/katia-aresti/talks/decouvrez-quarkus/
 tags:
 - quarkus
 - java

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyril-lakech/talks/un-zeste-de-nest-pour-rehausser-le-gout-du-back-end-js/
+url: speakers/cyril-lakech/talks/un-zeste-de-nest-pour-rehausser-le-gout-du-back-end-js/
 tags:
 - nodejs
 - typescript

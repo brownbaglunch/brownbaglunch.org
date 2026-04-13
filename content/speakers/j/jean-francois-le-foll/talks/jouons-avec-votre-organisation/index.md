@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-francois-le-foll/talks/jouons-avec-votre-organisation/
+url: speakers/jean-francois-le-foll/talks/jouons-avec-votre-organisation/
 tags:
 - developpement
 - java

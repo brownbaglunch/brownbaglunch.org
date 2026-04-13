@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/etienne-coutaud/talks/introduction-a-kubernetes/
+url: speakers/etienne-coutaud/talks/introduction-a-kubernetes/
 tags:
 - kubernetes
 - container

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gilles-debunne/talks/ionic-du-mobile-en-html/
+url: speakers/gilles-debunne/talks/ionic-du-mobile-en-html/
 tags:
 - ux
 - ui

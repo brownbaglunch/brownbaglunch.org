@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-touze/talks/redecouvrez-python/
+url: speakers/romain-touze/talks/redecouvrez-python/
 tags:
 - python
 versions:

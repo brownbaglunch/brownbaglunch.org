@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-deverge/talks/et-pourquoi-pas-un-coding-dojo/
+url: speakers/nicolas-deverge/talks/et-pourquoi-pas-un-coding-dojo/
 tags:
 - agile
 - code

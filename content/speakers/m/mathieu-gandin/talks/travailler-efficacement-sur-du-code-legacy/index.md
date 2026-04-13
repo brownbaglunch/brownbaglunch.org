@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathieu-gandin/talks/travailler-efficacement-sur-du-code-legacy/
+url: speakers/mathieu-gandin/talks/travailler-efficacement-sur-du-code-legacy/
 tags:
 - code
 - refactoring

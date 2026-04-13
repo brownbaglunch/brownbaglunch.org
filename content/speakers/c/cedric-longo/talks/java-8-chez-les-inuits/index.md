@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-longo/talks/java-8-chez-les-inuits/
+url: speakers/cedric-longo/talks/java-8-chez-les-inuits/
 tags:
 - java
 versions:

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-bisutti/talks/eliminez-rapidement-des-bottlenecks-de-performance-avec-quickperf/
+url: speakers/jean-bisutti/talks/eliminez-rapidement-des-bottlenecks-de-performance-avec-quickperf/
 tags:
 - performance
 - test

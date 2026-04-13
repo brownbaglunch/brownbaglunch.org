@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/simone-civetta/talks/swift-dans-la-vraie-vie/
+url: speakers/simone-civetta/talks/swift-dans-la-vraie-vie/
 tags:
 - ios
 - swift

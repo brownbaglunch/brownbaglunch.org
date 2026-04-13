@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-grand/talks/introduction-a-la-programmation-orientee-donnees/
+url: speakers/christophe-grand/talks/introduction-a-la-programmation-orientee-donnees/
 tags:
 - clojure
 - functional-programming

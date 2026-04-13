@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-mouton-dubosc/talks/politique-de-securite-et-de-respect-de-vie-privee/
+url: speakers/xavier-mouton-dubosc/talks/politique-de-securite-et-de-respect-de-vie-privee/
 tags:
 - vie-privee
 - security

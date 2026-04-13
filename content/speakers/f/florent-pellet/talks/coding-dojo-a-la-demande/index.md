@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/florent-pellet/talks/coding-dojo-a-la-demande/
+url: speakers/florent-pellet/talks/coding-dojo-a-la-demande/
 tags:
 - domain-driven-design
 - event-sourcing

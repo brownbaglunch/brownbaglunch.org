@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/emmanuel-demey/talks/les-progressive-webapp-a-quoi-ca-sert/
+url: speakers/emmanuel-demey/talks/les-progressive-webapp-a-quoi-ca-sert/
 tags:
 - javascript
 - pwa

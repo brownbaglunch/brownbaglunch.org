@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathieu-parisot/talks/developpons-dans-le-futur-des-maintenant/
+url: speakers/mathieu-parisot/talks/developpons-dans-le-futur-des-maintenant/
 tags:
 - responsive
 - html5

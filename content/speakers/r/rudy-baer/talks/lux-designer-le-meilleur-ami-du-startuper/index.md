@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/rudy-baer/talks/lux-designer-le-meilleur-ami-du-startuper/
+url: speakers/rudy-baer/talks/lux-designer-le-meilleur-ami-du-startuper/
 tags:
 - ui
 - ux

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/philippe-charriere/talks/ci-cd-finalement-ce-nest-pas-dur/
+url: speakers/philippe-charriere/talks/ci-cd-finalement-ce-nest-pas-dur/
 tags:
 - continuous-integration
 - continuous-delivery

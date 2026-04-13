@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/augustin-de-laveaucoupet/talks/discussions-libre-sur-la-qualite-logiciel/
+url: speakers/augustin-de-laveaucoupet/talks/discussions-libre-sur-la-qualite-logiciel/
 tags:
 - symfony2
 - performance

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyrille-dupuydauby/talks/haut-debit-et-faible-latence/
+url: speakers/cyrille-dupuydauby/talks/haut-debit-et-faible-latence/
 tags:
 - reactive
 - finance

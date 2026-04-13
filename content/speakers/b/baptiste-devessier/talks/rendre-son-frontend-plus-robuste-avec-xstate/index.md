@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/baptiste-devessier/talks/rendre-son-frontend-plus-robuste-avec-xstate/
+url: speakers/baptiste-devessier/talks/rendre-son-frontend-plus-robuste-avec-xstate/
 tags:
 - xstate
 - state-machines

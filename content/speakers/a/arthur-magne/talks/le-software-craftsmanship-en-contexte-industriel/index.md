@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/arthur-magne/talks/le-software-craftsmanship-en-contexte-industriel/
+url: speakers/arthur-magne/talks/le-software-craftsmanship-en-contexte-industriel/
 tags:
 - software-craftsmanship
 - clean-code

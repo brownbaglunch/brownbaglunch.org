@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-grellier/talks/10-leviers-pour-rendre-son-si-agile-durable-et-etendu/
+url: speakers/fabien-grellier/talks/10-leviers-pour-rendre-son-si-agile-durable-et-etendu/
 tags:
 - agile-a-l-echelle
 - devops

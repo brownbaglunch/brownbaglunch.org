@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gregory-weinbach/talks/il-ny-a-pas-de-bon-modele-metier/
+url: speakers/gregory-weinbach/talks/il-ny-a-pas-de-bon-modele-metier/
 tags:
 - modele
 - bounded-context

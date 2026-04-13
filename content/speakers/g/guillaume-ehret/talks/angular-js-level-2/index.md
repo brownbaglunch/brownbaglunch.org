@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-ehret/talks/angular-js-level-2/
+url: speakers/guillaume-ehret/talks/angular-js-level-2/
 tags:
 - agile
 - android

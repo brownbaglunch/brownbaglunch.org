@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thomas-pierrain/talks/as-if-you-meant-it/
+url: speakers/thomas-pierrain/talks/as-if-you-meant-it/
 tags:
 - domain-driven-design
 - tdd

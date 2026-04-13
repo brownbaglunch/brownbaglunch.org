@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/olivier-durgeau/talks/pourquoi-on-devrait-tous-avoir-un-outil-de-ticketing-chez-soi/
+url: speakers/olivier-durgeau/talks/pourquoi-on-devrait-tous-avoir-un-outil-de-ticketing-chez-soi/
 tags:
 - redmine
 - ruby-on-rails

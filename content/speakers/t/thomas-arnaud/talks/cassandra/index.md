@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thomas-arnaud/talks/cassandra/
+url: speakers/thomas-arnaud/talks/cassandra/
 tags:
 - java
 - performance

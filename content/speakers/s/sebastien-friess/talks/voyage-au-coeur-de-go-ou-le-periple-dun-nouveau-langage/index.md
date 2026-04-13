@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-friess/talks/voyage-au-coeur-de-go-ou-le-periple-dun-nouveau-langage/
+url: speakers/sebastien-friess/talks/voyage-au-coeur-de-go-ou-le-periple-dun-nouveau-langage/
 tags:
 - golang
 - rex

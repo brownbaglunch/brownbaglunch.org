@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-sertelon/talks/simplifez-infrastructure-et-process-devops-grace-a-habitat/
+url: speakers/romain-sertelon/talks/simplifez-infrastructure-et-process-devops-grace-a-habitat/
 tags:
 - habitat
 - devops

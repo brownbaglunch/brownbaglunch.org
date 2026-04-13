@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alizee-gottardo/talks/pourquoi-mettre-en-place-une-equipe-platform-engineering/
+url: speakers/alizee-gottardo/talks/pourquoi-mettre-en-place-une-equipe-platform-engineering/
 tags:
 - developpement
 - platform-engineering

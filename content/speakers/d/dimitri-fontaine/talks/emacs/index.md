@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/dimitri-fontaine/talks/emacs/
+url: speakers/dimitri-fontaine/talks/emacs/
 tags:
 - postgresql
 - pgloader

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/damien-cavailles/talks/android-wear-ceci-nest-pas-une-montre/
+url: speakers/damien-cavailles/talks/android-wear-ceci-nest-pas-une-montre/
 tags:
 - android
 - ios

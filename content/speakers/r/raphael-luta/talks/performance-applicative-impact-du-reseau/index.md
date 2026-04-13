@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/raphael-luta/talks/performance-applicative-impact-du-reseau/
+url: speakers/raphael-luta/talks/performance-applicative-impact-du-reseau/
 tags:
 - web
 - performance

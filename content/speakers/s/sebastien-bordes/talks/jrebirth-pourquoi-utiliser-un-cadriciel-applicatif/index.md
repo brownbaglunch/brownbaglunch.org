@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-bordes/talks/jrebirth-pourquoi-utiliser-un-cadriciel-applicatif/
+url: speakers/sebastien-bordes/talks/jrebirth-pourquoi-utiliser-un-cadriciel-applicatif/
 tags:
 - javafx
 - jrebirth

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-doguin/talks/apprendre-la-programmation-reactive-avec-les-base-de-donnees/
+url: speakers/laurent-doguin/talks/apprendre-la-programmation-reactive-avec-les-base-de-donnees/
 tags:
 - reactor
 - java

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/paul-chavard/talks/introduction-a-emberjs/
+url: speakers/paul-chavard/talks/introduction-a-emberjs/
 tags:
 - emberjs
 - javascript

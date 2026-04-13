@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-philippe-baconnais/talks/gitlab-kubernetes/
+url: speakers/jean-philippe-baconnais/talks/gitlab-kubernetes/
 tags:
 - dev
 - kubernetes

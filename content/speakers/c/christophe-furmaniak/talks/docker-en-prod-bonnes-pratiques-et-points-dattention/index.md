@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-furmaniak/talks/docker-en-prod-bonnes-pratiques-et-points-dattention/
+url: speakers/christophe-furmaniak/talks/docker-en-prod-bonnes-pratiques-et-points-dattention/
 tags:
 - docker
 - production

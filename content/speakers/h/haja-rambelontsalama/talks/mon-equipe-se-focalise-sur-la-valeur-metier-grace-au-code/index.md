@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/haja-rambelontsalama/talks/mon-equipe-se-focalise-sur-la-valeur-metier-grace-au-code/
+url: speakers/haja-rambelontsalama/talks/mon-equipe-se-focalise-sur-la-valeur-metier-grace-au-code/
 tags:
 - agile
 - devops

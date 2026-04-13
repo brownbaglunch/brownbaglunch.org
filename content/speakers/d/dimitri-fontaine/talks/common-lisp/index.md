@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/dimitri-fontaine/talks/common-lisp/
+url: speakers/dimitri-fontaine/talks/common-lisp/
 tags:
 - postgresql
 - pgloader

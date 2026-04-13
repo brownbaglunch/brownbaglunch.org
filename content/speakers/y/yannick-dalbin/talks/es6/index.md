@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yannick-dalbin/talks/es6/
+url: speakers/yannick-dalbin/talks/es6/
 tags:
 - javascript
 - ecmascript

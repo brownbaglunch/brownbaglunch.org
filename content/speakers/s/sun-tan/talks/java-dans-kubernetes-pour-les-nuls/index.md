@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sun-tan/talks/java-dans-kubernetes-pour-les-nuls/
+url: speakers/sun-tan/talks/java-dans-kubernetes-pour-les-nuls/
 tags:
 - kubernetes
 - java

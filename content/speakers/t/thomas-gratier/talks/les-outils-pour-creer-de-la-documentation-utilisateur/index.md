@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thomas-gratier/talks/les-outils-pour-creer-de-la-documentation-utilisateur/
+url: speakers/thomas-gratier/talks/les-outils-pour-creer-de-la-documentation-utilisateur/
 tags:
 - cartographie
 - sig

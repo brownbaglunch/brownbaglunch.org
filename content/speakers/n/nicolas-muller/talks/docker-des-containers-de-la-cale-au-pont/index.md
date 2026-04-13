@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-muller/talks/docker-des-containers-de-la-cale-au-pont/
+url: speakers/nicolas-muller/talks/docker-des-containers-de-la-cale-au-pont/
 tags:
 - docker
 - consul-io

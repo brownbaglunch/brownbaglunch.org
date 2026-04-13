@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maxime-bonnet/talks/utiliser-lego-serious-play-pour-animer-votre-brainstorming/
+url: speakers/maxime-bonnet/talks/utiliser-lego-serious-play-pour-animer-votre-brainstorming/
 tags:
 - agile
 - serious-game

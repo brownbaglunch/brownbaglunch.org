@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-seignard/talks/creer-un-objet-connecte/
+url: speakers/xavier-seignard/talks/creer-un-objet-connecte/
 tags:
 - nodejs
 - javascript

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/etienne-coutaud/talks/introduction-a-docker/
+url: speakers/etienne-coutaud/talks/introduction-a-docker/
 tags:
 - container
 - docker

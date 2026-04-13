@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/emmanuel-demey/talks/angular2-ou-comment-faciliter-la-migration-de-votre-application-angularjs/
+url: speakers/emmanuel-demey/talks/angular2-ou-comment-faciliter-la-migration-de-votre-application-angularjs/
 tags:
 - angularjs
 - angular

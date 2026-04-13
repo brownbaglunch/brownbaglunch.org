@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/quentin-adam/talks/scala-implicits-pour-faire-des-apis-simples-des-dsl-ou-de-la-magie-noire-ca-marche-comment/
+url: speakers/quentin-adam/talks/scala-implicits-pour-faire-des-apis-simples-des-dsl-ou-de-la-magie-noire-ca-marche-comment/
 tags:
 - scala
 versions:

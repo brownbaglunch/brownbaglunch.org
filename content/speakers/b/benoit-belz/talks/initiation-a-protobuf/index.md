@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/benoit-belz/talks/initiation-a-protobuf/
+url: speakers/benoit-belz/talks/initiation-a-protobuf/
 tags:
 - protobuf
 versions:

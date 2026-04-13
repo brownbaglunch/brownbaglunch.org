@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/eric-siber/talks/personal-kanban-depuis-les-tranchees/
+url: speakers/eric-siber/talks/personal-kanban-depuis-les-tranchees/
 tags:
 - developpement-personnel
 - agile

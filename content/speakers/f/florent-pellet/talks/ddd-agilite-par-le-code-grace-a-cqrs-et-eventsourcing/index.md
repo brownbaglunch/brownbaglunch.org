@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/florent-pellet/talks/ddd-agilite-par-le-code-grace-a-cqrs-et-eventsourcing/
+url: speakers/florent-pellet/talks/ddd-agilite-par-le-code-grace-a-cqrs-et-eventsourcing/
 tags:
 - domain-driven-design
 - event-sourcing

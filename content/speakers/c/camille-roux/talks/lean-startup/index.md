@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/camille-roux/talks/lean-startup/
+url: speakers/camille-roux/talks/lean-startup/
 tags:
 - entrepreneuriat
 - lean-startup

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-paoletti/talks/et-si-votre-prochain-developpement-etait-plus-propre-et-robuste-une-introduction-a-django/
+url: speakers/laurent-paoletti/talks/et-si-votre-prochain-developpement-etait-plus-propre-et-robuste-une-introduction-a-django/
 tags:
 - python
 - performance

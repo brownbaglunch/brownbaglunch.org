@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yoann-buch/talks/comprendre-rapidement-une-application-legacy/
+url: speakers/yoann-buch/talks/comprendre-rapidement-une-application-legacy/
 tags:
 - legacy-code
 - agile

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/loic-mathieu/talks/inside-the-jvm-gc-and-jit/
+url: speakers/loic-mathieu/talks/inside-the-jvm-gc-and-jit/
 tags:
 - java
 - jvm

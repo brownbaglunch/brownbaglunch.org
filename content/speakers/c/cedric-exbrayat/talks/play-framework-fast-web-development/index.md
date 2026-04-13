@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-exbrayat/talks/play-framework-fast-web-development/
+url: speakers/cedric-exbrayat/talks/play-framework-fast-web-development/
 tags:
 - java
 - lambda

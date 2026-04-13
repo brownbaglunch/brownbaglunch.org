@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/riadh-mnasri/talks/architectures-microservices/
+url: speakers/riadh-mnasri/talks/architectures-microservices/
 tags:
 - architecture
 - microservices

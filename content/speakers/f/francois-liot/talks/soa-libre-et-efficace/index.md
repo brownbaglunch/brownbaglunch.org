@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-liot/talks/soa-libre-et-efficace/
+url: speakers/francois-liot/talks/soa-libre-et-efficace/
 tags:
 - api
 - agile

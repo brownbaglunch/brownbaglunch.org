@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/horacio-gonzalez/talks/la-forge-du-developpeur-javascript-moderne/
+url: speakers/horacio-gonzalez/talks/la-forge-du-developpeur-javascript-moderne/
 tags:
 - web
 - java

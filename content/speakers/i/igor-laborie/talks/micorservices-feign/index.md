@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/igor-laborie/talks/micorservices-feign/
+url: speakers/igor-laborie/talks/micorservices-feign/
 tags:
 - rest
 - http

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/loic-knuchel/talks/decouvrir-ionic-en-codant-une-application-de-chat/
+url: speakers/loic-knuchel/talks/decouvrir-ionic-en-codant-une-application-de-chat/
 tags:
 - scala
 - angularjs

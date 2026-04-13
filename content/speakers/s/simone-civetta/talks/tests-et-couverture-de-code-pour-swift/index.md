@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/simone-civetta/talks/tests-et-couverture-de-code-pour-swift/
+url: speakers/simone-civetta/talks/tests-et-couverture-de-code-pour-swift/
 tags:
 - ios
 - swift

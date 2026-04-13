@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-lours/talks/personal-kanban-retrouvez-votre-efficacite/
+url: speakers/guillaume-lours/talks/personal-kanban-retrouvez-votre-efficacite/
 tags:
 - kanban
 - agile

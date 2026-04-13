@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-bitaudeau/talks/decouvrez-les-mockups/
+url: speakers/guillaume-bitaudeau/talks/decouvrez-les-mockups/
 tags:
 - java
 - agile

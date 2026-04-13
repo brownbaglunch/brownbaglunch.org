@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/clement-heliou/talks/9-things-that-will-make-your-escqrs-journey-painful/
+url: speakers/clement-heliou/talks/9-things-that-will-make-your-escqrs-journey-painful/
 tags:
 - event-sourcing
 - cqrs

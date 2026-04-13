@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-couturier/talks/il-etait-une-fois-la-vie-dun-product-owner/
+url: speakers/romain-couturier/talks/il-etait-une-fois-la-vie-dun-product-owner/
 tags:
 - coaching
 - agile

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/antoine-peze/talks/ecoute-active-et-emotions-la-force-des-interviews-exploratoires/
+url: speakers/antoine-peze/talks/ecoute-active-et-emotions-la-force-des-interviews-exploratoires/
 tags:
 - ux
 - design-thinking

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/florian-ferbach/talks/initiation-au-lean-startup/
+url: speakers/florian-ferbach/talks/initiation-au-lean-startup/
 tags:
 - lean-startup
 versions:

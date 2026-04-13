@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/agnes-crepet/talks/lapprentissage-continue-les-mooc/
+url: speakers/agnes-crepet/talks/lapprentissage-continue-les-mooc/
 tags:
 - agile
 - java

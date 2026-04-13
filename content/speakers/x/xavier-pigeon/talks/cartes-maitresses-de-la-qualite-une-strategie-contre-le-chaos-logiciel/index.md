@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-pigeon/talks/cartes-maitresses-de-la-qualite-une-strategie-contre-le-chaos-logiciel/
+url: speakers/xavier-pigeon/talks/cartes-maitresses-de-la-qualite-une-strategie-contre-le-chaos-logiciel/
 tags:
 - strategie
 - test

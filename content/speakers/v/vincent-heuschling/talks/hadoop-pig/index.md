@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-heuschling/talks/hadoop-pig/
+url: speakers/vincent-heuschling/talks/hadoop-pig/
 tags:
 - hadoop
 - nosql

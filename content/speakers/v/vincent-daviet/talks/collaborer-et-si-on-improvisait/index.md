@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-daviet/talks/collaborer-et-si-on-improvisait/
+url: speakers/vincent-daviet/talks/collaborer-et-si-on-improvisait/
 tags:
 - coaching
 - facilitation

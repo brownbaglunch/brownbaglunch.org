@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-bodin/talks/bref-je-suis-coach-agile/
+url: speakers/cedric-bodin/talks/bref-je-suis-coach-agile/
 tags:
 - agile
 - scrum

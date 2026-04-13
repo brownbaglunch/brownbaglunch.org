@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-delbrayelle/talks/kubernetes-pour-orchestrer-nos-containers/
+url: speakers/francois-delbrayelle/talks/kubernetes-pour-orchestrer-nos-containers/
 tags:
 - kubernetes
 - docker

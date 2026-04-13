@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-ehret/talks/industrialiser-la-construction-de-ces-projets-avec-mavenjenkins/
+url: speakers/guillaume-ehret/talks/industrialiser-la-construction-de-ces-projets-avec-mavenjenkins/
 tags:
 - agile
 - android

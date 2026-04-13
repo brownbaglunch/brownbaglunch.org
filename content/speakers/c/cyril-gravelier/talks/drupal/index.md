@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyril-gravelier/talks/drupal/
+url: speakers/cyril-gravelier/talks/drupal/
 tags:
 - php
 - drupal

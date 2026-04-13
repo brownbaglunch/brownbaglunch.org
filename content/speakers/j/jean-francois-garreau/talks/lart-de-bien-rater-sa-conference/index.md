@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-francois-garreau/talks/lart-de-bien-rater-sa-conference/
+url: speakers/jean-francois-garreau/talks/lart-de-bien-rater-sa-conference/
 tags:
 - conseils
 - tech-talks

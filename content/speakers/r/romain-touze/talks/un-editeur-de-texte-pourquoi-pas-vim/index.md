@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-touze/talks/un-editeur-de-texte-pourquoi-pas-vim/
+url: speakers/romain-touze/talks/un-editeur-de-texte-pourquoi-pas-vim/
 tags:
 - vim
 - editeur

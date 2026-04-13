@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-steinmetz/talks/introduction-a-ansible/
+url: speakers/nicolas-steinmetz/talks/introduction-a-ansible/
 tags:
 - automation
 - industrialisation

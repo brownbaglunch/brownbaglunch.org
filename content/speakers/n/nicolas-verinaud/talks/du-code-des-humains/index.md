@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-verinaud/talks/du-code-des-humains/
+url: speakers/nicolas-verinaud/talks/du-code-des-humains/
 tags:
 - software-craftsmanship
 - professionnalisme

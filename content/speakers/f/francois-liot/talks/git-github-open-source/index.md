@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-liot/talks/git-github-open-source/
+url: speakers/francois-liot/talks/git-github-open-source/
 tags:
 - agile
 - automation

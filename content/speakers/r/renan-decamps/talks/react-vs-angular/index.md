@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/renan-decamps/talks/react-vs-angular/
+url: speakers/renan-decamps/talks/react-vs-angular/
 tags:
 - javascript
 - react

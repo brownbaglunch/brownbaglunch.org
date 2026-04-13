@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/olivier-laurendeau/talks/rabbitmq-lafourchette/
+url: speakers/olivier-laurendeau/talks/rabbitmq-lafourchette/
 tags:
 - rabbitmq
 - queue-messaging

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-marin/talks/dautres-sujets/
+url: speakers/xavier-marin/talks/dautres-sujets/
 tags:
 - time-series
 - big-data

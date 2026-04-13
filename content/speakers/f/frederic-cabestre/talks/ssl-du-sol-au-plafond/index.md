@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-cabestre/talks/ssl-du-sol-au-plafond/
+url: speakers/frederic-cabestre/talks/ssl-du-sol-au-plafond/
 tags:
 - ssl
 - akka

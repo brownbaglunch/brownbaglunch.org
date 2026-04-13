@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-heuschling/talks/hadoop-et-son-ecosysteme/
+url: speakers/vincent-heuschling/talks/hadoop-et-son-ecosysteme/
 tags:
 - hadoop
 - nosql

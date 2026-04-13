@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/serge-stinckwich/talks/introduction-a-pharo/
+url: speakers/serge-stinckwich/talks/introduction-a-pharo/
 tags:
 - smalltalk
 - programmation-orientee-objet

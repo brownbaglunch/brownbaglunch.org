@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/emmanuel-longeau/talks/fun-with-function/
+url: speakers/emmanuel-longeau/talks/fun-with-function/
 tags:
 - haskell
 - functional-programming

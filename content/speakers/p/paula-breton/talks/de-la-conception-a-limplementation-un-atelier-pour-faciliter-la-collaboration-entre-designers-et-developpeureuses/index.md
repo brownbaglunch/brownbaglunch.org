@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/paula-breton/talks/de-la-conception-a-limplementation-un-atelier-pour-faciliter-la-collaboration-entre-designers-et-developpeureuses/
+url: speakers/paula-breton/talks/de-la-conception-a-limplementation-un-atelier-pour-faciliter-la-collaboration-entre-designers-et-developpeureuses/
 tags:
 - design
 - developpement

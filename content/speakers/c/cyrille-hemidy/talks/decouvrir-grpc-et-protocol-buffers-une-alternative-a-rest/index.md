@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyrille-hemidy/talks/decouvrir-grpc-et-protocol-buffers-une-alternative-a-rest/
+url: speakers/cyrille-hemidy/talks/decouvrir-grpc-et-protocol-buffers-une-alternative-a-rest/
 tags:
 - architecture
 - grpc

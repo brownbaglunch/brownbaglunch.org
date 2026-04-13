@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-bodin/talks/petits-pecha-kucha-entre-amis/
+url: speakers/cedric-bodin/talks/petits-pecha-kucha-entre-amis/
 tags:
 - agile
 - scrum

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/agnes-crepet/talks/testons-testons-testons/
+url: speakers/agnes-crepet/talks/testons-testons-testons/
 tags:
 - agile
 - java

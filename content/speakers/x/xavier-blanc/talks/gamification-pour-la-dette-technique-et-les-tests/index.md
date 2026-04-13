@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-blanc/talks/gamification-pour-la-dette-technique-et-les-tests/
+url: speakers/xavier-blanc/talks/gamification-pour-la-dette-technique-et-les-tests/
 tags:
 - gamification
 - dette-technique

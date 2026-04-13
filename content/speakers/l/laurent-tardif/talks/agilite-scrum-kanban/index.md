@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-tardif/talks/agilite-scrum-kanban/
+url: speakers/laurent-tardif/talks/agilite-scrum-kanban/
 tags:
 - agile
 - scrum

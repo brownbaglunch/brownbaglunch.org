@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/ronan-guilloux/talks/vos-premieres-aventures-avec-raspberry-pi/
+url: speakers/ronan-guilloux/talks/vos-premieres-aventures-avec-raspberry-pi/
 tags:
 - php
 - silex

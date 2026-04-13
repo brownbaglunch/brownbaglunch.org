@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nelson-dionisi/talks/ce-que-les-developpeurs-doivent-savoir-sur-les-index/
+url: speakers/nelson-dionisi/talks/ce-que-les-developpeurs-doivent-savoir-sur-les-index/
 tags:
 - database
 - postgresql

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-f-gouchet/talks/les-code-reviews-zen-general/
+url: speakers/xavier-f-gouchet/talks/les-code-reviews-zen-general/
 tags:
 - code-review
 - team

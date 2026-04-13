@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/sql2nosql/
+url: speakers/david-pilato/talks/sql2nosql/
 tags:
   - elasticsearch
   - nosql

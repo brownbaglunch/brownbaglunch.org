@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-bitaudeau/talks/discussions-informelles/
+url: speakers/guillaume-bitaudeau/talks/discussions-informelles/
 tags:
 - java
 - agile

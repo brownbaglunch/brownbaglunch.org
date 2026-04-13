@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-laine/talks/developper-en-c-pour-le-cloud/
+url: speakers/vincent-laine/talks/developper-en-c-pour-le-cloud/
 tags:
 - developpement
 - net

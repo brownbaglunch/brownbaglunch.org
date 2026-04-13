@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-francois-garreau/talks/pourquoi-les-pwa-sont-la-prochaine-etape-majeure-du-web-et-y-passer-des-aujourdhui/
+url: speakers/jean-francois-garreau/talks/pourquoi-les-pwa-sont-la-prochaine-etape-majeure-du-web-et-y-passer-des-aujourdhui/
 tags:
 - pwa
 - web

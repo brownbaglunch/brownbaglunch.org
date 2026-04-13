@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/loic-knuchel/talks/anatomie-dun-plugin-cordova/
+url: speakers/loic-knuchel/talks/anatomie-dun-plugin-cordova/
 tags:
 - scala
 - angularjs

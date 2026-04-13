@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-nopre/talks/divers-agilite-ou-developpement-java-web/
+url: speakers/xavier-nopre/talks/divers-agilite-ou-developpement-java-web/
 tags:
 - developpement
 - agile

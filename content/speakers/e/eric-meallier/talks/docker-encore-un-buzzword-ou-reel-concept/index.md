@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/eric-meallier/talks/docker-encore-un-buzzword-ou-reel-concept/
+url: speakers/eric-meallier/talks/docker-encore-un-buzzword-ou-reel-concept/
 tags:
 - java
 - jboss

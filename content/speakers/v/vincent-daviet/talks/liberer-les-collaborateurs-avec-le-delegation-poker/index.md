@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-daviet/talks/liberer-les-collaborateurs-avec-le-delegation-poker/
+url: speakers/vincent-daviet/talks/liberer-les-collaborateurs-avec-le-delegation-poker/
 tags:
 - coaching
 - facilitation

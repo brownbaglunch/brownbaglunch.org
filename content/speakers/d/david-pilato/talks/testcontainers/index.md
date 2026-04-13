@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/testcontainers/
+url: speakers/david-pilato/talks/testcontainers/
 tags:
   - elasticsearch
   - java

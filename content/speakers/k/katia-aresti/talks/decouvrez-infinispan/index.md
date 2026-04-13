@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/katia-aresti/talks/decouvrez-infinispan/
+url: speakers/katia-aresti/talks/decouvrez-infinispan/
 tags:
 - infinispan
 - cache

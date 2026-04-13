@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/stephane-vanacker/talks/reussir-un-projet-en-microservices/
+url: speakers/stephane-vanacker/talks/reussir-un-projet-en-microservices/
 tags:
 - architecture
 - microservices

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/philippe-prados/talks/architecture-android/
+url: speakers/philippe-prados/talks/architecture-android/
 tags:
 - architecture
 - scala

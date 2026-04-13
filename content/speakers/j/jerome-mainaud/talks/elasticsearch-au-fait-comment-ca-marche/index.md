@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jerome-mainaud/talks/elasticsearch-au-fait-comment-ca-marche/
+url: speakers/jerome-mainaud/talks/elasticsearch-au-fait-comment-ca-marche/
 tags:
 - elasticsearch
 versions:

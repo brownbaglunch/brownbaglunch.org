@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-friess/talks/microservice-comment-peler-le-monolith-et-en-faire-de-bonnes-frites/
+url: speakers/sebastien-friess/talks/microservice-comment-peler-le-monolith-et-en-faire-de-bonnes-frites/
 tags:
 - microservices
 - architecture

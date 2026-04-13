@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/matthieu-segret/talks/ruby-on-rails/
+url: speakers/matthieu-segret/talks/ruby-on-rails/
 tags:
 - ruby
 - ruby-on-rails

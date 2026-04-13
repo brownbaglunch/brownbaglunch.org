@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-munsch/talks/ce-nest-pas-scrum-ca/
+url: speakers/david-munsch/talks/ce-nest-pas-scrum-ca/
 tags:
 - agile
 - scrum

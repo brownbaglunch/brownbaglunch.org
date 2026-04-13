@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cecile-especel/talks/introduction-aux-methodes-agiles/
+url: speakers/cecile-especel/talks/introduction-aux-methodes-agiles/
 tags:
 - agile
 - serious-game

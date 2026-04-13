@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-spiewak/talks/continuous-delivery-avec-gocd/
+url: speakers/vincent-spiewak/talks/continuous-delivery-avec-gocd/
 tags:
 - agile
 - lean-startup

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/augustin-de-laveaucoupet/talks/docker-sur-votre-poste-de-dev-comme-en-prod/
+url: speakers/augustin-de-laveaucoupet/talks/docker-sur-votre-poste-de-dev-comme-en-prod/
 tags:
 - symfony2
 - performance

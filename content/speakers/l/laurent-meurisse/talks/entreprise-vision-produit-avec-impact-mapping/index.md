@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-meurisse/talks/entreprise-vision-produit-avec-impact-mapping/
+url: speakers/laurent-meurisse/talks/entreprise-vision-produit-avec-impact-mapping/
 tags:
 - agile
 - lean-startup

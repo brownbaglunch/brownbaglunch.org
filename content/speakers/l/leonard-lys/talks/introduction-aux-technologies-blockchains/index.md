@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/leonard-lys/talks/introduction-aux-technologies-blockchains/
+url: speakers/leonard-lys/talks/introduction-aux-technologies-blockchains/
 tags:
 - blockchain
 - bitcoin

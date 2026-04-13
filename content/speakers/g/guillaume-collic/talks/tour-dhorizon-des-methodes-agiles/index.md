@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-collic/talks/tour-dhorizon-des-methodes-agiles/
+url: speakers/guillaume-collic/talks/tour-dhorizon-des-methodes-agiles/
 tags:
 - agile
 - kanban

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gael-prudhomme/talks/premier-pas-de-geant-sur-aws/
+url: speakers/gael-prudhomme/talks/premier-pas-de-geant-sur-aws/
 tags:
 - aws
 - devops

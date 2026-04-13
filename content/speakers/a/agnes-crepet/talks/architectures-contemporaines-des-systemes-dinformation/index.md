@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/agnes-crepet/talks/architectures-contemporaines-des-systemes-dinformation/
+url: speakers/agnes-crepet/talks/architectures-contemporaines-des-systemes-dinformation/
 tags:
 - agile
 - java

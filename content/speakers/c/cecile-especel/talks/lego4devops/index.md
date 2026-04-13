@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cecile-especel/talks/lego4devops/
+url: speakers/cecile-especel/talks/lego4devops/
 tags:
 - agile
 - serious-game

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/natacha-fourmy-mangin/talks/cauchemar-en-agile/
+url: speakers/natacha-fourmy-mangin/talks/cauchemar-en-agile/
 tags:
 - scrum
 - agile

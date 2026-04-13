@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/antoine-peze/talks/le-design-thinking-au-service-de-votre-innovation/
+url: speakers/antoine-peze/talks/le-design-thinking-au-service-de-votre-innovation/
 tags:
 - ux
 - innovation

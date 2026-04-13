@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/baptiste-mathus/talks/git-pourquoi-cest-cool/
+url: speakers/baptiste-mathus/talks/git-pourquoi-cest-cool/
 tags:
 - jenkins
 - docker

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-delbrayelle/talks/micronaut-et-quarkus-lavenir-du-monde-java/
+url: speakers/francois-delbrayelle/talks/micronaut-et-quarkus-lavenir-du-monde-java/
 tags:
 - java
 - micronaut

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/dridi-boukelmoune/talks/le-tour-de-varnish-en-80-jours/
+url: speakers/dridi-boukelmoune/talks/le-tour-de-varnish-en-80-jours/
 tags:
 - varnish
 - cache

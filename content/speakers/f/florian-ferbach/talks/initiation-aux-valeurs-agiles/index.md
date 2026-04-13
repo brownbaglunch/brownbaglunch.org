@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/florian-ferbach/talks/initiation-aux-valeurs-agiles/
+url: speakers/florian-ferbach/talks/initiation-aux-valeurs-agiles/
 tags:
 - agile
 versions:

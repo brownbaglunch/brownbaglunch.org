@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-louis-rigau/talks/continuous-deployment-avec-cloudbees/
+url: speakers/jean-louis-rigau/talks/continuous-deployment-avec-cloudbees/
 tags:
 - cloud
 - usine-logicielle

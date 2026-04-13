@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/dimitri-fontaine/talks/architectures-postgresql/
+url: speakers/dimitri-fontaine/talks/architectures-postgresql/
 tags:
 - postgresql
 - pgloader

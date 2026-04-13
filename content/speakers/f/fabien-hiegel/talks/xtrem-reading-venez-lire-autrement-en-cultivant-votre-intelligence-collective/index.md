@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-hiegel/talks/xtrem-reading-venez-lire-autrement-en-cultivant-votre-intelligence-collective/
+url: speakers/fabien-hiegel/talks/xtrem-reading-venez-lire-autrement-en-cultivant-votre-intelligence-collective/
 tags:
 - workshop
 - intelligence-collective

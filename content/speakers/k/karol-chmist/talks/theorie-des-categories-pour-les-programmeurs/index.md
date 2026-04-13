@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/karol-chmist/talks/theorie-des-categories-pour-les-programmeurs/
+url: speakers/karol-chmist/talks/theorie-des-categories-pour-les-programmeurs/
 tags:
 - functional-programming
 - scala

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-gatay/talks/retour-dexperience-sur-la-plateforme-de-test-mise-en-place-pour-srmvision/
+url: speakers/cedric-gatay/talks/retour-dexperience-sur-la-plateforme-de-test-mise-en-place-pour-srmvision/
 tags:
 - continuous-integration
 - maven

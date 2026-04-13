@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-ledez/talks/devops-lafter-agile/
+url: speakers/nicolas-ledez/talks/devops-lafter-agile/
 tags:
 - cloud
 - devops

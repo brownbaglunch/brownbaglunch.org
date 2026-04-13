@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/johan-bonneau/talks/le-framework-safe-en-moins-dune-heure/
+url: speakers/johan-bonneau/talks/le-framework-safe-en-moins-dune-heure/
 tags:
 - agile
 - safe

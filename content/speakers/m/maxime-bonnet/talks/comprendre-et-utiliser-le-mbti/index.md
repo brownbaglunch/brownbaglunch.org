@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maxime-bonnet/talks/comprendre-et-utiliser-le-mbti/
+url: speakers/maxime-bonnet/talks/comprendre-et-utiliser-le-mbti/
 tags:
 - agile
 - serious-game

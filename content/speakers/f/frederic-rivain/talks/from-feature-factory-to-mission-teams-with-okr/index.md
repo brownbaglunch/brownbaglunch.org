@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-rivain/talks/from-feature-factory-to-mission-teams-with-okr/
+url: speakers/frederic-rivain/talks/from-feature-factory-to-mission-teams-with-okr/
 tags:
 - management
 - agile

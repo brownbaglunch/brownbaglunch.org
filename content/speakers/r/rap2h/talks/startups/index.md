@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/rap2h/talks/startups/
+url: speakers/rap2h/talks/startups/
 tags:
 - fail
 versions:

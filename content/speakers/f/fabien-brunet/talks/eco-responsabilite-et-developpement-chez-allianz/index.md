@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-brunet/talks/eco-responsabilite-et-developpement-chez-allianz/
+url: speakers/fabien-brunet/talks/eco-responsabilite-et-developpement-chez-allianz/
 tags:
 - frontend
 - developpement

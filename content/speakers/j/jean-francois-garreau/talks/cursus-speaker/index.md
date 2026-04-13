@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-francois-garreau/talks/cursus-speaker/
+url: speakers/jean-francois-garreau/talks/cursus-speaker/
 tags:
 - conseils
 - tech-talks

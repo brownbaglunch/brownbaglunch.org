@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyrille-hemidy/talks/decouvrir-firebase/
+url: speakers/cyrille-hemidy/talks/decouvrir-firebase/
 tags:
 - cloud
 - firebase

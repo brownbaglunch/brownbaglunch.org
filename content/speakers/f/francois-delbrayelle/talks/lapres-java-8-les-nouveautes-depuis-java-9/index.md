@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-delbrayelle/talks/lapres-java-8-les-nouveautes-depuis-java-9/
+url: speakers/francois-delbrayelle/talks/lapres-java-8-les-nouveautes-depuis-java-9/
 tags:
 - developpement
 - java

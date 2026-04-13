@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-pesme-cansar/talks/tendances-des-applications-mobiles-android-ios/
+url: speakers/sebastien-pesme-cansar/talks/tendances-des-applications-mobiles-android-ios/
 tags:
 - android
 - ios

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/loic-knuchel/talks/introduction-a-ionic-framework/
+url: speakers/loic-knuchel/talks/introduction-a-ionic-framework/
 tags:
 - scala
 - angularjs

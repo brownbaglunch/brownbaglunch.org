@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thierry-leriche-dessirier/talks/lombok-pour-la-paix/
+url: speakers/thierry-leriche-dessirier/talks/lombok-pour-la-paix/
 tags:
 - java
 - guava

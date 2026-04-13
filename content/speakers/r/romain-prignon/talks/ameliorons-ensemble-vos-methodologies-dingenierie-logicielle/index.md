@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-prignon/talks/ameliorons-ensemble-vos-methodologies-dingenierie-logicielle/
+url: speakers/romain-prignon/talks/ameliorons-ensemble-vos-methodologies-dingenierie-logicielle/
 tags:
 - quality
 - methodes

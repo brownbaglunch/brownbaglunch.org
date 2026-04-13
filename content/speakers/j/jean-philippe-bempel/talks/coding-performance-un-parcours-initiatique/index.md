@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-philippe-bempel/talks/coding-performance-un-parcours-initiatique/
+url: speakers/jean-philippe-bempel/talks/coding-performance-un-parcours-initiatique/
 tags:
 - jvm
 - performance

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thomas-zilliox/talks/combien-vous-coute-vraiment-le-support-ie7/
+url: speakers/thomas-zilliox/talks/combien-vous-coute-vraiment-le-support-ie7/
 tags:
 - css
 - bem

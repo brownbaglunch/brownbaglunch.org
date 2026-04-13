@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/faten-habachi/talks/introduction-au-design-thinking-et-approche-ux/
+url: speakers/faten-habachi/talks/introduction-au-design-thinking-et-approche-ux/
 tags:
 - ux
 - ux-designer

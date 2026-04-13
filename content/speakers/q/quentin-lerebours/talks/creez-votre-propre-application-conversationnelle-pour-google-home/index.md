@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/quentin-lerebours/talks/creez-votre-propre-application-conversationnelle-pour-google-home/
+url: speakers/quentin-lerebours/talks/creez-votre-propre-application-conversationnelle-pour-google-home/
 tags:
 - googlehome
 - actions-on-google

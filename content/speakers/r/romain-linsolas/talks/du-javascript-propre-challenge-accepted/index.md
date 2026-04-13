@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-linsolas/talks/du-javascript-propre-challenge-accepted/
+url: speakers/romain-linsolas/talks/du-javascript-propre-challenge-accepted/
 tags:
 - javascript
 - usine-logicielle

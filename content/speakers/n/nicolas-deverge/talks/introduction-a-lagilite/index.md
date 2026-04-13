@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-deverge/talks/introduction-a-lagilite/
+url: speakers/nicolas-deverge/talks/introduction-a-lagilite/
 tags:
 - agile
 - code

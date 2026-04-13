@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/fscrawler/
+url: speakers/david-pilato/talks/fscrawler/
 tags:
   - elasticsearch
   - fscrawler

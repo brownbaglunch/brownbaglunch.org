@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/olivier-laurendeau/talks/atelier-decouverte-de-rabbitmq/
+url: speakers/olivier-laurendeau/talks/atelier-decouverte-de-rabbitmq/
 tags:
 - workshop
 - rabbitmq

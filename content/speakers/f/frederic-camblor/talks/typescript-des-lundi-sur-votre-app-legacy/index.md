@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-camblor/talks/typescript-des-lundi-sur-votre-app-legacy/
+url: speakers/frederic-camblor/talks/typescript-des-lundi-sur-votre-app-legacy/
 tags:
 - typescript
 - typings

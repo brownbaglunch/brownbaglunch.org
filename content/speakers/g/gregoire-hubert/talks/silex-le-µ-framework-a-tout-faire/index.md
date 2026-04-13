@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gregoire-hubert/talks/silex-le-µ-framework-a-tout-faire/
+url: speakers/gregoire-hubert/talks/silex-le-µ-framework-a-tout-faire/
 tags:
 - php
 - postgresql

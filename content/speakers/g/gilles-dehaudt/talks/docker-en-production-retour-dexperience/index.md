@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gilles-dehaudt/talks/docker-en-production-retour-dexperience/
+url: speakers/gilles-dehaudt/talks/docker-en-production-retour-dexperience/
 tags:
 - linux
 - systeme

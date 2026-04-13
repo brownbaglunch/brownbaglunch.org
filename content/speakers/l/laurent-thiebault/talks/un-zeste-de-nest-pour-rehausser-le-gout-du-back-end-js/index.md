@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-thiebault/talks/un-zeste-de-nest-pour-rehausser-le-gout-du-back-end-js/
+url: speakers/laurent-thiebault/talks/un-zeste-de-nest-pour-rehausser-le-gout-du-back-end-js/
 tags:
 - nodejs
 - nestjs

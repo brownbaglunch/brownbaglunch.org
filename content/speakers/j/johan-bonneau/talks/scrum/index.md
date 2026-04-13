@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/johan-bonneau/talks/scrum/
+url: speakers/johan-bonneau/talks/scrum/
 tags:
 - agile
 - scrum

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nathaniel-richand/talks/agilite-un-pas-plus-loin/
+url: speakers/nathaniel-richand/talks/agilite-un-pas-plus-loin/
 tags:
 - agile
 versions:

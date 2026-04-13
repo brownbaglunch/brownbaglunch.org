@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gerald-quintana/talks/apache-kafka-introduction/
+url: speakers/gerald-quintana/talks/apache-kafka-introduction/
 tags:
 - kafka
 versions:

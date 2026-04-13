@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathilde-lemee/talks/cache-bigdata/
+url: speakers/mathilde-lemee/talks/cache-bigdata/
 tags:
 - cache
 - big-data

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/clement-bichel/talks/scrum/
+url: speakers/clement-bichel/talks/scrum/
 tags:
 - scrum
 - agile

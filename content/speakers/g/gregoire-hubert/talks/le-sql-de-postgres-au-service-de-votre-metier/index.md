@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gregoire-hubert/talks/le-sql-de-postgres-au-service-de-votre-metier/
+url: speakers/gregoire-hubert/talks/le-sql-de-postgres-au-service-de-votre-metier/
 tags:
 - php
 - postgresql

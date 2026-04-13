@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-laurent/talks/introduction-a-react/
+url: speakers/romain-laurent/talks/introduction-a-react/
 tags:
 - react
 - javascript

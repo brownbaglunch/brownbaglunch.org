@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-roy/talks/se-lancer-dans-laventure-microservices-avec-spring-cloud/
+url: speakers/julien-roy/talks/se-lancer-dans-laventure-microservices-avec-spring-cloud/
 tags:
 - code
 - java

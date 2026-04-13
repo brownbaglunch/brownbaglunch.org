@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/johan-martinsson/talks/la-pyramide-des-tests-dou-sort-il/
+url: speakers/johan-martinsson/talks/la-pyramide-des-tests-dou-sort-il/
 tags:
 - legacy-code
 - test

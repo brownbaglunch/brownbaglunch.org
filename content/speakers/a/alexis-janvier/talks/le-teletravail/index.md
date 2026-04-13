@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alexis-janvier/talks/le-teletravail/
+url: speakers/alexis-janvier/talks/le-teletravail/
 tags:
 - remote
 - teletravail

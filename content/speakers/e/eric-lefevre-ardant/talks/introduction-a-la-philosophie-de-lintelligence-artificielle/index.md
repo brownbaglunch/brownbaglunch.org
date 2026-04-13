@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/eric-lefevre-ardant/talks/introduction-a-la-philosophie-de-lintelligence-artificielle/
+url: speakers/eric-lefevre-ardant/talks/introduction-a-la-philosophie-de-lintelligence-artificielle/
 tags:
 - intelligence-artificielle
 versions:

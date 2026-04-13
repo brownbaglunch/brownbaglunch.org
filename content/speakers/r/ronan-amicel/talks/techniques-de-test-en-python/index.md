@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/ronan-amicel/talks/techniques-de-test-en-python/
+url: speakers/ronan-amicel/talks/techniques-de-test-en-python/
 tags:
 - python
 - test

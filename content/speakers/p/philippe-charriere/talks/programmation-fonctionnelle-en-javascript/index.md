@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/philippe-charriere/talks/programmation-fonctionnelle-en-javascript/
+url: speakers/philippe-charriere/talks/programmation-fonctionnelle-en-javascript/
 tags:
 - functional-programming
 - javascript

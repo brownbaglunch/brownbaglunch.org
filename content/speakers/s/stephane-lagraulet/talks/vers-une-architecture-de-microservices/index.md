@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/stephane-lagraulet/talks/vers-une-architecture-de-microservices/
+url: speakers/stephane-lagraulet/talks/vers-une-architecture-de-microservices/
 tags:
 - solr
 - microservices

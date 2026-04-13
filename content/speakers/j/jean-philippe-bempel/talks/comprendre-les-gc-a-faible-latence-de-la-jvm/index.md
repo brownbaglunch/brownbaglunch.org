@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-philippe-bempel/talks/comprendre-les-gc-a-faible-latence-de-la-jvm/
+url: speakers/jean-philippe-bempel/talks/comprendre-les-gc-a-faible-latence-de-la-jvm/
 tags:
 - jvm
 - gc

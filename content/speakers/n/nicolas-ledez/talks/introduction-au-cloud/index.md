@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-ledez/talks/introduction-au-cloud/
+url: speakers/nicolas-ledez/talks/introduction-au-cloud/
 tags:
 - cloud
 - devops

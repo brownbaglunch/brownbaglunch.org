@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathilde-lemee/talks/les-tests/
+url: speakers/mathilde-lemee/talks/les-tests/
 tags:
 - cache
 - big-data

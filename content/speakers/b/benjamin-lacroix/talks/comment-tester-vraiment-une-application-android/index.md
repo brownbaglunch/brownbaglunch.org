@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/benjamin-lacroix/talks/comment-tester-vraiment-une-application-android/
+url: speakers/benjamin-lacroix/talks/comment-tester-vraiment-une-application-android/
 tags:
 - java
 - android

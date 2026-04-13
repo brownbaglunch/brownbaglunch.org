@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sylvain-monteillet/talks/collaborer-avec-git/
+url: speakers/sylvain-monteillet/talks/collaborer-avec-git/
 tags:
 - git
 versions:

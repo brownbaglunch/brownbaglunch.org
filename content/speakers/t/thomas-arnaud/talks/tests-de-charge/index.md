@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thomas-arnaud/talks/tests-de-charge/
+url: speakers/thomas-arnaud/talks/tests-de-charge/
 tags:
 - java
 - performance

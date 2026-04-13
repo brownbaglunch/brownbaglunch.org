@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/damien-cavailles/talks/dev-to-maker/
+url: speakers/damien-cavailles/talks/dev-to-maker/
 tags:
 - android
 - ios

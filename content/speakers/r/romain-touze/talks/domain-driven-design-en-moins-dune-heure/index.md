@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-touze/talks/domain-driven-design-en-moins-dune-heure/
+url: speakers/romain-touze/talks/domain-driven-design-en-moins-dune-heure/
 tags:
 - domain-driven-design
 - conception

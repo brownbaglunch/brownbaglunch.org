@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/arnaud-tournier/talks/faciliter-le-developpement-dapplications-web-hors-ligne-avec-gwt/
+url: speakers/arnaud-tournier/talks/faciliter-le-developpement-dapplications-web-hors-ligne-avec-gwt/
 tags:
 - gwt
 - appengine

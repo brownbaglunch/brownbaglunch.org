@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-mouron/talks/construire-un-moteur-de-regles-en-c-en-1h-chrono/
+url: speakers/guillaume-mouron/talks/construire-un-moteur-de-regles-en-c-en-1h-chrono/
 tags:
 - live-coding
 - c

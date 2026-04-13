@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yannick-grenzinger/talks/developper-le-bon-produit-avec-le-lean-canvas/
+url: speakers/yannick-grenzinger/talks/developper-le-bon-produit-avec-le-lean-canvas/
 tags:
 - produit
 - lean-startup

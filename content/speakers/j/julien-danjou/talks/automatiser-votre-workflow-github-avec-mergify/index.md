@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-danjou/talks/automatiser-votre-workflow-github-avec-mergify/
+url: speakers/julien-danjou/talks/automatiser-votre-workflow-github-avec-mergify/
 tags:
 - git
 - github

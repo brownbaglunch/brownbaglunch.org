@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/arnaud-tournier/talks/gwt-en-general-et-en-particulier/
+url: speakers/arnaud-tournier/talks/gwt-en-general-et-en-particulier/
 tags:
 - gwt
 - appengine

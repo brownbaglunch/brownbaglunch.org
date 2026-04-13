@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-martignole/talks/http-et-architectures-orientees-webs/
+url: speakers/nicolas-martignole/talks/http-et-architectures-orientees-webs/
 tags:
 - presentation
 - startup

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyril-lakech/talks/la-technologie-conduite-par-les-communautes-a-lechelle/
+url: speakers/cyril-lakech/talks/la-technologie-conduite-par-les-communautes-a-lechelle/
 tags:
 - developpeur
 - technologie

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/michael-bitard/talks/coding-dojo-java/
+url: speakers/michael-bitard/talks/coding-dojo-java/
 tags:
 - java
 - scrum

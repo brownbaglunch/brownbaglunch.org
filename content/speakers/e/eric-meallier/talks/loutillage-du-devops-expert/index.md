@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/eric-meallier/talks/loutillage-du-devops-expert/
+url: speakers/eric-meallier/talks/loutillage-du-devops-expert/
 tags:
 - agile
 - operation

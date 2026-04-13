@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-pauli/talks/les-fondamentaux-de-la-cryptographie/
+url: speakers/julien-pauli/talks/les-fondamentaux-de-la-cryptographie/
 tags:
 - cryptographie
 - xor

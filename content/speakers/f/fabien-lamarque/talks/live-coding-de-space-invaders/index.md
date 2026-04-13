@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-lamarque/talks/live-coding-de-space-invaders/
+url: speakers/fabien-lamarque/talks/live-coding-de-space-invaders/
 tags:
 - javascript
 - live-coding

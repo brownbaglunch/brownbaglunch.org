@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-philippe-bempel/talks/clr-jvm-differences-dimplementation/
+url: speakers/jean-philippe-bempel/talks/clr-jvm-differences-dimplementation/
 tags:
 - jvm
 - clr

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alvin-berthelot/talks/sass-pratique-tout-de-suite/
+url: speakers/alvin-berthelot/talks/sass-pratique-tout-de-suite/
 tags:
 - workshop
 - sass

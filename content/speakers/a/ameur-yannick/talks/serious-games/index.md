@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/ameur-yannick/talks/serious-games/
+url: speakers/ameur-yannick/talks/serious-games/
 tags:
 - agile
 - product-owner

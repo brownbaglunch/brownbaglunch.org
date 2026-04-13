@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-f-gouchet/talks/property-based-testing-javakotlinandroid/
+url: speakers/xavier-f-gouchet/talks/property-based-testing-javakotlinandroid/
 tags:
 - test
 - coverage

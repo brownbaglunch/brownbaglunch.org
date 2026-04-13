@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/rudy-baer/talks/les-outils-numeriques-de-lentrepreneur/
+url: speakers/rudy-baer/talks/les-outils-numeriques-de-lentrepreneur/
 tags:
 - entreprendre
 - entrepreneur

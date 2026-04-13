@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-maron/talks/involve-your-engineering-team-in-the-recruitment-process/
+url: speakers/guillaume-maron/talks/involve-your-engineering-team-in-the-recruitment-process/
 tags:
 - engineering-team
 - recruiting

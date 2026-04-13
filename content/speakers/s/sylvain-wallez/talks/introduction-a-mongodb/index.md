@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sylvain-wallez/talks/introduction-a-mongodb/
+url: speakers/sylvain-wallez/talks/introduction-a-mongodb/
 tags:
 - nosql
 - mongodb

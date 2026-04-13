@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathieu-hausherr/talks/mode-offline-mon-application-mobile-fonctionne-au-nieau-5-dun-parking/
+url: speakers/mathieu-hausherr/talks/mode-offline-mon-application-mobile-fonctionne-au-nieau-5-dun-parking/
 tags:
 - mobile
 - ios

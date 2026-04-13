@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-muller/talks/influxdb-la-base-de-donnees-chronologique-opensource-autonome/
+url: speakers/nicolas-muller/talks/influxdb-la-base-de-donnees-chronologique-opensource-autonome/
 tags:
 - docker
 - consul-io

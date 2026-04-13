@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-steinmetz/talks/introduction-a-la-plateforme-docker/
+url: speakers/nicolas-steinmetz/talks/introduction-a-la-plateforme-docker/
 tags:
 - docker
 - container

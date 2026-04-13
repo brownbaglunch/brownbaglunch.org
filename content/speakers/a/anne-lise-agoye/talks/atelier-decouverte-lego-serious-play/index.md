@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/anne-lise-agoye/talks/atelier-decouverte-lego-serious-play/
+url: speakers/anne-lise-agoye/talks/atelier-decouverte-lego-serious-play/
 tags:
 - lego
 - intelligence-collective

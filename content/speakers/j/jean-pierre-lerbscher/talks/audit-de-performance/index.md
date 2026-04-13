@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-pierre-lerbscher/talks/audit-de-performance/
+url: speakers/jean-pierre-lerbscher/talks/audit-de-performance/
 tags:
 - performance
 - javaee

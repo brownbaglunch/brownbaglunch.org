@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/bruno-heridet/talks/window-managers-keyboards/
+url: speakers/bruno-heridet/talks/window-managers-keyboards/
 tags:
 - outils
 versions:

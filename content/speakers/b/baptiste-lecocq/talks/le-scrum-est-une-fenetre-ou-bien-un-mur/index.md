@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/baptiste-lecocq/talks/le-scrum-est-une-fenetre-ou-bien-un-mur/
+url: speakers/baptiste-lecocq/talks/le-scrum-est-une-fenetre-ou-bien-un-mur/
 tags:
 - scrum
 - culture

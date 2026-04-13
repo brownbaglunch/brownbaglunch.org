@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/aurelien-loyer/talks/attention-ne-mets-pas-cette-cle-tu-risques-de-te-faire-hacker-tres-fort/
+url: speakers/aurelien-loyer/talks/attention-ne-mets-pas-cette-cle-tu-risques-de-te-faire-hacker-tres-fort/
 tags:
 - bad-usb
 - diy

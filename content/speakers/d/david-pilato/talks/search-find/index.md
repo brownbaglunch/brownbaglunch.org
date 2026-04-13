@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/search-find/
+url: speakers/david-pilato/talks/search-find/
 tags:
   - elasticsearch
 versions:

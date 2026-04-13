@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/clement-danjou/talks/internationalisation-du-front-end/
+url: speakers/clement-danjou/talks/internationalisation-du-front-end/
 tags:
 - internationalisation
 - i18n

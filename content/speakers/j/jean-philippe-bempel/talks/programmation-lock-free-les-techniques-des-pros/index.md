@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-philippe-bempel/talks/programmation-lock-free-les-techniques-des-pros/
+url: speakers/jean-philippe-bempel/talks/programmation-lock-free-les-techniques-des-pros/
 tags:
 - cpu
 - jit

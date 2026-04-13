@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-francois-garreau/talks/jai-beaucoup-de-taf-mais-je-gere/
+url: speakers/jean-francois-garreau/talks/jai-beaucoup-de-taf-mais-je-gere/
 tags:
 - conseils
 - tech-talks

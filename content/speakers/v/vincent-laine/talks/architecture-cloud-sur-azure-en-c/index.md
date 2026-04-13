@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-laine/talks/architecture-cloud-sur-azure-en-c/
+url: speakers/vincent-laine/talks/architecture-cloud-sur-azure-en-c/
 tags:
 - developpement
 - net

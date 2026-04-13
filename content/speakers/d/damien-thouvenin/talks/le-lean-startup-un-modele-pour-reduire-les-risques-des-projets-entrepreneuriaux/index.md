@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/damien-thouvenin/talks/le-lean-startup-un-modele-pour-reduire-les-risques-des-projets-entrepreneuriaux/
+url: speakers/damien-thouvenin/talks/le-lean-startup-un-modele-pour-reduire-les-risques-des-projets-entrepreneuriaux/
 tags:
 - agile
 - management

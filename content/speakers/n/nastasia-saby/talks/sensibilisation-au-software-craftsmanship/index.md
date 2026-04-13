@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nastasia-saby/talks/sensibilisation-au-software-craftsmanship/
+url: speakers/nastasia-saby/talks/sensibilisation-au-software-craftsmanship/
 tags:
 - software-craftsmanship
 versions:

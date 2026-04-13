@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-gatay/talks/git-moi-aussi/
+url: speakers/cedric-gatay/talks/git-moi-aussi/
 tags:
 - continuous-integration
 - maven

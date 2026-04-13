@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-laurent/talks/introduction-a-redux/
+url: speakers/romain-laurent/talks/introduction-a-redux/
 tags:
 - react
 - redux

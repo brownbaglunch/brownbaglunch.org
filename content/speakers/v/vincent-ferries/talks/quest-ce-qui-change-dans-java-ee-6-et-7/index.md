@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-ferries/talks/quest-ce-qui-change-dans-java-ee-6-et-7/
+url: speakers/vincent-ferries/talks/quest-ce-qui-change-dans-java-ee-6-et-7/
 tags:
 - javaee
 - android

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/geoffroy-couprie/talks/optimisation-ssl/
+url: speakers/geoffroy-couprie/talks/optimisation-ssl/
 tags:
 - security
 - cryptographie

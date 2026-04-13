@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/philippe-chevreul/talks/le-bon-sens-au-service-de-vos-utilisateurs/
+url: speakers/philippe-chevreul/talks/le-bon-sens-au-service-de-vos-utilisateurs/
 tags:
 - ergonomie
 - ux

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/dimitri-fontaine/talks/le-chargement-de-donnees-avec-postgresql-et-pgloader/
+url: speakers/dimitri-fontaine/talks/le-chargement-de-donnees-avec-postgresql-et-pgloader/
 tags:
 - postgresql
 - pgloader

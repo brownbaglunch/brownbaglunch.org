@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/constantin-guay/talks/impact-comment-prendre-des-decision-quand-on-est-po/
+url: speakers/constantin-guay/talks/impact-comment-prendre-des-decision-quand-on-est-po/
 tags:
 - agile
 - scrum

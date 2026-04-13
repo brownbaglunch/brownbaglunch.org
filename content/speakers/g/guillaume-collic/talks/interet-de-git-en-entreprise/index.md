@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-collic/talks/interet-de-git-en-entreprise/
+url: speakers/guillaume-collic/talks/interet-de-git-en-entreprise/
 tags:
 - agile
 - kanban

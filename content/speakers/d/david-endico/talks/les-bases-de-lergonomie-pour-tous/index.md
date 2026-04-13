@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-endico/talks/les-bases-de-lergonomie-pour-tous/
+url: speakers/david-endico/talks/les-bases-de-lergonomie-pour-tous/
 tags:
 - ui
 - ux

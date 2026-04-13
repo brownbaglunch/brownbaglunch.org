@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/melanie-foucher/talks/comment-captiver-votre-public-en-montrant-moins-mais-mieux/
+url: speakers/melanie-foucher/talks/comment-captiver-votre-public-en-montrant-moins-mais-mieux/
 tags:
 - design
 - presentation

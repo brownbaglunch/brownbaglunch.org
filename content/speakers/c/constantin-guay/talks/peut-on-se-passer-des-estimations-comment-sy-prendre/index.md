@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/constantin-guay/talks/peut-on-se-passer-des-estimations-comment-sy-prendre/
+url: speakers/constantin-guay/talks/peut-on-se-passer-des-estimations-comment-sy-prendre/
 tags:
 - agile
 - scrum

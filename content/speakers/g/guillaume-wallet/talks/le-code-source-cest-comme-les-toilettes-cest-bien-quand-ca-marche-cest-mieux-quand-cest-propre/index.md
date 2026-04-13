@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-wallet/talks/le-code-source-cest-comme-les-toilettes-cest-bien-quand-ca-marche-cest-mieux-quand-cest-propre/
+url: speakers/guillaume-wallet/talks/le-code-source-cest-comme-les-toilettes-cest-bien-quand-ca-marche-cest-mieux-quand-cest-propre/
 tags:
 - clean-code
 - refactoring

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maxime-brehin/talks/git-hooks-automatisons-la-qualite-a-fond-les-ballons/
+url: speakers/maxime-brehin/talks/git-hooks-automatisons-la-qualite-a-fond-les-ballons/
 tags:
 - git
 - automation

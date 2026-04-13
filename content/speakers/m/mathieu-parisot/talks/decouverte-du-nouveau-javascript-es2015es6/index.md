@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathieu-parisot/talks/decouverte-du-nouveau-javascript-es2015es6/
+url: speakers/mathieu-parisot/talks/decouverte-du-nouveau-javascript-es2015es6/
 tags:
 - responsive
 - html5

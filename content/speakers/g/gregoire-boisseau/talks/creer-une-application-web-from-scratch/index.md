@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gregoire-boisseau/talks/creer-une-application-web-from-scratch/
+url: speakers/gregoire-boisseau/talks/creer-une-application-web-from-scratch/
 tags:
 - architecture
 - react

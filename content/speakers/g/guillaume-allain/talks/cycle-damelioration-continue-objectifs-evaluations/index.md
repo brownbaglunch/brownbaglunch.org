@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-allain/talks/cycle-damelioration-continue-objectifs-evaluations/
+url: speakers/guillaume-allain/talks/cycle-damelioration-continue-objectifs-evaluations/
 tags:
 - objectifs
 - lean-startup

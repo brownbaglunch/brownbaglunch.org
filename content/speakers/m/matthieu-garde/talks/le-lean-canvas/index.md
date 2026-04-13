@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/matthieu-garde/talks/le-lean-canvas/
+url: speakers/matthieu-garde/talks/le-lean-canvas/
 tags:
 - lean-startup
 - entrepreneuriat

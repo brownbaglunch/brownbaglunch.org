@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyrille-martraire/talks/ddd-games/
+url: speakers/cyrille-martraire/talks/ddd-games/
 tags:
 - domain-driven-design
 - bdd

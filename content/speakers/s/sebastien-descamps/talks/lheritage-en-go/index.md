@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-descamps/talks/lheritage-en-go/
+url: speakers/sebastien-descamps/talks/lheritage-en-go/
 tags:
 - golang
 versions:

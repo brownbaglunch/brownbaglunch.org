@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yannick-grenzinger/talks/continuous-delivery-devops/
+url: speakers/yannick-grenzinger/talks/continuous-delivery-devops/
 tags:
 - continuous-delivery
 - devops

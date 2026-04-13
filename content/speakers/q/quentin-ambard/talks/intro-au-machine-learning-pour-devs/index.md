@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/quentin-ambard/talks/intro-au-machine-learning-pour-devs/
+url: speakers/quentin-ambard/talks/intro-au-machine-learning-pour-devs/
 tags:
 - machine-learning
 - reseau-de-neurones

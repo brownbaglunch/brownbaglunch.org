@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/lou-theo-laurent/talks/quel-futur-pour-angular-vu-de-2023-2024/
+url: speakers/lou-theo-laurent/talks/quel-futur-pour-angular-vu-de-2023-2024/
 tags:
 - javascript
 - typescript

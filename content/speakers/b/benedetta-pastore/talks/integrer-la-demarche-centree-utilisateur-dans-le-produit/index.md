@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/benedetta-pastore/talks/integrer-la-demarche-centree-utilisateur-dans-le-produit/
+url: speakers/benedetta-pastore/talks/integrer-la-demarche-centree-utilisateur-dans-le-produit/
 tags:
 - experience-client
 - co-construction

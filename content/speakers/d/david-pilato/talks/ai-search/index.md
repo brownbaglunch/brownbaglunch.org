@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/ai-search/
+url: speakers/david-pilato/talks/ai-search/
 tags:
   - elasticsearch
   - vector-search

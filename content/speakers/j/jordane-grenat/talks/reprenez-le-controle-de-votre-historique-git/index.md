@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jordane-grenat/talks/reprenez-le-controle-de-votre-historique-git/
+url: speakers/jordane-grenat/talks/reprenez-le-controle-de-votre-historique-git/
 tags:
 - git
 - merge

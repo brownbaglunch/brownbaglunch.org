@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alfred-almendra/talks/gestion-de-projet-en-mode-agile/
+url: speakers/alfred-almendra/talks/gestion-de-projet-en-mode-agile/
 tags:
 - agile
 - ux

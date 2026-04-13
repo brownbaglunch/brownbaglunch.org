@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/arnaud-tournier/talks/retour-dexperience-avec-google-app-engine/
+url: speakers/arnaud-tournier/talks/retour-dexperience-avec-google-app-engine/
 tags:
 - gwt
 - appengine

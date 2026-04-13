@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yohan-lasorsa/talks/devenez-un-heros-des-github-actions/
+url: speakers/yohan-lasorsa/talks/devenez-un-heros-des-github-actions/
 tags:
 - ci-cd
 - github

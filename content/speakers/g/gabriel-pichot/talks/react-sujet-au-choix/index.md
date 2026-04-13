@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gabriel-pichot/talks/react-sujet-au-choix/
+url: speakers/gabriel-pichot/talks/react-sujet-au-choix/
 tags:
 - react
 - typescript

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-exbrayat/talks/apache-camel-un-framework-dintegration-ultralight/
+url: speakers/cedric-exbrayat/talks/apache-camel-un-framework-dintegration-ultralight/
 tags:
 - java
 - lambda

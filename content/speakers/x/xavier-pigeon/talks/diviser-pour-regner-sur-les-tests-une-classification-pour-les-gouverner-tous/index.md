@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-pigeon/talks/diviser-pour-regner-sur-les-tests-une-classification-pour-les-gouverner-tous/
+url: speakers/xavier-pigeon/talks/diviser-pour-regner-sur-les-tests-une-classification-pour-les-gouverner-tous/
 tags:
 - strategie
 - test

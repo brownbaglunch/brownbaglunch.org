@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/elasticsearch-workshop/
+url: speakers/david-pilato/talks/elasticsearch-workshop/
 tags:
   - elasticsearch
   - kibana

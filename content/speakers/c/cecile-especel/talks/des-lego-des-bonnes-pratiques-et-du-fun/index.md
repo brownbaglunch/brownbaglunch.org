@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cecile-especel/talks/des-lego-des-bonnes-pratiques-et-du-fun/
+url: speakers/cecile-especel/talks/des-lego-des-bonnes-pratiques-et-du-fun/
 tags:
 - agile
 - serious-game

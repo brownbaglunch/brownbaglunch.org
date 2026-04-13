@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/charles-bouttaz/talks/coding-dojo/
+url: speakers/charles-bouttaz/talks/coding-dojo/
 tags:
 - coding-dojo
 - refactoring

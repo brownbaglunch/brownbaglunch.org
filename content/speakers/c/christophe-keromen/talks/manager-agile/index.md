@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-keromen/talks/manager-agile/
+url: speakers/christophe-keromen/talks/manager-agile/
 tags:
 - agile
 - lean

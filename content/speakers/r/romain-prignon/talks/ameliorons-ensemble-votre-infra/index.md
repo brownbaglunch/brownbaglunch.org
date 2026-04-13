@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-prignon/talks/ameliorons-ensemble-votre-infra/
+url: speakers/romain-prignon/talks/ameliorons-ensemble-votre-infra/
 tags:
 - docker
 - swarm

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyrille-hemidy/talks/apprendre-a-lire-la-bonne-methode-pour-resoudre-un-probleme/
+url: speakers/cyrille-hemidy/talks/apprendre-a-lire-la-bonne-methode-pour-resoudre-un-probleme/
 tags:
 - dev
 - debug

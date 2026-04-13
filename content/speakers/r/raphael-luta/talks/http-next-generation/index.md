@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/raphael-luta/talks/http-next-generation/
+url: speakers/raphael-luta/talks/http-next-generation/
 tags:
 - web
 - performance

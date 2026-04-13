@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-nopre/talks/agilite-scrum/
+url: speakers/xavier-nopre/talks/agilite-scrum/
 tags:
 - agile
 - scrum

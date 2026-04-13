@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/benoit-fontaine/talks/vnext-culture-manager-sa-dette-technique-et-son-obsolescence/
+url: speakers/benoit-fontaine/talks/vnext-culture-manager-sa-dette-technique-et-son-obsolescence/
 tags:
 - technical
 - debt

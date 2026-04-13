@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yoan-thirion/talks/quest-ce-quun-software-craftsman/
+url: speakers/yoan-thirion/talks/quest-ce-quun-software-craftsman/
 tags:
 - craftsmanship
 - extreme-programming

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/clement-bichel/talks/delegation-poker/
+url: speakers/clement-bichel/talks/delegation-poker/
 tags:
 - management-3-0
 - agile

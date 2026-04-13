@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-pauli/talks/multihoming-at-home-utilisations-de-plusieurs-fai-en-meme-temps-chez-soi/
+url: speakers/julien-pauli/talks/multihoming-at-home-utilisations-de-plusieurs-fai-en-meme-temps-chez-soi/
 tags:
 - boxes
 - router

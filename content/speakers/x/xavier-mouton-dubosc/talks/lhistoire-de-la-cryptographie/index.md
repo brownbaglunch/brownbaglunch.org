@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-mouton-dubosc/talks/lhistoire-de-la-cryptographie/
+url: speakers/xavier-mouton-dubosc/talks/lhistoire-de-la-cryptographie/
 tags:
 - vie-privee
 - security

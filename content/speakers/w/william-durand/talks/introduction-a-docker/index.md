@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/william-durand/talks/introduction-a-docker/
+url: speakers/william-durand/talks/introduction-a-docker/
 tags:
 - php
 - symfony

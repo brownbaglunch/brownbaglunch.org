@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-ferries/talks/introduction-au-developpement-android/
+url: speakers/vincent-ferries/talks/introduction-au-developpement-android/
 tags:
 - javaee
 - android

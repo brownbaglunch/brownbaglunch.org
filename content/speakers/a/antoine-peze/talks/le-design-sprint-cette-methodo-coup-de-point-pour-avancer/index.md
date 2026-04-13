@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/antoine-peze/talks/le-design-sprint-cette-methodo-coup-de-point-pour-avancer/
+url: speakers/antoine-peze/talks/le-design-sprint-cette-methodo-coup-de-point-pour-avancer/
 tags:
 - ux
 - tests-utilisateurs

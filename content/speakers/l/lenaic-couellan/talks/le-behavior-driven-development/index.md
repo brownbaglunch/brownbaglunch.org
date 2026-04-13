@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/lenaic-couellan/talks/le-behavior-driven-development/
+url: speakers/lenaic-couellan/talks/le-behavior-driven-development/
 tags:
 - bdd
 - test

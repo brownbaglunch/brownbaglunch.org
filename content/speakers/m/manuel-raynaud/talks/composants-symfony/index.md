@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/manuel-raynaud/talks/composants-symfony/
+url: speakers/manuel-raynaud/talks/composants-symfony/
 tags:
 - php
 - symfony2

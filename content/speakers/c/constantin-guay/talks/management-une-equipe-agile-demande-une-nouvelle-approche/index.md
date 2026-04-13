@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/constantin-guay/talks/management-une-equipe-agile-demande-une-nouvelle-approche/
+url: speakers/constantin-guay/talks/management-une-equipe-agile-demande-une-nouvelle-approche/
 tags:
 - agile
 - scrum

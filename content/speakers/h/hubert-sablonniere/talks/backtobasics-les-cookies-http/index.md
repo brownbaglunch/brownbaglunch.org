@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/hubert-sablonniere/talks/backtobasics-les-cookies-http/
+url: speakers/hubert-sablonniere/talks/backtobasics-les-cookies-http/
 tags:
 - web
 - security

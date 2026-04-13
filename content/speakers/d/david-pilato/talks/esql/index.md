@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/esql/
+url: speakers/david-pilato/talks/esql/
 tags:
   - elasticsearch
   - esql

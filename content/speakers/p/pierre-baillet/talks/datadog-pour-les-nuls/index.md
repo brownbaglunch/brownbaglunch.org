@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/pierre-baillet/talks/datadog-pour-les-nuls/
+url: speakers/pierre-baillet/talks/datadog-pour-les-nuls/
 tags:
 - datadog
 - monitoring

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/antonio-goncalves/talks/quarkus/
+url: speakers/antonio-goncalves/talks/quarkus/
 tags:
 - microservices
 - microprofile

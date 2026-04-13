@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-bordes/talks/codons-une-application-javafx-avec-eclipse/
+url: speakers/sebastien-bordes/talks/codons-une-application-javafx-avec-eclipse/
 tags:
 - javafx
 - jrebirth

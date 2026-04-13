@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/etienne-coutaud/talks/etendre-kubernetes-avec-les-operators-et-les-crds/
+url: speakers/etienne-coutaud/talks/etendre-kubernetes-avec-les-operators-et-les-crds/
 tags:
 - kubernetes
 - operator

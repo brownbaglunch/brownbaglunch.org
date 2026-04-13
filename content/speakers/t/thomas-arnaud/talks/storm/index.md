@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thomas-arnaud/talks/storm/
+url: speakers/thomas-arnaud/talks/storm/
 tags:
 - java
 - performance

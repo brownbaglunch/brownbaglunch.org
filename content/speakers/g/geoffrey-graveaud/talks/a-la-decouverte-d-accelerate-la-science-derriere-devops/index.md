@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/geoffrey-graveaud/talks/a-la-decouverte-d-accelerate-la-science-derriere-devops/
+url: speakers/geoffrey-graveaud/talks/a-la-decouverte-d-accelerate-la-science-derriere-devops/
 tags:
 - workshop
 - devops

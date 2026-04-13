@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/clement-danjou/talks/migration-dangularjs-vers-react/
+url: speakers/clement-danjou/talks/migration-dangularjs-vers-react/
 tags:
 - react
 - angularjs

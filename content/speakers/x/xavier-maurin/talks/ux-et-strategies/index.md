@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-maurin/talks/ux-et-strategies/
+url: speakers/xavier-maurin/talks/ux-et-strategies/
 tags:
 - ux
 - experience-client

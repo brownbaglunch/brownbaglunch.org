@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/constantin-guay/talks/dark-agile-le-scrum-master-chronometre-est-un-danger-pour-lequipe/
+url: speakers/constantin-guay/talks/dark-agile-le-scrum-master-chronometre-est-un-danger-pour-lequipe/
 tags:
 - agile
 - scrum

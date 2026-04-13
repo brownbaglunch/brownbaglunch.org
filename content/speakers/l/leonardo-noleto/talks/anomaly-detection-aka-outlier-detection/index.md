@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/leonardo-noleto/talks/anomaly-detection-aka-outlier-detection/
+url: speakers/leonardo-noleto/talks/anomaly-detection-aka-outlier-detection/
 tags:
 - machine-learning
 - data-mining

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/ilan-zerath/talks/jenkins-pipeline-un-ami-qui-vous-veut-du-bien-version-ios/
+url: speakers/ilan-zerath/talks/jenkins-pipeline-un-ami-qui-vous-veut-du-bien-version-ios/
 tags:
 - code
 - quality

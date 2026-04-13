@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/florent-pellet/talks/real-time-web-en-net-avec-signalr/
+url: speakers/florent-pellet/talks/real-time-web-en-net-avec-signalr/
 tags:
 - domain-driven-design
 - event-sourcing

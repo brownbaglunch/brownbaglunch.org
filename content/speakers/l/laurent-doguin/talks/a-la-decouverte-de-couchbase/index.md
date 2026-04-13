@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-doguin/talks/a-la-decouverte-de-couchbase/
+url: speakers/laurent-doguin/talks/a-la-decouverte-de-couchbase/
 tags:
 - couchbase
 - nosql

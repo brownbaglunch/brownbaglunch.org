@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nathaniel-richand/talks/plus-de-fun-et-de-diversite-dans-vos-retrospectives/
+url: speakers/nathaniel-richand/talks/plus-de-fun-et-de-diversite-dans-vos-retrospectives/
 tags:
 - agile
 versions:

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/clement-delafargue/talks/its-traverse/
+url: speakers/clement-delafargue/talks/its-traverse/
 tags:
 - javascript
 - haskell

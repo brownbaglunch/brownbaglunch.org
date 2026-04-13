@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/damien-thouvenin/talks/faire-monter-le-niveau/
+url: speakers/damien-thouvenin/talks/faire-monter-le-niveau/
 tags:
 - agile
 - management

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/pierre-marquis/talks/agilite-passer-a-la-vitesse-superieure/
+url: speakers/pierre-marquis/talks/agilite-passer-a-la-vitesse-superieure/
 tags:
 - agile
 - scrum

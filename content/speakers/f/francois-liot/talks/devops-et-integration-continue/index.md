@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-liot/talks/devops-et-integration-continue/
+url: speakers/francois-liot/talks/devops-et-integration-continue/
 tags:
 - agile
 - architecture

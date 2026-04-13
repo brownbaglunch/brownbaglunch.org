@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-lours/talks/kanban-pour-les-nuls/
+url: speakers/guillaume-lours/talks/kanban-pour-les-nuls/
 tags:
 - kanban
 - agile

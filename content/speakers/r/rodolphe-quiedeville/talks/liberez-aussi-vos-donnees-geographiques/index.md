@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/rodolphe-quiedeville/talks/liberez-aussi-vos-donnees-geographiques/
+url: speakers/rodolphe-quiedeville/talks/liberez-aussi-vos-donnees-geographiques/
 tags:
 - tsung
 - test

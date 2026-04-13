@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-liot/talks/crawling/
+url: speakers/francois-liot/talks/crawling/
 tags:
 - agile
 - architecture

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-philippe-baconnais/talks/et-si-lia-devenait-votre-nouvel-ami-codeur-imaginaire/
+url: speakers/jean-philippe-baconnais/talks/et-si-lia-devenait-votre-nouvel-ami-codeur-imaginaire/
 tags:
 - dev
 - gitlab

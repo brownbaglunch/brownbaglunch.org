@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alvin-berthelot/talks/la-programmation-fonctionnelle-en-javascript-pour-les-nuls/
+url: speakers/alvin-berthelot/talks/la-programmation-fonctionnelle-en-javascript-pour-les-nuls/
 tags:
 - javascript
 - functional-programming

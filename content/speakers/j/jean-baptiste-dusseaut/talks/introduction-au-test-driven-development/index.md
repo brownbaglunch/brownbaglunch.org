@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-baptiste-dusseaut/talks/introduction-au-test-driven-development/
+url: speakers/jean-baptiste-dusseaut/talks/introduction-au-test-driven-development/
 tags:
 - tdd
 - extreme-programming

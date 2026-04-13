@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/adrien-lecharpentier/talks/jenkins-20/
+url: speakers/adrien-lecharpentier/talks/jenkins-20/
 tags:
 - jenkins
 versions:

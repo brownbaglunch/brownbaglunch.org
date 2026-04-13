@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-de-carvalho/talks/retour-dexperience-pagesjaunes-les-transactions-dans-une-architecture-microservices/
+url: speakers/david-de-carvalho/talks/retour-dexperience-pagesjaunes-les-transactions-dans-une-architecture-microservices/
 tags:
 - java
 - rest

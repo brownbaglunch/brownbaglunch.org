@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-combes/talks/architecture-hexagonale/
+url: speakers/frederic-combes/talks/architecture-hexagonale/
 tags:
 - architecture
 - hexagonale

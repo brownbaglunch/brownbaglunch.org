@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-brunet/talks/comment-nous-avons-implemente-les-micro-frontends-chez-allianz/
+url: speakers/fabien-brunet/talks/comment-nous-avons-implemente-les-micro-frontends-chez-allianz/
 tags:
 - frontend
 - developpement

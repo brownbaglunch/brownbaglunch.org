@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/camille-roux/talks/art-generatif-et-creative-coding/
+url: speakers/camille-roux/talks/art-generatif-et-creative-coding/
 tags:
 - art
 - art-generatif

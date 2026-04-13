@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-daviet/talks/externalisation-dun-projet-agile-retour-dexperience-et-reflexions/
+url: speakers/vincent-daviet/talks/externalisation-dun-projet-agile-retour-dexperience-et-reflexions/
 tags:
 - coaching
 - facilitation

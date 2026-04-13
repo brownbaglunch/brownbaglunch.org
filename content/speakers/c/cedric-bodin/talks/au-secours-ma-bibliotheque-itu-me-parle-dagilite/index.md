@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-bodin/talks/au-secours-ma-bibliotheque-itu-me-parle-dagilite/
+url: speakers/cedric-bodin/talks/au-secours-ma-bibliotheque-itu-me-parle-dagilite/
 tags:
 - agile
 - scrum

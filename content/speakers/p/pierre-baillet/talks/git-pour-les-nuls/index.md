@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/pierre-baillet/talks/git-pour-les-nuls/
+url: speakers/pierre-baillet/talks/git-pour-les-nuls/
 tags:
 - git
 - deployment

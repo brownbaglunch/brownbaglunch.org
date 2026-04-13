@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/haja-rambelontsalama/talks/lego4devops/
+url: speakers/haja-rambelontsalama/talks/lego4devops/
 tags:
 - agile
 - devops

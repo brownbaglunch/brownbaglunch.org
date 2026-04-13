@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/quentin-adam/talks/cest-quoi-clever-cloud-et-comment-ca-marche/
+url: speakers/quentin-adam/talks/cest-quoi-clever-cloud-et-comment-ca-marche/
 tags:
 - cloud
 - paas

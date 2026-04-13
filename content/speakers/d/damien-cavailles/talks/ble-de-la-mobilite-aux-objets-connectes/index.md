@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/damien-cavailles/talks/ble-de-la-mobilite-aux-objets-connectes/
+url: speakers/damien-cavailles/talks/ble-de-la-mobilite-aux-objets-connectes/
 tags:
 - android
 - ios

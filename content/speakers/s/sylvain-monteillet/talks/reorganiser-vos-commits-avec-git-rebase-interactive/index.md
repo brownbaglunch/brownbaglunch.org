@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sylvain-monteillet/talks/reorganiser-vos-commits-avec-git-rebase-interactive/
+url: speakers/sylvain-monteillet/talks/reorganiser-vos-commits-avec-git-rebase-interactive/
 tags:
 - git
 versions:

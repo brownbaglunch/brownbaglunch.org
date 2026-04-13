@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-meurisse/talks/startup-creer-son-mvp/
+url: speakers/laurent-meurisse/talks/startup-creer-son-mvp/
 tags:
 - agile
 - lean-startup

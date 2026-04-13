@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/stephane-lang/talks/bases-de-donnees-distribuees-faire-le-bon-choix-darchitecture-et-de-coherence/
+url: speakers/stephane-lang/talks/bases-de-donnees-distribuees-faire-le-bon-choix-darchitecture-et-de-coherence/
 tags:
 - architecture
 - database

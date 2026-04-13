@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gregory-estrade/talks/les-nouveaux-enjeux-du-paiement/
+url: speakers/gregory-estrade/talks/les-nouveaux-enjeux-du-paiement/
 tags:
 - software-development
 - hardware-hacking

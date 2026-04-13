@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-tartiere/talks/tester-cest-douter/
+url: speakers/romain-tartiere/talks/tester-cest-douter/
 tags:
 - tdd
 - bdd

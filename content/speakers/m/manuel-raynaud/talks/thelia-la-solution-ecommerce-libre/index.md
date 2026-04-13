@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/manuel-raynaud/talks/thelia-la-solution-ecommerce-libre/
+url: speakers/manuel-raynaud/talks/thelia-la-solution-ecommerce-libre/
 tags:
 - php
 - symfony2

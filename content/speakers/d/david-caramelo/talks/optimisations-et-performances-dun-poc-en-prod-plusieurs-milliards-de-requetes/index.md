@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-caramelo/talks/optimisations-et-performances-dun-poc-en-prod-plusieurs-milliards-de-requetes/
+url: speakers/david-caramelo/talks/optimisations-et-performances-dun-poc-en-prod-plusieurs-milliards-de-requetes/
 tags:
 - aws
 - architecture

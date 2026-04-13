@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/michael-bonfils/talks/customiser-votre-passerelle-swifts3/
+url: speakers/michael-bonfils/talks/customiser-votre-passerelle-swifts3/
 tags:
 - openstack
 - swift

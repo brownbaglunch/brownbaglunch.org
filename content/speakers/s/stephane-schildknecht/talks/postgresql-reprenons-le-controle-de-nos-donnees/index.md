@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/stephane-schildknecht/talks/postgresql-reprenons-le-controle-de-nos-donnees/
+url: speakers/stephane-schildknecht/talks/postgresql-reprenons-le-controle-de-nos-donnees/
 tags:
 - postgresql
 - highavailability

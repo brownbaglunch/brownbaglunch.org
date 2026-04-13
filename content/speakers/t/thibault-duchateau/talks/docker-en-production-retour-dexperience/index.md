@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thibault-duchateau/talks/docker-en-production-retour-dexperience/
+url: speakers/thibault-duchateau/talks/docker-en-production-retour-dexperience/
 tags:
 - java
 - web

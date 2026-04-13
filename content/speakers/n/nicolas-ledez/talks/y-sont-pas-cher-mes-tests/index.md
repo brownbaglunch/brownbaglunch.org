@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-ledez/talks/y-sont-pas-cher-mes-tests/
+url: speakers/nicolas-ledez/talks/y-sont-pas-cher-mes-tests/
 tags:
 - cloud
 - devops

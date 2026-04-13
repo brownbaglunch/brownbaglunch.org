@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/postal-addresses/
+url: speakers/david-pilato/talks/postal-addresses/
 tags:
   - elasticsearch
 versions:

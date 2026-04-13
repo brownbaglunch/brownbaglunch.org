@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-philippe-bempel/talks/low-latency-mechanical-sympathy-ecueils-et-solutions/
+url: speakers/jean-philippe-bempel/talks/low-latency-mechanical-sympathy-ecueils-et-solutions/
 tags:
 - mechanical-sympathy
 - cpu

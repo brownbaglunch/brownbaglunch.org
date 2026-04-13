@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-beauvivre/talks/voyage-dune-appli-legacy-vers-le-ddd-domain-driven-design/
+url: speakers/vincent-beauvivre/talks/voyage-dune-appli-legacy-vers-le-ddd-domain-driven-design/
 tags:
 - backend
 - architecture

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-keromen/talks/agilite-a-la-carte/
+url: speakers/christophe-keromen/talks/agilite-a-la-carte/
 tags:
 - agile
 - lean

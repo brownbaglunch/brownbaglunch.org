@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yohan-lasorsa/talks/un-environnement-de-dev-propre-et-qui-marche-a-tous-les-coups/
+url: speakers/yohan-lasorsa/talks/un-environnement-de-dev-propre-et-qui-marche-a-tous-les-coups/
 tags:
 - vs-code
 - outillage

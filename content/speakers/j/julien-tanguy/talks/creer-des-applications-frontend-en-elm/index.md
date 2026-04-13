@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-tanguy/talks/creer-des-applications-frontend-en-elm/
+url: speakers/julien-tanguy/talks/creer-des-applications-frontend-en-elm/
 tags:
 - elm
 - functional-programming

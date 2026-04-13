@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathieu-parisot/talks/revolutionnez-vos-layout-avec-css3/
+url: speakers/mathieu-parisot/talks/revolutionnez-vos-layout-avec-css3/
 tags:
 - responsive
 - html5

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/constantin-guay/talks/user-story-mapping-atelier/
+url: speakers/constantin-guay/talks/user-story-mapping-atelier/
 tags:
 - agile
 - scrum

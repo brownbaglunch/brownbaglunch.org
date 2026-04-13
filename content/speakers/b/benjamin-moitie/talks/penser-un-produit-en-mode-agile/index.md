@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/benjamin-moitie/talks/penser-un-produit-en-mode-agile/
+url: speakers/benjamin-moitie/talks/penser-un-produit-en-mode-agile/
 tags:
 - agile
 - lean-startup

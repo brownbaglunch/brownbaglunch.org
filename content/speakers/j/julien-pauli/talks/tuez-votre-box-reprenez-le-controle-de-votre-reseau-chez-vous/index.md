@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-pauli/talks/tuez-votre-box-reprenez-le-controle-de-votre-reseau-chez-vous/
+url: speakers/julien-pauli/talks/tuez-votre-box-reprenez-le-controle-de-votre-reseau-chez-vous/
 tags:
 - boxes
 - router

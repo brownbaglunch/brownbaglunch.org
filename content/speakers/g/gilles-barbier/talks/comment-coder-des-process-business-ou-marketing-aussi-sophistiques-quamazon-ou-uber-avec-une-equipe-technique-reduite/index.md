@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gilles-barbier/talks/comment-coder-des-process-business-ou-marketing-aussi-sophistiques-quamazon-ou-uber-avec-une-equipe-technique-reduite/
+url: speakers/gilles-barbier/talks/comment-coder-des-process-business-ou-marketing-aussi-sophistiques-quamazon-ou-uber-avec-une-equipe-technique-reduite/
 tags:
 - zenaton
 - process

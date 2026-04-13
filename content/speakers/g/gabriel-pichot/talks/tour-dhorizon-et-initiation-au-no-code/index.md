@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gabriel-pichot/talks/tour-dhorizon-et-initiation-au-no-code/
+url: speakers/gabriel-pichot/talks/tour-dhorizon-et-initiation-au-no-code/
 tags:
 - airtable
 - tally

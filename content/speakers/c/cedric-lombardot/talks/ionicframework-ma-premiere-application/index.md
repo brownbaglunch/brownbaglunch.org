@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-lombardot/talks/ionicframework-ma-premiere-application/
+url: speakers/cedric-lombardot/talks/ionicframework-ma-premiere-application/
 tags:
 - symfony
 - angularjs

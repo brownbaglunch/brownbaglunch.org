@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-blanc/talks/lobjet-en-mode-clean-code-et-ddd/
+url: speakers/xavier-blanc/talks/lobjet-en-mode-clean-code-et-ddd/
 tags:
 - java
 - clean-code

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-baptiste-dusseaut/talks/coding-dojo/
+url: speakers/jean-baptiste-dusseaut/talks/coding-dojo/
 tags:
 - tdd
 - extreme-programming

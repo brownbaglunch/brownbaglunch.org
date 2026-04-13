@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/kevin-biger/talks/decouvrir-les-bases-nosql-orientees-graphes-avec-neo4j/
+url: speakers/kevin-biger/talks/decouvrir-les-bases-nosql-orientees-graphes-avec-neo4j/
 tags:
 - neo4j
 - nosql

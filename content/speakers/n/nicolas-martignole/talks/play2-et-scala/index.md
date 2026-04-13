@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-martignole/talks/play2-et-scala/
+url: speakers/nicolas-martignole/talks/play2-et-scala/
 tags:
 - presentation
 - startup

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-liot/talks/opensource-pour-les-administrations-et-les-collectivites-locales/
+url: speakers/francois-liot/talks/opensource-pour-les-administrations-et-les-collectivites-locales/
 tags:
 - architecture
 - asynchronous

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/siem/
+url: speakers/david-pilato/talks/siem/
 tags:
   - elasticsearch
   - security

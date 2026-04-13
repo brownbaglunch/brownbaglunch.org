@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/philippe-charriere/talks/microservices-choisir-le-bon-cheval-vertx/
+url: speakers/philippe-charriere/talks/microservices-choisir-le-bon-cheval-vertx/
 tags:
 - microservices
 - architecture

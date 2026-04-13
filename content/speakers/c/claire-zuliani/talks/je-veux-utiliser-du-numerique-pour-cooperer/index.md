@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/claire-zuliani/talks/je-veux-utiliser-du-numerique-pour-cooperer/
+url: speakers/claire-zuliani/talks/je-veux-utiliser-du-numerique-pour-cooperer/
 tags:
 - outils
 - cooperation

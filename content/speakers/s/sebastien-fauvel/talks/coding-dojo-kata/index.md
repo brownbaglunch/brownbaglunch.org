@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-fauvel/talks/coding-dojo-kata/
+url: speakers/sebastien-fauvel/talks/coding-dojo-kata/
 tags:
 - java
 - craftsmanship

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mikael-letang/talks/faire-du-ddd-tactique-avec-symfony/
+url: speakers/mikael-letang/talks/faire-du-ddd-tactique-avec-symfony/
 tags:
 - domain-driven-design
 - symfony

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-wallet/talks/ca-ne-coute-pas-plus-cher-de-bien-tester/
+url: speakers/guillaume-wallet/talks/ca-ne-coute-pas-plus-cher-de-bien-tester/
 tags:
 - junit
 - jbehave

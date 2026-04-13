@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yvan-phelizot/talks/lego4devops/
+url: speakers/yvan-phelizot/talks/lego4devops/
 tags:
 - devops
 - clean-code

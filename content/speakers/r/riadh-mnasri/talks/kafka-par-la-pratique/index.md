@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/riadh-mnasri/talks/kafka-par-la-pratique/
+url: speakers/riadh-mnasri/talks/kafka-par-la-pratique/
 tags:
 - kafka
 - spring

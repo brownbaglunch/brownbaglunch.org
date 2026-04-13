@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/charles-bouttaz/talks/tests-unitaires-et-tdd/
+url: speakers/charles-bouttaz/talks/tests-unitaires-et-tdd/
 tags:
 - tdd
 - test

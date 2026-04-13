@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/loic-knuchel/talks/ionic-sur-commande/
+url: speakers/loic-knuchel/talks/ionic-sur-commande/
 tags:
 - scala
 - angularjs

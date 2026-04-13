@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-francois-garreau/talks/demystifions-les-css-custom-properties/
+url: speakers/jean-francois-garreau/talks/demystifions-les-css-custom-properties/
 tags:
 - css
 - w3c

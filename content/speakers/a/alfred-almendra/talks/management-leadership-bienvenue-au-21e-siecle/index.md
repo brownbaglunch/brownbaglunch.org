@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alfred-almendra/talks/management-leadership-bienvenue-au-21e-siecle/
+url: speakers/alfred-almendra/talks/management-leadership-bienvenue-au-21e-siecle/
 tags:
 - agile
 - ux

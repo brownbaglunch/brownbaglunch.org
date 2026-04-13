@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/antonio-goncalves/talks/langchain4j-de-zero-a-rag-super-hero/
+url: speakers/antonio-goncalves/talks/langchain4j-de-zero-a-rag-super-hero/
 tags:
 - langchain4j
 - ai

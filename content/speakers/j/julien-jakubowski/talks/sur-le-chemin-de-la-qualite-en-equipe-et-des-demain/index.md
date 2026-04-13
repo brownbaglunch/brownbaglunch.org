@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-jakubowski/talks/sur-le-chemin-de-la-qualite-en-equipe-et-des-demain/
+url: speakers/julien-jakubowski/talks/sur-le-chemin-de-la-qualite-en-equipe-et-des-demain/
 tags:
 - test
 - coding-dojo

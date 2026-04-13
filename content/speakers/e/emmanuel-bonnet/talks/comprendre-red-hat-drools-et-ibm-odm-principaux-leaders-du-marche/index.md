@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/emmanuel-bonnet/talks/comprendre-red-hat-drools-et-ibm-odm-principaux-leaders-du-marche/
+url: speakers/emmanuel-bonnet/talks/comprendre-red-hat-drools-et-ibm-odm-principaux-leaders-du-marche/
 tags:
 - decision-management
 - moteurs-de-regles

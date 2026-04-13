@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mikael-letang/talks/accelerer-la-mise-en-prod/
+url: speakers/mikael-letang/talks/accelerer-la-mise-en-prod/
 tags:
 - continuous-delivery
 - automation

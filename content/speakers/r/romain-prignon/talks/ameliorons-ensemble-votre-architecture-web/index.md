@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-prignon/talks/ameliorons-ensemble-votre-architecture-web/
+url: speakers/romain-prignon/talks/ameliorons-ensemble-votre-architecture-web/
 tags:
 - architecture
 - php

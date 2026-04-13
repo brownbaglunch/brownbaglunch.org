@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/clement-poissonnier/talks/fly-to-the-moon-with-postman/
+url: speakers/clement-poissonnier/talks/fly-to-the-moon-with-postman/
 tags:
 - postman
 versions:

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-muetton/talks/git/
+url: speakers/julien-muetton/talks/git/
 tags:
 - javascript
 - php

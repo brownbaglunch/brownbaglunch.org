@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-philippe-baconnais/talks/renovatedependabot-ou-comment-reprendre-le-controle-sur-la-mise-a-jour-de-ses-dependances/
+url: speakers/jean-philippe-baconnais/talks/renovatedependabot-ou-comment-reprendre-le-controle-sur-la-mise-a-jour-de-ses-dependances/
 tags:
 - dev
 - renovate

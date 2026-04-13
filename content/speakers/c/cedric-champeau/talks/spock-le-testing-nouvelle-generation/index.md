@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-champeau/talks/spock-le-testing-nouvelle-generation/
+url: speakers/cedric-champeau/talks/spock-le-testing-nouvelle-generation/
 tags:
 - groovy
 - gradle

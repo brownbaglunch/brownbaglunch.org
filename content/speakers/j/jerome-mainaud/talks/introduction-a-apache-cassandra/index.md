@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jerome-mainaud/talks/introduction-a-apache-cassandra/
+url: speakers/jerome-mainaud/talks/introduction-a-apache-cassandra/
 tags:
 - cassandra
 versions:

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/michael-bonfils/talks/sauvegarder-ses-donnees-bigdata/
+url: speakers/michael-bonfils/talks/sauvegarder-ses-donnees-bigdata/
 tags:
 - hadoop
 - s3

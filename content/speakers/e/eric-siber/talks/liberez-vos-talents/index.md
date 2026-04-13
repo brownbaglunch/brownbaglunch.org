@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/eric-siber/talks/liberez-vos-talents/
+url: speakers/eric-siber/talks/liberez-vos-talents/
 tags:
 - agile
 - leadership

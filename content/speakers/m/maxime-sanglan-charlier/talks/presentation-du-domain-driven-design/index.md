@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maxime-sanglan-charlier/talks/presentation-du-domain-driven-design/
+url: speakers/maxime-sanglan-charlier/talks/presentation-du-domain-driven-design/
 tags:
 - domain-driven-design
 versions:

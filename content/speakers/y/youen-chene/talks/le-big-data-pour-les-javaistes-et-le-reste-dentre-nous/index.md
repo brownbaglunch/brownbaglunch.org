@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/youen-chene/talks/le-big-data-pour-les-javaistes-et-le-reste-dentre-nous/
+url: speakers/youen-chene/talks/le-big-data-pour-les-javaistes-et-le-reste-dentre-nous/
 tags:
 - big-data
 - hadoop

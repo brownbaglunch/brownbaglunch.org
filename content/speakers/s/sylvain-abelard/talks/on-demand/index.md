@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sylvain-abelard/talks/on-demand/
+url: speakers/sylvain-abelard/talks/on-demand/
 tags:
 - ruby
 - ruby-on-rails

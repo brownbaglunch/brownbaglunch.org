@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/clement-bichel/talks/le-framework-safe/
+url: speakers/clement-bichel/talks/le-framework-safe/
 tags:
 - safe
 - agile

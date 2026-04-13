@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-bordes/talks/javafx-en-long-en-large-et-en-travers/
+url: speakers/sebastien-bordes/talks/javafx-en-long-en-large-et-en-travers/
 tags:
 - javafx
 - jrebirth

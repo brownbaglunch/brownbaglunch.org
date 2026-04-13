@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyrille-dupuydauby/talks/le-craftsmanship-par-les-lego/
+url: speakers/cyrille-dupuydauby/talks/le-craftsmanship-par-les-lego/
 tags:
 - clean-code
 - tdd

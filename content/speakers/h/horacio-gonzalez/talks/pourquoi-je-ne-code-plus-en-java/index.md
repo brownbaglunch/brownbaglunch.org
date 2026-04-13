@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/horacio-gonzalez/talks/pourquoi-je-ne-code-plus-en-java/
+url: speakers/horacio-gonzalez/talks/pourquoi-je-ne-code-plus-en-java/
 tags:
 - web
 - java

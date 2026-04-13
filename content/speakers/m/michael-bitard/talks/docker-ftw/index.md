@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/michael-bitard/talks/docker-ftw/
+url: speakers/michael-bitard/talks/docker-ftw/
 tags:
 - java
 - scrum

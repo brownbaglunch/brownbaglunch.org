@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gregory-paul/talks/bitcoin-et-monnaie-cryptographique/
+url: speakers/gregory-paul/talks/bitcoin-et-monnaie-cryptographique/
 tags:
 - bitcoin
 versions:

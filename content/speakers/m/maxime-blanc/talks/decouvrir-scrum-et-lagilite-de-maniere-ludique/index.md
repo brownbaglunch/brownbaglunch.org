@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maxime-blanc/talks/decouvrir-scrum-et-lagilite-de-maniere-ludique/
+url: speakers/maxime-blanc/talks/decouvrir-scrum-et-lagilite-de-maniere-ludique/
 tags:
 - scrum
 - agile

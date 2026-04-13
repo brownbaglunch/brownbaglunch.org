@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/riadh-mnasri/talks/un-tour-dhorizon-des-fonctionnalites-cle-du-langage-kotlin/
+url: speakers/riadh-mnasri/talks/un-tour-dhorizon-des-fonctionnalites-cle-du-langage-kotlin/
 tags:
 - java
 - kotlin

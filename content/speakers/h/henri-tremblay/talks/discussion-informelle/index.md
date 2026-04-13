@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/henri-tremblay/talks/discussion-informelle/
+url: speakers/henri-tremblay/talks/discussion-informelle/
 tags:
 - java
 - performance

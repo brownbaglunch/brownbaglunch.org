@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gregory-paul/talks/https-naura-plus-de-secret-pour-vous/
+url: speakers/gregory-paul/talks/https-naura-plus-de-secret-pour-vous/
 tags:
 - https
 - ssl

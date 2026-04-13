@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/olivier-wulveryck/talks/tensorflow-gorgonia-deeplearning-la-vision-du-machine-learning-par-un-imp-ops-teur/
+url: speakers/olivier-wulveryck/talks/tensorflow-gorgonia-deeplearning-la-vision-du-machine-learning-par-un-imp-ops-teur/
 tags:
 - machine-learning
 - rnn

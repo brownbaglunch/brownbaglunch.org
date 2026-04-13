@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nathan-damie/talks/polymer-les-webcomponents-cest-maintenant/
+url: speakers/nathan-damie/talks/polymer-les-webcomponents-cest-maintenant/
 tags:
 - polymer
 - webcomponents

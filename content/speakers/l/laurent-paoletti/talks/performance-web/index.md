@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-paoletti/talks/performance-web/
+url: speakers/laurent-paoletti/talks/performance-web/
 tags:
 - python
 - performance

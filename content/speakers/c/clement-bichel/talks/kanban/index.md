@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/clement-bichel/talks/kanban/
+url: speakers/clement-bichel/talks/kanban/
 tags:
 - kanban
 - agile

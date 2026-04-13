@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-combes/talks/programmation-reactive-avec-reactor/
+url: speakers/frederic-combes/talks/programmation-reactive-avec-reactor/
 tags:
 - spring
 - reactor

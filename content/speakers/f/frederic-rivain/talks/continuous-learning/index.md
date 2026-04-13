@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-rivain/talks/continuous-learning/
+url: speakers/frederic-rivain/talks/continuous-learning/
 tags:
 - management
 - agile

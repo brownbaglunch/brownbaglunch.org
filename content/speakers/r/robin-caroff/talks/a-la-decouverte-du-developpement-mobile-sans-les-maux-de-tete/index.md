@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/robin-caroff/talks/a-la-decouverte-du-developpement-mobile-sans-les-maux-de-tete/
+url: speakers/robin-caroff/talks/a-la-decouverte-du-developpement-mobile-sans-les-maux-de-tete/
 tags:
 - android
 - ios

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maritza-abreo/talks/atelier-lean-startup/
+url: speakers/maritza-abreo/talks/atelier-lean-startup/
 tags:
 - lean-startup
 - agile

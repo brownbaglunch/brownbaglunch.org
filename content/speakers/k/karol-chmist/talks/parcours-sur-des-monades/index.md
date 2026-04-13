@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/karol-chmist/talks/parcours-sur-des-monades/
+url: speakers/karol-chmist/talks/parcours-sur-des-monades/
 tags:
 - functional-programming
 - scala

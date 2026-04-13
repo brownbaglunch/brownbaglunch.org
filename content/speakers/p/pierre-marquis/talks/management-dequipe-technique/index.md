@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/pierre-marquis/talks/management-dequipe-technique/
+url: speakers/pierre-marquis/talks/management-dequipe-technique/
 tags:
 - management
 - cto

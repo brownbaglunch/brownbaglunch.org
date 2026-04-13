@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gurvan-henry/talks/sujet-ouvert-en-fonction-de-vos-interets/
+url: speakers/gurvan-henry/talks/sujet-ouvert-en-fonction-de-vos-interets/
 tags:
 - organisation-d-equipe
 - usage-utilisateur

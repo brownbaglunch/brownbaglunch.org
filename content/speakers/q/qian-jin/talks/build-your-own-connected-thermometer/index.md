@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/qian-jin/talks/build-your-own-connected-thermometer/
+url: speakers/qian-jin/talks/build-your-own-connected-thermometer/
 tags:
 - iot
 - mqtt

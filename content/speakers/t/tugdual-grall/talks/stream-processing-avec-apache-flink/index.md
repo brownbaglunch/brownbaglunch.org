@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/tugdual-grall/talks/stream-processing-avec-apache-flink/
+url: speakers/tugdual-grall/talks/stream-processing-avec-apache-flink/
 tags:
 - big-data
 - nosql

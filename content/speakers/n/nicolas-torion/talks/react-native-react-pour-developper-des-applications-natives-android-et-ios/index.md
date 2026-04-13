@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-torion/talks/react-native-react-pour-developper-des-applications-natives-android-et-ios/
+url: speakers/nicolas-torion/talks/react-native-react-pour-developper-des-applications-natives-android-et-ios/
 tags:
 - react-native
 - android

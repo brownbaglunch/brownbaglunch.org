@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/philippe-prados/talks/la-mort-prochaine-du-gc/
+url: speakers/philippe-prados/talks/la-mort-prochaine-du-gc/
 tags:
 - architecture
 - scala

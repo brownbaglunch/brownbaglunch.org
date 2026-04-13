@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-philippe-bempel/talks/le-guide-de-depannage-de-la-jvm/
+url: speakers/jean-philippe-bempel/talks/le-guide-de-depannage-de-la-jvm/
 tags:
 - jvm
 - gc

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/matthieu-garde/talks/inventer-et-tester-de-nouveaux-business-models/
+url: speakers/matthieu-garde/talks/inventer-et-tester-de-nouveaux-business-models/
 tags:
 - lean-startup
 - entrepreneuriat

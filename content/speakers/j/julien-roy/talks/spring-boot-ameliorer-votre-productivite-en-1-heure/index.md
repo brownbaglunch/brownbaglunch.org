@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-roy/talks/spring-boot-ameliorer-votre-productivite-en-1-heure/
+url: speakers/julien-roy/talks/spring-boot-ameliorer-votre-productivite-en-1-heure/
 tags:
 - code
 - java

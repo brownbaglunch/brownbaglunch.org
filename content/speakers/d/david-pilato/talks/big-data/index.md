@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/big-data/
+url: speakers/david-pilato/talks/big-data/
 tags:
   - elasticsearch
   - kibana

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/rodolphe-quiedeville/talks/tsung-de-1-a-1-million/
+url: speakers/rodolphe-quiedeville/talks/tsung-de-1-a-1-million/
 tags:
 - tsung
 - test

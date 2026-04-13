@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-f-gouchet/talks/architecture-mobile-offline-first-androidkotlin/
+url: speakers/xavier-f-gouchet/talks/architecture-mobile-offline-first-androidkotlin/
 tags:
 - network
 - offline

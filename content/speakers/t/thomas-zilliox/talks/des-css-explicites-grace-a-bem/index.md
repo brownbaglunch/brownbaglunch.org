@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thomas-zilliox/talks/des-css-explicites-grace-a-bem/
+url: speakers/thomas-zilliox/talks/des-css-explicites-grace-a-bem/
 tags:
 - css
 - bem

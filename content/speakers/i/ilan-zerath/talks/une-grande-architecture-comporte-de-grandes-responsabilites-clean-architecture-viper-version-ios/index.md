@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/ilan-zerath/talks/une-grande-architecture-comporte-de-grandes-responsabilites-clean-architecture-viper-version-ios/
+url: speakers/ilan-zerath/talks/une-grande-architecture-comporte-de-grandes-responsabilites-clean-architecture-viper-version-ios/
 tags:
 - clean-architecture
 - solid

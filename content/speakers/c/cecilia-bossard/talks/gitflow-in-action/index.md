@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cecilia-bossard/talks/gitflow-in-action/
+url: speakers/cecilia-bossard/talks/gitflow-in-action/
 tags:
 - git
 versions:

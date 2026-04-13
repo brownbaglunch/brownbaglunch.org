@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/boris-schapira/talks/syndrome-dimposture-larbre-qui-cache-la-foret/
+url: speakers/boris-schapira/talks/syndrome-dimposture-larbre-qui-cache-la-foret/
 tags:
 - code-du-travail
 - formation-continue

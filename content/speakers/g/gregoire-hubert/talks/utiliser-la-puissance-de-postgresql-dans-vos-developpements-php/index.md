@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gregoire-hubert/talks/utiliser-la-puissance-de-postgresql-dans-vos-developpements-php/
+url: speakers/gregoire-hubert/talks/utiliser-la-puissance-de-postgresql-dans-vos-developpements-php/
 tags:
 - php
 - postgresql

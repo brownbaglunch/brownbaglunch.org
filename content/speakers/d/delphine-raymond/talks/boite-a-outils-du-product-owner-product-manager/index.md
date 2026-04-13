@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/delphine-raymond/talks/boite-a-outils-du-product-owner-product-manager/
+url: speakers/delphine-raymond/talks/boite-a-outils-du-product-owner-product-manager/
 tags:
 - product-owner
 - product-manager

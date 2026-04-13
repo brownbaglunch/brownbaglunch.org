@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/arnaud-tournier/talks/architecture-performance-maintenabilite-et-satisfaction-client/
+url: speakers/arnaud-tournier/talks/architecture-performance-maintenabilite-et-satisfaction-client/
 tags:
 - gwt
 - appengine

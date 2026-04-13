@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/raphael-luta/talks/discussions-informelles/
+url: speakers/raphael-luta/talks/discussions-informelles/
 tags:
 - web
 - performance

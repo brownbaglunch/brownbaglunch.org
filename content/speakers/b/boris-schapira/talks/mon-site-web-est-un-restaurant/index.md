@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/boris-schapira/talks/mon-site-web-est-un-restaurant/
+url: speakers/boris-schapira/talks/mon-site-web-est-un-restaurant/
 tags:
 - web
 versions:

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/hadrien-mens-pellen/talks/mob-programming-rpg/
+url: speakers/hadrien-mens-pellen/talks/mob-programming-rpg/
 tags:
 - mob-programming
 versions:

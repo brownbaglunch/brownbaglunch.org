@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/aurelien-loyer/talks/creons-notre-premiere-api-avec-nestjs/
+url: speakers/aurelien-loyer/talks/creons-notre-premiere-api-avec-nestjs/
 tags:
 - nodejs
 - nestjs

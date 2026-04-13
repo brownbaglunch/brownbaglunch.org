@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nathan-damie/talks/attention-ne-mets-pas-cette-cle-tu-risques-de-te-faire-hacker-tres-fort/
+url: speakers/nathan-damie/talks/attention-ne-mets-pas-cette-cle-tu-risques-de-te-faire-hacker-tres-fort/
 tags:
 - bad-usb
 - diy

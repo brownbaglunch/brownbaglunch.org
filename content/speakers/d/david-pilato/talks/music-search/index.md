@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/music-search/
+url: speakers/david-pilato/talks/music-search/
 tags:
   - elasticsearch
   - vector-search

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sylvain-wallez/talks/hazelcast-le-developpement-distribue-facile/
+url: speakers/sylvain-wallez/talks/hazelcast-le-developpement-distribue-facile/
 tags:
 - nosql
 - mongodb

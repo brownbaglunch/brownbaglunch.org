@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-martin/talks/hypermedia-api/
+url: speakers/david-martin/talks/hypermedia-api/
 tags:
 - java
 - api-web

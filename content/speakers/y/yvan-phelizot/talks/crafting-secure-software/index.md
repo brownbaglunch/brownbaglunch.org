@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yvan-phelizot/talks/crafting-secure-software/
+url: speakers/yvan-phelizot/talks/crafting-secure-software/
 tags:
 - security
 - clean-code

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/benjamin-marguin/talks/signer-numeriquement-ses-commits-ou-ses-tags-pourquoi-et-comment/
+url: speakers/benjamin-marguin/talks/signer-numeriquement-ses-commits-ou-ses-tags-pourquoi-et-comment/
 tags:
 - git
 - gpg

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/arnaud-langlade/talks/tests-unitaires-essentiels-et-compliques-a-la-fois/
+url: speakers/arnaud-langlade/talks/tests-unitaires-essentiels-et-compliques-a-la-fois/
 tags:
 - unit-test
 - poo

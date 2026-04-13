@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/marine-corbelin-laporte/talks/comment-gerer-un-projet-vrar-video-360/
+url: speakers/marine-corbelin-laporte/talks/comment-gerer-un-projet-vrar-video-360/
 tags:
 - 3d
 - vr

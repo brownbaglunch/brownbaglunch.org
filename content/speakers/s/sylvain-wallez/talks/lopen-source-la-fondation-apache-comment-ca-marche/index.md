@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sylvain-wallez/talks/lopen-source-la-fondation-apache-comment-ca-marche/
+url: speakers/sylvain-wallez/talks/lopen-source-la-fondation-apache-comment-ca-marche/
 tags:
 - nosql
 - mongodb

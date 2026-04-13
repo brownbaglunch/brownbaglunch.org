@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-arrault/talks/spring-boot-on-ouvre-le-capot-et-on-demonte-tout/
+url: speakers/fabien-arrault/talks/spring-boot-on-ouvre-le-capot-et-on-demonte-tout/
 tags:
 - spring
 - spring-boot

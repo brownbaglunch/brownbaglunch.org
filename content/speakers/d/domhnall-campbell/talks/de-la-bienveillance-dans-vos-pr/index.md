@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/domhnall-campbell/talks/de-la-bienveillance-dans-vos-pr/
+url: speakers/domhnall-campbell/talks/de-la-bienveillance-dans-vos-pr/
 tags:
 - bienveillance
 - pr

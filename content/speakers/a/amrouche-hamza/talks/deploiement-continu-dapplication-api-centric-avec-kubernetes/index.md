@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/amrouche-hamza/talks/deploiement-continu-dapplication-api-centric-avec-kubernetes/
+url: speakers/amrouche-hamza/talks/deploiement-continu-dapplication-api-centric-avec-kubernetes/
 tags:
 - php
 - kubernetes

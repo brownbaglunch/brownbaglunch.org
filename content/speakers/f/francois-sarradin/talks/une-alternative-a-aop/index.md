@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-sarradin/talks/une-alternative-a-aop/
+url: speakers/francois-sarradin/talks/une-alternative-a-aop/
 tags:
 - java
 - scala

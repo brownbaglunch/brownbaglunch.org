@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cecile-staehle/talks/management-participatif-mieux-decider-ensemble-grace-aux-outils-de-la-sociocratie/
+url: speakers/cecile-staehle/talks/management-participatif-mieux-decider-ensemble-grace-aux-outils-de-la-sociocratie/
 tags:
 - sociocratie
 - organization

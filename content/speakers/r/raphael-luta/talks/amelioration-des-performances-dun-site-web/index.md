@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/raphael-luta/talks/amelioration-des-performances-dun-site-web/
+url: speakers/raphael-luta/talks/amelioration-des-performances-dun-site-web/
 tags:
 - web
 - performance

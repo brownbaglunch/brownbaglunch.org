@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/dj/
+url: speakers/david-pilato/talks/dj/
 tags:
   - music
 versions:

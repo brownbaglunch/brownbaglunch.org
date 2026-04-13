@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/loic-mathieu/talks/mes-premiers-pas-en-deeplearling/
+url: speakers/loic-mathieu/talks/mes-premiers-pas-en-deeplearling/
 tags:
 - deep-learning
 - keras

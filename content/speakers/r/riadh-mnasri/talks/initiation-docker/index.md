@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/riadh-mnasri/talks/initiation-docker/
+url: speakers/riadh-mnasri/talks/initiation-docker/
 tags:
 - docker
 - container

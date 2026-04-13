@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yannick-grenzinger/talks/software-craftsmanship/
+url: speakers/yannick-grenzinger/talks/software-craftsmanship/
 tags:
 - code
 - quality

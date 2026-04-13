@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-rivain/talks/scaling-engineering-teams/
+url: speakers/frederic-rivain/talks/scaling-engineering-teams/
 tags:
 - management
 - scalability

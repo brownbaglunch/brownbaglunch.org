@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/florent-pellet/talks/knockoutjs-ou-la-rencontre-dmvvm-et-du-web/
+url: speakers/florent-pellet/talks/knockoutjs-ou-la-rencontre-dmvvm-et-du-web/
 tags:
 - domain-driven-design
 - event-sourcing

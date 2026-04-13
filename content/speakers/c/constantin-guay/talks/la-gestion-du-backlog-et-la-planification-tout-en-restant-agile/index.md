@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/constantin-guay/talks/la-gestion-du-backlog-et-la-planification-tout-en-restant-agile/
+url: speakers/constantin-guay/talks/la-gestion-du-backlog-et-la-planification-tout-en-restant-agile/
 tags:
 - agile
 - scrum

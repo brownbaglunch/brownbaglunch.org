@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/ilan-zerath/talks/les-bonnes-pratiques-pour-faire-des-tests-unitaires/
+url: speakers/ilan-zerath/talks/les-bonnes-pratiques-pour-faire-des-tests-unitaires/
 tags:
 - code
 - quality

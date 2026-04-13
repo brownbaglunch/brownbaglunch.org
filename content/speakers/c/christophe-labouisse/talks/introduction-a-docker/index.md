@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-labouisse/talks/introduction-a-docker/
+url: speakers/christophe-labouisse/talks/introduction-a-docker/
 tags:
 - git
 - docker

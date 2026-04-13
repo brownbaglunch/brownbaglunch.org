@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/ronan-amicel/talks/codons-ensemble/
+url: speakers/ronan-amicel/talks/codons-ensemble/
 tags:
 - coding-dojo
 - code

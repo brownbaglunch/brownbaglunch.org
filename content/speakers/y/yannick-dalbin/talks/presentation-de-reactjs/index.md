@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yannick-dalbin/talks/presentation-de-reactjs/
+url: speakers/yannick-dalbin/talks/presentation-de-reactjs/
 tags:
 - javascript
 - react

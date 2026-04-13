@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/robin-caroff/talks/quicky-from-dagger-to-dagger-hilt/
+url: speakers/robin-caroff/talks/quicky-from-dagger-to-dagger-hilt/
 tags:
 - dev
 - android

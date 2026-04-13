@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-furmaniak/talks/orchestration-de-conteneurs-dcos-mesos-kubernetes-ou-swarm/
+url: speakers/christophe-furmaniak/talks/orchestration-de-conteneurs-dcos-mesos-kubernetes-ou-swarm/
 tags:
 - docker
 - orchestrateur

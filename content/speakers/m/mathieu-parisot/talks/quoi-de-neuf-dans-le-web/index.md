@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathieu-parisot/talks/quoi-de-neuf-dans-le-web/
+url: speakers/mathieu-parisot/talks/quoi-de-neuf-dans-le-web/
 tags:
 - responsive
 - html5

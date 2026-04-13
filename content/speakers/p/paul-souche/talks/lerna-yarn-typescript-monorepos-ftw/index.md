@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/paul-souche/talks/lerna-yarn-typescript-monorepos-ftw/
+url: speakers/paul-souche/talks/lerna-yarn-typescript-monorepos-ftw/
 tags:
 - lerna
 - yarn

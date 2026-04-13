@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/manuel-raynaud/talks/industrialisation-de-php/
+url: speakers/manuel-raynaud/talks/industrialisation-de-php/
 tags:
 - php
 - symfony2

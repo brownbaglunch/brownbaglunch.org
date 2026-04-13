@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/loic-mathieu/talks/developper-une-api-cloud-ready-avec-quarkus/
+url: speakers/loic-mathieu/talks/developper-une-api-cloud-ready-avec-quarkus/
 tags:
 - java
 - kafka

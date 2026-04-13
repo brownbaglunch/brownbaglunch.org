@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-lamarque/talks/git-dans-une-architecture-microservice/
+url: speakers/fabien-lamarque/talks/git-dans-une-architecture-microservice/
 tags:
 - git
 - microservices

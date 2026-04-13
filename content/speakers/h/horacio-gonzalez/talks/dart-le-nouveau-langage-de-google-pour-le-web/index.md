@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/horacio-gonzalez/talks/dart-le-nouveau-langage-de-google-pour-le-web/
+url: speakers/horacio-gonzalez/talks/dart-le-nouveau-langage-de-google-pour-le-web/
 tags:
 - web
 - java

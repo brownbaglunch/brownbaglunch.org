@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/augustin-de-laveaucoupet/talks/behat/
+url: speakers/augustin-de-laveaucoupet/talks/behat/
 tags:
 - symfony2
 - performance

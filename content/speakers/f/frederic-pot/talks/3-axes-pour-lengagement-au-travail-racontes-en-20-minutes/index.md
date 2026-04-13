@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-pot/talks/3-axes-pour-lengagement-au-travail-racontes-en-20-minutes/
+url: speakers/frederic-pot/talks/3-axes-pour-lengagement-au-travail-racontes-en-20-minutes/
 tags:
 - engagement
 - team-building

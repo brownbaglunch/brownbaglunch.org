@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jordane-grenat/talks/mettez-votre-javascript-a-jour/
+url: speakers/jordane-grenat/talks/mettez-votre-javascript-a-jour/
 tags:
 - javascript
 - ecmascript

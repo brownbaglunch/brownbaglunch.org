@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alvin-berthelot/talks/lets-sketch-together/
+url: speakers/alvin-berthelot/talks/lets-sketch-together/
 tags:
 - workshop
 - agile

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/claire-zuliani/talks/comment-avoir-une-utilisation-du-numerique-plus-ethique-etou-durable-dans-ma-structure/
+url: speakers/claire-zuliani/talks/comment-avoir-une-utilisation-du-numerique-plus-ethique-etou-durable-dans-ma-structure/
 tags:
 - opendata
 - open-source

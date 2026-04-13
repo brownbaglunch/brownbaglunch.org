@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alexander-dejanovski/talks/apache-cassandra-operations-coherence-et-failover-en-multi-datacenter/
+url: speakers/alexander-dejanovski/talks/apache-cassandra-operations-coherence-et-failover-en-multi-datacenter/
 tags:
 - cassandra
 - nosql

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/stephane-landelle/talks/gatling/
+url: speakers/stephane-landelle/talks/gatling/
 tags:
 - presentation
 - gatling

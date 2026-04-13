@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/timothee-chevrier/talks/apres-les-user-stories-les-team-stories/
+url: speakers/timothee-chevrier/talks/apres-les-user-stories-les-team-stories/
 tags:
 - agile
 - scrum

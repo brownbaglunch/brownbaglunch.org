@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-keromen/talks/kanban/
+url: speakers/christophe-keromen/talks/kanban/
 tags:
 - agile
 - lean

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-friess/talks/live-coding-servir-du-http-en-go/
+url: speakers/sebastien-friess/talks/live-coding-servir-du-http-en-go/
 tags:
 - golang
 - http

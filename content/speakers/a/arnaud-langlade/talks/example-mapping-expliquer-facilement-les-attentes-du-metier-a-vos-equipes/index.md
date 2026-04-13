@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/arnaud-langlade/talks/example-mapping-expliquer-facilement-les-attentes-du-metier-a-vos-equipes/
+url: speakers/arnaud-langlade/talks/example-mapping-expliquer-facilement-les-attentes-du-metier-a-vos-equipes/
 tags:
 - bdd
 - example-mapping

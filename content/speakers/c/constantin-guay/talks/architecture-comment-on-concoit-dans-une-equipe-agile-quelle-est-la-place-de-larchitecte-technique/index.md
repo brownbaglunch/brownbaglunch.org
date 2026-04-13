@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/constantin-guay/talks/architecture-comment-on-concoit-dans-une-equipe-agile-quelle-est-la-place-de-larchitecte-technique/
+url: speakers/constantin-guay/talks/architecture-comment-on-concoit-dans-une-equipe-agile-quelle-est-la-place-de-larchitecte-technique/
 tags:
 - agile
 - scrum

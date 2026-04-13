@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/benedetta-pastore/talks/facilitation-a-linnovation/
+url: speakers/benedetta-pastore/talks/facilitation-a-linnovation/
 tags:
 - innovation
 - innovation-games

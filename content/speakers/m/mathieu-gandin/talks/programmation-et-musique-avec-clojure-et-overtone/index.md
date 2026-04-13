@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathieu-gandin/talks/programmation-et-musique-avec-clojure-et-overtone/
+url: speakers/mathieu-gandin/talks/programmation-et-musique-avec-clojure-et-overtone/
 tags:
 - code
 - refactoring

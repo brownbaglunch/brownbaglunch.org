@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/pierre-baillet/talks/des-fosses-et-des-trolls/
+url: speakers/pierre-baillet/talks/des-fosses-et-des-trolls/
 tags:
 - git
 - deployment

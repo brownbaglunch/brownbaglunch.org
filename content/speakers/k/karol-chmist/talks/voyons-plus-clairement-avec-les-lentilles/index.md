@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/karol-chmist/talks/voyons-plus-clairement-avec-les-lentilles/
+url: speakers/karol-chmist/talks/voyons-plus-clairement-avec-les-lentilles/
 tags:
 - functional-programming
 - scala

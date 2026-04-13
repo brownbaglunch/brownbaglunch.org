@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-tanguy/talks/debugger-sa-configuration-webpack/
+url: speakers/julien-tanguy/talks/debugger-sa-configuration-webpack/
 tags:
 - javascript
 - webpack

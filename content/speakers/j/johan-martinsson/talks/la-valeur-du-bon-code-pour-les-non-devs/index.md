@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/johan-martinsson/talks/la-valeur-du-bon-code-pour-les-non-devs/
+url: speakers/johan-martinsson/talks/la-valeur-du-bon-code-pour-les-non-devs/
 tags:
 - legacy-code
 - test

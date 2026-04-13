@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/clement-bichel/talks/agilite/
+url: speakers/clement-bichel/talks/agilite/
 tags:
 - agile
 - methodes-agiles

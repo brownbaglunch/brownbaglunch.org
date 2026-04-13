@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabrice-sznajderman/talks/lagom-architecture-microservices-reactive/
+url: speakers/fabrice-sznajderman/talks/lagom-architecture-microservices-reactive/
 tags:
 - java
 - scala

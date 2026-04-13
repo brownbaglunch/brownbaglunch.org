@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christopher-maneu/talks/beaucoup-dautres-sujets/
+url: speakers/christopher-maneu/talks/beaucoup-dautres-sujets/
 tags:
 - devops
 - agile

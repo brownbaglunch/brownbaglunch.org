@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/qian-jin/talks/get-ready-for-android-wear-20/
+url: speakers/qian-jin/talks/get-ready-for-android-wear-20/
 tags:
 - android
 - android-wear

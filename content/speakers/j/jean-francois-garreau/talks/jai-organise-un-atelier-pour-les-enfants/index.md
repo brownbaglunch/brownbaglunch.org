@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-francois-garreau/talks/jai-organise-un-atelier-pour-les-enfants/
+url: speakers/jean-francois-garreau/talks/jai-organise-un-atelier-pour-les-enfants/
 tags:
 - enfants
 - decouverte

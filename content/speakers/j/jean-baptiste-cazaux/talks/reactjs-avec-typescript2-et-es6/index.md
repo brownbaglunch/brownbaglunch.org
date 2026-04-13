@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-baptiste-cazaux/talks/reactjs-avec-typescript2-et-es6/
+url: speakers/jean-baptiste-cazaux/talks/reactjs-avec-typescript2-et-es6/
 tags:
 - react
 - typescript

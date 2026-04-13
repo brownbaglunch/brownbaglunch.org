@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/victor-sabatier/talks/de-git-a-la-blockchain/
+url: speakers/victor-sabatier/talks/de-git-a-la-blockchain/
 tags:
 - git
 - blockchain

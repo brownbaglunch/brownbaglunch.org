@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-combes/talks/git-cest-facile/
+url: speakers/frederic-combes/talks/git-cest-facile/
 tags:
 - git
 - devtools

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-jakubowski/talks/coding-dojo-sur-mesure/
+url: speakers/julien-jakubowski/talks/coding-dojo-sur-mesure/
 tags:
 - javascript
 - java

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/marie-desnos/talks/de-la-conception-a-limplementation-un-atelier-pour-faciliter-la-collaboration-entre-designers-et-developpeureuses/
+url: speakers/marie-desnos/talks/de-la-conception-a-limplementation-un-atelier-pour-faciliter-la-collaboration-entre-designers-et-developpeureuses/
 tags:
 - design
 - developpement

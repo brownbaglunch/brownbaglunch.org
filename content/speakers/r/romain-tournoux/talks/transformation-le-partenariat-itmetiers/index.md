@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-tournoux/talks/transformation-le-partenariat-itmetiers/
+url: speakers/romain-tournoux/talks/transformation-le-partenariat-itmetiers/
 tags:
 - transformation
 - dsi

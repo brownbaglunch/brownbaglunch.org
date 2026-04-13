@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alex-carpentieri/talks/pizza-robot-expert/
+url: speakers/alex-carpentieri/talks/pizza-robot-expert/
 tags:
 - clips
 - expert-system

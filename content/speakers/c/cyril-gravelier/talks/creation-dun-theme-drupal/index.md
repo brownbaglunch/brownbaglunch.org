@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyril-gravelier/talks/creation-dun-theme-drupal/
+url: speakers/cyril-gravelier/talks/creation-dun-theme-drupal/
 tags:
 - php
 - drupal

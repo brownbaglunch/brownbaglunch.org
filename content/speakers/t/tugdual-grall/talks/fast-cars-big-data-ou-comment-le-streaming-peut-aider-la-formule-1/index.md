@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/tugdual-grall/talks/fast-cars-big-data-ou-comment-le-streaming-peut-aider-la-formule-1/
+url: speakers/tugdual-grall/talks/fast-cars-big-data-ou-comment-le-streaming-peut-aider-la-formule-1/
 tags:
 - big-data
 - nosql

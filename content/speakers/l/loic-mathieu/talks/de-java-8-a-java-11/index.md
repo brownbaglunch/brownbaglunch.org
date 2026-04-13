@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/loic-mathieu/talks/de-java-8-a-java-11/
+url: speakers/loic-mathieu/talks/de-java-8-a-java-11/
 tags:
 - java
 - java9

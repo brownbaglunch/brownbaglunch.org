@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-guillaume-ribreau/talks/adieu-micro-frontends-et-head-less-cms-bonjour-block-management-platform/
+url: speakers/francois-guillaume-ribreau/talks/adieu-micro-frontends-et-head-less-cms-bonjour-block-management-platform/
 tags:
 - platform
 - scalability

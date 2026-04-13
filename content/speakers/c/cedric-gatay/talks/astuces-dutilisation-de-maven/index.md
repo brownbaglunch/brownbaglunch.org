@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-gatay/talks/astuces-dutilisation-de-maven/
+url: speakers/cedric-gatay/talks/astuces-dutilisation-de-maven/
 tags:
 - continuous-integration
 - maven

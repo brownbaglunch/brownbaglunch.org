@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-thiebault/talks/plongez-dans-lunivers-des-chatbots-avec-recastai/
+url: speakers/laurent-thiebault/talks/plongez-dans-lunivers-des-chatbots-avec-recastai/
 tags:
 - chatbots
 - recast

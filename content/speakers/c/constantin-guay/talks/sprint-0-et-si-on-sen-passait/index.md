@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/constantin-guay/talks/sprint-0-et-si-on-sen-passait/
+url: speakers/constantin-guay/talks/sprint-0-et-si-on-sen-passait/
 tags:
 - agile
 - scrum

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-menou/talks/haskell-pour-les-noobs/
+url: speakers/frederic-menou/talks/haskell-pour-les-noobs/
 tags:
 - haskell
 - functional-programming

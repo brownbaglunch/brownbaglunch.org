@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thomas-gratier/talks/faire-des-cartes-en-ligne-quelles-solutions-pour-quels-besoins/
+url: speakers/thomas-gratier/talks/faire-des-cartes-en-ligne-quelles-solutions-pour-quels-besoins/
 tags:
 - cartographie
 - sig

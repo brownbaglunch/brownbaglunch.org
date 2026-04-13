@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-paoletti/talks/pourquoi-passent-ils-a-python/
+url: speakers/laurent-paoletti/talks/pourquoi-passent-ils-a-python/
 tags:
 - python
 - performance

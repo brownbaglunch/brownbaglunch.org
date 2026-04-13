@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-joseph/talks/vos-premiers-pas-avec-rust/
+url: speakers/nicolas-joseph/talks/vos-premiers-pas-avec-rust/
 tags:
 - rust
 versions:

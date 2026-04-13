@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/anne-lise-agoye/talks/atelier-decouverte-liberating-structures/
+url: speakers/anne-lise-agoye/talks/atelier-decouverte-liberating-structures/
 tags:
 - intelligence-collective
 - agile

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/johan-bonneau/talks/lestimation-agile/
+url: speakers/johan-bonneau/talks/lestimation-agile/
 tags:
 - agile
 - scrum

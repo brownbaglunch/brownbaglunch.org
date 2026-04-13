@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gregory-weinbach/talks/lean-enterprise-architecture/
+url: speakers/gregory-weinbach/talks/lean-enterprise-architecture/
 tags:
 - modelisation
 - lean

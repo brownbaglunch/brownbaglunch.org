@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yohan-lasorsa/talks/les-progressive-web-apps-au-dela-du-buzzword/
+url: speakers/yohan-lasorsa/talks/les-progressive-web-apps-au-dela-du-buzzword/
 tags:
 - pwa
 - mobile

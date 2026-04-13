@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-jakubowski/talks/epic-legacy-code-challenge/
+url: speakers/julien-jakubowski/talks/epic-legacy-code-challenge/
 tags:
 - test
 - coding-dojo

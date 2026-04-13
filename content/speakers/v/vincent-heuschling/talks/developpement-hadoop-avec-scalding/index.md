@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-heuschling/talks/developpement-hadoop-avec-scalding/
+url: speakers/vincent-heuschling/talks/developpement-hadoop-avec-scalding/
 tags:
 - hadoop
 - nosql

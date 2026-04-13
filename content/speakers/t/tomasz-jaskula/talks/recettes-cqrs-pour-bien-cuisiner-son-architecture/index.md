@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/tomasz-jaskula/talks/recettes-cqrs-pour-bien-cuisiner-son-architecture/
+url: speakers/tomasz-jaskula/talks/recettes-cqrs-pour-bien-cuisiner-son-architecture/
 tags:
 - f
 - domain-driven-design

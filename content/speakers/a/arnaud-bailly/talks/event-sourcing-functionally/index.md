@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/arnaud-bailly/talks/event-sourcing-functionally/
+url: speakers/arnaud-bailly/talks/event-sourcing-functionally/
 tags:
 - functional-programming
 - event-sourcing

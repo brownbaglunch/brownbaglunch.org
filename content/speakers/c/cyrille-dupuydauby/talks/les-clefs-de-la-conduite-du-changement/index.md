@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyrille-dupuydauby/talks/les-clefs-de-la-conduite-du-changement/
+url: speakers/cyrille-dupuydauby/talks/les-clefs-de-la-conduite-du-changement/
 tags:
 - changement
 - transformation

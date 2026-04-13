@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sylvain-abelard/talks/known-unknowns-ce-qui-risque-de-changer-dans-votre-projet/
+url: speakers/sylvain-abelard/talks/known-unknowns-ce-qui-risque-de-changer-dans-votre-projet/
 tags:
 - ruby
 - ruby-on-rails

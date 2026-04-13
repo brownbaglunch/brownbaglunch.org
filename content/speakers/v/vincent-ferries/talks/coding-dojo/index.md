@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-ferries/talks/coding-dojo/
+url: speakers/vincent-ferries/talks/coding-dojo/
 tags:
 - javaee
 - android

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-tardif/talks/docker/
+url: speakers/laurent-tardif/talks/docker/
 tags:
 - docker
 versions:

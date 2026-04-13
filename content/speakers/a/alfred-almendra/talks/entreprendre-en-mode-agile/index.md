@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alfred-almendra/talks/entreprendre-en-mode-agile/
+url: speakers/alfred-almendra/talks/entreprendre-en-mode-agile/
 tags:
 - agile
 - ux

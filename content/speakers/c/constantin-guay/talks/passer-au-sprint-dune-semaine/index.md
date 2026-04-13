@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/constantin-guay/talks/passer-au-sprint-dune-semaine/
+url: speakers/constantin-guay/talks/passer-au-sprint-dune-semaine/
 tags:
 - agile
 - scrum

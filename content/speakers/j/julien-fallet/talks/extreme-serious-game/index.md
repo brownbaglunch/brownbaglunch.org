@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-fallet/talks/extreme-serious-game/
+url: speakers/julien-fallet/talks/extreme-serious-game/
 tags:
 - communication
 - cooperation

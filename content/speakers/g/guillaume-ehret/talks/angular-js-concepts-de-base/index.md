@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-ehret/talks/angular-js-concepts-de-base/
+url: speakers/guillaume-ehret/talks/angular-js-concepts-de-base/
 tags:
 - agile
 - android

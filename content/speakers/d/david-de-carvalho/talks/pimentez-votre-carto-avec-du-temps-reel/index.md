@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-de-carvalho/talks/pimentez-votre-carto-avec-du-temps-reel/
+url: speakers/david-de-carvalho/talks/pimentez-votre-carto-avec-du-temps-reel/
 tags:
 - sse
 - server-sent-event

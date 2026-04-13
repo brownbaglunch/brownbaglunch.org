@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-francois-garreau/talks/js-in-css-yes-we-can/
+url: speakers/jean-francois-garreau/talks/js-in-css-yes-we-can/
 tags:
 - javascript
 - css

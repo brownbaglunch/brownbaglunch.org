@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/emilien-pecoul/talks/tdd-by-example/
+url: speakers/emilien-pecoul/talks/tdd-by-example/
 tags:
 - agile
 - tdd

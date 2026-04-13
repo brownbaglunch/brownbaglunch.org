@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-gavard/talks/quest-ce-que-le-domain-driven-design/
+url: speakers/julien-gavard/talks/quest-ce-que-le-domain-driven-design/
 tags:
 - domain-driven-design
 - conception

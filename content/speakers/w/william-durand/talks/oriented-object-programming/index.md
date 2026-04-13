@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/william-durand/talks/oriented-object-programming/
+url: speakers/william-durand/talks/oriented-object-programming/
 tags:
 - php
 - symfony

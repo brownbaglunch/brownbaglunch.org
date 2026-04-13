@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/monitoring/
+url: speakers/david-pilato/talks/monitoring/
 tags:
   - elasticsearch
   - kibana

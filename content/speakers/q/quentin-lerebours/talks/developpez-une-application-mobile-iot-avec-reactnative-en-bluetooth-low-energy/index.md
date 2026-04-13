@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/quentin-lerebours/talks/developpez-une-application-mobile-iot-avec-reactnative-en-bluetooth-low-energy/
+url: speakers/quentin-lerebours/talks/developpez-une-application-mobile-iot-avec-reactnative-en-bluetooth-low-energy/
 tags:
 - react-native
 - iot

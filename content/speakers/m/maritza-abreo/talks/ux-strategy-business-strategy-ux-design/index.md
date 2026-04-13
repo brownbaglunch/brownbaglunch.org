@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maritza-abreo/talks/ux-strategy-business-strategy-ux-design/
+url: speakers/maritza-abreo/talks/ux-strategy-business-strategy-ux-design/
 tags:
 - ux
 versions:

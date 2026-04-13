@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-jakubowski/talks/allies-contre-les-defauts-talk-avec-le-webcenter-axa/
+url: speakers/julien-jakubowski/talks/allies-contre-les-defauts-talk-avec-le-webcenter-axa/
 tags:
 - test
 - coding-dojo

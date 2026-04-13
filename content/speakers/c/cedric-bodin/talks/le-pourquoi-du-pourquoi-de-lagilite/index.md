@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-bodin/talks/le-pourquoi-du-pourquoi-de-lagilite/
+url: speakers/cedric-bodin/talks/le-pourquoi-du-pourquoi-de-lagilite/
 tags:
 - agile
 - scrum

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/philippe-prados/talks/multithread-sans-thread/
+url: speakers/philippe-prados/talks/multithread-sans-thread/
 tags:
 - architecture
 - scala

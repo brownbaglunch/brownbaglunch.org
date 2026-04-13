@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/tugdual-grall/talks/introduction-au-big-data-et-nosql/
+url: speakers/tugdual-grall/talks/introduction-au-big-data-et-nosql/
 tags:
 - big-data
 - nosql

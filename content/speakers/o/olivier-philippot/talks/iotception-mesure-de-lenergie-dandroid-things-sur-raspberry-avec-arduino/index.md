@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/olivier-philippot/talks/iotception-mesure-de-lenergie-dandroid-things-sur-raspberry-avec-arduino/
+url: speakers/olivier-philippot/talks/iotception-mesure-de-lenergie-dandroid-things-sur-raspberry-avec-arduino/
 tags:
 - iot
 - android-things

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/rew-islam/talks/learn-about-passkeys-and-the-fido-alliance/
+url: speakers/rew-islam/talks/learn-about-passkeys-and-the-fido-alliance/
 tags:
 - passkeys
 - fidoalliance

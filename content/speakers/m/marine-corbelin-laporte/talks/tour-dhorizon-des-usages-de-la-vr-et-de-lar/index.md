@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/marine-corbelin-laporte/talks/tour-dhorizon-des-usages-de-la-vr-et-de-lar/
+url: speakers/marine-corbelin-laporte/talks/tour-dhorizon-des-usages-de-la-vr-et-de-lar/
 tags:
 - vr
 - ar

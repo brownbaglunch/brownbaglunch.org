@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathieu-hausherr/talks/machine-learning-et-identification-dimages-sur-mobile/
+url: speakers/mathieu-hausherr/talks/machine-learning-et-identification-dimages-sur-mobile/
 tags:
 - tensorflow
 - ios

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/ronan-guilloux/talks/silex-micro-framewok-php/
+url: speakers/ronan-guilloux/talks/silex-micro-framewok-php/
 tags:
 - php
 - silex

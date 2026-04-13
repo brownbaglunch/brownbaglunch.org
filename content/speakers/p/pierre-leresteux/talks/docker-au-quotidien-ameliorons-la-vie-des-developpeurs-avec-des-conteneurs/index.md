@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/pierre-leresteux/talks/docker-au-quotidien-ameliorons-la-vie-des-developpeurs-avec-des-conteneurs/
+url: speakers/pierre-leresteux/talks/docker-au-quotidien-ameliorons-la-vie-des-developpeurs-avec-des-conteneurs/
 tags:
 - docker
 versions:

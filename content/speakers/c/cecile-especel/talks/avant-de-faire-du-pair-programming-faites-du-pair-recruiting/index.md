@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cecile-especel/talks/avant-de-faire-du-pair-programming-faites-du-pair-recruiting/
+url: speakers/cecile-especel/talks/avant-de-faire-du-pair-programming-faites-du-pair-recruiting/
 tags:
 - agile
 versions:

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-baptiste-beuzelin/talks/comment-developper-un-outil-qui-permet-de-rendre-vos-collaborateurs-plus-efficaces/
+url: speakers/jean-baptiste-beuzelin/talks/comment-developper-un-outil-qui-permet-de-rendre-vos-collaborateurs-plus-efficaces/
 tags:
 - saas
 - si

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-couturier/talks/scrum-comment-tomber-dans-le-panneau/
+url: speakers/romain-couturier/talks/scrum-comment-tomber-dans-le-panneau/
 tags:
 - coaching
 - agile

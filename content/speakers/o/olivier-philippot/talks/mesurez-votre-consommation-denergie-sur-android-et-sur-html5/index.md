@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/olivier-philippot/talks/mesurez-votre-consommation-denergie-sur-android-et-sur-html5/
+url: speakers/olivier-philippot/talks/mesurez-votre-consommation-denergie-sur-android-et-sur-html5/
 tags:
 - android
 - html5

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-martignole/talks/scala-ce-quil-faut-retenir/
+url: speakers/nicolas-martignole/talks/scala-ce-quil-faut-retenir/
 tags:
 - presentation
 - startup

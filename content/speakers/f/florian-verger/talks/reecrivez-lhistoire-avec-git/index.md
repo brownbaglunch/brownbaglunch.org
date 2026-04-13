@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/florian-verger/talks/reecrivez-lhistoire-avec-git/
+url: speakers/florian-verger/talks/reecrivez-lhistoire-avec-git/
 tags:
 - git
 - sourcetree

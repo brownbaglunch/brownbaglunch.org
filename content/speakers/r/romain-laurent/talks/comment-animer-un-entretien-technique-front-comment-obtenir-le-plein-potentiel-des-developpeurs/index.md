@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-laurent/talks/comment-animer-un-entretien-technique-front-comment-obtenir-le-plein-potentiel-des-developpeurs/
+url: speakers/romain-laurent/talks/comment-animer-un-entretien-technique-front-comment-obtenir-le-plein-potentiel-des-developpeurs/
 tags:
 - developpeur
 - recruiting

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-pesme-cansar/talks/initiation-aux-objets-connectes/
+url: speakers/sebastien-pesme-cansar/talks/initiation-aux-objets-connectes/
 tags:
 - android
 - ios

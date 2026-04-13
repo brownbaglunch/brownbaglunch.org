@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/tomasz-jaskula/talks/sujet-f-sur-mesure/
+url: speakers/tomasz-jaskula/talks/sujet-f-sur-mesure/
 tags:
 - f
 - domain-driven-design

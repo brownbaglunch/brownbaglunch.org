@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/henri-tremblay/talks/universite-de-la-performance/
+url: speakers/henri-tremblay/talks/universite-de-la-performance/
 tags:
 - java
 - performance

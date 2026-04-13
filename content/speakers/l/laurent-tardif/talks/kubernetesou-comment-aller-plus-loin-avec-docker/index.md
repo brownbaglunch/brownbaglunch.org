@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-tardif/talks/kubernetesou-comment-aller-plus-loin-avec-docker/
+url: speakers/laurent-tardif/talks/kubernetesou-comment-aller-plus-loin-avec-docker/
 tags:
 - kubernetes
 versions:

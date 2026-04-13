@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/eric-siber/talks/de-la-culture-de-lapprentissage-a-lorganisation-apprenante/
+url: speakers/eric-siber/talks/de-la-culture-de-lapprentissage-a-lorganisation-apprenante/
 tags:
 - formation
 - apprentissage

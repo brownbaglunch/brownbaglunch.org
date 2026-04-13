@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/johan-bonneau/talks/kanban-pour-linformatique/
+url: speakers/johan-bonneau/talks/kanban-pour-linformatique/
 tags:
 - agile
 - kanban

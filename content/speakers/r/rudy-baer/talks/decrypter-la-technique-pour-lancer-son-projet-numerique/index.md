@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/rudy-baer/talks/decrypter-la-technique-pour-lancer-son-projet-numerique/
+url: speakers/rudy-baer/talks/decrypter-la-technique-pour-lancer-son-projet-numerique/
 tags:
 - entreprendre
 - entrepreneur

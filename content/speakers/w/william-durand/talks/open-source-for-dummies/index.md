@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/william-durand/talks/open-source-for-dummies/
+url: speakers/william-durand/talks/open-source-for-dummies/
 tags:
 - php
 - symfony

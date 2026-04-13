@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/constantin-guay/talks/example-mapping-atelier/
+url: speakers/constantin-guay/talks/example-mapping-atelier/
 tags:
 - agile
 - scrum

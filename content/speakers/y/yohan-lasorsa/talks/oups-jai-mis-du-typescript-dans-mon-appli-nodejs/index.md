@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yohan-lasorsa/talks/oups-jai-mis-du-typescript-dans-mon-appli-nodejs/
+url: speakers/yohan-lasorsa/talks/oups-jai-mis-du-typescript-dans-mon-appli-nodejs/
 tags:
 - nodejs
 - typescript

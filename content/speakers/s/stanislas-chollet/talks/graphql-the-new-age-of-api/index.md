@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/stanislas-chollet/talks/graphql-the-new-age-of-api/
+url: speakers/stanislas-chollet/talks/graphql-the-new-age-of-api/
 tags:
 - scalability
 - graphql

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sahbi-ktifa/talks/quicky-angular-react-vuejs-ne-peut-il-vraiment-en-rester-quun/
+url: speakers/sahbi-ktifa/talks/quicky-angular-react-vuejs-ne-peut-il-vraiment-en-rester-quun/
 tags:
 - jhipster
 - dev

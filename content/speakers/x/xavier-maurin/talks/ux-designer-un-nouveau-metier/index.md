@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-maurin/talks/ux-designer-un-nouveau-metier/
+url: speakers/xavier-maurin/talks/ux-designer-un-nouveau-metier/
 tags:
 - ux
 - experience-client

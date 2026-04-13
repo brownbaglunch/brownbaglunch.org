@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-drouet/talks/tirez-le-meilleur-de-vos-apis-avec-graphql/
+url: speakers/guillaume-drouet/talks/tirez-le-meilleur-de-vos-apis-avec-graphql/
 tags:
 - graphql
 - api

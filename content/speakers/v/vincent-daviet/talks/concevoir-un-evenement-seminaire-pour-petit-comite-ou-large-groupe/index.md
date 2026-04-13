@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-daviet/talks/concevoir-un-evenement-seminaire-pour-petit-comite-ou-large-groupe/
+url: speakers/vincent-daviet/talks/concevoir-un-evenement-seminaire-pour-petit-comite-ou-large-groupe/
 tags:
 - coaching
 - facilitation

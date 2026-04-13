@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-furmaniak/talks/rancher-le-petit-orchestrateur-docker-qui-vous-veut-du-bien/
+url: speakers/christophe-furmaniak/talks/rancher-le-petit-orchestrateur-docker-qui-vous-veut-du-bien/
 tags:
 - docker
 - rancher

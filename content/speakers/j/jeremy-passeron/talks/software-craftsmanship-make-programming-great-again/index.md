@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jeremy-passeron/talks/software-craftsmanship-make-programming-great-again/
+url: speakers/jeremy-passeron/talks/software-craftsmanship-make-programming-great-again/
 tags:
 - legacy-code
 - agile

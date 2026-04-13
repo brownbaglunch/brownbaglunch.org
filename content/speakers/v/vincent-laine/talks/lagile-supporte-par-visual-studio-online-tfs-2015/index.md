@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-laine/talks/lagile-supporte-par-visual-studio-online-tfs-2015/
+url: speakers/vincent-laine/talks/lagile-supporte-par-visual-studio-online-tfs-2015/
 tags:
 - developpement
 - net

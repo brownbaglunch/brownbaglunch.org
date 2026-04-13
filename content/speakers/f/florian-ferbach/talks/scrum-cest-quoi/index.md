@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/florian-ferbach/talks/scrum-cest-quoi/
+url: speakers/florian-ferbach/talks/scrum-cest-quoi/
 tags:
 - agile
 - scrum

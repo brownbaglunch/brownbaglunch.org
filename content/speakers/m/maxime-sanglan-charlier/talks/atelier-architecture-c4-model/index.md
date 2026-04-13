@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maxime-sanglan-charlier/talks/atelier-architecture-c4-model/
+url: speakers/maxime-sanglan-charlier/talks/atelier-architecture-c4-model/
 tags:
 - workshop
 - architecture

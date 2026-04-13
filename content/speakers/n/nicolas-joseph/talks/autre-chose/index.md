@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-joseph/talks/autre-chose/
+url: speakers/nicolas-joseph/talks/autre-chose/
 tags:
 - behat
 - embarque

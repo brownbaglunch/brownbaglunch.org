@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-f-gouchet/talks/demystifier-la-pyramide-de-tests-general/
+url: speakers/xavier-f-gouchet/talks/demystifier-la-pyramide-de-tests-general/
 tags:
 - test
 - pyramide

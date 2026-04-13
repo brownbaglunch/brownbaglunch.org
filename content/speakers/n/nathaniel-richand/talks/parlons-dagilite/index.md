@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nathaniel-richand/talks/parlons-dagilite/
+url: speakers/nathaniel-richand/talks/parlons-dagilite/
 tags:
 - agile
 versions:

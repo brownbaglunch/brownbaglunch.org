@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yohan-lasorsa/talks/la-gestion-de-letat-pour-angular-avec-ngxs/
+url: speakers/yohan-lasorsa/talks/la-gestion-de-letat-pour-angular-avec-ngxs/
 tags:
 - angular
 - state-management

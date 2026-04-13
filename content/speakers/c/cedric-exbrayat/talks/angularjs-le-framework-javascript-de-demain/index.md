@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-exbrayat/talks/angularjs-le-framework-javascript-de-demain/
+url: speakers/cedric-exbrayat/talks/angularjs-le-framework-javascript-de-demain/
 tags:
 - java
 - lambda

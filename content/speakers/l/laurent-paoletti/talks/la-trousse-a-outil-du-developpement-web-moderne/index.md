@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-paoletti/talks/la-trousse-a-outil-du-developpement-web-moderne/
+url: speakers/laurent-paoletti/talks/la-trousse-a-outil-du-developpement-web-moderne/
 tags:
 - python
 - performance

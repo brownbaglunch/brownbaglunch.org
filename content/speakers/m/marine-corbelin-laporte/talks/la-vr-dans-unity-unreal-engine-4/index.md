@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/marine-corbelin-laporte/talks/la-vr-dans-unity-unreal-engine-4/
+url: speakers/marine-corbelin-laporte/talks/la-vr-dans-unity-unreal-engine-4/
 tags:
 - vr
 - unity

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sylvain-maucourt/talks/comment-creer-une-feature-team-qui-dechire/
+url: speakers/sylvain-maucourt/talks/comment-creer-une-feature-team-qui-dechire/
 tags:
 - agile
 - autonomie

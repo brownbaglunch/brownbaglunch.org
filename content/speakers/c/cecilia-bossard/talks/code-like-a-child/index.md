@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cecilia-bossard/talks/code-like-a-child/
+url: speakers/cecilia-bossard/talks/code-like-a-child/
 tags:
 - programmation-visuelle
 versions:

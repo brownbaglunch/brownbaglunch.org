@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-francois-garreau/talks/le-web-natif-debarque/
+url: speakers/jean-francois-garreau/talks/le-web-natif-debarque/
 tags:
 - html5
 - web

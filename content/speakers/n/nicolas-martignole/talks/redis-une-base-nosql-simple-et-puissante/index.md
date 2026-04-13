@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-martignole/talks/redis-une-base-nosql-simple-et-puissante/
+url: speakers/nicolas-martignole/talks/redis-une-base-nosql-simple-et-puissante/
 tags:
 - presentation
 - startup

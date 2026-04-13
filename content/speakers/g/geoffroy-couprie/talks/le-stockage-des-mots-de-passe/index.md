@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/geoffroy-couprie/talks/le-stockage-des-mots-de-passe/
+url: speakers/geoffroy-couprie/talks/le-stockage-des-mots-de-passe/
 tags:
 - security
 - cryptographie

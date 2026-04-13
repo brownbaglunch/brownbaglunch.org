@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/randomized-testing/
+url: speakers/david-pilato/talks/randomized-testing/
 tags:
   - java
   - testing

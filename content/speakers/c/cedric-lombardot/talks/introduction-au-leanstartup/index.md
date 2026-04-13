@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-lombardot/talks/introduction-au-leanstartup/
+url: speakers/cedric-lombardot/talks/introduction-au-leanstartup/
 tags:
 - symfony
 - angularjs

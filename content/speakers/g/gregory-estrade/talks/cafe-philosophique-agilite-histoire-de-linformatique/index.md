@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gregory-estrade/talks/cafe-philosophique-agilite-histoire-de-linformatique/
+url: speakers/gregory-estrade/talks/cafe-philosophique-agilite-histoire-de-linformatique/
 tags:
 - software-development
 - hardware-hacking

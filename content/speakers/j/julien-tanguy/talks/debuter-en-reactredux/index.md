@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-tanguy/talks/debuter-en-reactredux/
+url: speakers/julien-tanguy/talks/debuter-en-reactredux/
 tags:
 - javascript
 - react

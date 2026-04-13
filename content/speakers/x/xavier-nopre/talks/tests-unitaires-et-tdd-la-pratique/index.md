@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-nopre/talks/tests-unitaires-et-tdd-la-pratique/
+url: speakers/xavier-nopre/talks/tests-unitaires-et-tdd-la-pratique/
 tags:
 - test
 - unit-test

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/olivier-philippot/talks/comment-etre-un-developpeur-ethique-et-green-dilemne-entre-la-course-technologique-et-mon-impact-sur-la-societe/
+url: speakers/olivier-philippot/talks/comment-etre-un-developpeur-ethique-et-green-dilemne-entre-la-course-technologique-et-mon-impact-sur-la-societe/
 tags:
 - green
 - eco-conception

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyrille-martraire/talks/domain-driven-design-dans-un-contexte-legacy/
+url: speakers/cyrille-martraire/talks/domain-driven-design-dans-un-contexte-legacy/
 tags:
 - domain-driven-design
 - bdd

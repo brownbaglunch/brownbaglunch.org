@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/florian-beaufume/talks/programmation-reactive-avec-spring-5-et-reactor/
+url: speakers/florian-beaufume/talks/programmation-reactive-avec-spring-5-et-reactor/
 tags:
 - programmation-reactive
 - spring

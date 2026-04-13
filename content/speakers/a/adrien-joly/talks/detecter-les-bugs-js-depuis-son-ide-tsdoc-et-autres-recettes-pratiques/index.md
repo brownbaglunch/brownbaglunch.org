@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/adrien-joly/talks/detecter-les-bugs-js-depuis-son-ide-tsdoc-et-autres-recettes-pratiques/
+url: speakers/adrien-joly/talks/detecter-les-bugs-js-depuis-son-ide-tsdoc-et-autres-recettes-pratiques/
 tags:
 - legacy-code
 - javascript

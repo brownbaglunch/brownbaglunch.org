@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yannick-grenzinger/talks/apprendre-a-apprendre/
+url: speakers/yannick-grenzinger/talks/apprendre-a-apprendre/
 tags:
 - apprentissage
 - organization

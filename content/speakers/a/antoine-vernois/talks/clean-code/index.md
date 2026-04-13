@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/antoine-vernois/talks/clean-code/
+url: speakers/antoine-vernois/talks/clean-code/
 tags:
 - agile
 - code

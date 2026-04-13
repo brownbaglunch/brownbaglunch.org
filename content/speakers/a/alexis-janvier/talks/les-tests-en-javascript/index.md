@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alexis-janvier/talks/les-tests-en-javascript/
+url: speakers/alexis-janvier/talks/les-tests-en-javascript/
 tags:
 - javascript
 - test

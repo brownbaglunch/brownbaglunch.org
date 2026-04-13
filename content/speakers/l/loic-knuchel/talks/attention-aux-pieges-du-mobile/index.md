@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/loic-knuchel/talks/attention-aux-pieges-du-mobile/
+url: speakers/loic-knuchel/talks/attention-aux-pieges-du-mobile/
 tags:
 - scala
 - angularjs

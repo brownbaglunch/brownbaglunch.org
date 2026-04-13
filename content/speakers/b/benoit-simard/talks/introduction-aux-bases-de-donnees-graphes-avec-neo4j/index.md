@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/benoit-simard/talks/introduction-aux-bases-de-donnees-graphes-avec-neo4j/
+url: speakers/benoit-simard/talks/introduction-aux-bases-de-donnees-graphes-avec-neo4j/
 tags:
 - neo4j
 - graph

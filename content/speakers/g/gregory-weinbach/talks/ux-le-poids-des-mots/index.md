@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gregory-weinbach/talks/ux-le-poids-des-mots/
+url: speakers/gregory-weinbach/talks/ux-le-poids-des-mots/
 tags:
 - ux
 - design

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/pierre-baillet/talks/les-applications-12-factors/
+url: speakers/pierre-baillet/talks/les-applications-12-factors/
 tags:
 - git
 - deployment

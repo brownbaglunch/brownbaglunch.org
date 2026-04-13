@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-bitaudeau/talks/faire-des-transitions-entre-vues-en-ios/
+url: speakers/guillaume-bitaudeau/talks/faire-des-transitions-entre-vues-en-ios/
 tags:
 - java
 - agile

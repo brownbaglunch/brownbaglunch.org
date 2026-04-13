@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alexis-janvier/talks/decouverte-de-docker/
+url: speakers/alexis-janvier/talks/decouverte-de-docker/
 tags:
 - docker
 - docker-compose

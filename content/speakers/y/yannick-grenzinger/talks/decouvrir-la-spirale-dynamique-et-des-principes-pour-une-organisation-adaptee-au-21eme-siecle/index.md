@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yannick-grenzinger/talks/decouvrir-la-spirale-dynamique-et-des-principes-pour-une-organisation-adaptee-au-21eme-siecle/
+url: speakers/yannick-grenzinger/talks/decouvrir-la-spirale-dynamique-et-des-principes-pour-une-organisation-adaptee-au-21eme-siecle/
 tags:
 - organization
 - management

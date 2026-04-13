@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-liot/talks/virtualisation-daccord-mais-apres/
+url: speakers/francois-liot/talks/virtualisation-daccord-mais-apres/
 tags:
 - agile
 - aws

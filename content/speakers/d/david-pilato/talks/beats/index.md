@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/beats/
+url: speakers/david-pilato/talks/beats/
 tags:
   - elasticsearch
   - beats

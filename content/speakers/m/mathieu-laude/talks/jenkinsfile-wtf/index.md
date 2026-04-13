@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathieu-laude/talks/jenkinsfile-wtf/
+url: speakers/mathieu-laude/talks/jenkinsfile-wtf/
 tags:
 - pipeline
 - jenkins

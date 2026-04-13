@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yannick-grenzinger/talks/de-scrum-au-flux/
+url: speakers/yannick-grenzinger/talks/de-scrum-au-flux/
 tags:
 - scrum
 - lean

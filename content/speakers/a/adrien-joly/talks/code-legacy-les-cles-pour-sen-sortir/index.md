@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/adrien-joly/talks/code-legacy-les-cles-pour-sen-sortir/
+url: speakers/adrien-joly/talks/code-legacy-les-cles-pour-sen-sortir/
 tags:
 - legacy-code
 - tech-leadership

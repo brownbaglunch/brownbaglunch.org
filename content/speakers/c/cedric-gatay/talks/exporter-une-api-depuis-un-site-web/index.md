@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-gatay/talks/exporter-une-api-depuis-un-site-web/
+url: speakers/cedric-gatay/talks/exporter-une-api-depuis-un-site-web/
 tags:
 - continuous-integration
 - maven

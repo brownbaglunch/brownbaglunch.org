@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-pesme-cansar/talks/healthkit-google-fit/
+url: speakers/sebastien-pesme-cansar/talks/healthkit-google-fit/
 tags:
 - android
 - ios

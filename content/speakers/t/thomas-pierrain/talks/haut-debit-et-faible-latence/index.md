@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thomas-pierrain/talks/haut-debit-et-faible-latence/
+url: speakers/thomas-pierrain/talks/haut-debit-et-faible-latence/
 tags:
 - domain-driven-design
 - tdd

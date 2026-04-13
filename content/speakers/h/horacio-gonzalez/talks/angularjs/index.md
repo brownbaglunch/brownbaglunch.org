@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/horacio-gonzalez/talks/angularjs/
+url: speakers/horacio-gonzalez/talks/angularjs/
 tags:
 - web
 - java

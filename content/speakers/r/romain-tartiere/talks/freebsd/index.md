@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-tartiere/talks/freebsd/
+url: speakers/romain-tartiere/talks/freebsd/
 tags:
 - freebsd
 - unix

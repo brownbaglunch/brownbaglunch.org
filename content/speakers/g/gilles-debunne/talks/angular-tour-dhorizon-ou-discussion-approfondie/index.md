@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gilles-debunne/talks/angular-tour-dhorizon-ou-discussion-approfondie/
+url: speakers/gilles-debunne/talks/angular-tour-dhorizon-ou-discussion-approfondie/
 tags:
 - ux
 - ui

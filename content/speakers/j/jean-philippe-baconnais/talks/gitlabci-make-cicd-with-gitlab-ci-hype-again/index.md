@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-philippe-baconnais/talks/gitlabci-make-cicd-with-gitlab-ci-hype-again/
+url: speakers/jean-philippe-baconnais/talks/gitlabci-make-cicd-with-gitlab-ci-hype-again/
 tags:
 - dev
 - ci-cd

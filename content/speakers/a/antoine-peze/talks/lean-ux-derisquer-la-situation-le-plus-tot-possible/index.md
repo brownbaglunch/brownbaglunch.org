@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/antoine-peze/talks/lean-ux-derisquer-la-situation-le-plus-tot-possible/
+url: speakers/antoine-peze/talks/lean-ux-derisquer-la-situation-le-plus-tot-possible/
 tags:
 - ux
 - lean-ux

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/johan-bonneau/talks/la-sociocratie/
+url: speakers/johan-bonneau/talks/la-sociocratie/
 tags:
 - agile
 - coaching

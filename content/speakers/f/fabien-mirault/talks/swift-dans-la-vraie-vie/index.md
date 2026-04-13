@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-mirault/talks/swift-dans-la-vraie-vie/
+url: speakers/fabien-mirault/talks/swift-dans-la-vraie-vie/
 tags:
 - ios
 - swift

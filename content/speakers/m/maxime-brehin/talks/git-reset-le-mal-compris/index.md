@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maxime-brehin/talks/git-reset-le-mal-compris/
+url: speakers/maxime-brehin/talks/git-reset-le-mal-compris/
 tags:
 - git
 - vcs

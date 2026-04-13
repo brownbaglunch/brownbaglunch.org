@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-topcu/talks/kanban-noestimates-extreme-programming/
+url: speakers/julien-topcu/talks/kanban-noestimates-extreme-programming/
 tags:
 - kanban
 - extreme-programming

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedrick-lunven/talks/intro-a-ff4j-proposition-de-feature-toggle-pour-java/
+url: speakers/cedrick-lunven/talks/intro-a-ff4j-proposition-de-feature-toggle-pour-java/
 tags:
 - feature-toggle
 - ff4j

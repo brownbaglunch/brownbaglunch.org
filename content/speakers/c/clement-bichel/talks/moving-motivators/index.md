@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/clement-bichel/talks/moving-motivators/
+url: speakers/clement-bichel/talks/moving-motivators/
 tags:
 - management-3-0
 - agile

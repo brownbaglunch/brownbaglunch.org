@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alexis-janvier/talks/lancer-et-maintenir-un-projet-open-source/
+url: speakers/alexis-janvier/talks/lancer-et-maintenir-un-projet-open-source/
 tags:
 - open-source
 versions:

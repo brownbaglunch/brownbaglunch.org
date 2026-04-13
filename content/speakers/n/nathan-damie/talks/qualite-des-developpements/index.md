@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nathan-damie/talks/qualite-des-developpements/
+url: speakers/nathan-damie/talks/qualite-des-developpements/
 tags:
 - quality
 - qa

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/loic-mathieu/talks/introduction-a-apache-kafka/
+url: speakers/loic-mathieu/talks/introduction-a-apache-kafka/
 tags:
 - java
 - kafka

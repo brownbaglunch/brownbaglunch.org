@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-maron/talks/scaling-your-engineering-team/
+url: speakers/guillaume-maron/talks/scaling-your-engineering-team/
 tags:
 - scalability
 - engineering-team

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-hiegel/talks/tests-unitaires-pourquoi-faire/
+url: speakers/fabien-hiegel/talks/tests-unitaires-pourquoi-faire/
 tags:
 - serious-game
 - test

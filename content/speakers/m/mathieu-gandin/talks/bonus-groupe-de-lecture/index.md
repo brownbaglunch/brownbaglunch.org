@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathieu-gandin/talks/bonus-groupe-de-lecture/
+url: speakers/mathieu-gandin/talks/bonus-groupe-de-lecture/
 tags:
 - code
 - refactoring

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/olivier-etienne/talks/des-framboises-et-des-tests/
+url: speakers/olivier-etienne/talks/des-framboises-et-des-tests/
 tags:
 - http
 - java

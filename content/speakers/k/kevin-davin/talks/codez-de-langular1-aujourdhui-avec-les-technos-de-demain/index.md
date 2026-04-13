@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/kevin-davin/talks/codez-de-langular1-aujourdhui-avec-les-technos-de-demain/
+url: speakers/kevin-davin/talks/codez-de-langular1-aujourdhui-avec-les-technos-de-demain/
 tags:
 - javascript
 - angularjs

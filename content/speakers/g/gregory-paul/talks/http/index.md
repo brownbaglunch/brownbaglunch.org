@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gregory-paul/talks/http/
+url: speakers/gregory-paul/talks/http/
 tags:
 - https
 - web

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/charles-sabourdin/talks/premiers-pas-avec-docker/
+url: speakers/charles-sabourdin/talks/premiers-pas-avec-docker/
 tags:
 - openshift
 - kubernetes

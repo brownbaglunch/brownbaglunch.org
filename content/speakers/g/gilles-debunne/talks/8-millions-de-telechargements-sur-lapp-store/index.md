@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gilles-debunne/talks/8-millions-de-telechargements-sur-lapp-store/
+url: speakers/gilles-debunne/talks/8-millions-de-telechargements-sur-lapp-store/
 tags:
 - ux
 - ui

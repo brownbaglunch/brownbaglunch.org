@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/ameur-yannick/talks/retrospective/
+url: speakers/ameur-yannick/talks/retrospective/
 tags:
 - agile
 - product-owner

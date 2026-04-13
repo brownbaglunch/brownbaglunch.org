@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/antoine-vernois/talks/coding-dojo/
+url: speakers/antoine-vernois/talks/coding-dojo/
 tags:
 - agile
 - code

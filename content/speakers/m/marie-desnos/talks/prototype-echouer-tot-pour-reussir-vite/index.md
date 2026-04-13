@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/marie-desnos/talks/prototype-echouer-tot-pour-reussir-vite/
+url: speakers/marie-desnos/talks/prototype-echouer-tot-pour-reussir-vite/
 tags:
 - design
 - prototype

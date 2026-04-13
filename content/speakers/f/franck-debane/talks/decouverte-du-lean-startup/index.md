@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/franck-debane/talks/decouverte-du-lean-startup/
+url: speakers/franck-debane/talks/decouverte-du-lean-startup/
 tags:
 - lean-startup
 - innovation

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-ehret/talks/lagilite-par-la-pratique/
+url: speakers/guillaume-ehret/talks/lagilite-par-la-pratique/
 tags:
 - agile
 - android

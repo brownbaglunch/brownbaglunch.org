@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thierry-leriche-dessirier/talks/decouvrez-les-profils-disc/
+url: speakers/thierry-leriche-dessirier/talks/decouvrez-les-profils-disc/
 tags:
 - java
 - guava

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/bernard-notarianni/talks/startup/
+url: speakers/bernard-notarianni/talks/startup/
 tags:
 - agile
 - startup

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/quentin-adam/talks/monitoring-the-unknown-1000100-series-a-day/
+url: speakers/quentin-adam/talks/monitoring-the-unknown-1000100-series-a-day/
 tags:
 - warp-10
 - kafka

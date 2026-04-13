@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-couturier/talks/enseignement-et-agilite/
+url: speakers/romain-couturier/talks/enseignement-et-agilite/
 tags:
 - coaching
 - agile

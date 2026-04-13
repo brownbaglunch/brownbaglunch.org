@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/johan-martinsson/talks/developpeurs-anonymes/
+url: speakers/johan-martinsson/talks/developpeurs-anonymes/
 tags:
 - legacy-code
 - test

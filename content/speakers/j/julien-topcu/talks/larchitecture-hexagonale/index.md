@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-topcu/talks/larchitecture-hexagonale/
+url: speakers/julien-topcu/talks/larchitecture-hexagonale/
 tags:
 - architecture
 - domain-driven-design

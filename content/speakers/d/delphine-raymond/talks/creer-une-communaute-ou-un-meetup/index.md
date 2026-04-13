@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/delphine-raymond/talks/creer-une-communaute-ou-un-meetup/
+url: speakers/delphine-raymond/talks/creer-une-communaute-ou-un-meetup/
 tags:
 - communaute
 - meetup

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/matthieu-garde/talks/le-lean-startup-en-entreprise/
+url: speakers/matthieu-garde/talks/le-lean-startup-en-entreprise/
 tags:
 - lean-startup
 - entrepreneuriat

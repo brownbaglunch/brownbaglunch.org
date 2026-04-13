@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/johan-bonneau/talks/introduction-a-git/
+url: speakers/johan-bonneau/talks/introduction-a-git/
 tags:
 - git
 versions:

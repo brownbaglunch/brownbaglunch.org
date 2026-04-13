@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/william-durand/talks/rest-apis-with-symfony-the-right-way/
+url: speakers/william-durand/talks/rest-apis-with-symfony-the-right-way/
 tags:
 - php
 - symfony

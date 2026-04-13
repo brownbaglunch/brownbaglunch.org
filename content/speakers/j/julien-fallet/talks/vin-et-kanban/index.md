@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-fallet/talks/vin-et-kanban/
+url: speakers/julien-fallet/talks/vin-et-kanban/
 tags:
 - agile
 - scrum

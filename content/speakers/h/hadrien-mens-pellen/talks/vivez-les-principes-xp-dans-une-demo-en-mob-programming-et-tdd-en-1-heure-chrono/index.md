@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/hadrien-mens-pellen/talks/vivez-les-principes-xp-dans-une-demo-en-mob-programming-et-tdd-en-1-heure-chrono/
+url: speakers/hadrien-mens-pellen/talks/vivez-les-principes-xp-dans-une-demo-en-mob-programming-et-tdd-en-1-heure-chrono/
 tags:
 - tdd
 - extreme-programming

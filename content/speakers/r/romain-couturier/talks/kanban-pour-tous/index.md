@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-couturier/talks/kanban-pour-tous/
+url: speakers/romain-couturier/talks/kanban-pour-tous/
 tags:
 - coaching
 - agile

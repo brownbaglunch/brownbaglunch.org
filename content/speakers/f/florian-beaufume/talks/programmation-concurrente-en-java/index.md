@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/florian-beaufume/talks/programmation-concurrente-en-java/
+url: speakers/florian-beaufume/talks/programmation-concurrente-en-java/
 tags:
 - java
 - concurrence

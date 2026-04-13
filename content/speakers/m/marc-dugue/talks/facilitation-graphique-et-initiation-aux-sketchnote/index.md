@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/marc-dugue/talks/facilitation-graphique-et-initiation-aux-sketchnote/
+url: speakers/marc-dugue/talks/facilitation-graphique-et-initiation-aux-sketchnote/
 tags:
 - sketchnote
 - scribing

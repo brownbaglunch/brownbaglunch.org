@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sylvain-wallez/talks/war-stories/
+url: speakers/sylvain-wallez/talks/war-stories/
 tags:
 - nosql
 - mongodb

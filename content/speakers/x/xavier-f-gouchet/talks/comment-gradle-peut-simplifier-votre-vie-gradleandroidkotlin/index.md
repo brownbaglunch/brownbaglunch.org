@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-f-gouchet/talks/comment-gradle-peut-simplifier-votre-vie-gradleandroidkotlin/
+url: speakers/xavier-f-gouchet/talks/comment-gradle-peut-simplifier-votre-vie-gradleandroidkotlin/
 tags:
 - build
 - android

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/duyhai-doan/talks/la-modelisation-facile-avec-cassandra/
+url: speakers/duyhai-doan/talks/la-modelisation-facile-avec-cassandra/
 tags:
 - cassandra
 versions:

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/charles-sabourdin/talks/introduction-a-openshift/
+url: speakers/charles-sabourdin/talks/introduction-a-openshift/
 tags:
 - openshift
 - kubernetes

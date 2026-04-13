@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-philippe-baconnais/talks/qui-a-dit-quil-fallait-avoir-un-jdk-sur-son-poste-pour-developper-une-application-java-prenez-votre-ide-cloud-gitpod-et-le-tour-est-joue/
+url: speakers/jean-philippe-baconnais/talks/qui-a-dit-quil-fallait-avoir-un-jdk-sur-son-poste-pour-developper-une-application-java-prenez-votre-ide-cloud-gitpod-et-le-tour-est-joue/
 tags:
 - dev
 - gitpod

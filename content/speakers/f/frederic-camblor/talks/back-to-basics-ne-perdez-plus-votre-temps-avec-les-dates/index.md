@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-camblor/talks/back-to-basics-ne-perdez-plus-votre-temps-avec-les-dates/
+url: speakers/frederic-camblor/talks/back-to-basics-ne-perdez-plus-votre-temps-avec-les-dates/
 tags:
 - back-to-basics
 - date

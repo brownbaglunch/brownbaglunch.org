@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maxime-bonnet/talks/jeux-serieux-avec-innovation-games/
+url: speakers/maxime-bonnet/talks/jeux-serieux-avec-innovation-games/
 tags:
 - agile
 - serious-game

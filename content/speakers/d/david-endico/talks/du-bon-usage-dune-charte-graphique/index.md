@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-endico/talks/du-bon-usage-dune-charte-graphique/
+url: speakers/david-endico/talks/du-bon-usage-dune-charte-graphique/
 tags:
 - branding
 - design

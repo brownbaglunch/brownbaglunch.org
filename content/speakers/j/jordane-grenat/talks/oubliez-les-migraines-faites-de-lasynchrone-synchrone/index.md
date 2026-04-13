@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jordane-grenat/talks/oubliez-les-migraines-faites-de-lasynchrone-synchrone/
+url: speakers/jordane-grenat/talks/oubliez-les-migraines-faites-de-lasynchrone-synchrone/
 tags:
 - javascript
 - asynchronous

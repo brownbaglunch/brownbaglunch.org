@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/eric-siber/talks/si-tes-toujours-pas-dev-a-40-ans-il-nest-pas-trop-tard/
+url: speakers/eric-siber/talks/si-tes-toujours-pas-dev-a-40-ans-il-nest-pas-trop-tard/
 tags:
 - agile
 - formation

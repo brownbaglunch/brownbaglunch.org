@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/charles-bouttaz/talks/le-versionning-avec-git/
+url: speakers/charles-bouttaz/talks/le-versionning-avec-git/
 tags:
 - git
 versions:

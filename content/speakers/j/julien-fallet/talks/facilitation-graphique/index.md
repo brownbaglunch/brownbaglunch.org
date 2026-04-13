@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-fallet/talks/facilitation-graphique/
+url: speakers/julien-fallet/talks/facilitation-graphique/
 tags:
 - scribing
 - sketchnote

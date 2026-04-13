@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyrille-martraire/talks/legacy-code-faire-evoluer-ou-re-ecrire/
+url: speakers/cyrille-martraire/talks/legacy-code-faire-evoluer-ou-re-ecrire/
 tags:
 - domain-driven-design
 - bdd

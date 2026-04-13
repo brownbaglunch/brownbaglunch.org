@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yvan-phelizot/talks/lego4security/
+url: speakers/yvan-phelizot/talks/lego4security/
 tags:
 - security
 - craftsmanship

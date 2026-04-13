@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/florence-chabanois/talks/rex-lean-startup-sur-un-site-pour-jeunes-mamans/
+url: speakers/florence-chabanois/talks/rex-lean-startup-sur-un-site-pour-jeunes-mamans/
 tags:
 - produit
 - lean-startup

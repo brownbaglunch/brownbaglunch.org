@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/emmanuel-bonnet/talks/brms-moteurs-de-regles-business-rules-entrons-dans-les-details-techniques-sordides-what-else/
+url: speakers/emmanuel-bonnet/talks/brms-moteurs-de-regles-business-rules-entrons-dans-les-details-techniques-sordides-what-else/
 tags:
 - decision-management
 - moteurs-de-regles

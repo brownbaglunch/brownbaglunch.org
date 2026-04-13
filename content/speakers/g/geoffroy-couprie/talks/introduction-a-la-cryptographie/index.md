@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/geoffroy-couprie/talks/introduction-a-la-cryptographie/
+url: speakers/geoffroy-couprie/talks/introduction-a-la-cryptographie/
 tags:
 - security
 - cryptographie

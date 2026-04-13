@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/henri-tremblay/talks/lambda-et-generiques-le-cocktail-explosif/
+url: speakers/henri-tremblay/talks/lambda-et-generiques-le-cocktail-explosif/
 tags:
 - java
 - performance

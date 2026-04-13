@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/arnaud-bailly/talks/coding-dojo/
+url: speakers/arnaud-bailly/talks/coding-dojo/
 tags:
 - clean-code
 - tdd

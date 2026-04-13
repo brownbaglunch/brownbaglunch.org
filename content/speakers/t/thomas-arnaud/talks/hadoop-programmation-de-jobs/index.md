@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thomas-arnaud/talks/hadoop-programmation-de-jobs/
+url: speakers/thomas-arnaud/talks/hadoop-programmation-de-jobs/
 tags:
 - java
 - performance

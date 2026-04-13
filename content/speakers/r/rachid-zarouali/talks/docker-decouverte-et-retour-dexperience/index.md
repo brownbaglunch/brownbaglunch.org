@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/rachid-zarouali/talks/docker-decouverte-et-retour-dexperience/
+url: speakers/rachid-zarouali/talks/docker-decouverte-et-retour-dexperience/
 tags:
 - docker
 - monitoring

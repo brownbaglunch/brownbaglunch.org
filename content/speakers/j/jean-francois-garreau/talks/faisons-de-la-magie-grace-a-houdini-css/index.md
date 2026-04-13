@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-francois-garreau/talks/faisons-de-la-magie-grace-a-houdini-css/
+url: speakers/jean-francois-garreau/talks/faisons-de-la-magie-grace-a-houdini-css/
 tags:
 - css
 - html5

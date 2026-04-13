@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabrice-sznajderman/talks/scala-de-0-a-linfini/
+url: speakers/fabrice-sznajderman/talks/scala-de-0-a-linfini/
 tags:
 - java
 - scala

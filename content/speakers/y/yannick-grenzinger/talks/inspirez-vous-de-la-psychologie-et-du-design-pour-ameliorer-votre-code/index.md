@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yannick-grenzinger/talks/inspirez-vous-de-la-psychologie-et-du-design-pour-ameliorer-votre-code/
+url: speakers/yannick-grenzinger/talks/inspirez-vous-de-la-psychologie-et-du-design-pour-ameliorer-votre-code/
 tags:
 - design
 - ergonomie

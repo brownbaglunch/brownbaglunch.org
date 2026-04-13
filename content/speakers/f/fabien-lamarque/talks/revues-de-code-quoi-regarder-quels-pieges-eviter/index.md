@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-lamarque/talks/revues-de-code-quoi-regarder-quels-pieges-eviter/
+url: speakers/fabien-lamarque/talks/revues-de-code-quoi-regarder-quels-pieges-eviter/
 tags:
 - code-review
 - agile

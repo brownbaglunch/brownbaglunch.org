@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gael-prudhomme/talks/mais-pourquoi-aws-seduit/
+url: speakers/gael-prudhomme/talks/mais-pourquoi-aws-seduit/
 tags:
 - aws
 - devops

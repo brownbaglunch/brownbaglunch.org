@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/etienne-coutaud/talks/introduction-a-ansible/
+url: speakers/etienne-coutaud/talks/introduction-a-ansible/
 tags:
 - infrastructure-as-code
 - ansible

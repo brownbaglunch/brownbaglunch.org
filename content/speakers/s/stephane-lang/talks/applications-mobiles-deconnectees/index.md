@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/stephane-lang/talks/applications-mobiles-deconnectees/
+url: speakers/stephane-lang/talks/applications-mobiles-deconnectees/
 tags:
 - mobile
 - offline

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/eve-vinclair-berkemeier/talks/le-sprint-0/
+url: speakers/eve-vinclair-berkemeier/talks/le-sprint-0/
 tags:
 - gestion-de-projet-agile
 - bdd

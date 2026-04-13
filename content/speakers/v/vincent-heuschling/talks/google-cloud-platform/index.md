@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-heuschling/talks/google-cloud-platform/
+url: speakers/vincent-heuschling/talks/google-cloud-platform/
 tags:
 - hadoop
 - nosql

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-keromen/talks/des-jeux-pour-apprendre-innover-et-sameliorer/
+url: speakers/christophe-keromen/talks/des-jeux-pour-apprendre-innover-et-sameliorer/
 tags:
 - agile
 - lean

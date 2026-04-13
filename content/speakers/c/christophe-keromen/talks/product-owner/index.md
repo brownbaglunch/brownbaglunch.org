@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-keromen/talks/product-owner/
+url: speakers/christophe-keromen/talks/product-owner/
 tags:
 - agile
 - lean

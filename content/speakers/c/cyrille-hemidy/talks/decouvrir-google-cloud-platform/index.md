@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyrille-hemidy/talks/decouvrir-google-cloud-platform/
+url: speakers/cyrille-hemidy/talks/decouvrir-google-cloud-platform/
 tags:
 - cloud
 - architecture

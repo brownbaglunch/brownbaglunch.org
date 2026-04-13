@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thomas-verhoken/talks/mutation-testing-tester-vos-test/
+url: speakers/thomas-verhoken/talks/mutation-testing-tester-vos-test/
 tags:
 - test
 - tdd

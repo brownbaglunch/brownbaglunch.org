@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/igor-laborie/talks/les-nouveautes-de-java-8/
+url: speakers/igor-laborie/talks/les-nouveautes-de-java-8/
 tags:
 - java
 versions:

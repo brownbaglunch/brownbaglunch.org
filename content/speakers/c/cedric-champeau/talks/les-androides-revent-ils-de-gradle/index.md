@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-champeau/talks/les-androides-revent-ils-de-gradle/
+url: speakers/cedric-champeau/talks/les-androides-revent-ils-de-gradle/
 tags:
 - groovy
 - gradle

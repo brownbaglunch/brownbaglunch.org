@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/kevin-davin/talks/demarrer-un-projet-angular2-avec-langularcli-aujourdhui/
+url: speakers/kevin-davin/talks/demarrer-un-projet-angular2-avec-langularcli-aujourdhui/
 tags:
 - javascript
 - angular

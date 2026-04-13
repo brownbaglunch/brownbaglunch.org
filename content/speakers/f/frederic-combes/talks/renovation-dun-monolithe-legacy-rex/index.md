@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-combes/talks/renovation-dun-monolithe-legacy-rex/
+url: speakers/frederic-combes/talks/renovation-dun-monolithe-legacy-rex/
 tags:
 - architecture
 - hexagonale

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-allain/talks/organiser-un-startup-weekend-interne/
+url: speakers/guillaume-allain/talks/organiser-un-startup-weekend-interne/
 tags:
 - startupweekend
 - lean-startup

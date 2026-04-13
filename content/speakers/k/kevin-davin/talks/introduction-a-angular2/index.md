@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/kevin-davin/talks/introduction-a-angular2/
+url: speakers/kevin-davin/talks/introduction-a-angular2/
 tags:
 - javascript
 - angular

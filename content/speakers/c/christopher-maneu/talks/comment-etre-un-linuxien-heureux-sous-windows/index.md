@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christopher-maneu/talks/comment-etre-un-linuxien-heureux-sous-windows/
+url: speakers/christopher-maneu/talks/comment-etre-un-linuxien-heureux-sous-windows/
 tags:
 - linux
 - windows

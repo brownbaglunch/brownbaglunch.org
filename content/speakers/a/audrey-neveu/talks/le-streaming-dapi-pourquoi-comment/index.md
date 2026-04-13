@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/audrey-neveu/talks/le-streaming-dapi-pourquoi-comment/
+url: speakers/audrey-neveu/talks/le-streaming-dapi-pourquoi-comment/
 tags:
 - temps-reel
 - server-sent-event

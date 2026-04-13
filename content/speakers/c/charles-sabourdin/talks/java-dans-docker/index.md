@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/charles-sabourdin/talks/java-dans-docker/
+url: speakers/charles-sabourdin/talks/java-dans-docker/
 tags:
 - openshift
 - kubernetes

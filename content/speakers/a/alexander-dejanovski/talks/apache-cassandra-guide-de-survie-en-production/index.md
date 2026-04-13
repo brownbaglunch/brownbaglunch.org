@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alexander-dejanovski/talks/apache-cassandra-guide-de-survie-en-production/
+url: speakers/alexander-dejanovski/talks/apache-cassandra-guide-de-survie-en-production/
 tags:
 - cassandra
 - nosql

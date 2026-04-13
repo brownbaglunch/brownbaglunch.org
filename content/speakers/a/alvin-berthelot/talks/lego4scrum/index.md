@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alvin-berthelot/talks/lego4scrum/
+url: speakers/alvin-berthelot/talks/lego4scrum/
 tags:
 - workshop
 - agile

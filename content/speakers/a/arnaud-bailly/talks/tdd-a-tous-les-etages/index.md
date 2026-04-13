@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/arnaud-bailly/talks/tdd-a-tous-les-etages/
+url: speakers/arnaud-bailly/talks/tdd-a-tous-les-etages/
 tags:
 - test
 - tdd

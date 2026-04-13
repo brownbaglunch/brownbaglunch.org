@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nelson-dionisi/talks/montee-de-version-sans-interruption/
+url: speakers/nelson-dionisi/talks/montee-de-version-sans-interruption/
 tags:
 - deployment
 - database

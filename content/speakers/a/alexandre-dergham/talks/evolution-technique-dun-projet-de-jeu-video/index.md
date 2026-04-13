@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alexandre-dergham/talks/evolution-technique-dun-projet-de-jeu-video/
+url: speakers/alexandre-dergham/talks/evolution-technique-dun-projet-de-jeu-video/
 tags:
 - cloud
 - angular

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-thiebault/talks/monte-le-son-sur-ton-desktop-avec-electron/
+url: speakers/laurent-thiebault/talks/monte-le-son-sur-ton-desktop-avec-electron/
 tags:
 - electron
 - desktop

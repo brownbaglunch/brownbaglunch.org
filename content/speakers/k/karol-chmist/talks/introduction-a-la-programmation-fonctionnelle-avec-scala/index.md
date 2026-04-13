@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/karol-chmist/talks/introduction-a-la-programmation-fonctionnelle-avec-scala/
+url: speakers/karol-chmist/talks/introduction-a-la-programmation-fonctionnelle-avec-scala/
 tags:
 - functional-programming
 - scala

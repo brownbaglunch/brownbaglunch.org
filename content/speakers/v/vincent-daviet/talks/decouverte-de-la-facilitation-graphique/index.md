@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-daviet/talks/decouverte-de-la-facilitation-graphique/
+url: speakers/vincent-daviet/talks/decouverte-de-la-facilitation-graphique/
 tags:
 - coaching
 - facilitation

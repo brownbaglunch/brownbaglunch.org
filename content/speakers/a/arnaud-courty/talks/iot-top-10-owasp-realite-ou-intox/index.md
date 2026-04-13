@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/arnaud-courty/talks/iot-top-10-owasp-realite-ou-intox/
+url: speakers/arnaud-courty/talks/iot-top-10-owasp-realite-ou-intox/
 tags:
 - cybersecurity
 - iot

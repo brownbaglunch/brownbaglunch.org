@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/matthieu-segret/talks/comment-recruter-un-bon-developpeur/
+url: speakers/matthieu-segret/talks/comment-recruter-un-bon-developpeur/
 tags:
 - ruby
 - ruby-on-rails

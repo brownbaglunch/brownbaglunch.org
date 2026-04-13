@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thomas-tourlourat/talks/decouvrir-eventsourcing-cqrs/
+url: speakers/thomas-tourlourat/talks/decouvrir-eventsourcing-cqrs/
 tags:
 - cqrs
 - event-sourcing

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/delphine-raymond/talks/innovation-games/
+url: speakers/delphine-raymond/talks/innovation-games/
 tags:
 - innovation-games
 - facilitation

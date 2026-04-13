@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/florence-chabanois/talks/mais-pourquoi-y-mecoute-pas/
+url: speakers/florence-chabanois/talks/mais-pourquoi-y-mecoute-pas/
 tags:
 - produit
 - lean-startup

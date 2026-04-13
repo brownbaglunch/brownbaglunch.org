@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/damien-thouvenin/talks/decouvir-la-sociocratie/
+url: speakers/damien-thouvenin/talks/decouvir-la-sociocratie/
 tags:
 - agile
 - management

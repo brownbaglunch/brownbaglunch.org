@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-seignard/talks/build-integration-continue-et-qualite-pour-le-javascript/
+url: speakers/xavier-seignard/talks/build-integration-continue-et-qualite-pour-le-javascript/
 tags:
 - nodejs
 - javascript

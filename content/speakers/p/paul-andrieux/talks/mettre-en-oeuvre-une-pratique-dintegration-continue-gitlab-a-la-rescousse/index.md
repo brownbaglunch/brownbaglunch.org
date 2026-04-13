@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/paul-andrieux/talks/mettre-en-oeuvre-une-pratique-dintegration-continue-gitlab-a-la-rescousse/
+url: speakers/paul-andrieux/talks/mettre-en-oeuvre-une-pratique-dintegration-continue-gitlab-a-la-rescousse/
 tags:
 - continuous-integration
 - devops

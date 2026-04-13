@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/benjamin-moitie/talks/agile-quest-ce-que-cest/
+url: speakers/benjamin-moitie/talks/agile-quest-ce-que-cest/
 tags:
 - agile
 - lean-startup

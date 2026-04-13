@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/michael-bonfils/talks/comment-heberger-son-cloud-prive-compatible-aws-s3/
+url: speakers/michael-bonfils/talks/comment-heberger-son-cloud-prive-compatible-aws-s3/
 tags:
 - cloud
 - s3

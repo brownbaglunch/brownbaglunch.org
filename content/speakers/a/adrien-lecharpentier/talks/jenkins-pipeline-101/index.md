@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/adrien-lecharpentier/talks/jenkins-pipeline-101/
+url: speakers/adrien-lecharpentier/talks/jenkins-pipeline-101/
 tags:
 - jenkins
 - pipeline

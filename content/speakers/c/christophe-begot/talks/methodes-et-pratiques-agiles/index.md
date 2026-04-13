@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-begot/talks/methodes-et-pratiques-agiles/
+url: speakers/christophe-begot/talks/methodes-et-pratiques-agiles/
 tags:
 - agile
 - coaching

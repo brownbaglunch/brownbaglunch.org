@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-sarradin/talks/a-web-framework-in-scala-from-scratch-in-one-hour/
+url: speakers/francois-sarradin/talks/a-web-framework-in-scala-from-scratch-in-one-hour/
 tags:
 - scala
 - functional-programming

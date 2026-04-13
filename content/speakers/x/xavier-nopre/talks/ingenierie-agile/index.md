@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-nopre/talks/ingenierie-agile/
+url: speakers/xavier-nopre/talks/ingenierie-agile/
 tags:
 - agile
 - scrum

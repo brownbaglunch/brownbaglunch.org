@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-exbrayat/talks/git-lincontournable/
+url: speakers/cedric-exbrayat/talks/git-lincontournable/
 tags:
 - java
 - lambda

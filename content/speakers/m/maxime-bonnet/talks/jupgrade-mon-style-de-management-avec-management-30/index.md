@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maxime-bonnet/talks/jupgrade-mon-style-de-management-avec-management-30/
+url: speakers/maxime-bonnet/talks/jupgrade-mon-style-de-management-avec-management-30/
 tags:
 - agile
 - serious-game

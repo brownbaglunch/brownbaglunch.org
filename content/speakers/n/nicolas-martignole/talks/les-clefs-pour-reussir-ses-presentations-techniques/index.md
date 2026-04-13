@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-martignole/talks/les-clefs-pour-reussir-ses-presentations-techniques/
+url: speakers/nicolas-martignole/talks/les-clefs-pour-reussir-ses-presentations-techniques/
 tags:
 - presentation
 - startup

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-daviet/talks/decouverte-de-lagilite/
+url: speakers/vincent-daviet/talks/decouverte-de-lagilite/
 tags:
 - coaching
 - facilitation

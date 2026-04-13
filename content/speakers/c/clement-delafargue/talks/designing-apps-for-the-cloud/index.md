@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/clement-delafargue/talks/designing-apps-for-the-cloud/
+url: speakers/clement-delafargue/talks/designing-apps-for-the-cloud/
 tags:
 - scala
 - nodejs

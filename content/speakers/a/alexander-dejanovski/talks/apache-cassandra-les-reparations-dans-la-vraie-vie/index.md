@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alexander-dejanovski/talks/apache-cassandra-les-reparations-dans-la-vraie-vie/
+url: speakers/alexander-dejanovski/talks/apache-cassandra-les-reparations-dans-la-vraie-vie/
 tags:
 - cassandra
 - nosql

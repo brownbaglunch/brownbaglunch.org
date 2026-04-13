@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/delphine-raymond/talks/formats-de-retrospectives/
+url: speakers/delphine-raymond/talks/formats-de-retrospectives/
 tags:
 - innovation-games
 - facilitation

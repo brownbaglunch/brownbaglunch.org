@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/ameur-yannick/talks/coaching-personnel/
+url: speakers/ameur-yannick/talks/coaching-personnel/
 tags:
 - agile
 - product-owner

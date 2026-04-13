@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yannick-dalbin/talks/webpack/
+url: speakers/yannick-dalbin/talks/webpack/
 tags:
 - javascript
 - webpack

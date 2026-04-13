@@ -51,10 +51,14 @@
     const data = await Promise.all(result.results.slice(0, 8).map(function (r) { return r.data(); }));
 
     hits.innerHTML = data.map(function (d) {
-      const imgSrc = d.meta && d.meta.image ? d.meta.image : '';
-      const imgAlt = (d.meta && d.meta.image_alt ? d.meta.image_alt : '').replace(/"/g, '&quot;');
-      const thumb  = imgSrc
-        ? '<img src="' + imgSrc + '" alt="' + imgAlt + '" class="w-12 h-12 rounded-full object-cover border border-warm-border shrink-0 flex-none">'
+      const imgSrc  = d.meta && d.meta.image ? d.meta.image : '';
+      const imgAlt  = (d.meta && d.meta.image_alt ? d.meta.image_alt : '').replace(/"/g, '&quot;');
+      const isTalk  = /\/speakers\/[^/]+\/talks\//.test(d.url);
+      const imgCls  = isTalk && imgSrc
+        ? 'rounded-lg object-contain'
+        : 'rounded-full object-cover';
+      const thumb   = imgSrc
+        ? '<img src="' + imgSrc + '" alt="' + imgAlt + '" class="w-12 h-12 ' + imgCls + ' border border-warm-border shrink-0 flex-none">'
         : '<div class="w-12 h-12 rounded-full bg-warm-border/50 shrink-0 flex-none flex items-center justify-center text-xl">' + typeIcon(d.url) + '</div>';
       const title = (d.meta && d.meta.title) ? d.meta.title : (d.title || '');
       return '<a href="' + d.url + '" class="flex items-center gap-3 py-2.5 border-b border-warm-border/50 last:border-0 hover:bg-warm-light -mx-2 px-2 rounded-lg transition-colors group">'

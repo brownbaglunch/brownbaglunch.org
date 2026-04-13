@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-heuschling/talks/bases-de-donnees-nosql/
+url: speakers/vincent-heuschling/talks/bases-de-donnees-nosql/
 tags:
 - hadoop
 - nosql

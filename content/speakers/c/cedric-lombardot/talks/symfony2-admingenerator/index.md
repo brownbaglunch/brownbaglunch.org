@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-lombardot/talks/symfony2-admingenerator/
+url: speakers/cedric-lombardot/talks/symfony2-admingenerator/
 tags:
 - symfony
 - angularjs

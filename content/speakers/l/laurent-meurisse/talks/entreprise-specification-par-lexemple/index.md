@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-meurisse/talks/entreprise-specification-par-lexemple/
+url: speakers/laurent-meurisse/talks/entreprise-specification-par-lexemple/
 tags:
 - agile
 - lean-startup

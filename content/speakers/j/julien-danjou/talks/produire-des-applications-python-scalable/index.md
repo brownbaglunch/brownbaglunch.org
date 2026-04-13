@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-danjou/talks/produire-des-applications-python-scalable/
+url: speakers/julien-danjou/talks/produire-des-applications-python-scalable/
 tags:
 - python
 - performance

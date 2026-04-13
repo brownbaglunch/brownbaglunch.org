@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-steinmetz/talks/le-reverse-proxy-ce-majordome-a-votre-service/
+url: speakers/nicolas-steinmetz/talks/le-reverse-proxy-ce-majordome-a-votre-service/
 tags:
 - proxy
 - apache

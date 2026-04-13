@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-louis-rigau/talks/bluegreen-deployment-avec-aws-elastic-beanstalk/
+url: speakers/jean-louis-rigau/talks/bluegreen-deployment-avec-aws-elastic-beanstalk/
 tags:
 - cloud
 - usine-logicielle

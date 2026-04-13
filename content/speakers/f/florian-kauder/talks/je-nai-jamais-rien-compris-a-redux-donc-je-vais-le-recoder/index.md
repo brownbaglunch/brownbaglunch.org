@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/florian-kauder/talks/je-nai-jamais-rien-compris-a-redux-donc-je-vais-le-recoder/
+url: speakers/florian-kauder/talks/je-nai-jamais-rien-compris-a-redux-donc-je-vais-le-recoder/
 tags:
 - redux
 - react

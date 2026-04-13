@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-laurent/talks/scalable-folder-structure-in-a-reactredux-application/
+url: speakers/romain-laurent/talks/scalable-folder-structure-in-a-reactredux-application/
 tags:
 - react
 - javascript

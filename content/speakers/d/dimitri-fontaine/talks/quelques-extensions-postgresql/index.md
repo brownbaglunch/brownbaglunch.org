@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/dimitri-fontaine/talks/quelques-extensions-postgresql/
+url: speakers/dimitri-fontaine/talks/quelques-extensions-postgresql/
 tags:
 - postgresql
 - pgloader

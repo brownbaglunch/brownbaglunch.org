@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/nicolas-deverge/talks/retour-dexperience-et-introduction-au-leanstartup/
+url: speakers/nicolas-deverge/talks/retour-dexperience-et-introduction-au-leanstartup/
 tags:
 - agile
 - code

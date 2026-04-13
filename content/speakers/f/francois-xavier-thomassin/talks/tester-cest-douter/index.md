@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-xavier-thomassin/talks/tester-cest-douter/
+url: speakers/francois-xavier-thomassin/talks/tester-cest-douter/
 tags:
 - test
 - unit-test

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-liot/talks/introduction-aux-big-data-avec-hadoop/
+url: speakers/francois-liot/talks/introduction-aux-big-data-avec-hadoop/
 tags:
 - architecture
 - big-data

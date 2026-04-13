@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mael-morel/talks/kanban/
+url: speakers/mael-morel/talks/kanban/
 tags:
 - kanban
 versions:

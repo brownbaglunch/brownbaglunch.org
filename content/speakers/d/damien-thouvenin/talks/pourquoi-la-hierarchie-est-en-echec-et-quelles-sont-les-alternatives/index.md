@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/damien-thouvenin/talks/pourquoi-la-hierarchie-est-en-echec-et-quelles-sont-les-alternatives/
+url: speakers/damien-thouvenin/talks/pourquoi-la-hierarchie-est-en-echec-et-quelles-sont-les-alternatives/
 tags:
 - agile
 - management

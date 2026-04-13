@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/faten-habachi/talks/lempathie-dans-une-approche-ux/
+url: speakers/faten-habachi/talks/lempathie-dans-une-approche-ux/
 tags:
 - ux
 - ux-designer

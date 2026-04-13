@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yannick-grenzinger/talks/principes-de-developpement-produit-en-flux-et-organisation-apprenante/
+url: speakers/yannick-grenzinger/talks/principes-de-developpement-produit-en-flux-et-organisation-apprenante/
 tags:
 - lean
 - agile

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yvan-phelizot/talks/apprendre-a-developper-avec-des-legos/
+url: speakers/yvan-phelizot/talks/apprendre-a-developper-avec-des-legos/
 tags:
 - tdd
 - clean-code

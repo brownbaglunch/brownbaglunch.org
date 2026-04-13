@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maxime-bonnet/talks/janime-une-retrospective-productive/
+url: speakers/maxime-bonnet/talks/janime-une-retrospective-productive/
 tags:
 - agile
 - serious-game

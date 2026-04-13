@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-meurisse/talks/startup-lean-canvas-de-votre-idee-produit/
+url: speakers/laurent-meurisse/talks/startup-lean-canvas-de-votre-idee-produit/
 tags:
 - agile
 - lean-startup

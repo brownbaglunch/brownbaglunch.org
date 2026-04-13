@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/bernard-notarianni/talks/erlang/
+url: speakers/bernard-notarianni/talks/erlang/
 tags:
 - agile
 - startup

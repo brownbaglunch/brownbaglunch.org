@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-tanguy/talks/introduction-a-leventsourcing/
+url: speakers/julien-tanguy/talks/introduction-a-leventsourcing/
 tags:
 - event-sourcing
 - architecture

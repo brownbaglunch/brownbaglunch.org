@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/arnaud-tournier/talks/differences-x86-x64/
+url: speakers/arnaud-tournier/talks/differences-x86-x64/
 tags:
 - gwt
 - appengine

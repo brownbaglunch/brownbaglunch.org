@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/marc-bouvier/talks/docker-sur-le-poste-du-developpeur/
+url: speakers/marc-bouvier/talks/docker-sur-le-poste-du-developpeur/
 tags:
 - docker
 - outillage

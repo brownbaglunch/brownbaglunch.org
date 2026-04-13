@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-pot/talks/16-ans-de-gestion-produit-les-hauts-et-les-bas-condenses-en-20-minutes/
+url: speakers/frederic-pot/talks/16-ans-de-gestion-produit-les-hauts-et-les-bas-condenses-en-20-minutes/
 tags:
 - poc
 - saas

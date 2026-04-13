@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/antoine-vernois/talks/refactoring-legacy-code/
+url: speakers/antoine-vernois/talks/refactoring-legacy-code/
 tags:
 - agile
 - code

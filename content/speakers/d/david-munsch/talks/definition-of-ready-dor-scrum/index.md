@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-munsch/talks/definition-of-ready-dor-scrum/
+url: speakers/david-munsch/talks/definition-of-ready-dor-scrum/
 tags:
 - agile
 - scrum

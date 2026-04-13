@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-pesme-cansar/talks/ateliers-objets-connectes/
+url: speakers/sebastien-pesme-cansar/talks/ateliers-objets-connectes/
 tags:
 - android
 - ios

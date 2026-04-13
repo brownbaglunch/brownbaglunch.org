@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/patrik-cyvoct/talks/linuxkit-101/
+url: speakers/patrik-cyvoct/talks/linuxkit-101/
 tags:
 - linuxkit
 - linux

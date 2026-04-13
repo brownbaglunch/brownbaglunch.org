@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/loic-dachary/talks/ceph-le-futur-du-stockage-est-libre/
+url: speakers/loic-dachary/talks/ceph-le-futur-du-stockage-est-libre/
 tags:
 - ceph
 - stockage

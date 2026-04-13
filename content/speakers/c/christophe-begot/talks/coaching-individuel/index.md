@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-begot/talks/coaching-individuel/
+url: speakers/christophe-begot/talks/coaching-individuel/
 tags:
 - agile
 - coaching

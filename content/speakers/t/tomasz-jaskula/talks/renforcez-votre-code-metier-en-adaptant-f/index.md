@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/tomasz-jaskula/talks/renforcez-votre-code-metier-en-adaptant-f/
+url: speakers/tomasz-jaskula/talks/renforcez-votre-code-metier-en-adaptant-f/
 tags:
 - f
 - domain-driven-design

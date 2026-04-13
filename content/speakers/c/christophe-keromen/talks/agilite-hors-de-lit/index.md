@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-keromen/talks/agilite-hors-de-lit/
+url: speakers/christophe-keromen/talks/agilite-hors-de-lit/
 tags:
 - agile
 - lean

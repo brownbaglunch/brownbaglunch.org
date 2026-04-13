@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alexander-dejanovski/talks/apache-cassandra-pour-les-ops-et-aussi-pour-les-devs/
+url: speakers/alexander-dejanovski/talks/apache-cassandra-pour-les-ops-et-aussi-pour-les-devs/
 tags:
 - cassandra
 - nosql

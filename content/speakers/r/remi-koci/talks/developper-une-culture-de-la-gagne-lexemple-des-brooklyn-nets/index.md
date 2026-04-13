@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/remi-koci/talks/developper-une-culture-de-la-gagne-lexemple-des-brooklyn-nets/
+url: speakers/remi-koci/talks/developper-une-culture-de-la-gagne-lexemple-des-brooklyn-nets/
 tags:
 - management
 - culture

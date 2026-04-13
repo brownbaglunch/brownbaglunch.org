@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/youri-bonnaffe/talks/gradle-un-outil-de-build-puissant/
+url: speakers/youri-bonnaffe/talks/gradle-un-outil-de-build-puissant/
 tags:
 - gradle
 - groovy

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedrick-lunven/talks/cas-dusages-et-implementation-des-apis-en-java-avec-rest-grpc-ou-graphql/
+url: speakers/cedrick-lunven/talks/cas-dusages-et-implementation-des-apis-en-java-avec-rest-grpc-ou-graphql/
 tags:
 - api
 - graphql

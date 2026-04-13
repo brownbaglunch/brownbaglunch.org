@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maxime-sanglan-charlier/talks/coding-dojo/
+url: speakers/maxime-sanglan-charlier/talks/coding-dojo/
 tags:
 - workshop
 - coding-dojo

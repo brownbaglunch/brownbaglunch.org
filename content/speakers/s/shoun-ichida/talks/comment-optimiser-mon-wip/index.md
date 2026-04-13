@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/shoun-ichida/talks/comment-optimiser-mon-wip/
+url: speakers/shoun-ichida/talks/comment-optimiser-mon-wip/
 tags:
 - kanban
 - wip

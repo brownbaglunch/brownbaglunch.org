@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/david-pilato/talks/serverless/
+url: speakers/david-pilato/talks/serverless/
 tags:
   - elasticsearch
 versions:

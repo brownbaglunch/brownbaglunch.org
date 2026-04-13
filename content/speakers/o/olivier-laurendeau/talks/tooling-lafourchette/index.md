@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/olivier-laurendeau/talks/tooling-lafourchette/
+url: speakers/olivier-laurendeau/talks/tooling-lafourchette/
 tags:
 - tooling
 - devops

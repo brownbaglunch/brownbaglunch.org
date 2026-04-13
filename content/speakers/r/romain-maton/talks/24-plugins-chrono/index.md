@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-maton/talks/24-plugins-chrono/
+url: speakers/romain-maton/talks/24-plugins-chrono/
 tags:
 - javascript
 - nodejs

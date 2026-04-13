@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-blanc/talks/clean-code-coder-proprement/
+url: speakers/xavier-blanc/talks/clean-code-coder-proprement/
 tags:
 - java
 - clean-code

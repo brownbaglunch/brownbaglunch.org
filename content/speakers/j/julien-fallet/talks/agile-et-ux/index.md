@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-fallet/talks/agile-et-ux/
+url: speakers/julien-fallet/talks/agile-et-ux/
 tags:
 - strategie-produit
 - ux

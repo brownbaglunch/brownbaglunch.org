@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cedric-exbrayat/talks/java-8-decouvrir-les-lambdas/
+url: speakers/cedric-exbrayat/talks/java-8-decouvrir-les-lambdas/
 tags:
 - java
 - lambda

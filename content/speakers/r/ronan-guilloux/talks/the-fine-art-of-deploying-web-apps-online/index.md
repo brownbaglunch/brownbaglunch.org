@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/ronan-guilloux/talks/the-fine-art-of-deploying-web-apps-online/
+url: speakers/ronan-guilloux/talks/the-fine-art-of-deploying-web-apps-online/
 tags:
 - php
 - silex

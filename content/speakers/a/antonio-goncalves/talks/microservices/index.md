@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/antonio-goncalves/talks/microservices/
+url: speakers/antonio-goncalves/talks/microservices/
 tags:
 - microservices
 - domain-driven-design

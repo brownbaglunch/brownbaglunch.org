@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/quentin-adam/talks/why-postgres-sql-deserve-nosql-fan-respect/
+url: speakers/quentin-adam/talks/why-postgres-sql-deserve-nosql-fan-respect/
 tags:
 - postgresql
 - sql

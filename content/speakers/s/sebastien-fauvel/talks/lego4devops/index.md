@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-fauvel/talks/lego4devops/
+url: speakers/sebastien-fauvel/talks/lego4devops/
 tags:
 - serious-game
 - devops

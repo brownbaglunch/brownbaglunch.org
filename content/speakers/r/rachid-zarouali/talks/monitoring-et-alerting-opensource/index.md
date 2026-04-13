@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/rachid-zarouali/talks/monitoring-et-alerting-opensource/
+url: speakers/rachid-zarouali/talks/monitoring-et-alerting-opensource/
 tags:
 - docker
 - monitoring

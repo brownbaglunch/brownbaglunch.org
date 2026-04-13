@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/emmanuel-demey/talks/il-ny-a-pas-que-react-et-angular-dans-la-vie-voici-vuejs/
+url: speakers/emmanuel-demey/talks/il-ny-a-pas-que-react-et-angular-dans-la-vie-voici-vuejs/
 tags:
 - angularjs
 - angular

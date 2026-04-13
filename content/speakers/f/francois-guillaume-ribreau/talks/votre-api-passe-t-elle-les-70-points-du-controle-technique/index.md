@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-guillaume-ribreau/talks/votre-api-passe-t-elle-les-70-points-du-controle-technique/
+url: speakers/francois-guillaume-ribreau/talks/votre-api-passe-t-elle-les-70-points-du-controle-technique/
 tags:
 - api
 - scalability

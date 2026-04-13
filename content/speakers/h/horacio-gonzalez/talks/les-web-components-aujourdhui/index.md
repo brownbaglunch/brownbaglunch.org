@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/horacio-gonzalez/talks/les-web-components-aujourdhui/
+url: speakers/horacio-gonzalez/talks/les-web-components-aujourdhui/
 tags:
 - web
 - java

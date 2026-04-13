@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gregoire-boisseau/talks/faire-la-transition-wordpress-frameworks-js/
+url: speakers/gregoire-boisseau/talks/faire-la-transition-wordpress-frameworks-js/
 tags:
 - wordpress
 - react

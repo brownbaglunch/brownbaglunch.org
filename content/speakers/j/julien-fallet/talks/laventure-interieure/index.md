@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-fallet/talks/laventure-interieure/
+url: speakers/julien-fallet/talks/laventure-interieure/
 tags:
 - neurosciences
 - meditation

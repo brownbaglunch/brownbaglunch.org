@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thomas-gratier/talks/utiliser-lecosysteme-github/
+url: speakers/thomas-gratier/talks/utiliser-lecosysteme-github/
 tags:
 - cartographie
 - sig

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/lou-theo-laurent/talks/la-reactivite-dans-angular-comment-ca-fonctionne/
+url: speakers/lou-theo-laurent/talks/la-reactivite-dans-angular-comment-ca-fonctionne/
 tags:
 - javascript
 - typescript

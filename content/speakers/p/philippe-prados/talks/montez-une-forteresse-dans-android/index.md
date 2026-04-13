@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/philippe-prados/talks/montez-une-forteresse-dans-android/
+url: speakers/philippe-prados/talks/montez-une-forteresse-dans-android/
 tags:
 - architecture
 - scala

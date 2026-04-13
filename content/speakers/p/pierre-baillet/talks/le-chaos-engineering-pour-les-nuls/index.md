@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/pierre-baillet/talks/le-chaos-engineering-pour-les-nuls/
+url: speakers/pierre-baillet/talks/le-chaos-engineering-pour-les-nuls/
 tags:
 - chaos
 - monitoring

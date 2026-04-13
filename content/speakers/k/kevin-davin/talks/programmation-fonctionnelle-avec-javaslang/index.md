@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/kevin-davin/talks/programmation-fonctionnelle-avec-javaslang/
+url: speakers/kevin-davin/talks/programmation-fonctionnelle-avec-javaslang/
 tags:
 - java
 - javaslang

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/samy-boucherit/talks/technical-and-practical-initiation-to-blockchain-technology/
+url: speakers/samy-boucherit/talks/technical-and-practical-initiation-to-blockchain-technology/
 tags:
 - blockchain
 - bitcoin

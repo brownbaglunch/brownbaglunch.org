@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jerome-mainaud/talks/elasticsearch-de-limportance-du-mapping/
+url: speakers/jerome-mainaud/talks/elasticsearch-de-limportance-du-mapping/
 tags:
 - elasticsearch
 versions:

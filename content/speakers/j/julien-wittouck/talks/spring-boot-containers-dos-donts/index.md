@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-wittouck/talks/spring-boot-containers-dos-donts/
+url: speakers/julien-wittouck/talks/spring-boot-containers-dos-donts/
 tags:
 - spring-boot
 - docker

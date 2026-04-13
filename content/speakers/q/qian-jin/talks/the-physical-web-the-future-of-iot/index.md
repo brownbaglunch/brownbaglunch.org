@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/qian-jin/talks/the-physical-web-the-future-of-iot/
+url: speakers/qian-jin/talks/the-physical-web-the-future-of-iot/
 tags:
 - beacon
 - mobile

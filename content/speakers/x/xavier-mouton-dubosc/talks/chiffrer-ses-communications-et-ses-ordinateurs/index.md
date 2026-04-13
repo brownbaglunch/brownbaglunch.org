@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-mouton-dubosc/talks/chiffrer-ses-communications-et-ses-ordinateurs/
+url: speakers/xavier-mouton-dubosc/talks/chiffrer-ses-communications-et-ses-ordinateurs/
 tags:
 - vie-privee
 - security

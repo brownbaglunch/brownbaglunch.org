@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/agnes-crepet/talks/il-etait-une-fois-les-grands-principes-du-design/
+url: speakers/agnes-crepet/talks/il-etait-une-fois-les-grands-principes-du-design/
 tags:
 - agile
 - java

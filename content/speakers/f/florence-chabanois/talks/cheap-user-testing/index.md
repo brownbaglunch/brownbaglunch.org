@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/florence-chabanois/talks/cheap-user-testing/
+url: speakers/florence-chabanois/talks/cheap-user-testing/
 tags:
 - produit
 - lean-startup

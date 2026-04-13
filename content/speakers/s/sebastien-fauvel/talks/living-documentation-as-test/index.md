@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-fauvel/talks/living-documentation-as-test/
+url: speakers/sebastien-fauvel/talks/living-documentation-as-test/
 tags:
 - documentation
 - test

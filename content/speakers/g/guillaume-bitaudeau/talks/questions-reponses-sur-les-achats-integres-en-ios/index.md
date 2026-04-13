@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-bitaudeau/talks/questions-reponses-sur-les-achats-integres-en-ios/
+url: speakers/guillaume-bitaudeau/talks/questions-reponses-sur-les-achats-integres-en-ios/
 tags:
 - java
 - agile

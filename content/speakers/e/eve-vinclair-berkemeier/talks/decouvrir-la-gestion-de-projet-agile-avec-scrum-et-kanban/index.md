@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/eve-vinclair-berkemeier/talks/decouvrir-la-gestion-de-projet-agile-avec-scrum-et-kanban/
+url: speakers/eve-vinclair-berkemeier/talks/decouvrir-la-gestion-de-projet-agile-avec-scrum-et-kanban/
 tags:
 - scrum
 - kanban

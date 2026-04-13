@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-beauvivre/talks/because-im-api/
+url: speakers/vincent-beauvivre/talks/because-im-api/
 tags:
 - backend
 - architecture

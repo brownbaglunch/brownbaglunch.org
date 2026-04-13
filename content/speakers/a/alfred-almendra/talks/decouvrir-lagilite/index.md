@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alfred-almendra/talks/decouvrir-lagilite/
+url: speakers/alfred-almendra/talks/decouvrir-lagilite/
 tags:
 - agile
 - ux

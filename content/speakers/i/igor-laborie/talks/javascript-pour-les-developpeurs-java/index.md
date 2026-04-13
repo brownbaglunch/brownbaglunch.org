@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/igor-laborie/talks/javascript-pour-les-developpeurs-java/
+url: speakers/igor-laborie/talks/javascript-pour-les-developpeurs-java/
 tags:
 - javascript
 - ecmascript

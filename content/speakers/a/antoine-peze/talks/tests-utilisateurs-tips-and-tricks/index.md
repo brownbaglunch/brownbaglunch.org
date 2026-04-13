@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/antoine-peze/talks/tests-utilisateurs-tips-and-tricks/
+url: speakers/antoine-peze/talks/tests-utilisateurs-tips-and-tricks/
 tags:
 - ux
 - tests-utilisateurs

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-muetton/talks/casperjs/
+url: speakers/julien-muetton/talks/casperjs/
 tags:
 - javascript
 - php

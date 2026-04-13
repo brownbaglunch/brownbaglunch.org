@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christopher-maneu/talks/ecoutez-vos-utilisateurs-de-1-a-10-millions/
+url: speakers/christopher-maneu/talks/ecoutez-vos-utilisateurs-de-1-a-10-millions/
 tags:
 - devops
 - agile

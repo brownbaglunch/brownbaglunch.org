@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/baptiste-lecocq/talks/git-101/
+url: speakers/baptiste-lecocq/talks/git-101/
 tags:
 - git
 versions:

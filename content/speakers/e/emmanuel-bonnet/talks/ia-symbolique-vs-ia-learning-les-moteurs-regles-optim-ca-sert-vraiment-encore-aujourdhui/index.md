@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/emmanuel-bonnet/talks/ia-symbolique-vs-ia-learning-les-moteurs-regles-optim-ca-sert-vraiment-encore-aujourdhui/
+url: speakers/emmanuel-bonnet/talks/ia-symbolique-vs-ia-learning-les-moteurs-regles-optim-ca-sert-vraiment-encore-aujourdhui/
 tags:
 - ia-symbolique
 - ia-learning

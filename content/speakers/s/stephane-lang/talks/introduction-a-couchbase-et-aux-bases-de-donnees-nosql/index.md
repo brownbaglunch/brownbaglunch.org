@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/stephane-lang/talks/introduction-a-couchbase-et-aux-bases-de-donnees-nosql/
+url: speakers/stephane-lang/talks/introduction-a-couchbase-et-aux-bases-de-donnees-nosql/
 tags:
 - nosql
 - couchbase

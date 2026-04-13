@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/pierre-marquis/talks/transformation-agile/
+url: speakers/pierre-marquis/talks/transformation-agile/
 tags:
 - agile
 - scrum

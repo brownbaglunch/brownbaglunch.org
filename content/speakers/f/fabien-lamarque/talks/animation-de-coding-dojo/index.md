@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabien-lamarque/talks/animation-de-coding-dojo/
+url: speakers/fabien-lamarque/talks/animation-de-coding-dojo/
 tags:
 - equipe
 - craftsmanship

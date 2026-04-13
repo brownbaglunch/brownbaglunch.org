@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/jean-pierre-lerbscher/talks/performance/
+url: speakers/jean-pierre-lerbscher/talks/performance/
 tags:
 - performance
 - javaee

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-daviet/talks/boostez-vos-reunions/
+url: speakers/vincent-daviet/talks/boostez-vos-reunions/
 tags:
 - coaching
 - facilitation

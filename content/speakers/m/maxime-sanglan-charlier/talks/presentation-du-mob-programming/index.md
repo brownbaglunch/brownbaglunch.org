@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maxime-sanglan-charlier/talks/presentation-du-mob-programming/
+url: speakers/maxime-sanglan-charlier/talks/presentation-du-mob-programming/
 tags:
 - mob-programming
 versions:

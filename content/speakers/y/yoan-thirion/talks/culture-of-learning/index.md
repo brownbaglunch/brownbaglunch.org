@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yoan-thirion/talks/culture-of-learning/
+url: speakers/yoan-thirion/talks/culture-of-learning/
 tags:
 - continuous-learning
 - continuous-improvement

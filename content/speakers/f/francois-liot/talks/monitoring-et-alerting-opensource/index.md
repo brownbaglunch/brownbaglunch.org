@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-liot/talks/monitoring-et-alerting-opensource/
+url: speakers/francois-liot/talks/monitoring-et-alerting-opensource/
 tags:
 - architecture
 - asynchronous

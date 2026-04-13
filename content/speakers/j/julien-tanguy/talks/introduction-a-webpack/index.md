@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-tanguy/talks/introduction-a-webpack/
+url: speakers/julien-tanguy/talks/introduction-a-webpack/
 tags:
 - javascript
 - webpack

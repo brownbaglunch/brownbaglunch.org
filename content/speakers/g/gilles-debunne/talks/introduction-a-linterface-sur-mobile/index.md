@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gilles-debunne/talks/introduction-a-linterface-sur-mobile/
+url: speakers/gilles-debunne/talks/introduction-a-linterface-sur-mobile/
 tags:
 - ux
 - ui

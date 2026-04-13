@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-wauquier/talks/introduction-agilite/
+url: speakers/francois-wauquier/talks/introduction-agilite/
 tags:
 - agile
 - scrum

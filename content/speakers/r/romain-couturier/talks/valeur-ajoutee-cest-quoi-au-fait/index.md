@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-couturier/talks/valeur-ajoutee-cest-quoi-au-fait/
+url: speakers/romain-couturier/talks/valeur-ajoutee-cest-quoi-au-fait/
 tags:
 - coaching
 - agile

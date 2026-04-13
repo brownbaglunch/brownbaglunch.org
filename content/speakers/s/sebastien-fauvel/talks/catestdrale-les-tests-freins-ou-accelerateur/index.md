@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-fauvel/talks/catestdrale-les-tests-freins-ou-accelerateur/
+url: speakers/sebastien-fauvel/talks/catestdrale-les-tests-freins-ou-accelerateur/
 tags:
 - serious-game
 - test

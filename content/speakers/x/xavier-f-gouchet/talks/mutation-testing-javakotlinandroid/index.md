@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-f-gouchet/talks/mutation-testing-javakotlinandroid/
+url: speakers/xavier-f-gouchet/talks/mutation-testing-javakotlinandroid/
 tags:
 - test
 - coverage

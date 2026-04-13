@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-fallet/talks/le-developpement-logiciel-avec-les-methodes-agiles/
+url: speakers/julien-fallet/talks/le-developpement-logiciel-avec-les-methodes-agiles/
 tags:
 - agile
 - scrum

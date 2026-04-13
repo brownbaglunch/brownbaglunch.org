@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/benjamin-lacroix/talks/kotlin-intro-live-coding/
+url: speakers/benjamin-lacroix/talks/kotlin-intro-live-coding/
 tags:
 - java
 - android

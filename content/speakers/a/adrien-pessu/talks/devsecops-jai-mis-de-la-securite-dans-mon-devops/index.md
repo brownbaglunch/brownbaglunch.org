@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/adrien-pessu/talks/devsecops-jai-mis-de-la-securite-dans-mon-devops/
+url: speakers/adrien-pessu/talks/devsecops-jai-mis-de-la-securite-dans-mon-devops/
 tags:
 - devsecops
 - devops

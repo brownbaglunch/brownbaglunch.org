@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/clement-poissonnier/talks/sensibilisation-au-software-craftsmanship/
+url: speakers/clement-poissonnier/talks/sensibilisation-au-software-craftsmanship/
 tags:
 - lego
 - software-craftsmanship

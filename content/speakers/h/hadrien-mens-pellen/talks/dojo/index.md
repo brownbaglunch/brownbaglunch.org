@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/hadrien-mens-pellen/talks/dojo/
+url: speakers/hadrien-mens-pellen/talks/dojo/
 tags:
 - coding-dojo
 - tdd

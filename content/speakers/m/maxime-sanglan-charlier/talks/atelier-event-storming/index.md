@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maxime-sanglan-charlier/talks/atelier-event-storming/
+url: speakers/maxime-sanglan-charlier/talks/atelier-event-storming/
 tags:
 - event-storming
 - ubiquitous-language

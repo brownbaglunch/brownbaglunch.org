@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/harrich-sandirassegarane/talks/reecrivez-lhistoire-avec-git/
+url: speakers/harrich-sandirassegarane/talks/reecrivez-lhistoire-avec-git/
 tags:
 - git
 - rebase

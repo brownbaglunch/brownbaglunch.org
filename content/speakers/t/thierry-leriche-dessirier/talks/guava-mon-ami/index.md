@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thierry-leriche-dessirier/talks/guava-mon-ami/
+url: speakers/thierry-leriche-dessirier/talks/guava-mon-ami/
 tags:
 - java
 - guava

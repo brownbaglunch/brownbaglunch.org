@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/camille-roux/talks/veille-technologique-mise-en-place-et-partage/
+url: speakers/camille-roux/talks/veille-technologique-mise-en-place-et-partage/
 tags:
 - veille-technologique
 - flux-rss

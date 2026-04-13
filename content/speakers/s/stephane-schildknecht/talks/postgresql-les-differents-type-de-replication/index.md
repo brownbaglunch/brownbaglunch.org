@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/stephane-schildknecht/talks/postgresql-les-differents-type-de-replication/
+url: speakers/stephane-schildknecht/talks/postgresql-les-differents-type-de-replication/
 tags:
 - postgresql
 - highavailability

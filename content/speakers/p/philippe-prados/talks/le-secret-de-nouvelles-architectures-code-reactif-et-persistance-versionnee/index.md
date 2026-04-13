@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/philippe-prados/talks/le-secret-de-nouvelles-architectures-code-reactif-et-persistance-versionnee/
+url: speakers/philippe-prados/talks/le-secret-de-nouvelles-architectures-code-reactif-et-persistance-versionnee/
 tags:
 - architecture
 - scala

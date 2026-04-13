@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-fauvel/talks/pratique-du-pair-programming/
+url: speakers/sebastien-fauvel/talks/pratique-du-pair-programming/
 tags:
 - serious-game
 - extreme-programming

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-labouisse/talks/git-pour-les-nuls-et-les-autres/
+url: speakers/christophe-labouisse/talks/git-pour-les-nuls-et-les-autres/
 tags:
 - git
 - docker

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-tardif/talks/boucles-etranges-etranges-boucles-avec-eric-lefevre-ardant/
+url: speakers/guillaume-tardif/talks/boucles-etranges-etranges-boucles-avec-eric-lefevre-ardant/
 tags:
 - mongodb
 - search

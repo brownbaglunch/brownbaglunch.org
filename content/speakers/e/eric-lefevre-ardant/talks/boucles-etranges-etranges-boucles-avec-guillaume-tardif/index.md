@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/eric-lefevre-ardant/talks/boucles-etranges-etranges-boucles-avec-guillaume-tardif/
+url: speakers/eric-lefevre-ardant/talks/boucles-etranges-etranges-boucles-avec-guillaume-tardif/
 tags:
 - java
 - code

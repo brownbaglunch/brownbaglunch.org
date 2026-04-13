@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/antoine-peze/talks/hackathon-3-jours-chez-les-bricoleurs/
+url: speakers/antoine-peze/talks/hackathon-3-jours-chez-les-bricoleurs/
 tags:
 - ux
 - hackathon

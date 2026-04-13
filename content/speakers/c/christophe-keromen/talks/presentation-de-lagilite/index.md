@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-keromen/talks/presentation-de-lagilite/
+url: speakers/christophe-keromen/talks/presentation-de-lagilite/
 tags:
 - agile
 - lean

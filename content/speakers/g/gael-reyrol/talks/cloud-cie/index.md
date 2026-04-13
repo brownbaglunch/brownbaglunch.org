@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gael-reyrol/talks/cloud-cie/
+url: speakers/gael-reyrol/talks/cloud-cie/
 tags:
 - devops
 - sysadmin

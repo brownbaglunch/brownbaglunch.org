@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/thomas-arnaud/talks/hadoop-introduction/
+url: speakers/thomas-arnaud/talks/hadoop-introduction/
 tags:
 - java
 - performance

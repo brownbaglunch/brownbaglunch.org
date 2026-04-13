@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/constantin-guay/talks/comment-rater-ses-communautes-de-pratiques/
+url: speakers/constantin-guay/talks/comment-rater-ses-communautes-de-pratiques/
 tags:
 - agile
 - scrum

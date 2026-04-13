@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/damien-thouvenin/talks/jamais-en-retard-jamais-stresse-gerer-son-temps-efficacement/
+url: speakers/damien-thouvenin/talks/jamais-en-retard-jamais-stresse-gerer-son-temps-efficacement/
 tags:
 - agile
 - management

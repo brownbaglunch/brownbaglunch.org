@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/benjamin-marguin/talks/git-au-quotidien/
+url: speakers/benjamin-marguin/talks/git-au-quotidien/
 tags:
 - git
 - gitlab

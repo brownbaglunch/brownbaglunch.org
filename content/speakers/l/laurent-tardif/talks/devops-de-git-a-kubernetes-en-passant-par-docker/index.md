@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-tardif/talks/devops-de-git-a-kubernetes-en-passant-par-docker/
+url: speakers/laurent-tardif/talks/devops-de-git-a-kubernetes-en-passant-par-docker/
 tags:
 - docker
 - jenkins

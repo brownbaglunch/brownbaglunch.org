@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/emilien-pecoul/talks/cqrses-from-scratch/
+url: speakers/emilien-pecoul/talks/cqrses-from-scratch/
 tags:
 - agile
 - tdd

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/dimitri-fontaine/talks/sql-avance-avec-postgresql/
+url: speakers/dimitri-fontaine/talks/sql-avance-avec-postgresql/
 tags:
 - postgresql
 - pgloader

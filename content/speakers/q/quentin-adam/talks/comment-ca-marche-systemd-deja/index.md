@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/quentin-adam/talks/comment-ca-marche-systemd-deja/
+url: speakers/quentin-adam/talks/comment-ca-marche-systemd-deja/
 tags:
 - devops
 - linux

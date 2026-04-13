@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/timothee-chevrier/talks/animation-dateliers-etou-de-jeux/
+url: speakers/timothee-chevrier/talks/animation-dateliers-etou-de-jeux/
 tags:
 - agile
 - scrum

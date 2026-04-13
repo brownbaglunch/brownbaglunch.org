@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/haja-rambelontsalama/talks/retour-vers-le-passefutur-avec-git/
+url: speakers/haja-rambelontsalama/talks/retour-vers-le-passefutur-avec-git/
 tags:
 - agile
 - vcs

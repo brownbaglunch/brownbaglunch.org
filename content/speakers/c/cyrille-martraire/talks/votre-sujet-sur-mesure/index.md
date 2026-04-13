@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyrille-martraire/talks/votre-sujet-sur-mesure/
+url: speakers/cyrille-martraire/talks/votre-sujet-sur-mesure/
 tags:
 - domain-driven-design
 - bdd

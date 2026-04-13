@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christophe-begot/talks/retrospective/
+url: speakers/christophe-begot/talks/retrospective/
 tags:
 - agile
 - coaching

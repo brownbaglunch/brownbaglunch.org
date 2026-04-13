@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-marin/talks/warp-10-advanced-time-series-platform/
+url: speakers/xavier-marin/talks/warp-10-advanced-time-series-platform/
 tags:
 - time-series
 - big-data

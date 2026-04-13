@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/christopher-maneu/talks/comment-ne-pas-noyer-son-premier-projet-iot/
+url: speakers/christopher-maneu/talks/comment-ne-pas-noyer-son-premier-projet-iot/
 tags:
 - iot
 - cloud

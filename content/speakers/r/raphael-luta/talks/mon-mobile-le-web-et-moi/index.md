@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/raphael-luta/talks/mon-mobile-le-web-et-moi/
+url: speakers/raphael-luta/talks/mon-mobile-le-web-et-moi/
 tags:
 - web
 - performance

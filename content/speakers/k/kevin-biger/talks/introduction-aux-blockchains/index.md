@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/kevin-biger/talks/introduction-aux-blockchains/
+url: speakers/kevin-biger/talks/introduction-aux-blockchains/
 tags:
 - blockchain
 - smart-contracts

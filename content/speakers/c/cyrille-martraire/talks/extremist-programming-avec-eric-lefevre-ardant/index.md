@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyrille-martraire/talks/extremist-programming-avec-eric-lefevre-ardant/
+url: speakers/cyrille-martraire/talks/extremist-programming-avec-eric-lefevre-ardant/
 tags:
 - domain-driven-design
 - bdd

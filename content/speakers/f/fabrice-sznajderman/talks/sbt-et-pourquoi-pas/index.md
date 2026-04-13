@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/fabrice-sznajderman/talks/sbt-et-pourquoi-pas/
+url: speakers/fabrice-sznajderman/talks/sbt-et-pourquoi-pas/
 tags:
 - java
 - scala

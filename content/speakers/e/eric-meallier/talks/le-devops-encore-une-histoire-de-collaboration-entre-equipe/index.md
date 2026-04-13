@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/eric-meallier/talks/le-devops-encore-une-histoire-de-collaboration-entre-equipe/
+url: speakers/eric-meallier/talks/le-devops-encore-une-histoire-de-collaboration-entre-equipe/
 tags:
 - agile
 - operation

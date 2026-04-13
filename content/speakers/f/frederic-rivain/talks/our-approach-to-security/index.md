@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-rivain/talks/our-approach-to-security/
+url: speakers/frederic-rivain/talks/our-approach-to-security/
 tags:
 - security
 - privacy

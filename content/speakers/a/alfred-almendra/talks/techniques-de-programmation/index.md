@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/alfred-almendra/talks/techniques-de-programmation/
+url: speakers/alfred-almendra/talks/techniques-de-programmation/
 tags:
 - agile
 - ux

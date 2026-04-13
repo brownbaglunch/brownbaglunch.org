@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-muetton/talks/javascript-101/
+url: speakers/julien-muetton/talks/javascript-101/
 tags:
 - javascript
 - php

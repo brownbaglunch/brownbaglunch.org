@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/arnaud-courty/talks/web-top-10-owasp-realite-ou-intox/
+url: speakers/arnaud-courty/talks/web-top-10-owasp-realite-ou-intox/
 tags:
 - cybersecurity
 - owasp-web

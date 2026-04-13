@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/frederic-cabestre/talks/comment-la-jvm-ramasse-t-elle-ses-miettes/
+url: speakers/frederic-cabestre/talks/comment-la-jvm-ramasse-t-elle-ses-miettes/
 tags:
 - ssl
 - akka

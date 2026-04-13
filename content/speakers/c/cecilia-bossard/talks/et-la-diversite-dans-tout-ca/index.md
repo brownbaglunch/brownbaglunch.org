@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cecilia-bossard/talks/et-la-diversite-dans-tout-ca/
+url: speakers/cecilia-bossard/talks/et-la-diversite-dans-tout-ca/
 tags:
 - diversite
 - womenintech

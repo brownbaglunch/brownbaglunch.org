@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/cyril-gravelier/talks/mon-premier-module-drupal/
+url: speakers/cyril-gravelier/talks/mon-premier-module-drupal/
 tags:
 - php
 - drupal

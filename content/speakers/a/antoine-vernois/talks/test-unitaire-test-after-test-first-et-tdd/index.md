@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/antoine-vernois/talks/test-unitaire-test-after-test-first-et-tdd/
+url: speakers/antoine-vernois/talks/test-unitaire-test-after-test-first-et-tdd/
 tags:
 - agile
 - code

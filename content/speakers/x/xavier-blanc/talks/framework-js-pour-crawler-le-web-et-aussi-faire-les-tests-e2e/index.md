@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/xavier-blanc/talks/framework-js-pour-crawler-le-web-et-aussi-faire-les-tests-e2e/
+url: speakers/xavier-blanc/talks/framework-js-pour-crawler-le-web-et-aussi-faire-les-tests-e2e/
 tags:
 - javascript
 - web

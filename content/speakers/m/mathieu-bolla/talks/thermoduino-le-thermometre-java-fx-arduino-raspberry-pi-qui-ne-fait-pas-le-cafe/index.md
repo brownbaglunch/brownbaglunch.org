@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathieu-bolla/talks/thermoduino-le-thermometre-java-fx-arduino-raspberry-pi-qui-ne-fait-pas-le-cafe/
+url: speakers/mathieu-bolla/talks/thermoduino-le-thermometre-java-fx-arduino-raspberry-pi-qui-ne-fait-pas-le-cafe/
 tags:
 - java
 - aws

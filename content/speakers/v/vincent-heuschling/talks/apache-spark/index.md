@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/vincent-heuschling/talks/apache-spark/
+url: speakers/vincent-heuschling/talks/apache-spark/
 tags:
 - hadoop
 - nosql

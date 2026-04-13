@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-wolf/talks/sensibilisation-impact-environnemental-numerique/
+url: speakers/guillaume-wolf/talks/sensibilisation-impact-environnemental-numerique/
 tags:
 - quiz
 - environnement

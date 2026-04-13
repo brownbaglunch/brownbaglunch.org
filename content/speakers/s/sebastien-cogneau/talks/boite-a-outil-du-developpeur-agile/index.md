@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-cogneau/talks/boite-a-outil-du-developpeur-agile/
+url: speakers/sebastien-cogneau/talks/boite-a-outil-du-developpeur-agile/
 tags:
 - jenkins
 - sonar

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/yannick-grenzinger/talks/du-monolithe-aux-micro-services-depuis-les-tranchees/
+url: speakers/yannick-grenzinger/talks/du-monolithe-aux-micro-services-depuis-les-tranchees/
 tags:
 - monolithe
 - microservices

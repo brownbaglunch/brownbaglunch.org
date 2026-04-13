@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/constantin-guay/talks/management-30-comprendre-les-motivateurs-de-votre-equipe/
+url: speakers/constantin-guay/talks/management-30-comprendre-les-motivateurs-de-votre-equipe/
 tags:
 - agile
 - scrum

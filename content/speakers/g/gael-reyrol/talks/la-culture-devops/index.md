@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/gael-reyrol/talks/la-culture-devops/
+url: speakers/gael-reyrol/talks/la-culture-devops/
 tags:
 - devops
 - continuous-integration

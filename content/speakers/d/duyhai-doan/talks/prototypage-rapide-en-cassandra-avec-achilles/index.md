@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/duyhai-doan/talks/prototypage-rapide-en-cassandra-avec-achilles/
+url: speakers/duyhai-doan/talks/prototypage-rapide-en-cassandra-avec-achilles/
 tags:
 - cassandra
 versions:

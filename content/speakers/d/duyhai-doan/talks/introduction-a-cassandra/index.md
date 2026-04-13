@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/duyhai-doan/talks/introduction-a-cassandra/
+url: speakers/duyhai-doan/talks/introduction-a-cassandra/
 tags:
 - cassandra
 versions:

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/maritza-abreo/talks/atelier-design-thinking/
+url: speakers/maritza-abreo/talks/atelier-design-thinking/
 tags:
 - design-thinking
 - ux

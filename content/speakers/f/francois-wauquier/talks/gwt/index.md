@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-wauquier/talks/gwt/
+url: speakers/francois-wauquier/talks/gwt/
 tags:
 - web
 - open-source

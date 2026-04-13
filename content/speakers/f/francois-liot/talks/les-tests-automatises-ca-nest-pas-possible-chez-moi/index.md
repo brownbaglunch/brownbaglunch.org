@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/francois-liot/talks/les-tests-automatises-ca-nest-pas-possible-chez-moi/
+url: speakers/francois-liot/talks/les-tests-automatises-ca-nest-pas-possible-chez-moi/
 tags:
 - agile
 - automation

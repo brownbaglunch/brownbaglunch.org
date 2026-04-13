@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/guillaume-ehret/talks/ameliorer-la-qualite-de-ses-tests-unitaires/
+url: speakers/guillaume-ehret/talks/ameliorer-la-qualite-de-ses-tests-unitaires/
 tags:
 - agile
 - android

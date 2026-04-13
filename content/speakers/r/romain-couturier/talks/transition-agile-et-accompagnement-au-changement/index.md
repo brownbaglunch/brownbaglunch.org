@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/romain-couturier/talks/transition-agile-et-accompagnement-au-changement/
+url: speakers/romain-couturier/talks/transition-agile-et-accompagnement-au-changement/
 tags:
 - coaching
 - agile

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/ameur-yannick/talks/lean-startup/
+url: speakers/ameur-yannick/talks/lean-startup/
 tags:
 - agile
 - product-owner

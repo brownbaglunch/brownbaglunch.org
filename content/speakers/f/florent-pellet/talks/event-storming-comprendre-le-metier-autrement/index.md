@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/florent-pellet/talks/event-storming-comprendre-le-metier-autrement/
+url: speakers/florent-pellet/talks/event-storming-comprendre-le-metier-autrement/
 tags:
 - domain-driven-design
 - event-sourcing

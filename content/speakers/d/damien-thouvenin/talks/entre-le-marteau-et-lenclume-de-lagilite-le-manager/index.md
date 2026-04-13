@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/damien-thouvenin/talks/entre-le-marteau-et-lenclume-de-lagilite-le-manager/
+url: speakers/damien-thouvenin/talks/entre-le-marteau-et-lenclume-de-lagilite-le-manager/
 tags:
 - agile
 - management

@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mathieu-bolla/talks/aws-java-sdk-prise-en-main/
+url: speakers/mathieu-bolla/talks/aws-java-sdk-prise-en-main/
 tags:
 - java
 - aws

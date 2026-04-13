@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/julien-roy/talks/spring-data-une-api-quinze-possibilites/
+url: speakers/julien-roy/talks/spring-data-une-api-quinze-possibilites/
 tags:
 - code
 - java

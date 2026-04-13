@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/mickael-metesreau/talks/fear-the-ponies/
+url: speakers/mickael-metesreau/talks/fear-the-ponies/
 tags:
 - code
 - coding-dojo

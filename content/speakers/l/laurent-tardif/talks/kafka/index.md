@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/laurent-tardif/talks/kafka/
+url: speakers/laurent-tardif/talks/kafka/
 tags:
 - docker
 versions:

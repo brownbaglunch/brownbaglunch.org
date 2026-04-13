@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/pierre-marquis/talks/retour-dexperience-agile-chez-mappy-nokia-efficity/
+url: speakers/pierre-marquis/talks/retour-dexperience-agile-chez-mappy-nokia-efficity/
 tags:
 - agile
 - scrum

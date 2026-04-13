@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/benjamin-marguin/talks/quest-ce-quun-bon-commit/
+url: speakers/benjamin-marguin/talks/quest-ce-quun-bon-commit/
 tags:
 - git
 versions:

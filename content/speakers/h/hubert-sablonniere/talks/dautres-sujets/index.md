@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/hubert-sablonniere/talks/dautres-sujets/
+url: speakers/hubert-sablonniere/talks/dautres-sujets/
 tags: []
 versions:
 - label: FR

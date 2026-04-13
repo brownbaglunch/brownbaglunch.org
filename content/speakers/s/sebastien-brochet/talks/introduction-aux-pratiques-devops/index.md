@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/sebastien-brochet/talks/introduction-aux-pratiques-devops/
+url: speakers/sebastien-brochet/talks/introduction-aux-pratiques-devops/
 tags:
 - devops
 - azure

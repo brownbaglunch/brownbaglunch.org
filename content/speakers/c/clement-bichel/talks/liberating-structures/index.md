@@ -1,6 +1,6 @@
 ---
 layout: talk
-url: /speakers/clement-bichel/talks/liberating-structures/
+url: speakers/clement-bichel/talks/liberating-structures/
 tags:
 - liberating-structures
 - agile
