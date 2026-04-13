@@ -4,7 +4,6 @@ since: '2013-06-13'
 city: fr/toulouse-et-environs
 cities:
 - fr/toulouse
-cover: https://blog.crafting-labs.fr/images/antoine-vernois.jpg
 contacts:
   x: avernois
   mail: antoine@crafting-labs.fr

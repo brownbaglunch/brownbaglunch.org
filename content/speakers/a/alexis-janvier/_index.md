@@ -4,7 +4,6 @@ since: 2018-05-17
 city: fr/caen
 cities:
   - fr/caen
-cover: https://pbs.twimg.com/profile_images/547088902385700864/l7UMrYDT_400x400.jpeg
 contacts:
   x: alexisjanvier
   mail: contact@alexisjanvier.net

@@ -4,7 +4,6 @@ since: 2017-08-29
 city: fr/paris
 cities:
   - fr/paris
-cover: https://julien.danjou.info/content/images/2018/03/jdanjou-logo-round-1.png
 contacts:
   x: juldanjou
   mail: julien+bbl@danjou.info

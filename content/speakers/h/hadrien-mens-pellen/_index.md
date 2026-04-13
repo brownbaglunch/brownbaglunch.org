@@ -5,7 +5,6 @@ city: fr/nantes
 cities:
 - fr/nantes
 - fr/remote
-cover: https://hadrienmp.fr/images/Profil.webp
 contacts:
   x: hadrienmp
   mail: pro@hadrienmp.fr

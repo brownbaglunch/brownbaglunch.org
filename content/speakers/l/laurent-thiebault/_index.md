@@ -11,8 +11,6 @@ contacts:
   github: lauthieb
   linkedin: lauthieb
 websites:
-  - name: Web
-    url: https://lauthieb.github.io
 layout: speaker
 ---
 

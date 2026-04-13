@@ -4,7 +4,6 @@ since: 2015-10-29
 city: fr/region-lilloise
 cities:
   - fr/lille
-cover: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/24e/0b5/330eaba.jpg
 contacts:
   x: tduchateau
   mail: thibault.duchateau@gmail.com

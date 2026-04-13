@@ -13,8 +13,6 @@ contacts:
 websites:
   - name: Web
     url: http://www.prados.fr
-  - name: Google+
-    url: https://www.google.com/+PhilippePrados
 layout: speaker
 ---
 

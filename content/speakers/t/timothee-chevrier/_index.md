@@ -4,7 +4,6 @@ since: '2014-11-25'
 city: fr/rennes-et-grand-ouest-pourquoi-pas
 cities:
 - fr/rennes
-cover: https://fr.gravatar.com/userimage/41876697/9b8e38d7e6ae9ff3bdce48c510ad822c.jpg?size=200
 contacts:
   x: msieur_tim
   mail: tchevrier@gmail.com

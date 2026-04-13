@@ -51,9 +51,7 @@ links:
   - title: Demo project
     url: https://github.com/dadoonet/randomizedtesting-demo
     description: The source code for the demo project
-  - title: RandomizedTesting framework
-    url: https://labs.carrotsearch.com/randomizedtesting-concept.html
-    description: The framework provided by Carrot Search
+
   - title: FSCrawler project
     url: https://github.com/dadoonet/fscrawler/
     description: FSCrawler is running tests with RandomizedTesting framework

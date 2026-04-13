@@ -11,8 +11,6 @@ contacts:
   github: juwit
   linkedin: julien-wittouck
 websites:
-  - name: Web
-    url: https://juwit.github.io/
 layout: speaker
 ---
 

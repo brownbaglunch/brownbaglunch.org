@@ -6,5 +6,5 @@ versions:
 - label: FR
   flag: fr
   title: Any other talk?
-  abstract: Yes, sure, read here https://evman.clever-cloud.com/public/user/9
+  abstract: Yes, sure, contact the speaker for more info.
 ---

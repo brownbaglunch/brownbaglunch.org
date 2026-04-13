@@ -7,7 +7,6 @@ cities:
   - fr/grenoble
   - fr/nantes
   - fr/paris
-cover: https://www.clever-cloud.com//images/team/philippe-charriere.jpg?size=200
 contacts:
   x: "@k33g_org"
   mail: ph.charriere@gmail.com

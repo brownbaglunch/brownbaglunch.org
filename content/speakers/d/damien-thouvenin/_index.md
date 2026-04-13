@@ -4,7 +4,6 @@ since: 2014-06-01
 city: fr/paris
 cities:
   - fr/paris
-cover: https://pbs.twimg.com/profile_images/378800000400466333/f815139c75e19c3d0737b3d922756160_400x400.jpeg
 contacts:
   x: cltservices
   mail: d.thouvenin@clt-services.com

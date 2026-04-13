@@ -5,7 +5,6 @@ city: fr/lille
 cities:
 - fr/lille
 - fr/paris
-cover: https://pbs.twimg.com/profile_images/597738159196098561/yrRIHSZT.jpg
 contacts:
   x: thedamfr
 websites:

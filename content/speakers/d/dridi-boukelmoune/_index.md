@@ -13,8 +13,6 @@ websites:
   url: http://www.zenika.com/experts/Dridi_Boukelmoune.html
 - name: InfoQ
   url: http://www.infoq.com/fr/author/Dridi-Boukelmoune
-- name: Web
-  url: https://admin.fedoraproject.org/pkgdb/users/packages/dridi
 layout: speaker
 ---
 

@@ -5,7 +5,6 @@ city: fr/les-sables-d-olonne
 cities:
   - fr/les-sables-d-olonne
   - fr/la-roche-sur-yon
-cover: https://pbs.twimg.com/profile_images/714783052052971520/WaNkikC9_400x400.jpg
 contacts:
   x: armetiz
   mail: thomas@tourlourat.com

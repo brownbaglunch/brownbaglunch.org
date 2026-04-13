@@ -9,7 +9,6 @@ cities:
   - fr/bordeaux
   - fr/paris
   - es/san-sebastian
-cover: https://www.wareld.com/public/photo.jpg
 contacts:
   mail: francois@liot.org
   github: fliot
