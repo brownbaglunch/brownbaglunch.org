@@ -4,14 +4,11 @@ since: 2017-07-19
 city: fr/nantes
 cities:
   - fr/nantes
-cover: https://nicolas.joseph.pro/avatar
 contacts:
   x: sanpi_
   mail: nicolas+bbl@joseph.pro
   github: sanpii
 websites:
-  - name: Web
-    url: https://sanpi.homecomputing.fr
   - name: Speakerdeck
     url: https://speakerdeck.com/sanpii
 layout: speaker

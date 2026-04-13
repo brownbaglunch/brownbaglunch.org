@@ -10,8 +10,6 @@ contacts:
   mail: paul@troopers.email
   linkedin: paulandrieux
 websites:
-  - name: Web
-    url: https://troopers.coop/
 layout: speaker
 ---
 

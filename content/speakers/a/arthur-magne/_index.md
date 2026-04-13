@@ -9,8 +9,6 @@ contacts:
   mail: arthur.magne@promyze.com
   linkedin: arthur-magne-2b81aa81
 websites:
-  - name: Web
-    url: https://promyze.com/
 layout: speaker
 ---
 

@@ -4,7 +4,6 @@ since: 2023-09-19
 city: fr/nantes-et-peripherie
 cities:
   - fr/nantes
-cover: https://slash.troopers.coop/_next/image?url=https%3A%2F%2Fstrapi.troopers.agency%2Fuploads%2FVincent_c0094c0e5b.webp&w=640&q=100
 contacts:
   mail: vincent@troopers.email
   linkedin: vincent-beauvivre-2a506121

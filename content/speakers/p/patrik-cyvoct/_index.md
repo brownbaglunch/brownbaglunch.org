@@ -4,7 +4,6 @@ since: 2018-11-22
 city: fr/paris
 cities:
   - fr/paris
-cover: https://static.ptrk.io/patrik.jpg
 contacts:
   x: PatrikCyvoct
   mail: patrik@ptrk.io

@@ -10,8 +10,6 @@ contacts:
   mail: me+bbl@alecharp.fr
   github: alecharp
 websites:
-  - name: Web
-    url: https://alecharp.fr
 layout: speaker
 ---
 

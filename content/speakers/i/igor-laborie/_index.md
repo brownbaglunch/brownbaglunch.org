@@ -4,7 +4,6 @@ since: 2016-12-15
 city: fr/toulouse
 cities:
   - fr/toulouse
-cover: https://ilaborie.org/images/947f7969.me.jpg
 contacts:
   x: ilaborie
   mail: igor@monkeypatch.io

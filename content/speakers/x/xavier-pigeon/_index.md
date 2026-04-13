@@ -16,10 +16,6 @@ websites:
     url: https://xavierpigeon.com/
   - name: Web
     url: https://chrysocode.io/
-  - name: Web
-    url: https://gearsoftesting.org/
-  - name: Web
-    url: https://testasyouthink.org/
 layout: speaker
 ---
 

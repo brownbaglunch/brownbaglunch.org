@@ -9,8 +9,6 @@ contacts:
   mail: cecile@troopers.email
   linkedin: cécile-staehle
 websites:
-  - name: Web
-    url: https://troopers.coop
 layout: speaker
 ---
 

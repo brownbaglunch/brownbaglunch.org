@@ -11,8 +11,6 @@ contacts:
   github: birdy-
   linkedin: clementdanjou
 websites:
-  - name: Web & blog
-    url: https://clement.danjou.io
 layout: speaker
 ---
 

@@ -8,8 +8,6 @@ cover: https://digital-grenoble.com/wp-content/uploads/2017/03/Victor-Sabatier-1
 contacts:
   mail: victor@reactivic.com
 websites:
-- name: Web
-  url: https://reactivic.com
 layout: speaker
 ---
 

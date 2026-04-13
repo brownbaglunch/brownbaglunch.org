@@ -12,8 +12,6 @@ contacts:
   mail: clairezuliani@gmail.com
   github: clairezed
 websites:
-  - name: Web
-    url: https://www.clairezuliani.com
 layout: speaker
 ---
 

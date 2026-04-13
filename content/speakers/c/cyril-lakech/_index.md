@@ -11,8 +11,6 @@ contacts:
 websites:
 - name: Web
   url: http://chtijug.org/
-- name: Web
-  url: https://blog.axawebcenter.fr/
 layout: speaker
 ---
 

@@ -10,8 +10,6 @@ contacts:
   mail: cy.hue80@gmail.com
   github: Horsty80
 websites:
-  - name: Web
-    url: https://horsty.fr
 layout: speaker
 ---
 

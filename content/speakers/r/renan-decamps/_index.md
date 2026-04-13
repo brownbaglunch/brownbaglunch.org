@@ -10,8 +10,6 @@ contacts:
   mail: renan@bearstudio.fr
   linkedin: decampsrenan
 websites:
-  - name: Web
-    url: https://renandecamps.com
 layout: speaker
 ---
 
