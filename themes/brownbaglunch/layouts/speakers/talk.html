@@ -24,6 +24,13 @@
     </nav>
   {{ end }}
 
+  {{/* Talk cover */}}
+  {{ $talkCover := partial "cover-url.html" . }}
+  {{ if $talkCover }}
+    <img src="{{ $talkCover }}" alt="{{ $version.title }}"
+         class="w-full rounded-xl object-contain mb-6" style="max-height: 20rem">
+  {{ end }}
+
   {{/* Talk header */}}
   <h1 class="text-3xl font-black mb-4">{{ $version.title }}</h1>
 
@@ -42,6 +49,24 @@
   {{ if $version.abstract }}
     <div class="prose max-w-none bg-warm-light border border-warm-border rounded-xl p-5">
       {{ $version.abstract | markdownify }}
+    </div>
+  {{ end }}
+
+  {{/* Links / Resources */}}
+  {{ with .Params.links }}
+    <div class="mt-6">
+      <h2 class="text-lg font-bold mb-3">Resources</h2>
+      <ul class="space-y-2">
+        {{ range . }}
+          <li>
+            <a href="{{ .url }}" target="_blank" rel="noopener"
+               class="font-semibold hover:text-terracotta transition-colors">{{ .title }}</a>
+            {{ with .description }}
+              <span class="text-warm-brown/60 text-sm"> — {{ . }}</span>
+            {{ end }}
+          </li>
+        {{ end }}
+      </ul>
     </div>
   {{ end }}
 

@@ -11,6 +11,7 @@
   {{ if eq .label $siteLang }}{{ $version = . }}{{ end }}
 {{ end }}
 
+{{ $coverSrc := partial "cover-url.html" . }}
 <div class="card mb-4">
   <div class="flex items-start gap-3">
     <div class="flex-1">
@@ -31,5 +32,11 @@
         </div>
       {{ end }}
     </div>
+    {{ if $coverSrc }}
+      <a href="{{ .RelPermalink }}" class="shrink-0">
+        <img src="{{ $coverSrc }}" alt="{{ $version.title }}"
+             class="w-36 h-36 rounded-lg object-contain">
+      </a>
+    {{ end }}
   </div>
 </div>
