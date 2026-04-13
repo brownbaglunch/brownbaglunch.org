@@ -33,16 +33,19 @@ theme = 'brownbaglunch'
   [[module.mounts]]
     source = "content"
     target = "content"
-    lang = "fr"
+  [module.mounts.sites.matrix]
+    languages = ["fr"]
   # EN shares speaker and city content (untranslated data)
   [[module.mounts]]
     source = "content/speakers"
     target = "content/speakers"
-    lang = "en"
+  [module.mounts.sites.matrix]
+    languages = ["en"]
   [[module.mounts]]
     source = "content/cities"
     target = "content/cities"
-    lang = "en"
+  [module.mounts.sites.matrix]
+    languages = ["en"]
 
 [languages]
   [languages.fr]
