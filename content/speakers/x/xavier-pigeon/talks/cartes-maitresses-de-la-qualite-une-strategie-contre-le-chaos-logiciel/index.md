@@ -12,5 +12,5 @@ versions:
   flag: fr
   title: 'Cartes Maîtresses de la Qualité : une stratégie contre le chaos logiciel'
   abstract: (présentation) Une nouvelle approche systémique des tests pour améliorer
-    la qualité des livrables par petites touches dès demain. En savoir plus sur https://xavierpigeon.com/conferences.html.
+    la qualité des livrables par petites touches dès demain.
 ---

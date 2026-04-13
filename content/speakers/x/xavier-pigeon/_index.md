@@ -9,11 +9,8 @@ contacts:
   x: XEngineer
   mail: contact@chrysocode.io
   linkedin: xavierpigeon
-  blog: https://blog.xavierpigeon.com/
   github: xapn
 websites:
-  - name: AboutMe
-    url: https://xavierpigeon.com/
   - name: Web
     url: https://chrysocode.io/
 layout: speaker

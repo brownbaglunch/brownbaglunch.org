@@ -27,8 +27,7 @@ versions:
   flag: fr
   title: Virtualisation d'accord, mais après
   abstract: VMWare, OpenStack, AWS, Google Cloud Platform, Azure, Heroku, VirtualBox,
-    Hyper-V, OVH Cloud, Docker et Vagrant... Au delà du <a href='https://www.cloudorado.com/cloud_server_comparison.jsp'
-    target='_blank'>coût facial</a>  je vous présente mes retours d'expérience en
+    Hyper-V, OVH Cloud, Docker et Vagrant... Au delà du coût facial je vous présente mes retours d'expérience en
     terme de prix final, qualité de service, complexité de scalabilité et exploitation
     en production.
 ---
