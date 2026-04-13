@@ -2,4 +2,7 @@
   <p>© {{ now.Year }} Brown Bag Lunch —
     <a href="https://github.com/brownbaglunch/bblfr" class="underline hover:text-terracotta">{{ i18n "footer_contribute" }}</a>
   </p>
+  <p class="mt-1 text-cream/50 text-xs">
+    — {{ i18n "footer_generated" }} {{ dateFormat (i18n "footer_datetime_format") now }} —
+  </p>
 </footer>

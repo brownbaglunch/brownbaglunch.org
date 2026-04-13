@@ -9,6 +9,10 @@ nav_villes:
 # Footer
 footer_contribute:
   other: Contribuer
+footer_generated:
+  other: "généré avec ❤️ le"
+footer_datetime_format:
+  other: "02/01/2006 à 15:04"
 
 # Search
 search_placeholder:
