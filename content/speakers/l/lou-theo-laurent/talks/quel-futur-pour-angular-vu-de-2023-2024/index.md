@@ -6,8 +6,7 @@ tags:
 - typescript
 - angular
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Quel futur pour Angular ? (vu de 2023-2024)
   abstract: Angular a manifesté des changements impressionnants depuis quelques versions
     et cela n’est rien face à ce qu’il y a dans les cartons ! En plus des Signals,

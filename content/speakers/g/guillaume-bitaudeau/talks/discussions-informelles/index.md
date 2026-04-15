@@ -9,8 +9,7 @@ tags:
 - cloud
 - adobe-air
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Discussions informelles
   abstract: Des retours d'expériences, discuter d'architecture, de cloud, de problèmes
     de performance, de  design, bref je suis ouvert à toute proposition parce que

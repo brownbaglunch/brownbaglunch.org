@@ -7,8 +7,7 @@ tags:
 - workshop
 - domain-driven-design
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Atelier Event Storming
   abstract: Un atelier pour découvrir cette technique collaborative qui vise à modéliser
     votre métier tout en réunissant ceux qui savent ce qu'il faut réaliser et ceux

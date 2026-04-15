@@ -7,8 +7,7 @@ tags:
 - git
 - industrialisation
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Améliorons ensemble vos méthodologies d'ingénierie logicielle
   abstract: Retrouvons nous le temps d'un déjeuner pour parler de vos problématiques
     d'industrialisation et qualité. Si vous souhaitez monter en compétences sur un

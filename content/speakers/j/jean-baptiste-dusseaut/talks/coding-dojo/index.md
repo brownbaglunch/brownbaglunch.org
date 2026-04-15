@@ -7,8 +7,7 @@ tags:
 - agile
 - code
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Coding Dojo
   abstract: Comment apprendre à devenir de meilleurs développeurs ou développeuses
     si nous ne prenons jamais le temps d'apprendre ? Le but d'un coding dojo est de

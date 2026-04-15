@@ -7,8 +7,7 @@ tags:
 - intelligence-artificielle
 - rag
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'LangChain4j: de Zéro a RAG Super Hero'
   abstract: Plongez dans l'univers de LangChain4j et découvrez comment il révolutionne
     l'intégration de l'IA dans les applications Java.

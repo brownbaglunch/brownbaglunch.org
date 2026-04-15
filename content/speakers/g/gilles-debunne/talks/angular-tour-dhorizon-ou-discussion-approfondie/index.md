@@ -12,8 +12,7 @@ tags:
 - agile
 - lean-startup
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Angular : Tour d''horizon ou discussion approfondie'
   abstract: Choississez votre sujet, du plus général à la discussion sur un point
     de détail

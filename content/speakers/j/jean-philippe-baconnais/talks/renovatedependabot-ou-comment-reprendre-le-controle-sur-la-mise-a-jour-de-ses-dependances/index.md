@@ -5,8 +5,7 @@ tags:
 - dev
 - renovate
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Renovate/Dependabot, ou comment reprendre le contrôle sur la mise à jour
     de ses dépendances
   abstract: 'Talk présenté avec Lise Quesnel. Lorsqu’on développe un projet, on se

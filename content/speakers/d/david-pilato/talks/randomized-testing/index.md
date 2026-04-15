@@ -5,8 +5,7 @@ tags:
   - java
   - testing
 versions:
-  - label: EN
-    flag: gb
+  - lang: EN
     title: "Randomized testing: Gotta Catch 'Em All"
     abstract: |
       > Chance does things well.
@@ -26,8 +25,7 @@ versions:
       Add to that real integration tests using [TestContainers](https://java.testcontainers.org/modules/elasticsearch/), and you'll have a complete approach to tests that *regularly fail*!
 
       After this talk, you'll never look at the `random()` function the same way again — and you'll discover how (bad) luck can actually help you! 🍀
-  - label: FR
-    flag: fr
+  - lang: FR
     title: Le hasard fait bien les tests
     abstract: |
       > Le hasard fait bien les choses.

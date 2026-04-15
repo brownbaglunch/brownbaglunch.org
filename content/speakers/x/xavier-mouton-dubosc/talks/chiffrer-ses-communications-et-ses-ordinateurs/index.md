@@ -7,8 +7,7 @@ tags:
 - chiffrement
 - ethique
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Chiffrer ses communications et ses ordinateurs
   abstract: Quelles sont les missions du chiffrement, et ses utilités quotidiennes.
     Démonstration avec les e-mails signés et signatures de clés

@@ -7,8 +7,7 @@ tags:
 - lean
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: A la découverte d Accelerate (La science derrière DevOps)
   abstract: 'Comment être plus productif et qualitatif ou bien rentable et stable
     ? Faire des choix stratégiques pour son SI et son business n''est jamais évident

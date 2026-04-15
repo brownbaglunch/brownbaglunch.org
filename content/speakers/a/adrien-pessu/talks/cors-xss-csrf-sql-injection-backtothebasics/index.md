@@ -9,8 +9,7 @@ tags:
 - security
 - devsec
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'CORS, XSS, CSRF, SQL injection #BackToTheBasics'
   abstract: 'Pas besoin d’être RSSI ou DevOpsSec pour se soucier de sécurité. Que
     l’on soit développeur back ou front, la sécurité est l’affaire de tous. Pourtant,

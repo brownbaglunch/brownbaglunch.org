@@ -6,8 +6,7 @@ tags:
 - recruiting
 - carriere
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 10 méthodes pour rendre heureux les développeurs, la 7e va vous étonner !
     (avec Cyril Lakech)
   abstract: Il est impératif d'attirer les meilleurs développeurs, mais également

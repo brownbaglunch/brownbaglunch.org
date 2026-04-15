@@ -4,8 +4,7 @@ url: speakers/cedric-longo/talks/java-8-chez-les-inuits/
 tags:
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Java 8, chez les inuits
   abstract: Alors que les sorties des nouvelles versions de Java reprennent un ryhtme
     régulier, certains n'ont pas encore regardé les nouveautés de Java 8, pourtant

@@ -6,8 +6,7 @@ tags:
 - ci-cd
 - gitlab
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'GitLabCI : Make CI/CD (with Gitlab CI) hype again ?'
   abstract: Vous vous prenez la tête pour faire de l'intégration continue ? En plus
     ça tombe mal vos OPS ne sont pas dispos ? Gitlab met en place depuis quelques

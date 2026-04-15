@@ -7,8 +7,7 @@ tags:
 - functional-programming
 - sbt
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Lagom, Architecture microservices réactive
   abstract: Connaissez-vous Lagom ? Le framework de microservice réactif. L'objectif
     de ce framework est de mettre en place une architecture autour des micro-services

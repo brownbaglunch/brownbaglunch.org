@@ -6,8 +6,7 @@ tags:
 - code
 - coding-dojo
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Retour d'expérience et introduction au LeanStartup
   abstract: Retour d'expérience sur un projet personnel avec mise en oeuvre de l'approche
     LeanStartup.

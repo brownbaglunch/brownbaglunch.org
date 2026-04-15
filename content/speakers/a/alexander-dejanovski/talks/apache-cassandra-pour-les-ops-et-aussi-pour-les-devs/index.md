@@ -6,8 +6,7 @@ tags:
 - nosql
 - ops
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Apache Cassandra pour les ops (et aussi pour les devs)
   abstract: 'Opérer une base Apache Cassandra, comme tout système distribué, représente
     un challenge pour tout ops/dba habitué aux bases relationnelles. A programme de

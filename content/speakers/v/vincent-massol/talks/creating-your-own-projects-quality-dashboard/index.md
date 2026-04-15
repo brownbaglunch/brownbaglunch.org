@@ -12,8 +12,7 @@ tags:
 - xwiki
 - web-application
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Creating your own project's quality dashboard
   abstract: Live demo of using XWiki to create your own custom quality dashboard to
     aggregate various metrics from different sites (Jenkins, SonarQube, JIRA, GitHub).

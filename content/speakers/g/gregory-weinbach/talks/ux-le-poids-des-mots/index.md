@@ -7,8 +7,7 @@ tags:
 - agile
 - domain-driven-design
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'UX : le Poids des Mots...'
   abstract: 'L''expérience utilisateur est un problème trop sérieux pour le confier
     à des graphistes ! Une bonne (ou une mauvaise) ergonomie ne se détermine pas en

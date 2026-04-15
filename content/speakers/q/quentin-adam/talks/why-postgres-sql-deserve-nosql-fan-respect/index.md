@@ -7,8 +7,7 @@ tags:
 - database
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Why postgres SQL deserve noSQL fan respect
   abstract: Postgres SQL is a plain old SQL DB. Very powerful and very consistent,
     in some case, project needs an ACID database, but schemaless… With JSON support,

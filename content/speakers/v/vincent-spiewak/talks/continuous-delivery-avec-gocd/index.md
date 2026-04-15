@@ -7,8 +7,7 @@ tags:
 - continuous-delivery
 - devops
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Continuous Delivery avec GoCD
   abstract: Présentation de GoCD, outil remplaçant avantageusement ce bon vieux Jenkins
     :D

@@ -10,8 +10,7 @@ tags:
 - lean-startup
 - kanban
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Lean Startup
   abstract: Je vous propose d'animer et de faciliter une séance Lean Business Model
     Canvas pour définir votre propjet.

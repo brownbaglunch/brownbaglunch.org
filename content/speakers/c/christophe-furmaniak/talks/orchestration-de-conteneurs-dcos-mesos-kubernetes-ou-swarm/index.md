@@ -9,8 +9,7 @@ tags:
 - kubernetes
 - swarm
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Orchestration de conteneurs : DC/OS Mesos, Kubernetes ou Swarm?'
   abstract: 'Cette présentation propose de démystifier la notion d’orchestration de
     conteneurs et d’en comparer quelques uns parmi les plus (re)connus: Mesos, Kubernetes

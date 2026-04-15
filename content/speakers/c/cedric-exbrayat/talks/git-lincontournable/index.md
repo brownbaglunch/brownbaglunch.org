@@ -9,8 +9,7 @@ tags:
 - play
 - git
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Git - l'incontournable
   abstract: Introduction à Git et comment en tirer partie dans votre entreprise.
 ---

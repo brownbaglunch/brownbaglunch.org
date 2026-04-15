@@ -13,8 +13,7 @@ tags:
 - debian
 - proxmox
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Discussions libre sur la qualité Logiciel
   abstract: On parlera des outils d'audit de code généraliste et orientés symfony.
 ---

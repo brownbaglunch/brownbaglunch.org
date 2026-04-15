@@ -7,8 +7,7 @@ tags:
 - coding-dojo
 - dart
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Dart
   abstract: Les bases et principes du langage. Des petits exemples en prime !
 ---

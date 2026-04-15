@@ -6,8 +6,7 @@ tags:
 - fidoalliance
 - webauthn
 versions:
-- label: EN
-  flag: gb
+- lang: EN
   title: Learn about passkeys and the FIDO Alliance
   abstract: The world will be moving to passkeys, find out what it is all about!
 ---

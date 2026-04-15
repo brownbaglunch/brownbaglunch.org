@@ -7,8 +7,7 @@ tags:
 - retour-d-experience
 - get-things-done-in-team
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Organiser un Startup Weekend interne
   abstract: Vous avez envie de montrer à vos équipes qu'elles peuvent résoudre des
     grosses problématiques en moins de 48h ? Je vous donnerai toutes les clés pour

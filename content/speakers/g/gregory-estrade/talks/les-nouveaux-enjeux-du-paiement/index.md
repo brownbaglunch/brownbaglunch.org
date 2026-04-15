@@ -10,8 +10,7 @@ tags:
 - philosophie
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Les nouveaux enjeux du paiement.
   abstract: Etat de l'art, sécurité, les moyens de paiement et leur avenir, les enjeux
     du click-and-mortar, SEPA, marketplaces.

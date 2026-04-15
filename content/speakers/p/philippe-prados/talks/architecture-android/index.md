@@ -8,8 +8,7 @@ tags:
 - android
 - security
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Architecture Android
   abstract: Comprendre comment est conçu le système d'exploitation mobile de Google.
     Qu'elles sont les faiblesses et avantages par rapport aux OS alternatifs. Cette

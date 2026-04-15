@@ -7,8 +7,7 @@ tags:
 - continuous-delivery
 - team
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La culture DevOps
   abstract: Le DevOps est à la mode, c'est incontestable ! Mais comment s'y retrouver
     dans la diversité des technologies, des méthodes et surtout comment intégrer cette

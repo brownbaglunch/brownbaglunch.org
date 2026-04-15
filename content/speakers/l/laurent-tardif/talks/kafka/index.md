@@ -4,8 +4,7 @@ url: speakers/laurent-tardif/talks/kafka/
 tags:
 - docker
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Kafka:'
   abstract: Présentation & discussions
 ---

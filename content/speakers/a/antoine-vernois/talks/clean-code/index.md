@@ -10,8 +10,7 @@ tags:
 - clean-code
 - craftsmanship
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Clean Code
   abstract: À quoi ça sert de faire du code propre ? Et puis c'est quoi d'abord ?
     Comment je m'y mets ? Live code inside.

@@ -13,8 +13,7 @@ tags:
 - temps-atomique-international
 - ntp
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Back to Basics : Ne perdez plus votre Temps avec les Dates'
   abstract: '<p><strong>La gestion du Temps</strong> sur une application client/serveur
     peut sembler simple de prime abord, mais se révélera beaucoup plus complexe au

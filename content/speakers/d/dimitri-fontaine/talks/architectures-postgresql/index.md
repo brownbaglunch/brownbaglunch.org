@@ -8,8 +8,7 @@ tags:
 - emacs-lisp
 - common-lisp
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Architectures PostgreSQL
   abstract: Quelles sont les solutions classiques en terme de déploiement PostgreSQL
     à hautes disponibilité.

@@ -7,8 +7,7 @@ tags:
 - git
 - confd
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Containers et configuration: des promesses au concret avec git et confd'
   abstract: Docker (et le principe des conteneurs en général) est fortement lié à
     la promesse d’une image unique qui peut tourner partout et que le même artféfact

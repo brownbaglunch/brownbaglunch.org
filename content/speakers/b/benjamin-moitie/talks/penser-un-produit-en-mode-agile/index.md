@@ -6,8 +6,7 @@ tags:
 - lean-startup
 - kanban
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Penser un produit en mode Agile
   abstract: Du Lean Start Up, en passant par la création du backlog produit, un panorama
     de la création d'un produit en mode agile

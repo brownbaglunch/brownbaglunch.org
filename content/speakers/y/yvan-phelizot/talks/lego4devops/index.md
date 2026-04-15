@@ -6,8 +6,7 @@ tags:
 - clean-code
 - craftsmanship
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Lego4DevOps
   abstract: 'Dev et Ops, vous n''arrivez pas à vous comprendre? Il est temps que ça
     change avec une session faite pour ça : Lego4DevOps. Atelier créé par Lego4DevOps

@@ -6,8 +6,7 @@ tags:
 - guava
 - lombok
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Les Tests en Trois Temps (3T)
   abstract: 'Les Test Driven Development (TDD) vous inspirent mais chacune de vos
     tentatives s''est soldée par un échec, pas tant sur des problématiques techniques

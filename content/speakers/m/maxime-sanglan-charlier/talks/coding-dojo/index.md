@@ -5,8 +5,7 @@ tags:
 - workshop
 - coding-dojo
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Coding Dojo
   abstract: Vous aimeriez organiser un Coding Dojo en interne mais vous ne savez pas
     comment vous y prendre ? Vous aimeriez découvrir la pratique de manière fun et

@@ -7,8 +7,7 @@ tags:
 - gc
 - jit
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Inside the JVM : GC and JIT'
   abstract: Je peux venir vous parler au choix du Garbage Collector ou du Just In
     Time Compiler de Java. Ces deux sujets sont compréhensible par tous, et même si

@@ -9,8 +9,7 @@ tags:
 - rest
 - api
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à la programmation orientée données.
   abstract: Le style de programmation proposé par Clojure est orienté données avant
     d'être fonctionnel, et ça simplifie tout en autorisant des architectures "low

@@ -5,8 +5,7 @@ tags:
   - elasticsearch
   - fscrawler
 versions:
-  - label: EN
-    flag: gb
+  - lang: EN
     title: Indexing your office documents with Elastic and FSCrawler
     abstract: |
       You have plenty of Open Office, Microsoft Office, PDF, image documents and you may want to be able to search for their metadata and content. How can you do that?
@@ -15,8 +14,7 @@ versions:
 
       * Elasticsearch [ingest-attachment plugin](https://www.elastic.co/guide/en/elasticsearch/plugins/current/ingest-attachment.html)
       * [FSCrawler](https://github.com/dadoonet/fscrawler)
-  - label: FR
-    flag: fr
+  - lang: FR
     title: Indexer ses documents bureautique avec la suite Elastic et FSCrawler
     abstract: |
       Vous avez sous la main des tonnes de documents Open Office, Microsoft Office, PDF voire des images… Et vous aimeriez être capable de chercher dans leurs meta-données et dans le contenu lui-même.

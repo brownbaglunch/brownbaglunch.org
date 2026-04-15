@@ -9,8 +9,7 @@ tags:
 - spock
 - test
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Spock, le testing nouvelle génération
   abstract: Spock est un framework de test inspiré du BDD (Behavior Driven Development)
     pour la JVM. Dôté d'une syntaxe élégante et lisible, il remplace avec brio vos

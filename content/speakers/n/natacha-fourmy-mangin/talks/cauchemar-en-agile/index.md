@@ -5,8 +5,7 @@ tags:
 - scrum
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Cauchemar en Agile
   abstract: Voyagez avec moi au sein d’une équipe Scrum. Parcourons ensemble les pratiques
     utilisées par celle-ci en pensant appliquer correctement Scrum. Et finalement,

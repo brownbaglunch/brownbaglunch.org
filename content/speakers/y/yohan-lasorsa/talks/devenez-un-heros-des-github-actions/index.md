@@ -7,8 +7,7 @@ tags:
 - automation
 - open-source
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Devenez un héros des GitHub Actions
   abstract: GitHub Actions, c'est le nouveau système de worflow intégré à GitHub pour
     automatiser tous vos projets, CI/CD mais pas que! Et en plus, ca ne coute rien

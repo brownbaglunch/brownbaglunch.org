@@ -7,8 +7,7 @@ tags:
 - agile
 - team
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le télétravail
   abstract: 'Cela fait maintenant deux ans que je suis en télétravail à plein temps,
     me permettant d’en faire un bilan : quels sont les problèmes logistiques, comment

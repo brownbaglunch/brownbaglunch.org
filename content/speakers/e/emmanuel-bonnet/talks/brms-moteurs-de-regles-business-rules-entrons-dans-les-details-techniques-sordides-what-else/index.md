@@ -14,8 +14,7 @@ tags:
 - ibm
 - jrules
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'BRMS, Moteurs de règles, Business Rules : entrons dans les détails techniques
     sordides ... WHAT ELSE ?'
   abstract: RETE, Salience, Refraction, pattern matching, les boucles folles, la langage

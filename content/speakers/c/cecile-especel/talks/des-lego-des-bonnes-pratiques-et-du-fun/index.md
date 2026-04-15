@@ -6,8 +6,7 @@ tags:
 - serious-game
 - lego
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Des Lego, des bonnes pratiques et du fun !
   abstract: Expliquer les bonnes pratiques de code est compliqué. La compréhension
     étant une des clés pour changer l'état d'esprit, et les bonnes pratiques techniques

@@ -7,8 +7,7 @@ tags:
 - strategie
 - test
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Discussion informelle
   abstract: Sur l'optimisation, EasyMock, les tests en général, les méandres de Java,
     le déploiement continu ou tout autre sujet qui vous passe par la tête

@@ -9,8 +9,7 @@ tags:
 - kotlin
 - gradle
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Devenir un Staff Engineer dans le Mobile (Carrière)
   abstract: Le titre de Staff Engineer est apparu dans de grandes entreprises pour
     désigner les ingénieur·e·s dépassant le niveau Senior, mais il reste encore un

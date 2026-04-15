@@ -11,8 +11,7 @@ tags:
 - angularjs
 - yeoman
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Angular JS level 2
   abstract: Vous voulez comprendre le fonctionnement du framework et l'utilisation
     des filters, controllers, directives, services.... ce BBL est pour vous....

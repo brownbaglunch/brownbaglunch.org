@@ -24,8 +24,7 @@ tags:
 - unit-test
 - usine-logicielle
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Offshore programming
   abstract: 20 années d'expérience en Offshore programming (Biélorussie, Ukraine,
     Egypte, Chine, Inde, Maroc, Colombie, Sri Lanka....). Le pays et la langue importent

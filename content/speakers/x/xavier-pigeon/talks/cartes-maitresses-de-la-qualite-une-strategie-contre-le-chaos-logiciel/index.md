@@ -8,8 +8,7 @@ tags:
 - software-craftsmanship
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Cartes Maîtresses de la Qualité : une stratégie contre le chaos logiciel'
   abstract: (présentation) Une nouvelle approche systémique des tests pour améliorer
     la qualité des livrables par petites touches dès demain.

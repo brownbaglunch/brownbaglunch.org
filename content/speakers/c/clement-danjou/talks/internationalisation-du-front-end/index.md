@@ -6,8 +6,7 @@ tags:
 - i18n
 - frontend
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Internationalisation du front-end
   abstract: De l'outil de traduction aux librairies JS en passant par l'intégration
     continue, je présente un workflow qui permet de fluidifier l'internationalisation

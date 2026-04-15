@@ -6,8 +6,7 @@ tags:
 - scalability
 - organization
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Scaling Engineering Teams
   abstract: Tips and tricks pour croître sainement
 ---

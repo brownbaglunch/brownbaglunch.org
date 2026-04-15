@@ -9,8 +9,7 @@ tags:
 - lean-canvas
 - running-lean
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le Lean Startup en entreprise
   abstract: Vous n'êtes plus une startup, mais le Lean Startup peut tout de même vous
     servir !

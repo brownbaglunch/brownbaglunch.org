@@ -5,8 +5,7 @@ tags:
 - conseils
 - tech-talks
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 🧑‍🎨 L’art de bien rater sa conférence 🥱
   abstract: 'Vous vous êtes toujours demandé comment rater à coup sûr une présentation
     devant vos collègues ou votre comité de direction. Et bien, ne cherchez plus,

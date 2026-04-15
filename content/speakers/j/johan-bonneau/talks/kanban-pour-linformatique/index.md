@@ -5,8 +5,7 @@ tags:
 - agile
 - kanban
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Kanban pour l'informatique.
   abstract: Avec un vrai simulateur dedans !
 ---

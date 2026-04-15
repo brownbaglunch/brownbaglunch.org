@@ -12,8 +12,7 @@ tags:
 - cqrs
 - ecmascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: CQRS/ES from Scratch
   abstract: Un livecoding présentant une implémentation CQRS/ES en partant de rien,
     pour savoir comment débuter

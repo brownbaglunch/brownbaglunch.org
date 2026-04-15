@@ -5,8 +5,7 @@ tags:
 - git
 - microservices
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Git dans une architecture microservice
   abstract: Ton système d'information se transforme rapidement en microservices, peut-être
     même est-il déjà dans le cloud. Pour que cette transition soit une pull aux œufs

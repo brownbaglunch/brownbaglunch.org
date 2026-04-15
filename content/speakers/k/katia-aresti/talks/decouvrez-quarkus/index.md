@@ -16,8 +16,7 @@ tags:
 - javaee
 - kubernetes
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découvrez Quarkus
   abstract: Découvrez Quarkus, un framework Java moderne et open source conçu pour
     des applications rapides et légères. Idéal pour les microservices, mais aussi

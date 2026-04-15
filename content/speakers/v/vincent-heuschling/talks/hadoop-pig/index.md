@@ -5,8 +5,7 @@ tags:
 - hadoop
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Hadoop Pig
   abstract: Utiliser Pig pour construire des traitements sur Hadoop. Une alternative
     à Map/Reduce Java beaucoup plus simple et productive.

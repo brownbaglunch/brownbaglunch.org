@@ -7,8 +7,7 @@ tags:
 - coaching
 - dark-agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Dark Agile : Le Scrum Master "chronomètre" est un danger pour l''équipe'
   abstract: Pourquoi le Scrum Master ne peut pas être un dev, un PO ou tout autre
     rôle que celui de Scrum Master? À quoi ça sert vraiment un Scrum Master ? Juste

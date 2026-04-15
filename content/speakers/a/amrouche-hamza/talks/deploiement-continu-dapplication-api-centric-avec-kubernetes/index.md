@@ -7,8 +7,7 @@ tags:
 - docker
 - devops
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Déploiement continu d'application API-centric avec Kubernetes
   abstract: Savez-vous ce qu’est un POD ? Souhaitez-vous utiliser votre Dockerfile
     en production facilement ?, Oubliez les pertes de temps et d’énergie dûs aux processus

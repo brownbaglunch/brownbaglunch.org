@@ -7,8 +7,7 @@ tags:
 - onboarding
 - developpement
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Docker sur le poste du développeur
   abstract: Vous avez entendu parler de Docker, vous avez été formé dessus mais vous
     ne savez pas à quoi ça pourrait servir dans votre quotidien de développeur? Dans

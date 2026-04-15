@@ -5,8 +5,7 @@ tags:
 - css
 - w3c
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Démystifions les CSS Custom Properties
   abstract: "Les CSS Variables, de leur vrai nom : Custom Properties, sont désormais\
     \ supportées par tous les navigateurs modernes. Et pourtant, elles restent sous-utilisées\

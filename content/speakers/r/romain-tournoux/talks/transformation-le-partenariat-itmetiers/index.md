@@ -8,8 +8,7 @@ tags:
 - rex
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Transformation : le partenariat IT/Métiers'
   abstract: Bonnes pratiques et pièges à éviter.
 ---

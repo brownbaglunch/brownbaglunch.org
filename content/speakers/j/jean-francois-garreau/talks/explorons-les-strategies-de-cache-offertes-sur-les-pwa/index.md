@@ -5,8 +5,7 @@ tags:
 - pwa
 - service-worker
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Explorons les stratégies de cache offertes sur les PWA
   abstract: 'Quand on parle de PWA, il est question de Service Workers, c''est un
     fait. Etant donné que ce dernier nous permet de servir des fichiers hors-ligne,

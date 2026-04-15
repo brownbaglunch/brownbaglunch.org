@@ -10,8 +10,7 @@ tags:
 - postcss
 - ecmascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Découverte du nouveau JavaScript : ES2015/ES6'
   abstract: 'La nouvelle version de JavaScript est maintenant validée, il est donc
     temps de découvrir ce que l''avenir proche nous réserve et comment le mettre en

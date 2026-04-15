@@ -10,8 +10,7 @@ tags:
 - web
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Ionic sur commande
   abstract: Discussions informelles autour de Ionic, sujet autre que ceux proposés...
     N'hésitez pas à demander !

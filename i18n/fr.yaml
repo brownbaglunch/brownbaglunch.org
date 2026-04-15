@@ -121,6 +121,10 @@ city_no_speaker:
   other: Aucun speaker dans cette ville pour le moment.
 
 # Talks
+talk_available_in:
+  other: "Disponible en"
+talk_and:
+  other: "et"
 talks_label:
   other: talks
 subjects_label:

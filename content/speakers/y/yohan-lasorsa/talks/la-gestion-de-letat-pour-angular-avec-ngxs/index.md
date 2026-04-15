@@ -9,8 +9,7 @@ tags:
 - architecture
 - developpement
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La gestion de l'état pour Angular avec NGXS
   abstract: 'Comment gérer efficacement l''état de son Application Angular? Chaque
     framework à aujourd''hui sa librairie de référence pour la gestion de l''état:

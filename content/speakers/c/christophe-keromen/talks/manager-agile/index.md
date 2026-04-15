@@ -9,8 +9,7 @@ tags:
 - management
 - scrum
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Manager agile
   abstract: Quelles relations avec l'équipe ? Pourquoi changer ? Quelles pratiques
     ? Quel positionnement ?

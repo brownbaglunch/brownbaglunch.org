@@ -7,8 +7,7 @@ tags:
 - devops
 - gitlab
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: GitLab 💚 Kubernetes
   abstract: Déployez-vous sur Kubernetes des applications dont le code source est
     stocké sur GitLab ? Quel outil vous permet de faire ce déploiement ? Savez-vous

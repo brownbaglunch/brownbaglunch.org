@@ -88,7 +88,7 @@
       {{ $versions := $talk.Params.versions }}
       {{ $version  := index $versions 0 }}
       {{ range $versions }}
-        {{ if eq .label $siteLang }}{{ $version = . }}{{ end }}
+        {{ if eq .lang $siteLang }}{{ $version = . }}{{ end }}
       {{ end }}
 
       {{ $talkCover    := partial "cover-url.html" $talk }}

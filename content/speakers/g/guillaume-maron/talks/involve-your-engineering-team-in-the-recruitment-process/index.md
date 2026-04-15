@@ -5,8 +5,7 @@ tags:
 - engineering-team
 - recruiting
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Involve your engineering team in the recruitment process
   abstract: How to involve your engineering team in the recruitment process to better
     evaluate candidate, improve your candidate's experience, and improve your ability

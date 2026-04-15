@@ -9,8 +9,7 @@ tags:
 - css
 - javascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 30 minutes pour réduire l'empreinte encironnementale d'un site
   abstract: 'A chaque fois que je regarde sous le capot d’une page web, je vois toujours
     (ou presque) les mêmes défauts… Dans cette présentation, je vais vous montrer

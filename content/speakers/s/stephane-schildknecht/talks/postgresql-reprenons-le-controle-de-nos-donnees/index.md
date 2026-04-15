@@ -6,8 +6,7 @@ tags:
 - highavailability
 - database
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'PostgreSQL : Reprenons le contrôle de nos données'
   abstract: À l'heure où les utilisateurs de solutions propriétaires se sentent de
     plus en plus pris en otage, pourquoi ne pas se tourner vers la base de données

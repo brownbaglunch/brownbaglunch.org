@@ -9,8 +9,7 @@ tags:
 - maven
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Monter une forge Jenkins qui déboîte
   abstract: Dans cette session, je peux vous parler de notre histoire (de 0 à 1000
     jobs et une vingtaine d'esclaves en un peu plus de 5 ans)... Les trucs à connaître

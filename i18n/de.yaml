@@ -121,6 +121,10 @@ city_no_speaker:
   other: Noch kein Sprecher in dieser Stadt.
 
 # Talks
+talk_available_in:
+  other: "Verfügbar auf"
+talk_and:
+  other: "und"
 talks_label:
   other: Vorträge
 subjects_label:

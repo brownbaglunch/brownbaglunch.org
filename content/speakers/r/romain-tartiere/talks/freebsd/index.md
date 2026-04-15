@@ -6,8 +6,7 @@ tags:
 - unix
 - posix
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: FreeBSD
   abstract: Mais qui sont ces infâme BSDistes ?  Pourquoi diable utilisent-ils un
     système dérivé du mamouth préhistorique des années 70 qu'est UNIX alors que bon,

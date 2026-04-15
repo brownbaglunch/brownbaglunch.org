@@ -4,8 +4,7 @@ url: speakers/nathaniel-richand/talks/plus-de-fun-et-de-diversite-dans-vos-retro
 tags:
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Plus de fun et de diversité dans vos rétrospectives
   abstract: Discussion sur comment bien animer une rétrospective et présentation de
     nombreux formats.

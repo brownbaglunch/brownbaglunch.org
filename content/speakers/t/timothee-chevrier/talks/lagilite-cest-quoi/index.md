@@ -9,8 +9,7 @@ tags:
 - retrospectives
 - echanges
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: L'agilité c'est quoi ?
   abstract: Vous avez entendu parlé d'agilité et le sujet vous intéresse. Je vous
     propose de partager ma vision de ce qu'elle est, et de construire ensemble ce

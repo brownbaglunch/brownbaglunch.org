@@ -5,8 +5,7 @@ tags:
 - serious-game
 - test
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'caTesTdrale: Les tests, freins ou accélerateur ?'
   abstract: 'Atelier ludique illustrant ce que vivent les équipes de développement
     sur un projet avec et sans tests. Il permet d''introduire la discussion autour

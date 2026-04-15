@@ -6,8 +6,7 @@ tags:
 - angularjs
 - javascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Migration d'AngularJS vers React
   abstract: Dans cette présentation, j'explique les différentes étapes nécessaires
     pour pouvoir migrer une application AngularJS vers React de façon itérative.

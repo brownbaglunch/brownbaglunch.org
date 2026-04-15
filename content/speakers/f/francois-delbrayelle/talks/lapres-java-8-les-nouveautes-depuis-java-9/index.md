@@ -5,8 +5,7 @@ tags:
 - developpement
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: L'après Java 8, les nouveautés depuis Java 9
   abstract: 'Les nouveautés après Java 8 : qu''apportent les dernières versions 9,
     10, 11, 12... ?'

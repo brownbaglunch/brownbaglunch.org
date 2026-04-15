@@ -10,8 +10,7 @@ tags:
 - asynchronous
 - queue
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment coder des process business ou marketing aussi sophistiqués qu'Amazon
     ou Uber avec une équipe technique réduite
   abstract: Gérer des états, configurer et surveiller des crons, multiplier les requêtes

@@ -9,8 +9,7 @@ tags:
 - cloud
 - adobe-air
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découvrez les mockups
   abstract: Avec Balsamiq Mockups, on verra comment un dessin remplace avantageusement
     des pages de spécifications !

@@ -11,8 +11,7 @@ tags:
 - entreprise-agile
 - sociocratie
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Faire monter le niveau
   abstract: '*Raising the bar* c''est l''ambition du mouvement ''Software Craftsmanship''.
     Dans la pratique, comment faire ? Si je suis manager ou Team leader, comment faire

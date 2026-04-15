@@ -7,8 +7,7 @@ tags:
 - innovation
 - social
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: '[Quicky] - App-Elles - Exemple de tech for good à l''heure du confinement'
   abstract: Le premier confinement que nous avons connu en 2020 a été soudain et brutal.
     Dans les secteurs privés comme publics, l’activité a souvent été affectée et diminuée

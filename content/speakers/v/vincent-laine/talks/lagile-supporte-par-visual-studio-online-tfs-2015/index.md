@@ -14,8 +14,7 @@ tags:
 - visual-studio-online
 - tfs
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: L'agile supporté par Visual Studio Online / TFS 2015
   abstract: Un tours d'horizon des possibilités offertes par VSo/TFS 2015 pour supporter
     votre process agile

@@ -10,8 +10,7 @@ tags:
 - product-owner
 - po
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'IMPACT : Comment prendre des décision quand on est PO ?'
   abstract: Comment choisir la bonne priorisation ? Quels sont les outils du PO pour
     choisir les fonctionnalités ayant le plus de valeur, les utilisateurs à inviter,

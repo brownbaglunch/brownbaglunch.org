@@ -6,8 +6,7 @@ tags:
 - cooperation
 - strategie
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Extreme Serious Game
   abstract: 'Le jeu et l''Entreprise : Une expérience pour questionner la place du
     jeu en entreprise'

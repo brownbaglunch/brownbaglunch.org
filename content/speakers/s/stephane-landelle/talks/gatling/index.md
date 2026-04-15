@@ -9,8 +9,7 @@ tags:
 - load
 - scala
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Gatling
   abstract: Découvrez Gatling, un outil qui vous permettra de monter des tests de
     charge à la fois performants, clairs et maintenables.

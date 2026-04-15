@@ -7,8 +7,7 @@ tags:
 - ssh
 - idempotence
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à Ansible
   abstract: Comment décrire mon infrastructure sous forme de code ?, Ansible permet
     d'automatiser et d'industrialiser de l'infrastructure. Decouvrez comment déployer

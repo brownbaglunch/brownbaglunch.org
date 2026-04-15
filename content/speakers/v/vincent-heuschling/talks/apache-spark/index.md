@@ -5,8 +5,7 @@ tags:
 - hadoop
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Apache Spark
   abstract: 'Ce que Apache Spark change par rapport à Hadoop. Pourquoi l’utiliser
     ? Comment fonctionne-t-il ? le tout par des exemples de code simples et concrets.

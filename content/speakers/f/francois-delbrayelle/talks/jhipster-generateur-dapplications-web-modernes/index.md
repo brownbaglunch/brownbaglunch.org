@@ -8,8 +8,7 @@ tags:
 - back
 - microservices
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: JHipster, générateur d'applications web modernes
   abstract: Utiliser JHipster pour générer des applications monolithiques ou micro-services
 ---

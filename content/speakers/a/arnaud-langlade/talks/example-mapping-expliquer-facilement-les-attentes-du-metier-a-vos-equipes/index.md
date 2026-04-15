@@ -6,8 +6,7 @@ tags:
 - example-mapping
 - workshop
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Example Mapping: expliquer facilement les attentes du métier à vos équipes'
   abstract: Pendant pas mal d'années, j’ai préparé les sujets à venir avec de longs
     et ennuyeux groomings. Il était très compliqué de rester concentré jusqu’à la

@@ -6,8 +6,7 @@ tags:
 - nosql
 - production
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Apache Cassandra : guide de survie en production'
   abstract: 'Tour d''horizon des problèmes principaux rencontrés en production avec
     Apache Cassandra. Des problèmes de modélisation aux mauvais choix de stratégie

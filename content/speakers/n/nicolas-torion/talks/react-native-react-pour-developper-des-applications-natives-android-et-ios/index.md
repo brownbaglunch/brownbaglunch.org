@@ -6,8 +6,7 @@ tags:
 - android
 - ios
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'REACT NATIVE : REACT POUR DÉVELOPPER DES APPLICATIONS NATIVES ANDROID ET
     IOS'
   abstract: 'React s’est imposé depuis plusieurs années comme une référence dans le

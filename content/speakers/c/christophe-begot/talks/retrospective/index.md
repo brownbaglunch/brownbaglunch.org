@@ -5,8 +5,7 @@ tags:
 - agile
 - coaching
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Rétrospective
   abstract: Dérouler une rétrospective Agile avec votre équipe.
 ---

@@ -13,8 +13,7 @@ tags:
 - visual-management
 - management-3-0
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Management, leadership : bienvenue au 21è siècle !'
   abstract: Les individus ne sont pas des ressources ! Une nouvelle posture et de
     nouvelles pratiques permettent de soutenir la créativité et l'efficacité des équipes

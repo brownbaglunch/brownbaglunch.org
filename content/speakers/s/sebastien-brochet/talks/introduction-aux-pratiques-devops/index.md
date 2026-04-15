@@ -6,8 +6,7 @@ tags:
 - azure
 - vsts
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction aux pratiques DevOps
   abstract: Ou comment mieux aligner les Dev et les Ops pour répondre aux besoins
     Métiers. Le DevOps, c'est le prolongement de l'Agilité aux Ops, je vous propose

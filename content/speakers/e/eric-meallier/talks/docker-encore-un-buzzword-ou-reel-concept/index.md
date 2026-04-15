@@ -9,8 +9,7 @@ tags:
 - javaee
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Docker, encore un buzzword ou réel concept ?
   abstract: 'Vous vous demandez qui ce petit nouveau qui fait tant parler de lui ?
     alors n''attendez plus: demandez le guide ! Au cours de la session, j''expliquerai

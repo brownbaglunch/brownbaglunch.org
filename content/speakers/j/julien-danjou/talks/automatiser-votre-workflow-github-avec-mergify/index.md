@@ -5,8 +5,7 @@ tags:
 - git
 - github
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Automatiser votre workflow GitHub avec Mergify
   abstract: Présentation de Mergify, un service d'automatisation des pull requests
     GitHub.

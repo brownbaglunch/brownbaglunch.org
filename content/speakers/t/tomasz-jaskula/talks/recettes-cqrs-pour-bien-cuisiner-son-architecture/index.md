@@ -11,8 +11,7 @@ tags:
 - architecture
 - net
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Recettes CQRS, pour bien cuisiner son architecture
   abstract: 'Le pattern architectural CQRS est très simple à comprendre mais peut
     devenir très vite compliqué à mettre en œuvre. Si on y ajoute un zeste de Domain

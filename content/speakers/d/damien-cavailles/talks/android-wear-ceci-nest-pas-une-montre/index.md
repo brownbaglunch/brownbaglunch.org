@@ -8,8 +8,7 @@ tags:
 - maker
 - embarque
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Android Wear : Ceci n''est pas une montre !'
   abstract: Android Wear, c'est l'extension d'Android qui va changer notre style de
     vie. Un retour d'experience et un petit tour des bonnes pratiques en terme d'UX

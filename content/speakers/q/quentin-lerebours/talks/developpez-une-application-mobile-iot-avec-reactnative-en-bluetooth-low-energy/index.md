@@ -7,8 +7,7 @@ tags:
 - ble
 - gatt
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Développez une application mobile IoT avec ReactNative en Bluetooth Low Energy
   abstract: Créer une application mobile qui communique avec des objets connectés
     vous paraît complexe ? Je vous propose d'éclaircir tout ça en moins d'une heure

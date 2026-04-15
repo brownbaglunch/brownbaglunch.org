@@ -7,8 +7,7 @@ tags:
 - architecture
 - ios
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Une grande architecture comporte de grandes responsabilités - Clean Architecture
     - VIPER (version iOS)
   abstract: Comme vous le savez, chaque développeur est une sorte de super-héros de

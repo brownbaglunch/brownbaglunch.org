@@ -7,8 +7,7 @@ tags:
 - erlang
 - javascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Startup...
   abstract: Retour d'expérience en tant que jeune co-créateur de startup qui s'est
     lancé depuis début 2012. Lean Startup, l'agile et le reste in real life.

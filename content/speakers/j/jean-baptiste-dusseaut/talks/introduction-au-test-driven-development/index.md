@@ -7,8 +7,7 @@ tags:
 - agile
 - code
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction au Test Driven Development
   abstract: Vous avez peut être entendu dire que le TDD est une pratique magique qui
     va résoudre tous vos problèmes. Oui mais en attentant, le concept vous parrez

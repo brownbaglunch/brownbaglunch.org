@@ -12,8 +12,7 @@ tags:
 - docker
 - open-source
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'REST APIs With Symfony: The Right Way'
   abstract: Comment construire une API REST avec le framework PHP Symfony ?
 ---

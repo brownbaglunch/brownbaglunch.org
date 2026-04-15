@@ -8,8 +8,7 @@ tags:
 - bonnes-pratiques
 - cncf
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 12 factors Kubernetes
   abstract: 12 régles de bases et bonnes pratiques à avoir en tête avant de se lancer
     sur kubernetes

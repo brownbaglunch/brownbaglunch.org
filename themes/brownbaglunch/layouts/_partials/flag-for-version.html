@@ -1,0 +1,26 @@
+{{/*
+  flag-for-version.html
+  Input: a talk version map (with .lang)
+  Returns the flag emoji for the version.
+
+  Resolution order:
+  1. .lang (EN→🇬🇧, FR→🇫🇷, etc.) looked up in the lang→flag dict
+  2. Final fallback: 🏳️
+*/}}
+{{- $langFlags := dict
+  "FR" "🇫🇷"
+  "EN" "🇬🇧"
+  "DE" "🇩🇪"
+  "ES" "🇪🇸"
+  "IT" "🇮🇹"
+  "PT" "🇵🇹"
+  "NL" "🇳🇱"
+  "BE" "🇧🇪"
+  "CH" "🇨🇭"
+  "LU" "🇱🇺"
+  "CA" "🇨🇦"
+  "US" "🇺🇸"
+  "AU" "🇦🇺"
+  "PF" "🇵🇫"
+-}}
+{{- return index $langFlags .lang | default "🏳️" -}}

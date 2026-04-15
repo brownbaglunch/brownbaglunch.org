@@ -8,8 +8,7 @@ tags:
 - po
 - archis
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Qualité des développements
   abstract: 'Ce BBL s’adresse à tous les acteurs du développement logiciel (QA, PO,
     Devs, Archis, …​) L’objectif pour nous est de vous parler de pratiques d’équipe

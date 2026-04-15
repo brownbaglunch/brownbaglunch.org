@@ -5,8 +5,7 @@ tags:
 - javascript
 - live-coding
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Live Coding de Space Invaders
   abstract: 'Aujourd''hui c''est Back to Basics ! Je vais vous montrer comment coder
     le jeu mythique Space Invaders à partir de zéro, sans framework, sans librairie,

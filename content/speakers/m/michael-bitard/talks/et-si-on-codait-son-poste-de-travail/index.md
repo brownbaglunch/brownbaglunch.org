@@ -10,8 +10,7 @@ tags:
 - ansible
 - intellij
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Et si on codait son poste de travail?
   abstract: Vous ne vous êtes jamais dit que vous perdiez du temps à configurer votre
     poste de travail?<br /> Je peux vous faire découvrir comment automatiser l'installation

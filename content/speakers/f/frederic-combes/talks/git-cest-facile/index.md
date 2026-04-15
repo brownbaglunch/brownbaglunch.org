@@ -6,8 +6,7 @@ tags:
 - devtools
 - version
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Git c’est facile !
   abstract: Principal outil du développeur, git est souvent utilisé mais pas toujours
     maitrisé. Que se passe t’il derrière les commandes que l’on utilise tous les jours

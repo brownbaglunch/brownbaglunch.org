@@ -8,8 +8,7 @@ tags:
 - cloud
 - python
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Customiser votre passerelle Swift/S3
   abstract: A travers quelquex exemples, nous verrons comment ajouter des plugins
     à la passerelle Swift/S3, tel que enrichir les meta données

@@ -7,8 +7,7 @@ tags:
 - cloud
 - openstack
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Ceph : le futur du stockage est libre'
   abstract: Ceph est une plateforme libre de stockage distribué. Les objectifs principaux
     de Ceph sont d'être complètement distribué sans point unique de défaillance, extensible

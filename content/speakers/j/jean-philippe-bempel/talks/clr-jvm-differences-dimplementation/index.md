@@ -8,8 +8,7 @@ tags:
 - gc
 - performance
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: CLR-JVM différences d'implémentation
   abstract: 'Chez Criteo, nous utilisons à la fois la .NET CLR et la JVM. A première
     vue il semble que ces 2 runtimes sont similaires: du byte code, un JIT, un GC,

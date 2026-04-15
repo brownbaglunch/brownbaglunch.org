@@ -8,8 +8,7 @@ tags:
 - recruiting
 - formation
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment recruter un bon développeur ?
   abstract: Comment bien définir son besoin ? Quels moyens pour recruter son prochain
     développeur ? Comment bien rédiger une offre d'emploi ? Où la publier ? Comment

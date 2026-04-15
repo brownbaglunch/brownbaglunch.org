@@ -5,8 +5,7 @@ tags:
 - cassandra
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Apache Cassandra : les réparations dans la vraie vie'
   abstract: La réparation est une opération de maintenance nécessaire pour garder
     un cluster en bonne cohérence et remettre à niveau les noeuds ayant subit un arrêt

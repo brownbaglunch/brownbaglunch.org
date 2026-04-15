@@ -6,8 +6,7 @@ tags:
 - api-web
 - rest
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'API Web : Best pratices'
   abstract: (présentation) Un projet d'API Web ? Autant partir sur de bonnes bases
     !

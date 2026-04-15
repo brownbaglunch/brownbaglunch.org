@@ -10,8 +10,7 @@ tags:
 - lean-canvas
 - running-lean
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Redis, une base NoSQL simple et puissante
   abstract: Découvrez Redis, son modèle de programmation, sa simplicité et des cas
     d'usages, basé sur mon expérience à Zaptravel.

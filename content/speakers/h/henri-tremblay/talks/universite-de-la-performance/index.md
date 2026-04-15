@@ -7,8 +7,7 @@ tags:
 - strategie
 - test
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Université de la performance
   abstract: Mise en place de tests de performance, méthodologie et résolution de problèmes
 ---

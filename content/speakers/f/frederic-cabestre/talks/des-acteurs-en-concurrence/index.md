@@ -9,8 +9,7 @@ tags:
 - scala
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Des acteurs en concurrence
   abstract: Pourquoi un concept vieux de 40 ans refait-il surface aujourd'hui ? Qu'est-ce
     qui en fait la force ? Où sont ses faiblesses ? Avec de vraies rasades de «Akka»

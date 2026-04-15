@@ -18,8 +18,7 @@ tags:
 - tdd
 - test
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Git & GitHub & Open Source
   abstract: Présentation de Git, des différences par rapport à d'autres systèmes tels
     que Subversion, de son écosystème.

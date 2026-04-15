@@ -8,8 +8,7 @@ tags:
 - rh
 - product-owner
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 16 ans de gestion produit, les hauts et les bas condensés en 20 minutes
   abstract: De la naissance du POC à la solution SaaS utilisée par 120 000 salariés,
     je vous raconterai les étapes clés en vous donnant quelques pistes sur les écueils

@@ -7,8 +7,7 @@ tags:
 - dependencyinjection
 - kotlin
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: '[Quicky] - From Dagger to Dagger Hilt'
   abstract: During the 2019's Android Dev Summit conference, Google announced that
     it would stop the development of Dagger-Android and officially recommended to

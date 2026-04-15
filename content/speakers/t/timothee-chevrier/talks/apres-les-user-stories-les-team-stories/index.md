@@ -9,8 +9,7 @@ tags:
 - retrospectives
 - echanges
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Après les user stories, les team stories
   abstract: Session d'1H réalisée à l'agile tour Brest. Il s'agit d'un retour d'expérience
     sur un passage de 3 ans en tant que Scrum master dans une équipe. J'y parle estimations,

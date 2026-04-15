@@ -6,8 +6,7 @@ tags:
 - postgresql
 - performance
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Ce que les développeurs doivent savoir sur les index
   abstract: Les développeurs sont très souvent amenés à écrire des requêtes SQL pour
     communiquer avec des bases de données relationnelles. Pour les cas simples, connaître

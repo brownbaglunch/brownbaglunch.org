@@ -10,8 +10,7 @@ tags:
 - lean-startup
 - kanban
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Rétrospective
   abstract: Je vous propose d'animer et faciliter votre rétrospective sur un format
     d'une heure.

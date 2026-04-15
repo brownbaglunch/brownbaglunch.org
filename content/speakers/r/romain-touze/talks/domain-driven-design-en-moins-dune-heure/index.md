@@ -6,8 +6,7 @@ tags:
 - conception
 - methodologie
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Domain Driven Design (en moins d'une heure)
   abstract: Le Domain Driven Design (DDD) est une méthodologie de conception formalisée
     par Eric Evans. Cette présentation en donne les principaux concepts historiques

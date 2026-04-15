@@ -7,8 +7,7 @@ tags:
 - consistency
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Bases de données distribuées - Faire le bon choix d'architecture et de cohérence
   abstract: Les bases de données distribuées deviennent une nécessité. Mais chaque
     techno vient avec ses choix d'architectures et de gestion de la cohérence. Ces

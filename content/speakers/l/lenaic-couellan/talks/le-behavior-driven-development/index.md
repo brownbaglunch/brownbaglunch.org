@@ -6,8 +6,7 @@ tags:
 - test
 - tdd
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le Behavior-driven development
   abstract: Introduction au BDD avec Behat
 ---

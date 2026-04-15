@@ -5,8 +5,7 @@ tags:
 - agile
 - safe
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le framework SAFe en moins d'une heure.
   abstract: Pour saisir l'essentiel du framework SAFe en mode conférence ou échanges.
 ---

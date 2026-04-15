@@ -7,8 +7,7 @@ tags:
 - pwa
 - javascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Polymer, les webcomponents c'est maintenant
   abstract: Qu'est ce que les composants Web? Pourquoi sont-ils géniaux? Toutes les
     réponses dans cet présentation.

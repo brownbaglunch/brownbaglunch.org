@@ -6,8 +6,7 @@ tags:
 - refactoring
 - clean-code
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Coding Dojo
   abstract: 'Vous avez envie de découvrir ou d’approfondir des techniques de codes
     mais vous manquez de temps ? Un coding dojo c’est l’occasion de progresser en

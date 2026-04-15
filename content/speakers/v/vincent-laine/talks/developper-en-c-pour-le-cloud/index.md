@@ -14,8 +14,7 @@ tags:
 - visual-studio-online
 - tfs
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Développer en C# pour le cloud
   abstract: Découvrez (ou redécouvrez) les différents design pattern associés au développement
     sur le cloud.

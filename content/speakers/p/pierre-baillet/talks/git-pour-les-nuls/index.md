@@ -7,8 +7,7 @@ tags:
 - devops
 - continuous-integration
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Git pour les nuls
   abstract: Débutant en SCM ou vétérans de SVN, le contrôle de source est quelque
     chose qui est cher à votre coeur. Passez à la vitesse supérieure avec Git, le

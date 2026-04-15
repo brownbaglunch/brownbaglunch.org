@@ -8,8 +8,7 @@ tags:
 - kubernetes
 - industrialisation
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Devops: de GIT à Kubernetes en passant par Docker'
   abstract: Introduction à Devops.<br/>- Présentation ou discussions.<br/>- Découverte
     ou approfondissements

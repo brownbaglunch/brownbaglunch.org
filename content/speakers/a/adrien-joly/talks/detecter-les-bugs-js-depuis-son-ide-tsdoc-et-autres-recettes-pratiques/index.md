@@ -6,8 +6,7 @@ tags:
 - javascript
 - bugs
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Détecter les bugs JS depuis son IDE: TSDoc et autres recettes pratiques'
   abstract: Oops, notre code JavaScript plante en production à cause d’une variable,
     d’un paramètre ou d’une propriété undefined ! Saviez-vous qu’en maîtrisant l’art

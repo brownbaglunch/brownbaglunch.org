@@ -8,8 +8,7 @@ tags:
 - product-management
 - organization
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Principes de développement produit en flux et organisation apprenante.
   abstract: 'Dans l’armée, on dit parfois “Embrace the suck”, ce qui se traduit par
     “la situation est mauvaise, mais faites avec." Pour les développeurs de logiciels

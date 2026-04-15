@@ -7,8 +7,7 @@ tags:
 - transpiler
 - languages
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'TypeScript : dès lundi sur votre App Legacy'
   abstract: 'Avez-vous déjà développé une <strong>App Front</strong> de 5K+ lignes
     de  JS ? Ne vous êtes-vous jamais senti perdu lorsque vous êtes revenus sur votre

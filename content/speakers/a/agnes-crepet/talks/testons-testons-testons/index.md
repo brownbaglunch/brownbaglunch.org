@@ -9,8 +9,7 @@ tags:
 - bdd
 - software-design
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Testons, Testons, Testons
   abstract: 'Je vous propose de voir avec vous quelles sont les bonnes pratiques de
     tests, qu''il s''agisse de tests unitaires ou d''intégration. Nous pouvons voir

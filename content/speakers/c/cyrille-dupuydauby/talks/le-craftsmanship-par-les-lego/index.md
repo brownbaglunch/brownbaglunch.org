@@ -7,8 +7,7 @@ tags:
 - iteratif
 - refactoring
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le Craftsmanship par les Lego
   abstract: Cet atelier propose de découvrir le clean code, refactoring, dette technique,
     approche iérative grâces à des exerices de construction. Adaptée à tous les profils,

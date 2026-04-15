@@ -5,8 +5,7 @@ tags:
 - php
 - drupal
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Mon premier module Drupal
   abstract: Introduction au développement d'un module Drupal, en utilisant quelques
     hook.

@@ -4,8 +4,7 @@ url: speakers/duyhai-doan/talks/la-modelisation-facile-avec-cassandra/
 tags:
 - cassandra
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La modélisation facile avec Cassandra
   abstract: L'un des aspects de <strong>Cassandra</strong> qui rebute pas mal de débutants,
     c'est la modélisation.<br/> Mais depuis l'introduction du language <strong>CQL3</strong>,

@@ -5,8 +5,7 @@ tags:
 - conseils
 - tech-talks
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: J’ai beaucoup de taf 😱 mais je gère 😎
   abstract: 'On court toujours après le temps, dans notre vie perso, dans notre vie
     pro. Et si on essayait d’être plus productif non pas pour produire plus (enfin

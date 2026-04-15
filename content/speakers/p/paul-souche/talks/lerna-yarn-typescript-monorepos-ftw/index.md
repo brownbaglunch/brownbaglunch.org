@@ -7,8 +7,7 @@ tags:
 - typescript
 - monorepo
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: lerna + yarn + TypeScript monorepos FTW
   abstract: Comment organiser sa codebase front dans un monorepo
 ---

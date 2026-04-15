@@ -7,8 +7,7 @@ tags:
 - play
 - framework
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Play Framework
   abstract: Introduction à ce framework simple et efficace
 ---

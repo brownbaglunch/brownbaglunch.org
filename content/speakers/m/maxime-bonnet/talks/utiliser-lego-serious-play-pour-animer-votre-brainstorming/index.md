@@ -8,8 +8,7 @@ tags:
 - management-3-0
 - coaching
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Utiliser Lego Serious Play pour animer votre Brainstorming
   abstract: Quand l'un des plus grands fabriquants de jouets décide d'utiliser sa
     production pour faciliter ses réunions, cela donne Lego Serious Play (http://www.seriousplay.com).

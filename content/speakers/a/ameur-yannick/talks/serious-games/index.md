@@ -10,8 +10,7 @@ tags:
 - lean-startup
 - kanban
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Serious Games
   abstract: Discuter d'un thème de votre choix sur l'agilité méthodologie ou technique.
     Attention brainstorming collectif animer par l'utilisation d'un sérious Game.

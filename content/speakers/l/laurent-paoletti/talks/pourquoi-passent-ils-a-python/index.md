@@ -6,8 +6,7 @@ tags:
 - performance
 - web
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Pourquoi passent-ils à python ?
   abstract: Web, informatique scientifique, traitement de données, administration
     de serveur, l'adoption de python s'est considérablement accélérée dans de nombreux

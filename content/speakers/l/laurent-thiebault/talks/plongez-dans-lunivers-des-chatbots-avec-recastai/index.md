@@ -8,8 +8,7 @@ tags:
 - intents
 - ai
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Plongez dans l'univers des chatbots avec Recast.ai
   abstract: 'Vous entendez de plus en plus parler de chatbots ? Vous avez envie de
     savoir comment en construire un facilement ? Alors ce talk est fait pour vous

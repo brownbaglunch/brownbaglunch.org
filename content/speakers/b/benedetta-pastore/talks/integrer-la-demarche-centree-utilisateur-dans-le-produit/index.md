@@ -10,8 +10,7 @@ tags:
 - design-thinking
 - customer-centric
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Intégrer la démarche centrée Utilisateur dans le produit
   abstract: La démarche User Centric est aujourd'hui au coeur des problematiques des
     entreprises. Comment utiliser la User Research pour détecter les vrais utilisateurs

@@ -7,8 +7,7 @@ tags:
 - e-commerce
 - git
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: industrialisation de php
   abstract: Abandonnez le PHP à papa et modernisez vos méthodes de travail autour
     de php

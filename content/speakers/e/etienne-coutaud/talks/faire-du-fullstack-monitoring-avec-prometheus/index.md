@@ -7,8 +7,7 @@ tags:
 - fullstack
 - cncf
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Faire du fullstack monitoring avec Prometheus
   abstract: Une infrastructure non monitorée est une plateforme non maitrisée, Reprenez
     le contrôle de l'infrastructure avec Prometheus et sa solution de monitoring cloud

@@ -7,8 +7,7 @@ tags:
 - functional-programming
 - sbt
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Scala de 0 à l'infini
   abstract: Cette présentation a pour objectif de poser les bases du language Scala
     et de monter graduellement dans les tours pour aborder des fonctionnalités plus

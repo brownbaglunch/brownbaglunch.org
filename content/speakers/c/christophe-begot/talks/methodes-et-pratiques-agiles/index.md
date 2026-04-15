@@ -5,8 +5,7 @@ tags:
 - agile
 - coaching
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Méthodes et pratiques Agiles
   abstract: Présentations et échanges pour une première approche ou un appronfondissement.
 ---

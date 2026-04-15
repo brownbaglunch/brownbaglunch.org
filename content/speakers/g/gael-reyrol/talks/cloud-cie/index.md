@@ -12,8 +12,7 @@ tags:
 - scaleway
 - clevercloud
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Cloud & Cie
   abstract: Devant la multitude des offres disponibles, leurs spécificités, la difficulté
     de se projeter dans un univers qui évolue constamment, s'engager dans cette voie

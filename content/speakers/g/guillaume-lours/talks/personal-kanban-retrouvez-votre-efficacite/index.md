@@ -7,8 +7,7 @@ tags:
 - java
 - personal-kanban
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Personal Kanban, retrouvez votre efficacité
   abstract: Découvrez une technique de gestion de travail personnel basée sur du management
     visuel et la limite du travail en cours

@@ -15,8 +15,7 @@ tags:
 - solr
 - apache-spark
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction aux Big Data avec Hadoop
   abstract: 'Hadoop permet de travailler sur des petaoctets de données en des temps
     records grâce à son architecture distribuée. Découvrez comment cela fonctionne.

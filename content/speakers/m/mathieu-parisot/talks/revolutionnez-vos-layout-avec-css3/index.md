@@ -10,8 +10,7 @@ tags:
 - postcss
 - ecmascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Révolutionnez vos Layout avec CSS3
   abstract: 'Un focus sur les normes CSS3 permettant de faire des mises en page avancées
     : FlexBoxx, CSSGrid, CSSShape, CSS regions, columns, etc.'

@@ -6,8 +6,7 @@ tags:
 - web
 - fugu
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le web Natif débarque
   abstract: 'Toujours dans la continuité du web manifesto visant à mettre à disposition
     plus d’API bas niveau sur le web. Le “projet FUGU” (non ce n’est pas le nouveau

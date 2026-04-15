@@ -12,8 +12,7 @@ tags:
 - opendata
 - documentation
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Les outils pour créer de la documentation utilisateur
   abstract: Il existe de nombreux outils pour documenter du code mais par où commencer
     pour produire sa documentation? Nous nous proposons de vous donner quelques pistes

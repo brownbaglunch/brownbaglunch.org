@@ -9,8 +9,7 @@ tags:
 - angularjs
 - dart
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Les Web Components aujourd'hui
   abstract: Les Web Components débarquent. Un nouveau standard en cours d’élaboration
     au W3C, qui va permettre d’avoir une approche par composants au développement

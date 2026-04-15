@@ -5,8 +5,7 @@ tags:
 - workshop
 - intelligence-collective
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Xtrem Reading - Venez lire autrement, en cultivant votre intelligence collective.
   abstract: Vous avez des livres qui prennent la poussière ? Vous avez vraiment envie
     de les lire mais vous ne trouvez pas le temps ? Cet atelier est fait pour vous

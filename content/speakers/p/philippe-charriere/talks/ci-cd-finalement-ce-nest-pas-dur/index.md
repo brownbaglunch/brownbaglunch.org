@@ -12,8 +12,7 @@ tags:
 - chatops
 - workflow
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: CI, CD ??? Finalement ce n'est pas dur
   abstract: 'Intégration continue, déploiement continu (et d''autres termes) sont
     des concepts que j''ai utilisé longtemps sans savoir les mettre réellement en

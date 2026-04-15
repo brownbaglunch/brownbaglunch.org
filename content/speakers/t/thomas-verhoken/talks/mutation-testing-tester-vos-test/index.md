@@ -5,8 +5,7 @@ tags:
 - test
 - tdd
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Mutation testing - Tester vos test ?!?
   abstract: En tant que développeur.se professionnel.le, vous êtes amené.e.s à tester
     ce que vous produisez. Mais êtes-vous certain.e.s de la fiabilité des tests que

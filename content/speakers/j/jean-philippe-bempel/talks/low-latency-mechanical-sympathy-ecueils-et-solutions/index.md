@@ -8,8 +8,7 @@ tags:
 - low-latency
 - performance
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Low Latency & Mechanical Sympathy : écueils et solutions'
   abstract: 'Une application de connexion aux marchés financiers requiert une performance
     accrue. Le traitement des ordres se mesure en centaines de microsecondes, parfois

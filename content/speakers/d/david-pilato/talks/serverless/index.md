@@ -4,8 +4,7 @@ url: speakers/david-pilato/talks/serverless/
 tags:
   - elasticsearch
 versions:
-  - label: EN
-    flag: gb
+  - lang: EN
     title: do MORE with stateLESS Elasticsearch
     abstract: |
       How would you create Elasticsearch if you were starting this project in 2025?
@@ -19,8 +18,7 @@ versions:
       This is exactly what we did with Elastic Serverless.
 
       In this session, you will discover how we redesigned Elasticsearch to do more with a Stateless architecture that can run queries on cold storage.
-  - label: FR
-    flag: fr
+  - lang: FR
     title: do MORE with stateLESS Elasticsearch
     abstract: |
       Comment feriez-vous pour créer Elasticsearch si vous commenciez ce projet en 2025 ?

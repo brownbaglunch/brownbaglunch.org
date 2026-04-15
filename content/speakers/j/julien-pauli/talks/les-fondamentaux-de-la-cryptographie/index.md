@@ -8,8 +8,7 @@ tags:
 - vernam
 - lfsr
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Les fondamentaux de la cryptographie
   abstract: 'Cette présentation va montrer la base commune derrière tout processus
     cryptographique informatique. Nous parlerons du chiffrement de Vernam, appliqué

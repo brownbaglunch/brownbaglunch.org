@@ -5,8 +5,7 @@ tags:
 - agile
 - scrum
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: L'estimation agile.
   abstract: Tour d'horizon des pratiques d'estimation relative. Explications et mise
     en situation.

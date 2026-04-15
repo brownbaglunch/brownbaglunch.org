@@ -8,8 +8,7 @@ tags:
 - security
 - web
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: HTTPS n’aura plus de secret pour vous
   abstract: Je vous propose, à travers cette présentation, de vous démontrer l’intérêt
     de passer à HTTPS, de détailler l’établissement d’une connexion sécurisée, d’expliquer

@@ -6,8 +6,7 @@ tags:
 - bounded-context
 - domain-driven-design
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Il n'y a pas de bon modèle métier
   abstract: 'On vous le répète : une application répond bien aux besoins de ses utilisateurs
     si elle reflète bien leur métier. Les approches du développement centrées sur

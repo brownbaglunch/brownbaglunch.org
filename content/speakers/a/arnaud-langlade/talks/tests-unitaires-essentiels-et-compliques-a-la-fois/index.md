@@ -5,8 +5,7 @@ tags:
 - unit-test
 - poo
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Tests unitaires: essentiels et compliqués à la fois'
   abstract: Je me souviens lorsque j’ai commencé à développer que je pouvais coder
     pendant des heures sans exécuter mon code. La suite était moins marrante, je passais

@@ -9,8 +9,7 @@ tags:
 - scala
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Microservices, choisir le bon cheval: Vert.X'
   abstract: Il n'y a pas encore de standard 🤔, mais il faut être prêt. Vert.X ❤️ permet
     de construire des solutions 'plateform agnostic' et vous offre quelques helpers

@@ -7,8 +7,7 @@ tags:
 - dialogflow
 - firebase
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Créez votre propre application conversationnelle pour Google Home
   abstract: Apprenez à développer une application interactive pour Google Home avec
     Actions on Google et Dialogflow.

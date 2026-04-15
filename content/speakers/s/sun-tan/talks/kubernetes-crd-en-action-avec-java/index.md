@@ -9,8 +9,7 @@ tags:
 - crd
 - devops
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Kubernetes CRD en action ... avec Java !
   abstract: Knative, Tekton, Istio, etc. Ce sont tous des extensions à Kubernetes,
     y ajoutant de nouvelles fonctionnalités que l'on peut installer et désinstaller.

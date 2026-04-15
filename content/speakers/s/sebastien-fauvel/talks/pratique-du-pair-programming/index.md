@@ -5,8 +5,7 @@ tags:
 - serious-game
 - extreme-programming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Pratique du pair programming
   abstract: 'Pratique emblématique de l''extreme programming, le pair programming
     c''est deux personnes pour une machine. Quels avantages peut on en tirer ? Venez

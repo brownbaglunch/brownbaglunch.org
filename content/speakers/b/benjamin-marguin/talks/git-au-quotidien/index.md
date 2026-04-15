@@ -6,8 +6,7 @@ tags:
 - gitlab
 - github
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Git au quotidien
   abstract: Ni une présentation ni une conférence, mais une proposition de prendre
     un peu de recul et de discuter ensemble de votre utilisation de Git et de vos

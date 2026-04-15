@@ -5,8 +5,7 @@ tags:
 - cloud
 - usine-logicielle
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Blue/Green Deployment avec AWS Elastic Beanstalk
   abstract: Déployer simplement une application sur Amazon à l'aide d'Elastic BeanStalk,
     et mise en œuvre du principe de Blue-Green Deployment grâce à la fonctionnalité

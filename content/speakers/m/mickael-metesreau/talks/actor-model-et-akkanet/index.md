@@ -7,8 +7,7 @@ tags:
 - actor
 - model
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Actor model et Akka.NET
   abstract: Introduction au modèle Acteur et à la création de système distribué avec
     Akka.NET

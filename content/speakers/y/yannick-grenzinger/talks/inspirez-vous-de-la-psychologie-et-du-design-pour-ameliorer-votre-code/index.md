@@ -6,8 +6,7 @@ tags:
 - ergonomie
 - code
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Inspirez vous de la psychologie et du design pour améliorer votre code
   abstract: Le but est de présenter les grands principes du design (eux-même basés
     sur notre psychologie) pour améliorer votre code. Au passage, vous pouvez même

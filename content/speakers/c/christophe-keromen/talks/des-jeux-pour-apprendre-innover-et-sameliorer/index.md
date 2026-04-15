@@ -9,8 +9,7 @@ tags:
 - management
 - scrum
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Des jeux pour apprendre, innover et s'améliorer
   abstract: Serious Games, Innovation Games, Agile Games. Comment ça se passe ? Ça
     sert à quoi ? Quand les utiliser ?

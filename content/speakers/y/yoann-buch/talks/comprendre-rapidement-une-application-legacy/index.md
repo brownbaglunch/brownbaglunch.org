@@ -7,8 +7,7 @@ tags:
 - java
 - craftsmanship
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comprendre rapidement une application legacy
   abstract: 'Que le but soit de débugger, refactorer, migrer ou encore étendre une
     application il faut nécessairement comprendre comment elle fonctionne. Et ce n’est

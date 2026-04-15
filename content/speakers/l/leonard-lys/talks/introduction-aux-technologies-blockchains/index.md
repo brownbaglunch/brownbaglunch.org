@@ -9,8 +9,7 @@ tags:
 - remote
 - cryptocurrency
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction aux technologies Blockchains
   abstract: Introduction aux différents concepts de la technologie Blockchain et ses
     cas d’usages actuels et futurs. Le contenu peut être ajusté aux besoins du public

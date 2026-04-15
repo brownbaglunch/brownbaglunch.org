@@ -8,8 +8,7 @@ tags:
 - maker
 - embarque
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'BLE : De la mobilité aux objets connectés'
   abstract: Le Bluetooth Low Energy est le protocole qui relie le mobile et les objets
     connectés. Basé sur le Bluetooth, il est supporté par la majorité des mobiles

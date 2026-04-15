@@ -8,8 +8,7 @@ tags:
 - diagnostic
 - performance
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le guide de dépannage de la JVM
   abstract: Votre application Java/Scala/autres en production ne répond plus ! Que
     faire pour diagnostiquer le problème ? Un thread bloqué ? le CPU à 100% ? le GC

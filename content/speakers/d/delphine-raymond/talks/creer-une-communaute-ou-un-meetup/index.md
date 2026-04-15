@@ -6,8 +6,7 @@ tags:
 - meetup
 - retour-d-experience
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Créer une communauté ou un meetup
   abstract: Vous souhaitez crééer une communauté ou un meetup, vous ne savez pas par
     quoi commencer, comment le lancer, comment l'animer... Je vous raconterai comment

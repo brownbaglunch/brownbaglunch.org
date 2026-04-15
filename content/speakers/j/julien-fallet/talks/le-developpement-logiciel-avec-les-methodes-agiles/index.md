@@ -8,8 +8,7 @@ tags:
 - produit
 - product-owner
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le développement logiciel avec les méthodes agiles
   abstract: Comprendre ce que les méthodes agiles souhaitent apporter au dévelopement
     logiciel (Equipe, Produit, Communication)

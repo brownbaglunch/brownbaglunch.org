@@ -6,8 +6,7 @@ tags:
 - scalability
 - organization
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Adieu micro-frontends et head-less CMS bonjour Block Management Platform
   abstract: Comment imaginer et implémenter une plateforme from-scratch au sein d'un
     groupe média ? Quelle philosophie ? Quels principes ? Quelle architecture choisir

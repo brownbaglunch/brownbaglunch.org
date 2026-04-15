@@ -9,8 +9,7 @@ tags:
 - typescript
 - developpement
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découvrez NestJS, le framework Node.js qui monte!
   abstract: 'Encore un nouveau framework JS, vous n''en avez pas marre sérieux ? Ah
     on me dit dans l''oreillette que NestJS s''appuie sur tout ce qui a dejà fait

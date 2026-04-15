@@ -6,8 +6,7 @@ tags:
 - javaee
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Audit de performance
   abstract: Démarrer un audit de performance (comment s'organiser?, quels outils?,
     quelle méthodologie?)

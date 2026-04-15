@@ -7,8 +7,7 @@ tags:
 - google
 - mobile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Découvrir Firebase '
   abstract: Découverte de Firebase, un produit indispensable pour le développement
     mobile.

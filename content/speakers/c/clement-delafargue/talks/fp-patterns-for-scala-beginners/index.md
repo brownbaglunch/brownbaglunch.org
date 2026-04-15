@@ -7,8 +7,7 @@ tags:
 - functional-programming
 - it-automation
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: FP patterns for scala beginners
   abstract: Patterns et bonne pratiques pour les débutants en scala qui veulent se
     mettre à la programmation fonctionnelle

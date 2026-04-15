@@ -8,8 +8,7 @@ tags:
 - sig
 - osm
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Libérez aussi vos données géographiques
   abstract: OpenStreetMap est devenu aujourd'hui un acteur fiable tant sur la donnée
     géographique que le routage, découvrez comment l'intégrer facilement dans votre

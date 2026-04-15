@@ -6,8 +6,7 @@ tags:
 - gitlab
 - r2devops
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 🗄️ Et si vous mettiez à disposition vos jobs de CI/CD sur une étagère ?
   abstract: Talk présenté avec Jules Agostini. La CI/CD fait partie de notre quotidien.
     Que l’on soit développeur·euse, ou bien Ops, nous avons forcément passé du temps

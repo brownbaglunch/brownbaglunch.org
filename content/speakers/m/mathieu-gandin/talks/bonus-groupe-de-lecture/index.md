@@ -7,8 +7,7 @@ tags:
 - clojure
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Bonus : Groupe de lecture'
   abstract: Si tu veux mettre en place un groupe de lecture pendant un brownbaglunch
     sur 'Clean Code' de Bob Martin et 'Quality Software Management' de Gerald Weinberg,

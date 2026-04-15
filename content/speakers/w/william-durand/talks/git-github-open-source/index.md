@@ -12,8 +12,7 @@ tags:
 - docker
 - open-source
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Git & GitHub & Open Source
   abstract: Présentation de Git et GitHub, plus une ouverture sur le monde Open Source.
 ---

@@ -8,8 +8,7 @@ tags:
 - tdd
 - bdd
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Sur le chemin de la qualité : en équipe et dès demain !'
   abstract: 'Ça y est ! C’est décidé ! Vous allez construire des applications de meilleure
     qualité. Vous êtes convaincu(e) que, pour cela, certaines pratiques de développement

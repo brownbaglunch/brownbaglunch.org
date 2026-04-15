@@ -6,8 +6,7 @@ tags:
 - micronaut
 - quarkus
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Micronaut et Quarkus : l''avenir du monde Java ?'
   abstract: En quoi Micronaut et Quarkus représentent potentiellement l'avenir de
     Java

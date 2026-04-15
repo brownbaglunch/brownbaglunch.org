@@ -17,8 +17,7 @@ tags:
 - ionic
 - lean-startup
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Ionicframework : Ma première application'
   abstract: Affranchissons nous des problèmes du développement hybride sur mobile
 ---

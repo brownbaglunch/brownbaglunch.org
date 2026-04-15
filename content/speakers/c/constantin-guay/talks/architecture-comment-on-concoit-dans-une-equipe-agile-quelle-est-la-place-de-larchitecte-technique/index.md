@@ -11,8 +11,7 @@ tags:
 - sprint-0
 - cadrage
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Architecture : Comment on concoit dans une équipe agile ? Quelle est la
     place de l''architecte technique ?'
   abstract: Que ce soit le design graphique, le design technique (architecture), la

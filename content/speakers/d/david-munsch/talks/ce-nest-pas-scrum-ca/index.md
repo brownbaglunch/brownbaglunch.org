@@ -6,8 +6,7 @@ tags:
 - scrum
 - coaching
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Ce n'est pas Scrum ça ?
   abstract: Je vous propose de discuter de votre situation pendant 1h.
 ---

@@ -8,8 +8,7 @@ tags:
 - management-3-0
 - coaching
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: J'anime une rétrospective productive
   abstract: La rétrospective est un exercice important dans la démarche agile, elle
     permet la mise en oeuvre de la boucle d'amélioration continue. Cette cérémonie

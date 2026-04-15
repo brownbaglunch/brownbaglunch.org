@@ -6,8 +6,7 @@ tags:
 - transformation
 - rh
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Les clefs de la conduite du changement
   abstract: Présentation des fondamentaux de la conduite du changement. Ce BBL présente
     les principaux écueils qui font que 70% des transformations échouent et vous donne

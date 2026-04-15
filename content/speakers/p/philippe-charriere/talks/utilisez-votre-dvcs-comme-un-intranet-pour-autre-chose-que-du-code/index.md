@@ -10,8 +10,7 @@ tags:
 - gitlab
 - commerciaux
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Utilisez votre DVCS comme un Intranet (pour autre chose que du code)
   abstract: 'Un an chez GitHub, ça marque 😉 et j''ai découvert que finalement un DVCS
     (distributed version control system), on peut l''utiliser pour autre chose que

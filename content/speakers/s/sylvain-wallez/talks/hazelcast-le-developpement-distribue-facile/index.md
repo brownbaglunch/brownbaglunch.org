@@ -6,8 +6,7 @@ tags:
 - mongodb
 - hardware
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Hazelcast, le développement distribué facile
   abstract: Coordonner les activités dans un cluster peut sembler complexe. Hazelcast
     apporte des réponses simples à ces problèmes, pour une scalabilité horizontale

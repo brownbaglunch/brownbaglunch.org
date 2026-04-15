@@ -5,8 +5,7 @@ tags:
 - gestion-de-projet
 - performance-web
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La Performance Web, pourquoi et comment ?
   abstract: Avec le déplacement d'un certain nombre d'usages vers des périphérique
     nomades (téléphones, montres, appareils connectés), la fluidité d'utilisation

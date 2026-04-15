@@ -9,8 +9,7 @@ tags:
 - test
 - git
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: HTTP and REST
   abstract: Comment développer des api RESTful.
 ---

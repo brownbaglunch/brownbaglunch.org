@@ -6,8 +6,7 @@ tags:
   - java
   - testing
 versions:
-  - label: EN
-    flag: gb
+  - lang: EN
     title: Testcontainers for real integration tests with Elasticsearch
     abstract: |
       How are you testing with your database?
@@ -19,8 +18,7 @@ versions:
       So what is the solution? There are some very neat solutions based on containers, namely the Docker-Maven-Plugin and Testcontainers. From your tests you can start a lightweight, throwaway instance of your datastore and this talk will walk you through how to do that.
 
       And we will introduce the module we built for Elasticsearch: https://www.testcontainers.org/modules/elasticsearch/.
-  - label: FR
-    flag: fr
+  - lang: FR
     title: Testcontainers pour de vrais tests d'intégration d'Elasticsearch
     abstract: |
       Les tests d'intégration peuvent devenir un cauchemar lorsqu'ils sont lancés depuis la même JVM que votre code:

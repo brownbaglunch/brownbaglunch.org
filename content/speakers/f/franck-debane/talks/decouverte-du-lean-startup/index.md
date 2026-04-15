@@ -7,8 +7,7 @@ tags:
 - product-strategy
 - product-management
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Decouverte du Lean Startup
   abstract: Comprendre les principes de bases du lean startup et leur importance.
     Quels sont les implications pour les entreprises déjà établie. Comprendre les

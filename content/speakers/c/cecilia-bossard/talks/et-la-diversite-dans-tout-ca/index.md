@@ -5,8 +5,7 @@ tags:
 - diversite
 - womenintech
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Et la diversité dans tout ça ?
   abstract: On entend beaucoup parler en ce moment du besoin d’avoir plus de femmes
     dans les métiers du numérique. Mais la diversité ne s’arrête pas là. Qu'est ce

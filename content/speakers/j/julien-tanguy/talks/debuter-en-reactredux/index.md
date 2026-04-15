@@ -7,8 +7,7 @@ tags:
 - redux
 - functional-programming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Débuter en React/Redux
   abstract: Quels sont les concepts clés derrière React/Redux ? Comment débuter un
     nouveau projet? Comment architecturer de plus grosses applications ?

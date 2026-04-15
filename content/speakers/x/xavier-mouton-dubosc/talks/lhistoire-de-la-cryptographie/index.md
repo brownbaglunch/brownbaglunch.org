@@ -7,8 +7,7 @@ tags:
 - chiffrement
 - ethique
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: L'histoire de la cryptographie
   abstract: Comment les outils de cryptographie furent forgés et comment sont-ils
     passés d'un usage militaire à un usage civil.

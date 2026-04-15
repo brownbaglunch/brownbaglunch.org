@@ -6,8 +6,7 @@ tags:
 - unity
 - unreal
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La VR dans Unity/ Unreal Engine 4
   abstract: Quels sont les outils disponibles dans Unity et Unreal pour créer un projet
     VR

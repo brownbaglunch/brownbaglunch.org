@@ -5,8 +5,7 @@ tags:
 - puppet
 - marionette-collective
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Puppet / Marionette Collective
   abstract: 'Qu''est-ce-que l''Infrastructure as Code peut apport à votre organisation
     ?  L''homogénéisation de la configuration de vos machines ?  La facilité du redéploiement

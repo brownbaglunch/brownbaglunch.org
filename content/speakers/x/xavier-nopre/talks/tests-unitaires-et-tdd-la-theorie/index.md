@@ -8,8 +8,7 @@ tags:
 - java
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Tests unitaires et TDD : la théorie :'
   abstract: Les tests unitaires sont indispensables pour faire du développement agile
     (itératif et incrémental), pour être sûr que le code fait ce qu'il faut, pour

@@ -6,8 +6,7 @@ tags:
 - nosql
 - graph
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découvrir les bases NoSQL orientées graphes avec Neo4j
   abstract: Découvrons ensemble les bases de données NoSQL orientées graphes et notamment
     Neo4j.

@@ -8,8 +8,7 @@ tags:
 - produit
 - product-owner
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Vin et kanban
   abstract: Découvrir le Lean et le Kanban a travers le management de ma cave à vin,
     ou comment améliorer un produit ou un processus.

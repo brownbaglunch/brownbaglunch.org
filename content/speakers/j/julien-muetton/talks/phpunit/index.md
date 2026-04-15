@@ -9,8 +9,7 @@ tags:
 - test
 - git
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: PHPUnit.
   abstract: Présentation de PHPUnit, les bonnes pratiques du test unitaire en PHP.
 ---

@@ -12,8 +12,7 @@ tags:
 - mentoring
 - leadership
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: J'ai raté ma carrière. J'ai plus de 40 et je code encore
   abstract: 'Avec plus de 20 ans d''expérience et ma quarantaine passée, je n''ai
     jamais suivi la voie "classique" : devenir manager ou cheffe de projet. Ce n''était

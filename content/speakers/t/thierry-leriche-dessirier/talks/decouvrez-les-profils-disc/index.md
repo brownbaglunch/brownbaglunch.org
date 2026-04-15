@@ -6,8 +6,7 @@ tags:
 - guava
 - lombok
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découvrez les profils DISC
   abstract: 'Il est parfois difficile de discuter avec ses collègues. On parle le
     même langage mais on a l’impression de ne pas se comprendre. C’est normal car

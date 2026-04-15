@@ -9,8 +9,7 @@ tags:
 - motivation
 - innovation-manageriale
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Développer une culture de la gagne, l’exemple des Brooklyn Nets !
   abstract: 'Conférence sur la transformation managériale d''une équipe de NBA. J''y
     parle de culture, approche collaborative et responsabilisation pour montrer comment

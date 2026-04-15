@@ -8,8 +8,7 @@ tags:
 - sketching
 - ux
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Let's sketch together
   abstract: Un véritable atelier de collaboration entre les différents profils (métiers,
     développeurs, graphistes, ergonomes) participant à l'élaboration d'un produit

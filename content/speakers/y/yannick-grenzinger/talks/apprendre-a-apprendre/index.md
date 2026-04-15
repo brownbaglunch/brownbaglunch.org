@@ -6,8 +6,7 @@ tags:
 - organization
 - management
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Apprendre à apprendre
   abstract: Apprendre est la compétence essentielle à connaître au 21ème siècle. Accro
     au MOOC (une trentaine de certifications en 2 ans) et développant un PersonalMBA,

@@ -8,7 +8,7 @@
 {{ $versions := .Params.versions }}
 {{ $version := index $versions 0 }}
 {{ range $versions }}
-  {{ if eq .label $siteLang }}{{ $version = . }}{{ end }}
+  {{ if eq .lang $siteLang }}{{ $version = . }}{{ end }}
 {{ end }}
 
 {{ $coverSrc := partial "cover-url.html" . }}
@@ -19,13 +19,29 @@
         {{ $version.title }}
       </a>
       <div class="flex gap-1 mt-2 flex-wrap">
-        {{ range $versions }}
-          <span class="badge">🏳️ {{ .label }}</span>
-        {{ end }}
         {{ range .Params.tags }}
           <a href="{{ printf "/talks/%s/" . | relLangURL }}" class="badge hover:bg-terracotta hover:text-white transition-colors">#{{ . }}</a>
         {{ end }}
       </div>
+      {{- $labelToLang := dict "FR" "fr" "EN" "en" "DE" "de" "ES" "es" "IT" "it" "PT" "pt" "NL" "nl" "BE" "be" -}}
+      {{- $langLinks := dict -}}
+      {{- range .AllTranslations -}}
+        {{- $langLinks = merge $langLinks (dict .Language.Lang .RelPermalink) -}}
+      {{- end -}}
+      {{- $parts := slice -}}
+      {{- range $versions -}}
+        {{- $flag := partial "flag-for-version.html" . -}}
+        {{- $lang := index $labelToLang .lang | default "" -}}
+        {{- $href := index $langLinks $lang | default "" -}}
+        {{- if $href -}}
+          {{- $parts = $parts | append (printf `<a href="%s" class="hover:text-terracotta transition-colors">%s %s</a>` $href $flag .lang) -}}
+        {{- else -}}
+          {{- $parts = $parts | append (printf "%s %s" $flag .lang) -}}
+        {{- end -}}
+      {{- end -}}
+      <p class="text-xs text-warm-brown/50 mt-1" data-pagefind-ignore>
+        {{ i18n "talk_available_in" }} {{ delimit $parts ", " (printf " %s " (i18n "talk_and")) | safeHTML }}
+      </p>
       {{ if $version.abstract }}
         <div class="prose prose-sm mt-3 text-warm-brown/80 max-w-none">
           {{ $version.abstract | markdownify }}

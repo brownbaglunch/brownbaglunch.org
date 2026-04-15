@@ -8,8 +8,7 @@ tags:
 - nodejs
 - symfony
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Améliorons ensemble votre Architecture Web
   abstract: Retrouvons nous le temps d'un déjeuner pour parler d'une de vos problématiques
     d'architecture. Nous pourrons échanger sur des problématiques en Symfony ou encore

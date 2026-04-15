@@ -6,8 +6,7 @@ tags:
 - craftsmanship
 - clean-code
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Coding dojo / Kata
   abstract: Animation de coding dojo, format randori ou kata, Thèmes TDD, BDD, refactoring,
     langage au choix (Java, Python, PHP, Haskell, Javascript, Cobol, Assembleur, ...)

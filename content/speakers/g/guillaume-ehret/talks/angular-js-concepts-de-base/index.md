@@ -11,8 +11,7 @@ tags:
 - angularjs
 - yeoman
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Angular JS concepts de base
   abstract: Voir les concepts de base du framework made in Google et démarer sa première
     application

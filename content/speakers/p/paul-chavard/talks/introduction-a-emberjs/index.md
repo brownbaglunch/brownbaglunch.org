@@ -5,8 +5,7 @@ tags:
 - emberjs
 - javascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à EmberJS
   abstract: 'Présentation du framework EmberJS et des enjeux d''une application riche
     en JavaScript. Nous allons essayer de répondre à des questions courantes : "J''ai

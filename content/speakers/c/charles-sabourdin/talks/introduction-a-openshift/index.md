@@ -7,8 +7,7 @@ tags:
 - docker
 - devops
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction a openshift
   abstract: Il s'agit d'une presentation de l'outils openshift et d'un certain nombre
     de ces concepts

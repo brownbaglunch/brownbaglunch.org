@@ -7,8 +7,7 @@ tags:
 - rebase
 - historique
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Reprenez le contrôle de votre historique Git !
   abstract: 'De tous les systèmes de gestion de version utilisés actuellement, Git
     est sans conteste le plus populaire. Il offre des outils très performants pour

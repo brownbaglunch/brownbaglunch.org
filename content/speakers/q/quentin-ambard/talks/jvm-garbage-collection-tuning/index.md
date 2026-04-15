@@ -6,8 +6,7 @@ tags:
 - gc
 - tuning
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: JVM & Garbage Collection tuning
   abstract: G1, CMS, Shenandoah, ou Zing ? Heap size à 8GB ou 31GB? pointers compressés
     ? Region size ? Quel temps de pause maximum ? Débit ou Latence ... Un vrai gain

@@ -7,8 +7,7 @@ tags:
 - java10
 - java11
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: De Java 8 à Java 11
   abstract: Encore sous Java 8 et un peu débordé sur les changements des nouvelles
     versions en terme de gouvernance, cycle de vie et fonctionalités? Pas de panique,

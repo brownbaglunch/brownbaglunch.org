@@ -6,8 +6,7 @@ tags:
 - startup
 - retour-d-experience
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Mise en place de Scrum dans une startup
   abstract: On parle souvent de Scrum pour rendre plus agile des procédures rigides.
     J'ai mis scrum en place chez Lucca pour scruturer notre équipe de R&D qui n'avait

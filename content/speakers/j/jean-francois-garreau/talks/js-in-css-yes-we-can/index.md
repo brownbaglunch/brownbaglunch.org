@@ -5,8 +5,7 @@ tags:
 - javascript
 - css
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'JS in CSS: Yes we can 🤔'
   abstract: 'Alors que tout le monde parle de CSS in JS et si on regardait comment
     faire du JS in CSS ? Car oui c’est possible ! Est-ce une bonne idée ? Je n’en

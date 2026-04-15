@@ -11,8 +11,7 @@ tags:
 - jeux-agiles
 - lean-startup
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Il était une fois la vie d'un Product Owner
   abstract: C'est l'histoire d'un Product Owner qui découvre et apprend son rôle dans
     une startup pendant 9 mois. Entre joies et peines, les surprises seront nombreuses

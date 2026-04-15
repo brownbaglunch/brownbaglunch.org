@@ -6,8 +6,7 @@ tags:
 - guava
 - lombok
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Guava mon ami
   abstract: 'Guava est une bibliothèque open source créée et maintenue par les équipes
     de Google. Inspirée des outils internes du géant, Guava propose de nombreux mécanismes

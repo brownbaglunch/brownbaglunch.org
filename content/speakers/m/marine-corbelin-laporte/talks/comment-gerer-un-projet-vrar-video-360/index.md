@@ -6,8 +6,7 @@ tags:
 - vr
 - ar
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment gérer un projet VR/AR/ vidéo 360 ?
   abstract: 'Vous vous lancez dans un projet VR/ AR ou vidéo 360°: Voici les bonnes
     pratiques pour commencer du bon pied.'

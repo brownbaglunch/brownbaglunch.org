@@ -8,8 +8,7 @@ tags:
 - maker
 - embarque
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Dev to Maker
   abstract: '"Si tu as déjà scotché un stylo cassé pour continuer à écrire, tu es
     un Maker !". Présentation du courant des makers et de l''open-source hardware.

@@ -6,8 +6,7 @@ tags:
 - html5
 - web
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Faisons de la magie grâce à Houdini CSS
   abstract: "La dernière spec de layout CSS vient tout juste de sortir et elle correspond\
     \ exactement à votre besoin et va permettre de simplifier énormément votre travail\

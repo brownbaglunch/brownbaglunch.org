@@ -5,8 +5,7 @@ tags:
 - javascript
 - webpack
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Débugger sa configuration Webpack
   abstract: Le nouveau plugin webpack que vous venez d'installer vient de tout casser
     ? Vous n'arrivez pas à mettre à mettre à jour webpack ? Nous verrons ensemble

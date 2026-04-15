@@ -8,8 +8,7 @@ tags:
 - craftsmanship
 - code-review
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Et si vous abandonniez la revue de code systématique et réinventiez vos workflows
     de développement ?
   abstract: Je vous aide à prendre conscience des biais de la revue de code systématique

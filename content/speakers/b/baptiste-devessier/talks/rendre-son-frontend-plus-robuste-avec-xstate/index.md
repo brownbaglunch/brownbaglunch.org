@@ -9,8 +9,7 @@ tags:
 - react
 - vue
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Rendre son frontend plus robuste avec XState
   abstract: XState est une librairie de state machines pour JavaScript et TypeScript.
     Dans cette présentation, nous verrons ce que l'utilisation de state machines peut

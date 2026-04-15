@@ -11,8 +11,7 @@ tags:
 - monad
 - lenses
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Voyons plus clairement avec les lentilles
   abstract: 'Manipuler les données immuables peut devenir rapidement pénible. Heureusement
     nous avons des outils purement fonctionnels pour nous aider : les lentilles, les

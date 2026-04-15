@@ -8,8 +8,7 @@ tags:
 - streaming
 - hadoop
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction au Big Data et NosQL
   abstract: 'Introduction au Big Data et NoSQL: pourquoi? comment?<br/>Durant cette
     présentation je vous propose de discuter les cas d''usages, technologies de facon

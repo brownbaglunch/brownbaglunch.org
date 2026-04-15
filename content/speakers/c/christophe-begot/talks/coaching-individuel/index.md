@@ -5,8 +5,7 @@ tags:
 - agile
 - coaching
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Coaching individuel
   abstract: Présentation de la démarche et sessions de coaching.
 ---

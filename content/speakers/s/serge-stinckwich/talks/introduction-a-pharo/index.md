@@ -7,8 +7,7 @@ tags:
 - tdd
 - test
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à Pharo
   abstract: Découverte de Pharo, une implémentation ouverte de Smalltalk, le langage
     de programmation orienté objet, dynamiquement typé et réflexif. Introduction à

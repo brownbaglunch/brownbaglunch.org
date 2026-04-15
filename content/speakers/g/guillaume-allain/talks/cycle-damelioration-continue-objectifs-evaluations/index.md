@@ -7,8 +7,7 @@ tags:
 - retour-d-experience
 - evaluation
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Cycle d'amélioration continue / objectifs / évaluations
   abstract: Retour d'expérience sur le suivi des objectifs collectifs et individuels
     chez Lucca (éditeur Saas 50 personnes) Partage du cycle d'amélioration continue

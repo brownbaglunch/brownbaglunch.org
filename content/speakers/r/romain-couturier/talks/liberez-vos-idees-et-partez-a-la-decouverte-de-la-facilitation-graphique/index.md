@@ -11,8 +11,7 @@ tags:
 - jeux-agiles
 - lean-startup
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Libérez vos idées et partez à la découverte de la facilitation graphique
   abstract: S'initier aux techniques de base de la facilitation graphique des interactions
     de groupe et découvrir comment la pensée visuelle une dynamique interactive et

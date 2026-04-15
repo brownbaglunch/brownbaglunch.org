@@ -5,8 +5,7 @@ tags:
 - conseils
 - tech-talks
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment gérer sa culture tech
   abstract: Vous vous demandez comment créer un environnement stimulant pour vos équipes
     techniques ? Sans prétendre avoir la solution parfaite, nous vous proposons de

@@ -5,8 +5,7 @@ tags:
 - event-sourcing
 - architecture
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à l'EventSourcing
   abstract: 'L''event sourcing nous offre une façon différente de stocker la donnée:
     au lieu de stocker l''état de notre application à un instant t, on stocke les

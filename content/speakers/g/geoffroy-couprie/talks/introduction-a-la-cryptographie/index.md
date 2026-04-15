@@ -7,8 +7,7 @@ tags:
 - ssl
 - performance
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à la cryptographie
   abstract: La cryptographie n'est pas qu'une science mathématique. C'est un outil
     pratique pour des problèmes de confiance, de confidentialité, etc.<br />Je vous

@@ -8,8 +8,7 @@ tags:
 - rspec
 - cucumber
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Tester, c'est douter !
   abstract: Personellement, je doute souvent… donc je teste tout ce qui peut l'être…  Des
     fois, c'est simple…  Mais parfois, c'est plus compliqué (vous avez déjà fait des

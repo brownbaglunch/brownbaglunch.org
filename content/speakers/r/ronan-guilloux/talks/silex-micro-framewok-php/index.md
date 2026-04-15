@@ -9,8 +9,7 @@ tags:
 - methodes
 - fun
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Silex, micro-framewok PHP
   abstract: Découvrir Silex, un micro-framework PHP utilisant des composants de Symfony2.
     Idéal pour créer une API ou prototyper un proof-of-concept en MVC

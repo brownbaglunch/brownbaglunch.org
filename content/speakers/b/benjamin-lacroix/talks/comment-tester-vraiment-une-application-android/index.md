@@ -8,8 +8,7 @@ tags:
 - quality
 - test
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment tester (vraiment) une application Android ?
   abstract: Talk donné à la Droidcon Paris 2015 ; A partir d'une feuille blanche (Android),
     découvrez quelles stratégies de tests mettre en place pour garantir le bon fonctionnement,

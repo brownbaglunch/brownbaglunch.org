@@ -6,8 +6,7 @@ tags:
 - javaee
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Performance
   abstract: Comment auditer la performance d'une application
 ---

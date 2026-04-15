@@ -10,8 +10,7 @@ tags:
 - glsl
 - fragment-shaders
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Art génératif et creative coding
   abstract: Plongez dans l’univers où code rime avec créativité. Cette session introductive
     vous fait découvrir les concepts et outils clés (p5.js, algorithmes visuels, shaders)

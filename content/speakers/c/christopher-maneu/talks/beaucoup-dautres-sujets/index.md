@@ -8,8 +8,7 @@ tags:
 - azure
 - microsoft
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Beaucoup d'autres sujets !
   abstract: 'Si vous cherchez un talk sur Azure orienté développeur, j''ai probablement
     quelque chose pour vous. N''hésitez pas à me contacter '

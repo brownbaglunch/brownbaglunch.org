@@ -8,8 +8,7 @@ tags:
 - mobile
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Les tests
   abstract: 'Différents sujets : Selenium, FluentLenium, Mise en place de Selenium,
     Byteman ...'

@@ -7,8 +7,7 @@ tags:
 - e-commerce
 - git
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Composants symfony
   abstract: introduction aux composants HttpKernel, HttpFoundation ou encore EventDispatcher
     et DependencyInjection

@@ -7,8 +7,7 @@ tags:
 - jest
 - cypress
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Les tests en Javascript
   abstract: Si « Le bon sens est la chose la mieux partagée », l’utilisation des tests
     n’est pas toujours la chose la mieux partagée par tous les développeurs. Et pourtant,

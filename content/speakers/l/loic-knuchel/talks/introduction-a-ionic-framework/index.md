@@ -10,8 +10,7 @@ tags:
 - web
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à Ionic Framework
   abstract: Cette session est une présentation classique de Ionic framework. Après
     un rapide panorama généraliste sur le développement mobile, je vous présenterais

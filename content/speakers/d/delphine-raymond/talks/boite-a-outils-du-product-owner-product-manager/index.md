@@ -6,8 +6,7 @@ tags:
 - product-manager
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Boîte à outils du Product Owner / Product Manager
   abstract: Vous souhaitez découvrir la boîte à outils du PO / PM pour construire
     la vision de votre produit, sa roadmap, identifier vos personas ou les jobs-to-be-done,

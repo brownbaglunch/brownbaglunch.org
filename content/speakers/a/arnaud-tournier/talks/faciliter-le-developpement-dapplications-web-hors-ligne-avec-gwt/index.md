@@ -9,8 +9,7 @@ tags:
 - performance
 - client
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Faciliter le développement d'applications Web Hors-ligne avec GWT
   abstract: APIs HTML5 pour l'offline, et problématiques associées. Le tout avec l'aide
     de GWT

@@ -9,8 +9,7 @@ tags:
 - spock
 - test
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Les androïdes rêvent-ils de Gradle ?
   abstract: Gradle est un système de build nouvelle génération pour la JVM combinant
     les avantages du scripting Ant et des conventions Maven grâce à un DSL (Domain

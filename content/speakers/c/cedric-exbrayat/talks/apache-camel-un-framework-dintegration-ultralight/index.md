@@ -9,8 +9,7 @@ tags:
 - play
 - git
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Apache Camel - un framework d'intégration ultralight
   abstract: Parce que l'on a toujours besoin de communiquer entre plusieurs applications,
     découvrez la puissance et la simplicité de Camel.

@@ -7,8 +7,7 @@ tags:
 - rest
 - grpc
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Cas d'usages et implémentation des APIS en Java avec REST, gRPC ou GraphQL
   abstract: 'Il existe une grande variété de patterns pour accéder à vos bases de
     données en fonction des cas d’usage et des technologies utilisées : simple CRUD,

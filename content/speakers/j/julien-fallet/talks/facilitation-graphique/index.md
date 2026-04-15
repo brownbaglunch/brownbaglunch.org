@@ -6,8 +6,7 @@ tags:
 - sketchnote
 - pensee-visuelle
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Facilitation graphique
   abstract: Découvrir par la pratique les outils et techniques de facilitation graphique
     pour animer vos reflexions collective et partager clairemen une situation.

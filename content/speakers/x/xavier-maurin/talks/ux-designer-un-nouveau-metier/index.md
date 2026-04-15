@@ -8,8 +8,7 @@ tags:
 - conception
 - ergonomie
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'UX Designer : un nouveau métier'
   abstract: 'Plus que jamais, les attentes des clients sont focalisées sur leur expérience
     d’utilisateur. Les applications métier aujourd’hui ne peuvent plus se réduire

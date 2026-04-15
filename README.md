@@ -92,8 +92,7 @@ Your bio in Markdown here.
 | `url` | yes | — | Canonical path: `/speakers/{your-slug}/talks/{talk-slug}/` |
 | `tags` | no | none | List of topic tags |
 | `versions` | yes | — | List of language versions (at least one required) |
-| `versions[].label` | yes | — | Language label displayed on the card (e.g. `FR`, `EN`) |
-| `versions[].flag` | yes | — | ISO 3166-1 alpha-2 country code for the flag icon (e.g. `fr`, `gb`) |
+| `versions[].lang` | yes | — | Language label displayed on the card (e.g. `FR`, `EN`). The flag emoji is resolved automatically from this label. |
 | `versions[].title` | yes | — | Talk title in that language |
 | `versions[].abstract` | yes | — | Talk description in Markdown |
 | `cover` | no | speaker's cover | Talks do not have their own cover image. The speaker's avatar is displayed automatically (resolved from `cover` frontmatter or `cover.*` file in the speaker directory). |
@@ -108,13 +107,11 @@ tags:
   - docker
   - devops
 versions:
-  - label: "FR"
-    flag: "fr"
+  - lang: "FR"
     title: "Introduction à Docker"
     abstract: |
       Description en **Markdown**.
-  - label: "EN"
-    flag: "gb"
+  - lang: "EN"
     title: "Introduction to Docker"
     abstract: |
       Description in **Markdown**.

@@ -12,8 +12,7 @@ tags:
 - agile
 - lean-startup
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 8 millions de téléchargements sur l'app store
   abstract: L'aventure de ma première et unique application iOS. Qui a bêtement cartonné
 ---

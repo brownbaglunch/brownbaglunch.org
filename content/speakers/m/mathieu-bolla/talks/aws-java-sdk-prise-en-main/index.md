@@ -8,8 +8,7 @@ tags:
 - domotique
 - embarque
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'AWS Java SDK: Prise en main'
   abstract: Amazon Web Services sonne familier pour vous, mais vous n'y avez jamais
     mis les pieds? Ou bien la spécification de son modèle de signature vous a donné

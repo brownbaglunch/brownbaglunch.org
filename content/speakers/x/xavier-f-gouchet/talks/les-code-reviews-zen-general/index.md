@@ -6,8 +6,7 @@ tags:
 - team
 - git
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Les code reviews zen (général)
   abstract: Les code reviews font parties de ces bonnes pratiques qui, si elles sont
     mal encadrées, peuvent devenir un poison pour une équipe. Je vous propose de détailler

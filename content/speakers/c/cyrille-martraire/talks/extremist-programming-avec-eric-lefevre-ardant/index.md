@@ -10,8 +10,7 @@ tags:
 - clean-code
 - test
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Extremist Programming - avec Eric Lefevre-Ardant
   abstract: Bien sûr, notre métier est sérieux ; le Software Craftmanship n'est-il
     pas avant tout le professionnalisme ? Bien sûr, le progrès vient d'articles scientifiques

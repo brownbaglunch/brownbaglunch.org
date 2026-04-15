@@ -6,8 +6,7 @@ tags:
 - architecture
 - domain-driven-design
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Voyage d’une appli legacy vers le DDD − Domain Driven Design
   abstract: Je vous propose une étude de cas fictive mais pratique, pour transformer
     une application réalisée avec CakePhp dans un code moderne, réutilisable et maintenable.

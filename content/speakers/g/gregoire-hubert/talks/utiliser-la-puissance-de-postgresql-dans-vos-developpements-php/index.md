@@ -8,8 +8,7 @@ tags:
 - pomm
 - sql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Utiliser la puissance de Postgresql dans vos développements PHP
   abstract: Comment utiliser les types, la messagerie asynchrone, le SQL de Postgres
     avec Pomm.

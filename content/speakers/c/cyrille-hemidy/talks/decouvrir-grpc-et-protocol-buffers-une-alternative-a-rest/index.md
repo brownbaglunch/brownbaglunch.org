@@ -9,8 +9,7 @@ tags:
 - protobuf
 - microservices
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découvrir gRPC et Protocol Buffers une alternative à REST
   abstract: 'gRPC est un Framework RPC basé sur HTTP/2 très efficace pour développer
     des Microservices. Le format de sérialisation des données est basé sur Protocol

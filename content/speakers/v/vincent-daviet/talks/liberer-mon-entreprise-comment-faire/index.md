@@ -15,8 +15,7 @@ tags:
 - team-building
 - entreprise-liberee
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Libérer mon entreprise : comment faire ?'
   abstract: Retour d'expérience et poursuite des réflexions grâce à des techniques
     de coaching, de facilitation, et un canevas sur-mesure.

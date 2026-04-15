@@ -11,8 +11,7 @@ tags:
 - musique
 - marathon
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Au secours, ma bibliothèque iTu*** me parle d’agilité
   abstract: 'Je souffre depuis peu d’un étrange syndrome: celui du “mélomanagiliste”.<br/>Est-ce
     grave docteur? Non, ça signifie juste qu’en réécoutant la musique de ma bibliothèque

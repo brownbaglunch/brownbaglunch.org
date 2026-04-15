@@ -6,8 +6,7 @@ tags:
 - highavailability
 - database
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'PostgreSQL : La haute-disponibilité, oui, mais comment ?'
   abstract: La haute-disponibilité est devenue un mantra. Mais qu'entendons-nous par
     là ? Et lorsque ce terme a été défini, comment peut-on l'obtenir. Nous verrons

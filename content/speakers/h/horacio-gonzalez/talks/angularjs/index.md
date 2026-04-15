@@ -9,8 +9,7 @@ tags:
 - angularjs
 - dart
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: AngularJS
   abstract: Le framework JavaScript dont tout le monde parle, dans cette présentation
     je vous montre pourquoi.

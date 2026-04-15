@@ -7,8 +7,7 @@ tags:
 - angular
 - express
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Créons notre première API avec NestJS
   abstract: 'Depuis le temps que vous allez à des conférences, vous avez sûrement
     participé à des codelabs JavaScript essentiellement sur vos framework frontend.

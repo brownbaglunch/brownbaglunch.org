@@ -17,8 +17,7 @@ tags:
 - ibm
 - jrules
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'IA symbolique vs IA learning: les moteurs (règles, optim) ca sert vraiment
     encore aujourdhui ?'
   abstract: 'On a ChatGPT : pourquoi avoir des utilisateurs finaux qui codent des

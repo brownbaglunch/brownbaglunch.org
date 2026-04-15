@@ -5,8 +5,7 @@ tags:
 - javascript
 - webpack
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Webpack
   abstract: Souvent considéré comme compliqué à prendre en main, webpack semble tout
     de même s'imposer comme outils de développement. Je vous propose de faire un tour

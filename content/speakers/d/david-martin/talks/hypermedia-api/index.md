@@ -6,8 +6,7 @@ tags:
 - api-web
 - rest
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Hypermedia API
   abstract: (présentation) Découvrez et comprenez l'intérêt de cette contrainte du
     style d'architecture REST dans vos API Web

@@ -6,8 +6,7 @@ tags:
 - lean-startup
 - impact-mapping
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Startup : Lean Canvas de votre idée produit'
   abstract: Définir le bon produit avec le Lean Canvas
 ---

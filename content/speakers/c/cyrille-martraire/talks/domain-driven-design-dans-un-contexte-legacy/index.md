@@ -10,8 +10,7 @@ tags:
 - clean-code
 - test
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Domain-Driven Design dans un contexte legacy
   abstract: Un tour d'horizon d'aspects importants de DDD sous la forme d'un retour
     d'expérience dans le domaine de la finance

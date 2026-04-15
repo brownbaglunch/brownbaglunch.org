@@ -12,8 +12,7 @@ tags:
 - time-series
 - analytics
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: InfluxDB, la base de données chronologique, opensource autonome
   abstract: 'Après l''émergence des bases NOSQL de ces dernières années, voici une
     nouvelle espèce : la base de données chronologiques, parfaite pour accueillir

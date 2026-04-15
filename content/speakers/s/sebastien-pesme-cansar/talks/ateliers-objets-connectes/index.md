@@ -9,8 +9,7 @@ tags:
 - healthkit
 - google-fit
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Ateliers Objets Connectés
   abstract: Une initiation n'est pas nécessaire ? Vous souhaitez rentrer dans le vif
     du sujet. Discutons d'un plan concret. Quelles fonctionnalités ? Quelles technologies

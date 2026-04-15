@@ -7,8 +7,7 @@ tags:
 - design
 - ergonomie
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Les bases de l'ergonomie pour tous
   abstract: 'Vous voulez faire plaisir à vos utilisateurs ?
 

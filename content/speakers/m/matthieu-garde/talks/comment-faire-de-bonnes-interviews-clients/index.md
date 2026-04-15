@@ -9,8 +9,7 @@ tags:
 - lean-canvas
 - running-lean
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment faire de bonnes interviews clients ?
   abstract: Comment identifier ses clients, les observer, les interviewer et poser
     de bonnes questions ?

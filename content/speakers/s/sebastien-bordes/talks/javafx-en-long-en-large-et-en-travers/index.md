@@ -7,8 +7,7 @@ tags:
 - usine-logicielle
 - eclipse
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: JavaFX en long, en large et en travers
   abstract: Démonstration des fonctionnalités de JavaFX 2.2.40.
 ---

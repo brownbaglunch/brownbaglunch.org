@@ -7,8 +7,7 @@ tags:
 - database
 - warp-10
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Warp 10 - advanced Time Series Platform
   abstract: Vous connaissiez les bases relationnelles, orientées document, voire même
     graphe. A chaque problème son outil. Warp 10 est une plateforme Open Source de

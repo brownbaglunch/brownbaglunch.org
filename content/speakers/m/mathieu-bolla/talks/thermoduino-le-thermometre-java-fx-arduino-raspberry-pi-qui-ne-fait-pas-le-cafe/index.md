@@ -8,8 +8,7 @@ tags:
 - domotique
 - embarque
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Thermoduino, le thermomètre Java FX / Arduino / Raspberry Pi qui ne fait
     pas le café
   abstract: 'Vous n''étiez pas aux conférences JavaFX / Raspberry Pi / Domotique de

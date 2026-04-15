@@ -8,8 +8,7 @@ tags:
 - apache
 - mobile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Amélioration des performances d'un site web
   abstract: Présentation des principales contraintes limitant la performance actuelle
     du web, les outils de mesure et les bonnes pratiques générales à mettre en oeuvre

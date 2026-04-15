@@ -6,8 +6,7 @@ tags:
 - systeme
 - docker
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Docker en production, retour d'expérience
   abstract: Docker, on en a tous entendu parler. Beaucoup s'y sont mis ou ont envie
     de s'y mettre. Mais qui est allé jusqu'en production avec ? Thibault Duchateau

@@ -10,8 +10,7 @@ tags:
 - firestore
 - rex
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Quand Scala rencontre Google Cloud Run et Firestore. REX d'une amitié qui
     fonctionne.
   abstract: Laissez-moi vous présenter un retour d'expérience sur l'intégration d'une

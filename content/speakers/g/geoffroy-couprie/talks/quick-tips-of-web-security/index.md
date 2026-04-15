@@ -7,8 +7,7 @@ tags:
 - ssl
 - performance
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Quick tips of Web Security
   abstract: Les navigateurs récents ont intégré des fonctionnalités utiles pour la
     sécurité des applications web, qui sont souvent faciles à mettre en place.<br

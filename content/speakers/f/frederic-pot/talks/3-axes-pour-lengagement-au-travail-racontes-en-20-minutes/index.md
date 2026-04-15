@@ -8,8 +8,7 @@ tags:
 - transparence
 - management
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 3 axes pour l’engagement au travail racontés en 20 minutes
   abstract: 'Le désengagement des collaborateurs est un sujet d’inquiétude dans de
     nombreuses entreprises. Cependant, le management ne peut pas décréter l’engagement

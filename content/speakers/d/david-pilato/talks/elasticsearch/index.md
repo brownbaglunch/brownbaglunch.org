@@ -5,8 +5,7 @@ since: 2012-04-19
 tags:
   - elasticsearch
 versions:
-  - label: EN
-    flag: gb
+  - lang: EN
     title: Elasticsearch
     abstract: |
       Are you still using SQL queries for searches? Are your users frustrated about not being able to search across all categories? Is your average response time over half a second with just a few million documents? Does it take you three days to generate statistics on your data? Are you looking to provide a Google-like search experience for your information system?
@@ -23,8 +22,7 @@ versions:
       * The community
 
       Depending on interest, we can also touch on recent developments, such as vector search and the ES|QL language/engine in a simplified manner.
-  - label: FR
-    flag: fr
+  - lang: FR
     title: Elasticsearch
     abstract: |
       Vous utilisez encore des requêtes SQL pour faire des recherches ? Vos utilisateurs vous reprochent de ne pas pouvoir chercher sur toutes les rubriques ? Votre temps de réponse moyen est supérieur à la demi-seconde avec seulement quelques millions de documents ? Il vous faut 3 jours pour produire des statistiques sur vos données ? Vous rêvez d'offrir une recherche "à la google" sur les données de votre SI ?
@@ -39,8 +37,7 @@ versions:
       * Les agrégations et le principe de navigation par facettes
       * La scalabilité horizontale
       * La communauté
-  - label: FR (with AI)
-    flag: fr
+  - lang: FR (with AI)
     title: Elasticsearch, you know for (AI) Search
     abstract: |
       Vous utilisez encore des requêtes SQL pour faire des recherches ? Vos utilisateurs vous reprochent de ne pas pouvoir chercher sur toutes les rubriques ? Votre temps de réponse moyen est supérieur à la demi-seconde avec seulement quelques millions de documents ? Il vous faut 3 jours pour produire des statistiques sur vos données ? Vous rêvez d’offrir une recherche "à la google" sur les données de votre SI ?

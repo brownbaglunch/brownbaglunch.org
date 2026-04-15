@@ -8,8 +8,7 @@ tags:
 - pomm
 - sql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le SQL de Postgres au service de votre métier
   abstract: Nous verrons ce qu'ont en commun SQL et les langages fonctionnels, pourquoi
     SQL avec plus de 30 ans d'expérience au service des développeurs est votre meilleur

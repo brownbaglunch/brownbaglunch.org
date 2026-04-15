@@ -7,8 +7,7 @@ tags:
 - architecture
 - cloud
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découvrir EventSourcing / CQRS
   abstract: 'Quels sont les enjeux de cette architecture: les raisons, les problématiques
     et les avantages.'

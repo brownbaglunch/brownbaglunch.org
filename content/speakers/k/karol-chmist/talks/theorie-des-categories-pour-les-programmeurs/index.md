@@ -11,8 +11,7 @@ tags:
 - monad
 - lenses
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Théorie des catégories pour les programmeurs
   abstract: 'En étudiant la programmation fonctionnelle, on rencontre des concepts
     issus de la théorie des catégories. Découvrons-les, avec des exemples simples

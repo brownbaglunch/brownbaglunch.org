@@ -6,8 +6,7 @@ tags:
 - haskell
 - functional-programming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: It's traverse!
   abstract: Découvrez la fonction qui se cache partout en programmation fonctionnelle
 ---

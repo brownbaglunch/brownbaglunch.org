@@ -10,8 +10,7 @@ tags:
 - web
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Attention aux pièges du mobile
   abstract: Une application Ionic est avant tout une application Angular ! Simple
     ! Seulement elle s'exécute sur un téléphone et les problématiques de performances

@@ -9,8 +9,7 @@ tags:
 - kotlin
 - gradle
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Démystifier la pyramide de tests (général)
   abstract: Depuis 2010, le concept de pyramide de tests donne une vision pragmatique
     des tests, vision mal comprise, et qui a peu évolué depuis. Cette présentation

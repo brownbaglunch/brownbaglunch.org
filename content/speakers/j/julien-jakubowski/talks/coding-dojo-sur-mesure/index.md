@@ -11,8 +11,7 @@ tags:
 - tdd
 - bdd
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Coding dojo sur mesure
   abstract: Organiser un coding dojo chez vous, sur mesure. Langages Java, JavaScript,
     Ruby. Mise en pratique clean code, TDD, BDD...

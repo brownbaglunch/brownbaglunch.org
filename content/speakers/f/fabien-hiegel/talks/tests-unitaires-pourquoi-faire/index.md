@@ -5,8 +5,7 @@ tags:
 - serious-game
 - test
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Tests unitaires ? Pourquoi faire ?
   abstract: 'Venez (re)découvrir l''intérêt des tests unitaires ! Parfois, les tests
     unitaires sont mis de côtés pour des raisons de temps et/ou de budget. Lors de

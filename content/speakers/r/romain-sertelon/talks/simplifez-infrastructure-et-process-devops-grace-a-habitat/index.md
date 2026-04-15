@@ -8,8 +8,7 @@ tags:
 - cloud
 - continuous-deployment
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Simplifez infrastructure et process DevOps grâce à Habitat
   abstract: Je vous propose une présentation/discussion autour de Habitat.sh. nouvelle
     solution de Chef, Habitat est un nouveau moyen de déployer les applications qui

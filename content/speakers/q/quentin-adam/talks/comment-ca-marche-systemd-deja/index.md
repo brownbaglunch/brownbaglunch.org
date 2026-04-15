@@ -6,8 +6,7 @@ tags:
 - linux
 - systemd
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Comment ça marche systemd déjà ? '
   abstract: Après la grande guerre initd et systemd, il est clair que maintenant systemd
     s’est imposé. Pourquoi ? Quels sont les intérêts ? Est ce difficile de faire un

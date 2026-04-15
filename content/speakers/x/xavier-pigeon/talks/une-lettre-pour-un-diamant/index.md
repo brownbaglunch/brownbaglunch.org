@@ -11,8 +11,7 @@ tags:
 - programmation-orientee-objet
 - developpements-agiles
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Une Lettre pour un Diamant
   abstract: (live coding / présentation) Résolution de kata avec Test-Driven Development.
 ---

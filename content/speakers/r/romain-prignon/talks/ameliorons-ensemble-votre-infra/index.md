@@ -5,8 +5,7 @@ tags:
 - docker
 - swarm
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Améliorons ensemble votre Infra
   abstract: Retrouvons nous le temps d'un déjeuner pour parler d'une de vos problématiques
     d'infrastructure. Si vous souhaitez passer sur une infrastructure de type conteneur.

@@ -6,8 +6,7 @@ tags:
 - lean-startup
 - lean-canvas
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Développer le bon produit avec le Lean Canvas
   abstract: A une époque où tout business peut être rapidement concurrencé par une
     startup, il faut savoir créer le bon produit. C’est la où les principes et les

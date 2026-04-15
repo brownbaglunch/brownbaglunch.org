@@ -3,8 +3,7 @@ layout: talk
 url: speakers/guillaume-lagorce-gul/talks/la-pyramide-des-tests/
 tags:
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La pyramide des tests
   abstract: 'Il est souvent admis que la qualité logicielle passe par les tests et
     leur automatisation.

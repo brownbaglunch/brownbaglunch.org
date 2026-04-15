@@ -9,8 +9,7 @@ tags:
 - rpc
 - graphql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Choisir entre une API RPC, SOAP, REST, GraphQL? Et si le problème était ailleurs
     ?
   abstract: Pourquoi le choix entre RPC/SOAP/REST/GraphQL n'est peut-être qu'un sujet

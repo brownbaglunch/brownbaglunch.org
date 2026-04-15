@@ -8,8 +8,7 @@ tags:
 - tdd
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Codez de l'Angular1 aujourd'hui avec les technos de demain...
   abstract: Utilisez la puissance de l'ES2015 et + pour faire du code Angular1 de
     très haute qualité, testing inclus !

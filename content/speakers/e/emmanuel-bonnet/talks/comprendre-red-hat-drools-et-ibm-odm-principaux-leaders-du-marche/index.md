@@ -15,8 +15,7 @@ tags:
 - decision-manager-open-edition
 - operational-decision-manager
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comprendre Red Hat Drools et IBM ODM, principaux leaders du marché
   abstract: 'Comprendre les principaux composants d''un BRMS : édition, execution,
     intégration et architecture sur un cas concret (avec du vrai Live coding inside)'

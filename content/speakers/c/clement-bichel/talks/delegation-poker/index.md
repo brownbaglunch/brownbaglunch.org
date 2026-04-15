@@ -8,8 +8,7 @@ tags:
 - serious-game
 - coach-agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Delegation Poker
   abstract: Le Delegation Poker incite les équipes à discuter des leurs responsabilités
     et permet de clarifier certaines situations dans lesquelles la délégation est

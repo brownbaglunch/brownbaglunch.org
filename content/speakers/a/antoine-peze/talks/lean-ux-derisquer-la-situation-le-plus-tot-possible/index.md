@@ -8,8 +8,7 @@ tags:
 - methodo
 - rex
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Lean UX : Dérisquer la situation le plus tôt possible'
   abstract: A travers des Retours d’Expérience, nous aborderons cette méthodologie
     basée sur le triptyque “Think”, “Make”, “Check”. Qu’est-ce que le Lean UX ? Qu’apporte

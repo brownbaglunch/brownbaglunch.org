@@ -10,8 +10,7 @@ tags:
 - ci-cd
 - devops
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Discussion technique - front : React react-native / back : serveur node
     ou BaaS'
   abstract: Basé sur mon expérience on peut échanger sur les technologies et pratiques

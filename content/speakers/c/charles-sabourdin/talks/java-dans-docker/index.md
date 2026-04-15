@@ -9,8 +9,7 @@ tags:
 - java
 - jvm
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Java dans docker
   abstract: Pourquoi quand vous demandez à mettre en production java dans docker,
     on vous fait la grimace ? Pourquoi vos container crashent si souvent et pourquoi

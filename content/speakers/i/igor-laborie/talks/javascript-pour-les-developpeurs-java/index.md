@@ -6,8 +6,7 @@ tags:
 - ecmascript
 - nodejs
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: JavaScript pour les développeurs Java
   abstract: Pourquoi JavaScript est un langage difficile à appréhender pour les développeur(es)
     Java. On en profitera pour voir les bases de NodeJS, et les apports intéressants

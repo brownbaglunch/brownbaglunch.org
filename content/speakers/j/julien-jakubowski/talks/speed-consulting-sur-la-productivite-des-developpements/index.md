@@ -8,8 +8,7 @@ tags:
 - tdd
 - bdd
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Speed consulting sur la productivité des développements
   abstract: Comment être plus productif ? Avoir moins de bugs ? Que faire concrètement
     sur mon projet pour cela ? Même le temps d'un déj, on peut trouver quelques pistes.

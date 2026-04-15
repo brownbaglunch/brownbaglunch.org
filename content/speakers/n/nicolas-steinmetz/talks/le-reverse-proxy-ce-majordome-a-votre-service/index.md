@@ -12,8 +12,7 @@ tags:
 - administration-systeme
 - security
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le Reverse Proxy - ce majordome à votre service
   abstract: Le Reverse Proxy est un composant souvent mal aimé ou ignoré des développeurs.
     Pourtant, il peut être utile dans de nombreux cas. Je vous propose de revoir ces

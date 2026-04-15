@@ -11,8 +11,7 @@ tags:
 - entreprise-agile
 - sociocratie
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découvir la sociocratie
   abstract: La sociocratie est un mode de distribution du pouvoir dans les organisations
     humaines qui vise à empêcher que le pouvoir ne devienne une force d'oppression.

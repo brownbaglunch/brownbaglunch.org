@@ -9,8 +9,7 @@ tags:
 - angularjs
 - dart
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La forge du développeur JavaScript moderne
   abstract: 'En 2013 JavaScript est un langage prêt pour le défi et les exigences
     des entreprises, avec un écosystème évolué dans lequel il y a tous les composants

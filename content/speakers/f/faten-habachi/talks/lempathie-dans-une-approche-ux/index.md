@@ -9,8 +9,7 @@ tags:
 - personas
 - design-thinking
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: L'empathie dans une approche UX
   abstract: Savoir créer une carte de l'empathie dans une approche UX
 ---

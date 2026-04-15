@@ -6,8 +6,7 @@ tags:
 - test
 - tdd
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Techniques de test en Python
   abstract: Conseils, trucs, astuces et outils pour tester son code Python.
 ---

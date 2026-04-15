@@ -9,8 +9,7 @@ tags:
 - methodes
 - fun
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Vos premières aventures avec Raspberry Pi
   abstract: Un atelier pratique, avec plusieurs démos, pour découvrir de manière ludique
     le Raspberry Pi.

@@ -6,8 +6,7 @@ tags:
 - recruiting
 - carriere
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 10 méthodes pour rendre heureux les développeurs, la 7e va vous étonner !
   abstract: Il est impératif d'attirer les meilleurs développeurs, mais également
     de savoir les garder au sein de son entreprise. Si cela est simple à dire, réussir

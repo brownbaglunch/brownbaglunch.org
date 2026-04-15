@@ -5,8 +5,7 @@ tags:
 - kafka
 - spring
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Kafka par la pratique
   abstract: Les concepts et des cas concrets d'utilisation dans des projets d'entreprise
 ---

@@ -8,8 +8,7 @@ tags:
 - java
 - kotlin
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Architecture Mobile Offline First (Android/Kotlin)
   abstract: Malgré les avancées en terme de couverture réseau, de nombreux utilisateurs
     se retrouve sans accès à Internet. Comment architecturer son application mobile

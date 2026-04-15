@@ -15,8 +15,7 @@ tags:
 - team-building
 - entreprise-liberee
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Concevoir un événement / séminaire pour petit comité ou large groupe '
   abstract: Réflexion à l'aide d'un canevas éprouvé et de mes expériences d'organisations
     d'événements intra-entreprise ou publics.

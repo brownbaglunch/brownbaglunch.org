@@ -15,8 +15,7 @@ tags:
 - team-building
 - entreprise-liberee
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Externalisation d''un projet agile : retour d''expérience et réflexions'
   abstract: 'Présentation condensée d''une externalisation agile réussie avec ses
     diffcultés, ses trucs et astuces, son cheminement, les différents points de vue

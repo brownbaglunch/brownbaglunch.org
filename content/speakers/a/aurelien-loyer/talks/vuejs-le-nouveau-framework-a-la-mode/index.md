@@ -8,8 +8,7 @@ tags:
 - javascript
 - vue
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Vue.js, le nouveau framework à la mode !
   abstract: Durant ce BBL je vous démontrerai comment ce framework poussé par l'open-source
     peut détrôner les deux grands frameworks, React et Angular, développés par les

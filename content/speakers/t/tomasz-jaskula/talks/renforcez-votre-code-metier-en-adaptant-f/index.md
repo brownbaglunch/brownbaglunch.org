@@ -11,8 +11,7 @@ tags:
 - architecture
 - net
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Renforcez votre code métier en adaptant F#
   abstract: Live coding F# d'un cas métier simple qui est destiné aux développeurs
     débutants en programmation fonctionnelle et F#. Le but est de montrer une approche

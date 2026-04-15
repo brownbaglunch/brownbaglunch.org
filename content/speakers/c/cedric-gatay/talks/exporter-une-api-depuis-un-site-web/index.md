@@ -8,8 +8,7 @@ tags:
 - git
 - mongodb
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Exporter une API depuis un site web
   abstract: Nous vivons dans le monde des API, malheureusement, tous les sites webs
     ne l'ont pas compris et n'exposent pas des points d'accès pour permettre aux développeurs

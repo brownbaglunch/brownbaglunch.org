@@ -6,8 +6,7 @@ tags:
 - coaching
 - management
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Martine est manager agile.
   abstract: Où l'on parle de management plus ou moins moderne avec des retours d'expérience.
 ---

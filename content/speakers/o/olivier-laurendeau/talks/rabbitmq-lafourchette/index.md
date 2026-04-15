@@ -5,8 +5,7 @@ tags:
 - rabbitmq
 - queue-messaging
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: RabbitMQ @LaFourchette
   abstract: Durée ~20 min, notre usage de RabbitMQ @LaFourchette
 ---

@@ -6,8 +6,7 @@ tags:
 - developpement
 - collaboration
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'De la conception à l''implémentation : un atelier pour faciliter la collaboration
     entre designers et développeur·euse·s'
   abstract: Je vous propose un atelier co-animé avec un.e développeur·euse pour identifier

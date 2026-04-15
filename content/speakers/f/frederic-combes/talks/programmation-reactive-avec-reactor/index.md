@@ -7,8 +7,7 @@ tags:
 - java
 - webflux
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Programmation Réactive avec Reactor
   abstract: Introduction à la programmation réactive au travers d’une des ses implémentations
     Java, Reactor

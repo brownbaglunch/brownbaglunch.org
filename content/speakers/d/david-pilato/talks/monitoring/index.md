@@ -7,8 +7,7 @@ tags:
   - apm
   - java
 versions:
-  - label: EN
-    flag: gb
+  - lang: EN
     title: "Monitor Your Java Applications with the Elastic Stack: Logs, Metrics, Pings, and Traces"
     abstract: |
       This talk gives an overview on how to monitor distributed applications. We dive into:
@@ -20,8 +19,7 @@ versions:
       * Request tracing: Trace requests through a distributed system and show how long each call takes and where errors are happening.
 
       And we will do all of that live, since it is so easy and much more interactive that way.
-  - label: FR
-    flag: fr
+  - lang: FR
     title: "Monitor Your Java Applications with the Elastic Stack: Logs, Metrics, Pings, and Traces"
     abstract: |
       Cette conférence donnera un aperçu sur comment monitorer efficacement ses applications Spring Boot sachant qu'elles deviennent de plus en plus populaires pour bâtir des microservices. 

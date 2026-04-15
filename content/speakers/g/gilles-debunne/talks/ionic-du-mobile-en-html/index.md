@@ -12,8 +12,7 @@ tags:
 - agile
 - lean-startup
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Ionic : du mobile en HTML ?'
   abstract: Le développement hybride sur mobile est-il viable ?
 ---

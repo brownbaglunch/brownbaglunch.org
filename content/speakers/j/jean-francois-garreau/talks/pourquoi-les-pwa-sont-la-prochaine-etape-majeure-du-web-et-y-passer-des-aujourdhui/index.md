@@ -5,8 +5,7 @@ tags:
 - pwa
 - web
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Pourquoi les PWA sont la prochaine étape majeure du web et y passer dès aujourd’hui
     !
   abstract: Les PWA, vous connaissez ? Si ce n’est pas le cas, il est grand temps

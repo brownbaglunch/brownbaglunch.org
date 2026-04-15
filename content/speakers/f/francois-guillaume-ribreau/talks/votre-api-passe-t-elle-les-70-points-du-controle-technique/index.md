@@ -7,8 +7,7 @@ tags:
 - architecture
 - security
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: '⛳️ Votre API passe-t-elle les 70 points du contrôle technique ? '
   abstract: 'Nous savons tous développer une API mais avons-nous bien intégré toutes
     les problématiques?

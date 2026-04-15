@@ -8,8 +8,7 @@ tags:
 - react
 - javascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment animer un entretien technique front ? Comment obtenir le plein potentiel
     des développeurs ?
   abstract: Cette session tend à représenter l'ensemble des questions types lors d'un

@@ -23,8 +23,7 @@ tags:
 - strategie
 - usine-logicielle
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Virtualisation d'accord, mais après
   abstract: VMWare, OpenStack, AWS, Google Cloud Platform, Azure, Heroku, VirtualBox,
     Hyper-V, OVH Cloud, Docker et Vagrant... Au delà du coût facial je vous présente mes retours d'expérience en

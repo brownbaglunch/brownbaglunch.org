@@ -8,8 +8,7 @@ tags:
 - git
 - mongodb
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Retour d'expérience sur la plateforme de test mise en place pour SRMvision
   abstract: Pour permettre de tester facilement différentes versions de l'application,
     SRMvision utilise Vagrant + Puppet pour générer à la volée des machines de test,

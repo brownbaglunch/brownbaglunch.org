@@ -8,8 +8,7 @@ tags:
 - api
 - deployment
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Créer une application web from scratch
   abstract: 'De l''idée au déploiement : comment concevoir, développer et mettre en
     ligne une application web sur mesure. Planification, choix techniques, architecture,

@@ -10,8 +10,7 @@ tags:
 - cassandra
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Tests de charge
   abstract: Métrologie, scénarisation, plan de charge, nous aborderons tous les aspects
     de l'élaboration d'un test de charge à l'aide de Jmeter.

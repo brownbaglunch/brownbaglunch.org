@@ -7,8 +7,7 @@ tags:
 - methodes-agiles
 - coach-agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Kanban
   abstract: Qu'est-ce que Kanban ? Quels sont les principes et les pratiques de la
     méthode Kanban pour l'organisation du travail ?

@@ -7,8 +7,7 @@ tags:
 - transformationdigitale
 - management
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 10 Leviers pour rendre son SI Agile, durable et étendu
   abstract: 'Lorsqu’on cherche à industrialiser son système d’informations,  et réussir
     son passage à l''échelle, il est essentiel de le faire à 10 niveaux : Vision,

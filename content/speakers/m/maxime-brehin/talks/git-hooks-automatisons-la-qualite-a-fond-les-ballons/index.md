@@ -7,8 +7,7 @@ tags:
 - quality
 - workflow
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Git hooks : automatisons la qualité à fond les ballons'
   abstract: Trucs et astuces pour améliorer la qualité de vos commits avant et après
     le partage

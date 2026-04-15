@@ -5,8 +5,7 @@ tags:
 - container
 - docker
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à Docker
   abstract: Comment fonctionne docker ?, Quel usage au quotidien ? Découvrons ensemble
     le champs des possibles aux travers de démos live

@@ -6,8 +6,7 @@ tags:
 - typescript
 - angular
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La réactivité dans Angular, comment ça fonctionne ?
   abstract: Vous qui utilisez Angular au quotidien, avez-vous déjà eu la curiosité
     de savoir comment le framework fonctionne ? Comment votre composant sait-il qu'il

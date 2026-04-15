@@ -10,8 +10,7 @@ tags:
 - ansible
 - intellij
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Docker FTW
   abstract: Je vous propose de découvrir Docker, cet outil qui peut révolutionner
     vos mises en production autant que vos développements.

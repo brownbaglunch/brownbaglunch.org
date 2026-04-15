@@ -10,8 +10,7 @@ tags:
 - apache-flink
 - apache-spark
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Fast Cars, Big Data: ou comment le streaming peut aider la formule 1'
   abstract: Les voitures, et tout particulièrement les voitures de courses, génèrent
     énormément de données, qui doivent être capturées, stockées et traitées en temps

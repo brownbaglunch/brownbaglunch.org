@@ -10,8 +10,7 @@ tags:
 - tdd
 - clean-code
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Codons ensemble
   abstract: Prenons un moment pour coder ensemble. Prenons un petit exercice (kata)
     pour nous exercer sur certaines pratiques, comme TDD ou Clean Code, dans un format

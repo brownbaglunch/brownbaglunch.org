@@ -5,8 +5,7 @@ tags:
 - agile
 - scrum
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Agilité & Scrum :'
   abstract: 'Introduction aux valeurs et principes de base de l''agilité, et aux fondamentaux
     de Scrum : pourquoi l''agilité, quels intérêts, quand et où la mettre en place,

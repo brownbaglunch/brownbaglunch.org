@@ -15,8 +15,7 @@ tags:
 - team-building
 - entreprise-liberee
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Libérer les collaborateurs avec le délégation poker
   abstract: Expérimentez 1 outil puissant du manager agile (issus de Management 3.0
     de Jurgen Apello) sur des cas concrets. Nous travaillerons sur les différents

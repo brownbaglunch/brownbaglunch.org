@@ -6,8 +6,7 @@ tags:
 - eco-conception
 - ethique
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment être un développeur ethique et green ? Dilemne entre la course technologique
     et mon impact sur la société.
   abstract: 'Le logiciel est partout. Il est clair que le logiciel a un impact réel

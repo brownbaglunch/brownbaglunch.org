@@ -7,8 +7,7 @@ tags:
 - erlang
 - javascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Agile...
   abstract: Comment passer à l'agile. Comment convaincre ses managers et/ou ses collègues.
     Créer un backlog, devenir product manager. Améliorer son projet agile existant.

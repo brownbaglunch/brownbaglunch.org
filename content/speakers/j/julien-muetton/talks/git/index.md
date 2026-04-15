@@ -9,8 +9,7 @@ tags:
 - test
 - git
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: GIT
   abstract: Une présentation de l'outil et des concepts associés.
 ---

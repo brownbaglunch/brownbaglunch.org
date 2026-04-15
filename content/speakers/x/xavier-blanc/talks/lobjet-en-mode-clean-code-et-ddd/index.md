@@ -6,8 +6,7 @@ tags:
 - clean-code
 - domain-driven-design
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: L'objet en mode Clean Code et DDD
   abstract: Après plusieurs années à programmer en Java, je découvre encore pleins
     de belles constructions qui solutionnent bons nombres de mes problèmes. Cet exposé

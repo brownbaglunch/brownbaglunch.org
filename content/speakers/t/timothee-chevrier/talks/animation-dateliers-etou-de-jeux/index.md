@@ -9,8 +9,7 @@ tags:
 - retrospectives
 - echanges
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Animation d'ateliers et/ou de jeux
   abstract: A travers l'exercice de rétrospective proposer par la méthode Scrum, j'ai
     eu l'occasion d'animer un grand nombre d'ateliers dans des buts variés. Je me

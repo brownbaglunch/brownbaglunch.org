@@ -5,8 +5,7 @@ tags:
 - https
 - web
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: HTTP
   abstract: Présentation du protocole HTTP, ces entêtes et méthodes, les cookies et
     mécanismes tels que CORS, la négociation de contenu, le cache, les requêtes conditionnelles,

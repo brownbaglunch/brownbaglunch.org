@@ -11,8 +11,7 @@ tags:
 - cloud
 - devops
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Java dans Kubernetes pour les nuls
   abstract: Kubernetes, ca à l'air vraiment sympa, pour le scaling, la reproductibilité
     et tout et tout ... tout le monde en parle, et en plus c'est hype ! Alors, c'est

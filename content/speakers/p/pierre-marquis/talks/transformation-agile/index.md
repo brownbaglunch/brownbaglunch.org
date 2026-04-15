@@ -6,8 +6,7 @@ tags:
 - scrum
 - kanban
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Transformation agile
   abstract: Comment bien démarrer? Comprendre les enjeux? Comment amener le changement
     dans son équipe, dans son entreprise?

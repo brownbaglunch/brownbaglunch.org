@@ -7,8 +7,7 @@ tags:
 - usine-logicielle
 - eclipse
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: JRebirth, pourquoi utiliser un cadriciel applicatif
   abstract: Tous les bienfaits de choisir JRebirth Application Framework pour votre
     application.

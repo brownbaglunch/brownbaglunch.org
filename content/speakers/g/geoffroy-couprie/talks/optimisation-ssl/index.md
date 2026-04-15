@@ -7,8 +7,7 @@ tags:
 - ssl
 - performance
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Optimisation SSL
   abstract: SSL est probablement déployé sur vos serveurs, mais avez-vous pensé à
     renforcer sa configuration? A l'accélérer?<br />Je vous fournirai une série d'astuces

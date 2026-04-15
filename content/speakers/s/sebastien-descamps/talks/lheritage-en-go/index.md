@@ -4,8 +4,7 @@ url: speakers/sebastien-descamps/talks/lheritage-en-go/
 tags:
 - golang
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: L’héritage en Go
   abstract: 'Le Go est un langage que l''on aime ou que l''on déteste. Est-ce un langage
     objet ? ou pas ? L''objectif de cette présentation est de revenir sur une notion

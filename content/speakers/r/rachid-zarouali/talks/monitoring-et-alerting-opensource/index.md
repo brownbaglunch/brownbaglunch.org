@@ -7,8 +7,7 @@ tags:
 - grafana
 - linux
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Monitoring et Alerting opensource
   abstract: 'Si vous pensez qu''une solution de monitoring est forcement payante et/ou
     en mode SaaS ? Je vous propose de vous prouver le contraire ou comment via des

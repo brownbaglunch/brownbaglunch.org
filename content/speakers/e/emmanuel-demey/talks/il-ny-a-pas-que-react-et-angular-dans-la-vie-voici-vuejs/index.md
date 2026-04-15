@@ -8,8 +8,7 @@ tags:
 - javascript
 - vue
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Il n'y a pas que React et Angular dans la vie, voici VueJS
   abstract: A travers ce BBL, je ferai un livecoding permettant de présenter les différents
     concepts de la librairie VueJS

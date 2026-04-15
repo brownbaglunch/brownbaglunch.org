@@ -11,8 +11,7 @@ tags:
 - entreprise-agile
 - sociocratie
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Pourquoi la hiérarchie est en échec et quelles sont les alternatives
   abstract: De plus en plus d'entreprises mettent en doute l'efficacité du management
     hiérarchique traditionnel (la pyramide). Je vous propose d'explorer pourquoi ça

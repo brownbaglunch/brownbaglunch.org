@@ -8,8 +8,7 @@ tags:
 - software-craftsmanship
 - team
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Revues de code, quoi regarder, quels pièges éviter ?
   abstract: La pratique de la revue de code se démocratise. Que vous la découvriez
     ou que vous la pratiquiez depuis des années, échangeons sur les bonnes pratiques,

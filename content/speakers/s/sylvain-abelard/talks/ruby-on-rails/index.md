@@ -6,8 +6,7 @@ tags:
 - ruby-on-rails
 - architecture
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Ruby on Rails
   abstract: Présentation de Rails, de débutant à expert
 ---

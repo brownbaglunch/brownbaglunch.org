@@ -6,8 +6,7 @@ tags:
 - github
 - team
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La revue de code
   abstract: Après presque 15 ans de développement, j’affirme que la revue de code
     est la ciment d’une équipe de développement. Sans code review, rien de solide

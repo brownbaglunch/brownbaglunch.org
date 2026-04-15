@@ -7,8 +7,7 @@ tags:
 - java
 - personal-kanban
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Kanban pour les nuls
   abstract: Découvrez Kanban et quelques principes fondamentaux du développement en
     flux tiré.

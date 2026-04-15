@@ -6,8 +6,7 @@ tags:
 - swift
 - mobile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Swift dans la vraie vie
   abstract: 'Au cours de "Swift dans la vraie vie" vous assisterez à un retour d''expérience
     concernant l''utilisation du dernier langage d''Apple - maintenant Open Source

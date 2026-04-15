@@ -7,8 +7,7 @@ tags:
 - erlang
 - javascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Ember JS...
   abstract: Retour d'expérience, live coding, dojo...
 ---

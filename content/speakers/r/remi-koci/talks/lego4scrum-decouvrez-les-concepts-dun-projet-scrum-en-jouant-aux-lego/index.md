@@ -9,8 +9,7 @@ tags:
 - lego
 - initiation
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Lego4Scrum : découvrez les concepts d’un projet SCRUM en jouant aux LEGO®
     !'
   abstract: S’adressant à tout public, Lego4Scrum est un jeu d'apprentissage permettant

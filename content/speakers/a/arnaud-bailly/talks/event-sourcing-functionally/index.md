@@ -6,8 +6,7 @@ tags:
 - event-sourcing
 - domain-driven-design
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Event Sourcing, Functionally
   abstract: L'Event Sourcing est une technique de modélisation et de stockage des
     données puissante et extrêmement flexible. Comment la mettre en oeuvre en pratique

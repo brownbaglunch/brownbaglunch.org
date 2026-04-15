@@ -15,8 +15,7 @@ tags:
 - software-craftsmanship
 - tdd
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Mon équipe se focalise sur la valeur métier ... grâce au code
   abstract: S'adressant à tous les professionnels du numérique, avec ou sans background
     technique, cette conférence fait le tour de plusieurs pratiques d'utilisation

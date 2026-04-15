@@ -6,8 +6,7 @@ tags:
 - reseau-de-neurones
 - deep-learning
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Intro au Machine Learning pour devs
   abstract: '1 heure pour parcourir les algos stars du machine learning. Pas de code,
     les grands concepts accompagnés d''un peu de maths. Au programme : regression

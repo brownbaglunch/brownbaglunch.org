@@ -8,8 +8,7 @@ tags:
 - dev
 - discovery
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: À la découverte du développement mobile, sans les maux de tête
   abstract: <strong>Talk proposé en duo avec Robin Caroff</strong><br/>Vous êtes un
     développeur souhaitant explorer les possibilités offertes par le développement

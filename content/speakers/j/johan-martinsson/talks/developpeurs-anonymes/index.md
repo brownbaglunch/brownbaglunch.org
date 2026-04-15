@@ -11,8 +11,7 @@ tags:
 - live-coding
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Développeurs anonymes
   abstract: Démo de refactoring. Introduire de l'objet efficacement dans un legacy
     infame.

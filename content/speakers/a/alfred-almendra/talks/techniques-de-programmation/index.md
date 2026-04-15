@@ -13,8 +13,7 @@ tags:
 - visual-management
 - management-3-0
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Techniques de programmation
   abstract: 'Coder proprement c''est tester d''abord et remanier souvent. Il s''agit
     d''une introduction aux pratiques techniques de test, de programmation, de refactoring,

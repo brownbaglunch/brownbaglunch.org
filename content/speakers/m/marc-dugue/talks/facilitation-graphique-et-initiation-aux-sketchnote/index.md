@@ -6,8 +6,7 @@ tags:
 - scribing
 - facilitation-graphique
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Facilitation graphique et initiation aux Sketchnote
   abstract: 'Présentation de ce qu''est la facilitation graphique et initiation au
     vocabulaire graphique de base et à l''intérêt des sketchnotes. '

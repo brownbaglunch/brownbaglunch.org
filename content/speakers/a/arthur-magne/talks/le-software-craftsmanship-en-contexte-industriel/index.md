@@ -8,8 +8,7 @@ tags:
 - test
 - communication
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le Software Craftsmanship en contexte industriel.
   abstract: 'Dans des contextes où seuls les apports fonctionnels sont valorisés ("ce
     que le client voit"), le mouvement du Software Craftsmanship et ses valeurs, qui

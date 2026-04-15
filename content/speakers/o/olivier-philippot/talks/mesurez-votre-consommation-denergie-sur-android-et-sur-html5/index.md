@@ -7,8 +7,7 @@ tags:
 - green
 - energie
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Mesurez votre consommation d'énergie sur Android et sur HTML5
   abstract: L'autonomie est un critère important pour les utilisateurs mobiles mais
     aussi pour l'iOT. Mais elle est très rarement mesurée par les développeurs d'application

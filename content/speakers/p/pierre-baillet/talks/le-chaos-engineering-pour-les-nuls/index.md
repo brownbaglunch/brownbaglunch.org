@@ -7,8 +7,7 @@ tags:
 - robustness
 - reliability
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le Chaos Engineering pour les nuls
   abstract: Vos services sont les plus robustes du monde ? Êtes vous prêt à passer
     à la vitesse supérieure ? Découvrez le Chaos Engineering, fils fou et prodige

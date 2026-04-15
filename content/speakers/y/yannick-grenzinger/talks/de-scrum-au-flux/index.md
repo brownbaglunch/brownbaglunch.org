@@ -9,8 +9,7 @@ tags:
 - product-management
 - organization
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: De scrum au flux.
   abstract: Comment peut-on dépasser Scrum pour aller vers un flux de développement
     logiciel, en comprenant les principes associés et utilisant Kanban et la livraison

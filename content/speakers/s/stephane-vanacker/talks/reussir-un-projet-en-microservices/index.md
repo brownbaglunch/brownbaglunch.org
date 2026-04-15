@@ -10,8 +10,7 @@ tags:
 - scrum
 - test
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Réussir un projet en Microservices
   abstract: 'Pourquoi et comment mener un projet en microservices, Méthodologies d''organisation
     des équipes (loi de Conway inversée), retours d''expérience (bonnes pratiques)

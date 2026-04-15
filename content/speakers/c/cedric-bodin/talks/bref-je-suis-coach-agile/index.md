@@ -11,8 +11,7 @@ tags:
 - musique
 - marathon
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Bref, je suis coach agile :)
   abstract: N'hésitez pas à me contacter pour que nous discutions ensemble de tout
     sujet autour de l'agilité (la facilitation des temps collectifs, le coaching d'équipe,

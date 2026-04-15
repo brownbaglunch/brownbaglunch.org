@@ -8,8 +8,7 @@ tags:
 - javascript
 - developpement
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La révolution dans vos apps, c'est la gestion de l'état
   abstract: Une révolution (presque) silencieuse est en cours dans le domaine des
     webapps, et pourtant nous sommes nombreux à passer à coté. Redux, VueX, NgRx,

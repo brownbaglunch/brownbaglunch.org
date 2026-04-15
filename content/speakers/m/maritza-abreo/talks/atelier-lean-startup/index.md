@@ -6,8 +6,7 @@ tags:
 - agile
 - ux
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Atelier Lean Startup
   abstract: “Learn, Build, Mesure”. En session Lean, on identifie ses utilisateurs,
     on pense “customer benefit” et on va les chercher “vite”, si nécessaire dans la

@@ -7,8 +7,7 @@ tags:
 - functional-programming
 - it-automation
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Designing apps for the cloud
   abstract: Patterns pour développer des applications cloud-ready (file storage, sessions,
     dbs, deployment)

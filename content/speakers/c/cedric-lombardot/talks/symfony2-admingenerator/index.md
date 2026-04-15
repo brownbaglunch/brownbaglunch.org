@@ -17,8 +17,7 @@ tags:
 - ionic
 - lean-startup
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Symfony2 : Admingenerator'
   abstract: Présentation du bundle symfony2admingenerator/GeneratorBundle - ou comment
     créer une admin en 20 minutes

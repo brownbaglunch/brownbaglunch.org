@@ -6,8 +6,7 @@ tags:
 - docker-compose
 - devops
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découverte de docker
   abstract: Je rencontre souvent des développeurs souhaitant utiliser Docker, mais
     sans trop savoir finalement ce que c’est ni par quel bout commencer à l’utiliser.

@@ -7,8 +7,7 @@ tags:
 - jamstack
 - headless-cms
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Un site léger et sûr qui a tout d'un grand avec les générateurs de sites
     statiques
   abstract: 'A côté des CMS traditionnels (wordpress, etc), existent des sites tout

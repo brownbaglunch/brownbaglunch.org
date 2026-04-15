@@ -9,8 +9,7 @@ tags:
 - kanban
 - management-3-0
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Agilité
   abstract: Qu'est-ce que l'agilité ? Quels sont ses valeurs, ses principes ? Quelles
     sont les méthodes agiles les plus connues ?

@@ -7,8 +7,7 @@ tags:
 - css
 - pre-processeur
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Sass, pratique tout de suite
   abstract: Sass est devenu en peu de temps le pré-processeur CSS le plus populaire.
     Vous ne l’utilisez pas encore ?! Plus pour longtemps, car cet atelier vous apprendra

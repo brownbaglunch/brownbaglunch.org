@@ -12,8 +12,7 @@ tags:
 - agile
 - lean-startup
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à l'interface sur mobile
   abstract: Les spécificités de l'interface et de l'interaction sur mobile
 ---

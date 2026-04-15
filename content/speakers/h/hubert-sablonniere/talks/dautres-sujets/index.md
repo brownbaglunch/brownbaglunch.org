@@ -3,8 +3,7 @@ layout: talk
 url: speakers/hubert-sablonniere/talks/dautres-sujets/
 tags: []
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: D'autres sujets ?
   abstract: 'Pourquoi pas, vous pouvez les retrouver ici et là :
 

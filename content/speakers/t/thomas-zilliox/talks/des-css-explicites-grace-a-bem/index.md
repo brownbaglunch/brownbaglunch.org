@@ -9,8 +9,7 @@ tags:
 - javascript
 - php
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Des CSS explicites grâce à BEM
   abstract: Des astuces pour mettre en place BEM et profiter de tous ses avantages.
 ---

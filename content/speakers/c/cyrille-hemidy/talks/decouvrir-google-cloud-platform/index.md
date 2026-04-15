@@ -9,8 +9,7 @@ tags:
 - google-cloud
 - kubernetes
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découvrir Google Cloud Platform
   abstract: Découvrir les différents produits et service de  Google Cloud Platform,
     les usages et ses particularités. Une comparaison avec les solutions existantes

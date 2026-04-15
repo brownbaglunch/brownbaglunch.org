@@ -9,8 +9,7 @@ tags:
 - planning
 - roadmap
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La gestion du backlog et la planification tout en restant agile
   abstract: 'On a parfois l''impression d''avoir deux injonctions contradictoires
     : être agile en étant réactif, tout en étant prévisible pour planifier à long

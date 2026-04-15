@@ -7,8 +7,7 @@ tags:
 - database
 - warp-10
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: D'autres sujets ?
   abstract: 'Tout ce qui gravite autour de Warp 10 : https://blog.senx.io'
 ---

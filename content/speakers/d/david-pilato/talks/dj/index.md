@@ -4,8 +4,7 @@ url: speakers/david-pilato/talks/dj/
 tags:
   - music
 versions:
-  - label: EN
-    flag: gb
+  - lang: EN
     title: The Art of DeeJaying
     abstract: |
       In this session, we'll discover some techniques used by DJs to keep you dancing all night long:
@@ -22,8 +21,7 @@ versions:
 
       * two [Pioneer CDJ-3000](https://www.pioneerdj.com/en/product/player/cdj-3000/black/overview/)
       * a [Pioneer DJM-V10LF](https://www.pioneerdj.com/en/product/mixer/djm-v10-lf/black/overview/)
-  - label: FR
-    flag: fr
+  - lang: FR
     title: L'art du DeeJaying
     abstract: |
       Dans cette session, nous allons découvrir quelques techniques utilisées par les DeeJays pour vous faire bouger toute une soirée :

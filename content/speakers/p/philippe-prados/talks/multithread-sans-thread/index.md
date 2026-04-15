@@ -8,8 +8,7 @@ tags:
 - android
 - security
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Multithread sans thread
   abstract: 'Comment les langages de développement et les compilateurs évoluent pour
     intégrer l''approche réactive ? Quelles sont les techniques mises en place lors

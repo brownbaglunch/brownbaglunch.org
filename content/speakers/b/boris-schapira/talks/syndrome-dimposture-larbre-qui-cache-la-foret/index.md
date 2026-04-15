@@ -5,8 +5,7 @@ tags:
 - code-du-travail
 - formation-continue
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Syndrôme d’imposture, l’arbre qui cache la forêt
   abstract: Si vous êtes comme moi, vous avez vu au fil des années de très nombreuses
     conférences sur le syndrome de l’imposteur qu'on décrit généralement comme un

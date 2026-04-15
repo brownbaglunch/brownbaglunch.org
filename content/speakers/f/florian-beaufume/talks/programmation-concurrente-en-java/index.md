@@ -5,8 +5,7 @@ tags:
 - java
 - concurrence
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Programmation concurrente en Java
   abstract: 'Présentation du modèle de concurrence de Java ainsi que de ses API principales:
     Thread, volatile, Executor, fork/join, StampedLock, CompletableFuture et autres

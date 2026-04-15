@@ -6,8 +6,7 @@ tags:
 - jenkins
 - kubernetes
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Jenkins X: toward a Cloud-native Jenkins'
   abstract: L'architecture de Jenkins date de 10 ans. C'est ce qui a permis de construire
     un écosystème gigantesque et de couvrir les besoins de tout le monde avec une

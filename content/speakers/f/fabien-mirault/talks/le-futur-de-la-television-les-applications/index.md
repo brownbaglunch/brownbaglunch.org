@@ -7,8 +7,7 @@ tags:
 - objective-c
 - swift
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Le futur de la télévision : les applications !'
   abstract: Les applications natives sont partout autour de nous, sur nos smartphones,
     tablettes, et depuis peu sur nos télévisions. Le nombre d'applications, et les

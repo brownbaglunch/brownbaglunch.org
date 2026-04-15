@@ -7,8 +7,7 @@ tags:
 - kubernetes
 - devops
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Spring Boot & Containers - Do's & Don'ts
   abstract: Bien que Docker soit facile d'utilisation, construire une image reste
     un exercice compliqué. Optimisation, layers, et sécurité nécessitent de s'abstraire

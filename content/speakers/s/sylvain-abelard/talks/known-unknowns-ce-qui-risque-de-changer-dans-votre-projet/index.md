@@ -6,8 +6,7 @@ tags:
 - ruby-on-rails
 - architecture
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Known Unknowns - ce qui risque de changer dans votre projet
   abstract: 'Tous les projets changent. De toutes les règles que l''on vous jure gravées
     dans le marbre, certaines vont changer : tôt ou tard, radicalement ou subtilement,

@@ -4,8 +4,7 @@ url: speakers/francois-sarradin/talks/ce-que-vous-devez-savoir-de-la-programmati
 tags:
 - functional-programming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Ce que vous devez savoir de la programmation fonctionnelle
   abstract: La programmation fonctionnelle est un paradigme qui est beaucoup plus
     ancien que vous ne le pensez et qui a eu des impacts assez importants dans le

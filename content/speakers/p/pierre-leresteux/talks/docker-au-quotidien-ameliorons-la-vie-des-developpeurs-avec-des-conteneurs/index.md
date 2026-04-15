@@ -4,8 +4,7 @@ url: speakers/pierre-leresteux/talks/docker-au-quotidien-ameliorons-la-vie-des-d
 tags:
 - docker
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Docker au quotidien : améliorons la vie des développeurs avec des conteneurs'
   abstract: Docker par-ci, docker par-là … Le phénomène Docker prend de plus en plus
     de poids dans notre écosystème. Je vous montrerai que Docker n’est pas fait que

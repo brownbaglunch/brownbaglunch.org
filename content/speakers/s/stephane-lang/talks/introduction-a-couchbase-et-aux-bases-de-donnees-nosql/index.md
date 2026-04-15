@@ -7,8 +7,7 @@ tags:
 - database
 - json
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à Couchbase et aux bases de données NoSQL
   abstract: Le NoSQL, pour quelles applications, quels cas d'usage? Couchbase est
     une plateforme de données multi-services, deployable partout jusque sur mobiles.

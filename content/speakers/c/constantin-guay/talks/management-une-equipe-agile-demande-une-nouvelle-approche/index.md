@@ -7,8 +7,7 @@ tags:
 - coaching
 - management
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Management : Une équipe agile demande une nouvelle approche'
   abstract: Comment faire pour manager une équipe agile ? L'agilité vient en contradiction
     avec les méthodes traditionnelles, pour se rapprocher plus des valeurs de Deming.

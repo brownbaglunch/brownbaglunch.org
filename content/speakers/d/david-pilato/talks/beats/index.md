@@ -5,8 +5,7 @@ tags:
   - elasticsearch
   - beats
 versions:
-  - label: EN
-    flag: gb
+  - lang: EN
     title: And the beats go on !
     abstract: |
       <https://youtu.be/fOaxEa5ONJw>
@@ -18,8 +17,7 @@ versions:
       * Filebeat : analyze logs in real time or send them to logstash for enrichment
 
       And how to contribute to the mix and add your own beats with Libbeat.
-  - label: FR
-    flag: fr
+  - lang: FR
     title: And the beats go on !
     abstract: |
       <https://youtu.be/fOaxEa5ONJw>

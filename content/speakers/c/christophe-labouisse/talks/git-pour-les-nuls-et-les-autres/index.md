@@ -5,8 +5,7 @@ tags:
 - git
 - docker
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Git pour les nuls et les autres
   abstract: Présentation de Git, des différences par rapport à d'autres systèmes tels
     que Subversion, de son écosystème.

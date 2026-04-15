@@ -10,8 +10,7 @@ tags:
 - lean-canvas
 - running-lean
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: HTTP et architectures orientées Webs
   abstract: HTTP, HATEOAS, REST... (re)découvrez les bases du protocole HTTP et comment
     en tirer partie dans votre architecture logicielle.

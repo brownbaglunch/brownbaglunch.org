@@ -8,8 +8,7 @@ tags:
 - onboarding
 - developpement
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Un environnement de dev propre et qui marche à tous les coups
   abstract: Vous n'avez jamais rêvé de pouvoir cloisonner parfaitement l'environnement
     de chaque projet? Et de pouvoir le partager facilement, pour ne rien avoir à faire

@@ -10,8 +10,7 @@ tags:
 - test
 - automation
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Des framboises et des tests
   abstract: Comment utiliser un raspberry pi pour faire des tests automatiques sur
     la TV d'un grand opérateur téléphonique. Ou comment utiliser un raspberry pi pour

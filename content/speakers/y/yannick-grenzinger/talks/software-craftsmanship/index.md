@@ -6,8 +6,7 @@ tags:
 - quality
 - clean-code
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Software craftsmanship.
   abstract: Software craftsmanship? Encore un buzzword pour vendre des certifications?
     Mis en avant par des célébrités comme Robert Martin ou Sandro Mancuso, condensé

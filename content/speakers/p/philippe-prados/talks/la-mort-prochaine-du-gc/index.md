@@ -8,8 +8,7 @@ tags:
 - android
 - security
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La mort prochaine du GC ?
   abstract: 'Des .signaux faibles : Fin de la loi de Moore en 2018. NECESSITE de l’algorithme
     G1.Ralentissement des programmes en 64 bits par rapport à 32 bits. De nouveaux

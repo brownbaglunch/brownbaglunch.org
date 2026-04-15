@@ -9,8 +9,7 @@ tags:
 - test
 - git
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: CasperJS
   abstract: CapserJS, ou comment tester efficacement vos interfaces web.
 ---

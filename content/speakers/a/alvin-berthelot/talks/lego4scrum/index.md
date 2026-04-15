@@ -8,8 +8,7 @@ tags:
 - collaboration
 - lego
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Lego4Scrum
   abstract: L'atelier de référence pour vous sensibiliser à une approche Agile / Scrum,
     le tout avec des Lego.

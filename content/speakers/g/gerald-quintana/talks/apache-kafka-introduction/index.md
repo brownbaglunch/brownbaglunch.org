@@ -4,8 +4,7 @@ url: speakers/gerald-quintana/talks/apache-kafka-introduction/
 tags:
 - kafka
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Apache Kafka: Introduction'
   abstract: 'Message broker, event log, data streaming: pourquoi utiliser Kafka? Nous
     découvrirons les concepts de cet outil connu pour ses performances et sa scalabilité.

@@ -6,8 +6,7 @@ tags:
 - devops
 - security
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: DevSecOps, j'ai mis de la sécurité dans mon DevOps
   abstract: Cela fait une dizaine d'années que nous essayons d'appliquer les principes
     du DevOps pour livrer plus vite en production. Sur le chemin de l'unification

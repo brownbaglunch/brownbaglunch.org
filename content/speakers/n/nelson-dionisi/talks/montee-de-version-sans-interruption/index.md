@@ -7,8 +7,7 @@ tags:
 - continuous-delivery
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Montée de version sans interruption
   abstract: De plus en plus d'éditeurs logiciels fournissent leurs solutions en SaaS,
     et tendent à déployer leurs applications en Continuous Delivery. Pour cela, les

@@ -6,8 +6,7 @@ tags:
 - guava
 - lombok
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Lombok pour la paix
   abstract: 'Lombok et Lombok-pg sont des projets Open Source. Ils simplifient sensiblement
     l''écriture de code classique (builders, delegates, etc.) et des nombreuses méthodes

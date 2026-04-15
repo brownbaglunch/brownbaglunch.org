@@ -20,8 +20,7 @@ tags:
 - watir
 - webdriver
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Crawling
   abstract: Outlis de crawling, mémoire/stockage/reprise des éléments déjà crawlés,
     difficultés javascript/DOM, Selenium, Webdriver, PhantomJS, Nutch...

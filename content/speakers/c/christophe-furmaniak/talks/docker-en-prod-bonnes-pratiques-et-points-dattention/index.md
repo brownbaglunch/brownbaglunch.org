@@ -5,8 +5,7 @@ tags:
 - docker
 - production
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Docker en prod? Bonnes pratiques et points d'attention
   abstract: Utiliser des containers Docker en prod, c'est top...si vous n'oubliez
     pas qu'il faudra prendre en compte de nouvelles contraintes. Parlons-en.

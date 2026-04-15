@@ -9,8 +9,7 @@ tags:
 - scrum
 - extreme-programming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Du Code & Des Humains
   abstract: 'Venez découvrir la rétrospective, non sans humour, de mon évolution dans
     la création de logiciels de 2009 à 2017. Je parle de mes débuts avec SCRUM, de

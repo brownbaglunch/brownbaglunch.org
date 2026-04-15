@@ -11,8 +11,7 @@ tags:
 - sprint-0
 - cadrage
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Sprint 0 : et si on s''en passait ?'
   abstract: Que ce soit le design graphique, le design technique (architecture), la
     conception émergente est une des clés de l'agilité. Préparer des maquettes, un

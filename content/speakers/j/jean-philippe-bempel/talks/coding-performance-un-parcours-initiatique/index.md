@@ -5,8 +5,7 @@ tags:
 - jvm
 - performance
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Coding & Performance : un parcours initiatique'
   abstract: Lorsque l'on entre dans le domaine de la performance, un non-initié peut
     se retrouver perdu parmi les règles empiriques (rule of thumbs), les grand O,

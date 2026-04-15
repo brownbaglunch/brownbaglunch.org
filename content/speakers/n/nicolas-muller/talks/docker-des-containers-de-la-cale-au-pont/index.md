@@ -12,8 +12,7 @@ tags:
 - time-series
 - analytics
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Docker : des containers de la cale au pont !'
   abstract: 'Je vous propose de vous faire voyager et découvrir le monde merveilleux
     de la logistique et du transport du XXI siècle : les containers sous Docker et

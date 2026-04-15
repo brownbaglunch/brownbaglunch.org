@@ -8,8 +8,7 @@ tags:
 - android
 - security
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Montez une forteresse dans Android !
   abstract: Comment protéger un secret sous Android ? Comment le cacher dans les arcanes
     non publiques ? Comment distribuer en masse des certificats numériques client

@@ -8,8 +8,7 @@ tags:
 - https
 - push
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Live coding, servir du HTTP en Go
   abstract: Session de live coding d'un serveur web HTTP et HTTP/2 push en Go avec
     les API natives du langage

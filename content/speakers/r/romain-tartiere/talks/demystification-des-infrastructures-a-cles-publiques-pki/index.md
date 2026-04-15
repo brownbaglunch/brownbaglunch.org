@@ -8,8 +8,7 @@ tags:
 - ssl
 - x-509
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Démystification des Infrastructures à Clés Publiques (PKI)
   abstract: « Les PKI c'est peut-être évident pour vous, mais ça ne l'est pas pour
     tout le monde. », c'est en substance ce que m'a dit le responsable d'une société

@@ -10,8 +10,7 @@ tags:
 - web
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Anatomie d'un plugin Cordova
   abstract: Les applications Cordova (et donc Ionic) accèdent sans problème aux fonctionnalités
     natives grâce à un système de plugin. Tout le monde en parle mais peu de personnes

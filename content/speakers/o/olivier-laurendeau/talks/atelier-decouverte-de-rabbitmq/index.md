@@ -6,8 +6,7 @@ tags:
 - rabbitmq
 - queue-messaging
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Atelier découverte de RabbitMQ
   abstract: Durée ~1h30, découvrir différents cas d'usage de RabbitMQ à travers un
     Atelier, la base de code est en PHP https://github.com/olaurendeau/rabbitmq-workshop

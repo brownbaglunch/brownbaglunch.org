@@ -6,8 +6,7 @@ tags:
 - architecture
 - api
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Because I’m API
   abstract: Un aperçu du monde fantastique des API et pourquoi API-Platform est la
     solution qui respecte le mieux les normes et usages de la terre du milieu.

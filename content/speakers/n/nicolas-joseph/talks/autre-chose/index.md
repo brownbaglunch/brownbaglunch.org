@@ -7,8 +7,7 @@ tags:
 - php
 - symfony
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Autre chose ?
   abstract: N’hésitez pas à piocher dans les <a href='https://github.com/sanpii/slides/releases'>sujets
     dont j’ai déjà parlés</a>.

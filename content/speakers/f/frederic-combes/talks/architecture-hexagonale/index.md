@@ -7,8 +7,7 @@ tags:
 - java
 - spring
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Architecture Hexagonale
   abstract: Très à la mode en ce moment, l’architecture hexagonale c’est quoi ? Quand
     et comment peut on l’utiliser ?

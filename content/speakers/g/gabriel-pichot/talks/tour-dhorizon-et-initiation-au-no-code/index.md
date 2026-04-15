@@ -8,8 +8,7 @@ tags:
 - integromat
 - strapi
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Tour d'horizon et Initiation au No Code
   abstract: Initiation au No Code, présentation des outils et des possibilités.
 ---

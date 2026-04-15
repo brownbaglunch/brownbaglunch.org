@@ -6,8 +6,7 @@ tags:
 - nodejs
 - outils
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Optimiser votre site Web sur mobile
   abstract: Nous regarderons l'évolution de ce marché mobile, les normes existantes,
     les bonnes pratiques de développement mobile ainsi que les outils et frameworks

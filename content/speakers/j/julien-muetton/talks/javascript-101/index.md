@@ -9,8 +9,7 @@ tags:
 - test
 - git
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Javascript 101
   abstract: Introduction rapide au javascript. Tout ce qu'il faut pour démarrer dans
     les meilleurs conditions.

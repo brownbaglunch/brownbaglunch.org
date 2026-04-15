@@ -6,8 +6,7 @@ tags:
 - open-source
 - statique
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment avoir une utilisation du numérique plus éthique et/ou durable dans
     ma structure ?
   abstract: Marre de communiquer exclusivement par facebook ? Curieux de connaître

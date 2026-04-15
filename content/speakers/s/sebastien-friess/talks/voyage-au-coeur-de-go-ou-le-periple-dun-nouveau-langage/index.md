@@ -6,8 +6,7 @@ tags:
 - rex
 - google
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Voyage au coeur de Go, ou le périple d'un nouveau langage
   abstract: Retour d'expérience d'une année de microservices Golang en production,
     comment démarrer, Go ses forces et ses faiblesses

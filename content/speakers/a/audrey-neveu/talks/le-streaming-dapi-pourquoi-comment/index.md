@@ -7,8 +7,7 @@ tags:
 - streaming
 - api
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Le Streaming d''API : pourquoi ? comment ?'
   abstract: Nous savons que l’animation est essentielle pour l'interaction avec nos
     utilisateurs. Mais aujourd'hui l'interactivité ne peut plus se résumer à l’UX.

@@ -6,8 +6,7 @@ tags:
 - domain-driven-design
 - refactoring
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'L’alchimie du BDD : changer votre code de plomb en or. Ou comment livrer
     de plus en plus de valeur.'
   abstract: Vous êtes un véritable craftsman ! Tout se passe bien jusqu'au jour où,

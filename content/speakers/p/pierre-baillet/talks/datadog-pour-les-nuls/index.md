@@ -6,8 +6,7 @@ tags:
 - monitoring
 - observability
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Datadog pour les nuls
   abstract: Fort de mon expérience chez Datadog, je vous propose de découvrir Datadog
     et ce que ce SaaS peut vous apporter en terme d'observabilité et de monitoring.

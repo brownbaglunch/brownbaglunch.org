@@ -6,8 +6,7 @@ tags:
 - architecture
 - c4
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Atelier Architecture: C4 Model'
   abstract: Un atelier de sketching de vos systèmes d'après le modèle C4 de Simon
     Brown. En mode collaboratif, avec un max d'efficacité, venez vous réapproprier

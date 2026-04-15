@@ -7,8 +7,7 @@ tags:
 - enterprise-architecture
 - architecture-d-entreprise
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Lean Enterprise Architecture
   abstract: 'Les équipes d’architecture d''entreprise accouchent souvent de monstres
     prométhéens dont la destinée est de garnir d''énormes armoires (virtuelles).<br/>La

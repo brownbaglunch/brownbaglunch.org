@@ -5,8 +5,7 @@ tags:
 - javascript
 - ecmascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Mettez votre JavaScript à jour !
   abstract: Après des années sans évolution pour JavaScript, l'arrivée d'ES2015 a
     apporté de nombreux outils qui facilitent considérablement la vie du développeur.

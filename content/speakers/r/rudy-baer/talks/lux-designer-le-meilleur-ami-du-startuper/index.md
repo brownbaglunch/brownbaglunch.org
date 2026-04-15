@@ -9,8 +9,7 @@ tags:
 - design
 - ergonomie
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: L'UX Designer, le meilleur ami du startuper !
   abstract: ' "L''UX Design" on en entend souvent parler sans forcément savoir ce
     que c''est ou en réduisant ça à l''aspect graphique... Après avoir défini quelques

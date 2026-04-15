@@ -6,8 +6,7 @@ tags:
 - refactoring
 - design-patterns
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Le code source c''est comme les toilettes: c''est bien quand ça marche,
     c''est mieux quand c''est propre!'
   abstract: Parce qu'une base de code sait nous retourner le respect qu'on lui montre,

@@ -10,8 +10,7 @@ tags:
 - cassandra
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Hadoop : Introduction'
   abstract: 'Hadoop permet de travailler sur des petaoctets de données en des temps
     records grâce à son architecture distribuée. Découvrez comment cela fonctionne.

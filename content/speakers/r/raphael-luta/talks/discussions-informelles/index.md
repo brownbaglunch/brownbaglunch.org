@@ -8,8 +8,7 @@ tags:
 - apache
 - mobile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Discussions informelles
   abstract: 'Autour des problèmes web: architecture infrastructure et applicative,
     performance, mesure et analyse des données'

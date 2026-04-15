@@ -8,8 +8,7 @@ tags:
 - emacs-lisp
 - common-lisp
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Common Lisp
   abstract: Présentation d'un language de programmation résolument moderne, impératif,
     objet et fonctionnel.

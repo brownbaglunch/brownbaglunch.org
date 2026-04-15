@@ -10,8 +10,7 @@ tags:
 - lean-canvas
 - running-lean
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Play2 et Scala
   abstract: Découverte du framework web Play2, basé sur mon travail chez Zaptravel
     depuis mai 2012.

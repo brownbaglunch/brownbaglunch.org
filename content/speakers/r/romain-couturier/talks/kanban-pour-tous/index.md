@@ -11,8 +11,7 @@ tags:
 - jeux-agiles
 - lean-startup
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Kanban pour tous
   abstract: Pour toutes celles et ceux qui entendent parler de Kanban ou qui découvrent,
     je vous propose une compilation de retours d’expériences de mise en place de Kanban

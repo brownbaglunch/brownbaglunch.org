@@ -6,8 +6,7 @@ tags:
   - vector-search
   - machine-learning
 versions:
-  - label: EN
-    flag: gb
+  - lang: EN
     title: "Search: a new era"
     abstract: |
       Search is not just traditional TF/IDF any more but the current trend of machine learning and models has opened another dimension for search.
@@ -20,8 +19,7 @@ versions:
       * Where OpenAI’s ChatGPT or similar LLMs come into play to with Elastic
 
       The main demo covers how to generate embeddings from a music and then use the techniques we learned to propose the most probable version of it when we hum a song 🎶🎸🎻.
-  - label: FR
-    flag: fr
+  - lang: FR
     title: La recherche à l'ère de l'IA
     abstract: |
       La recherche ne se contente plus de l’approche maintenant traditionnelle basée sur la fréquence des termes (TF/IDF ou BM25) mais plus sur la tendance actuelle du machine learning où les nouveaux modèles ont ouvert une nouvelle dimension pour la recherche.

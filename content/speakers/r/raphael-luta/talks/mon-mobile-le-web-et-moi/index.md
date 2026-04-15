@@ -8,8 +8,7 @@ tags:
 - apache
 - mobile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Mon mobile, le web et moi
   abstract: Les caractéristiques spécifiques du web mobile et des recommandations
     pour obtenir la meilleure expérience client

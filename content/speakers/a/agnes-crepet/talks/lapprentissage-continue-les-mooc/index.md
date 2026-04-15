@@ -9,8 +9,7 @@ tags:
 - bdd
 - software-design
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'L''apprentissage continue : les MOOC !'
   abstract: Pamela Fox a marqué les esprits des participants de la conférence Mix-IT
     lors de la keynote finale de l'édition 2012. Elle a abordé le thème de l'éducation

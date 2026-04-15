@@ -9,8 +9,7 @@ tags:
 - healthkit
 - google-fit
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Tendances des Applications Mobiles (Android & iOS)
   abstract: Les tendances en terme de mobilité, d'approche, de technologies, d'interfaces,
     de fonctionnalités. Des conseils sur vos applications mobiles existantes. Des

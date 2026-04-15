@@ -5,8 +5,7 @@ tags:
 - php
 - drupal
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Drupal 8 qu'est ce qui change ?
   abstract: Quels sont les changements apportés par cette nouvelle version de Drupal,
     d'un point de vue fonctionnel, mais aussi pour le développement (faut-il connaitre

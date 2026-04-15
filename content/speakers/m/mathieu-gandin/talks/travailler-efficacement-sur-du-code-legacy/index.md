@@ -7,8 +7,7 @@ tags:
 - clojure
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Travailler efficacement sur du code legacy
   abstract: C'est quoi le code legacy ? Comment commencer de le refactorer ? Quelles
     pratiques d'équipes peut-on mettre en place avec les développeurs pour nettoyer

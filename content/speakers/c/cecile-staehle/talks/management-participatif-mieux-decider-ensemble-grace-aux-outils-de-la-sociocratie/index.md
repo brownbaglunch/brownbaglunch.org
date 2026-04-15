@@ -8,8 +8,7 @@ tags:
 - gouvernance
 - consentement
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Management participatif : mieux décider ensemble grâce aux outils de la
     sociocratie'
   abstract: Lorsqu'il s'agit de prendre des décisions ou faire des choix stratégiques,

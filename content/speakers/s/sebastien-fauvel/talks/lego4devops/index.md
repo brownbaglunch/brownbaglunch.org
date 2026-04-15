@@ -6,8 +6,7 @@ tags:
 - devops
 - lego
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Lego4Devops
   abstract: Atelier mettant en évidence les problèmes de communication entre les développeurs
     et les opérationnels que le mouvement DevOps vise à améliorer pour la réussite

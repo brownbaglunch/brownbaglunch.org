@@ -15,8 +15,7 @@ tags:
 - team-building
 - entreprise-liberee
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Collaborer... et si on improvisait '
   abstract: 'Expérimentons des petits jeux simples issus du théâtre d’improvisation,
     et accessibles à tous. Nous redécouvrons ainsi les mécanismes d’une collaboration

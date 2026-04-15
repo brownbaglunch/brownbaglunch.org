@@ -14,8 +14,7 @@ tags:
 - visual-studio-online
 - tfs
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Développer des applications mobile avec Xamarin
   abstract: Initiation au développement cross-plateform avec Xamarin en C#
 ---

@@ -8,8 +8,7 @@ tags:
 - lock-free
 - performance
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Programmation Lock-Free : les techniques des pros'
   abstract: La scalabilité des applications est une préoccupation importante. Beaucoup
     de pertes en scalabilité proviennent de code contenant des locks qui produisent

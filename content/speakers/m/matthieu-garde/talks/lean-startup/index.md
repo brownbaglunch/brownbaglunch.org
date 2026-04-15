@@ -9,8 +9,7 @@ tags:
 - lean-canvas
 - running-lean
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Lean Startup
   abstract: Apprenez-en plus sur le mouvement poussé par Eric Ries
 ---

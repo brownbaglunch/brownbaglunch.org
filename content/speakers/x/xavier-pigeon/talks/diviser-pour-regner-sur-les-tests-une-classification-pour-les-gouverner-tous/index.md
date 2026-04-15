@@ -8,8 +8,7 @@ tags:
 - taxonomie
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Diviser pour régner sur les tests : une classification pour les gouverner
     tous'
   abstract: (présentation) Etat de l'art en stratégies de test agile à travers un

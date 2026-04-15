@@ -7,8 +7,7 @@ tags:
 - frontend
 - basics
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Vanilla.js #backToBasics'
   abstract: 'Angular, React, Vue.js... Et j’en passe ! Tout cela est bien, mais revenons
     un peu aux bases : JavaScript. À travers ce talk, vous allez découvrir ou approfondir

@@ -6,8 +6,7 @@ tags:
 - asynchronous
 - callback
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Oubliez les migraines, faites de l'asynchrone... synchrone !
   abstract: 'Tout développeur JavaScript – même celui qui n''ose pas se l''avouer
     – a subi un jour le callback hell à cause de l''asynchrone. Aujourd''hui, de nouveaux

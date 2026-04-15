@@ -9,8 +9,7 @@ tags:
 - panache
 - cloud
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Quarkus
   abstract: 'Microservices avec Quarkus: MicroProfile, Panache, GraalVM, ...'
 ---

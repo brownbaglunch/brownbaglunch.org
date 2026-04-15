@@ -6,8 +6,7 @@ tags:
 - environnement
 - green
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Sensibilisation impact environnemental numérique
   abstract: Cette présentation interactive d'une heure permettra de comprendre l'impact
     environnemental du numérique. Les objectifs savoir en quoi le numérique déteriore

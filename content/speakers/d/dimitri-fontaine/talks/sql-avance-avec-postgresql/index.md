@@ -8,8 +8,7 @@ tags:
 - emacs-lisp
 - common-lisp
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: SQL avancé avec PostgreSQL
   abstract: Changer de point de vue sur le SQL quand on est développeur.
 ---

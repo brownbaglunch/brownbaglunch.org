@@ -6,8 +6,7 @@ tags:
 - scrum
 - coaching
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Definition of Ready (DoR), Scrum ?
   abstract: La DoR n'est pas mentionné dans Scrum contrairement à la DoD qui a le
     droit à son chapitre ! Je vous propose un retour d'expérience sur la DoR

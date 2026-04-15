@@ -8,8 +8,7 @@ tags:
 - ml
 - plongee
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment ne pas noyer son premier projet IoT?
   abstract: Je suis développeur, mais aussi plongeur. Tout ca me cause plein de tracas,
     mais aussi plein d'idées. Découvrez comment j'ai tenté de résoudre ces problèmes

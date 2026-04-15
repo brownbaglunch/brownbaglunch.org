@@ -7,8 +7,7 @@ tags:
 - kotlin
 - mobile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Kotlin intro & live coding
   abstract: Kotlin, langage développé et maintenu par Jetbrains est arrivé sur Android.
     Ce BBL propose un tour d'horizon du langage ainsi qu'une démonstration live coding

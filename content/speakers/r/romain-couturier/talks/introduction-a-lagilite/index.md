@@ -11,8 +11,7 @@ tags:
 - jeux-agiles
 - lean-startup
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à l'Agilité
   abstract: Découverte de l'Agilité à travers le Manifeste Agile et les principales
     méthodes Agiles existantes pour faire le bon choix pour son équipe

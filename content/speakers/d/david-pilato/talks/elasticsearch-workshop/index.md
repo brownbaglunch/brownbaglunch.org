@@ -5,8 +5,7 @@ tags:
   - elasticsearch
   - kibana
 versions:
-  - label: EN
-    flag: gb
+  - lang: EN
     title: Hands on elasticsearch / Kibana
     abstract: |
       ### Let's play with elasticsearch and Kibana
@@ -25,8 +24,7 @@ versions:
 
       * a JVM (1.7 preferred)
       * a web browser
-  - label: FR
-    flag: fr
+  - lang: FR
     title: Atelier pratique elasticsearch / Kibana
     abstract: |
       ### Jouons avec elasticsearch et Kibana

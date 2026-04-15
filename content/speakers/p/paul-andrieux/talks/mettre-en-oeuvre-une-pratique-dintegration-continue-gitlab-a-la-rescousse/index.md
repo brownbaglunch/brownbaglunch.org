@@ -6,8 +6,7 @@ tags:
 - devops
 - quality
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Mettre en oeuvre une pratique d’intégration continue, GitLab à la rescousse
   abstract: Vous voulez améliorer la qualité de votre code tout en accélérant la livraison
     de nouvelles fonctionnalités ? GitLab peut pour vous aider. Dans ce BBL, on va

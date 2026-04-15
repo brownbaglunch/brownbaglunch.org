@@ -8,8 +8,7 @@ tags:
 - golang
 - cncf
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Etendre Kubernetes avec les operators et les CRDs
   abstract: Dans un usage avancé de Kubernetes on peut avoir le besoin d'étendre son
     comportement pour l'adapter à différents cas d'usages. Venez découvrir comment

@@ -5,8 +5,7 @@ tags:
 - feature-toggle
 - ff4j
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Intro à FF4J, Proposition de Feature Toggle pour Java
   abstract: Le feature toggle, ou la capacité à activer ou désactiver des fonctionnalités
     à chaud, est souvent associée à une astuce de développement au service du Continuous

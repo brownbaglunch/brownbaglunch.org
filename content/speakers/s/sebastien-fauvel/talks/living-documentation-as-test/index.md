@@ -6,8 +6,7 @@ tags:
 - test
 - coding-dojo
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Living documentation as test
   abstract: Maintenir la documentation sur un projet est un vrai challenge. J'explore
     depuis quelques temps la production d'une Living Documentation validant l'application

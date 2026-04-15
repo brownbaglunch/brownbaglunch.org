@@ -11,8 +11,7 @@ tags:
 - live-coding
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Refactorer legacy - même pas peur
   abstract: Pour refactorer du legacy on aimerait avoir des tests, mais ils sont tellement
     difficiles/longs à écrire. De plus on a choix cornélien entre tests haut niveau

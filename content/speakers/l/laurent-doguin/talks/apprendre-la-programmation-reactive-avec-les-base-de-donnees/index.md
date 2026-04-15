@@ -9,8 +9,7 @@ tags:
 - bdd
 - reactive
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Apprendre la Programmation Réactive avec les Base de Données
   abstract: Je vous propose de découvrir la programmation réactive en Java. Nous verrons
     quelles raisons font de la programmation réactive un excellent paradigme pour

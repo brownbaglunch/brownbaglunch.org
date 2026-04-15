@@ -8,8 +8,7 @@ tags:
 - serious-game
 - coach-agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Moving Motivators
   abstract: Les Moving Motivators permettent d'engager des discussions sur ce qui
     motive réellement les personnes. Ce jeu présente dix axes de motivation intrinsèque

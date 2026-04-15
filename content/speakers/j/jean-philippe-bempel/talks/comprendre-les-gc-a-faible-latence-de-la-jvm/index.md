@@ -9,8 +9,7 @@ tags:
 - z-gc
 - performance
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comprendre les GC à faible latence de la JVM
   abstract: 'Depuis quelques années, le monde du GC sur la JVM évolue. Une nouvelle
     catégorie de GC émerge: Les GC à faible latence (low latency). Shenandoah est

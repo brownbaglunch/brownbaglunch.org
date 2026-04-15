@@ -17,8 +17,7 @@ tags:
 - persistence
 - highavailability
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découvrez Infinispan
   abstract: Découvrez Infinispan, une base de données en mémoire distribuée, open
     source. Idéale pour gérer divers cas d'usage, elle offre une grande scalabilité

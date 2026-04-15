@@ -8,8 +8,7 @@ tags:
 - mikrotik
 - fai
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: MultiHoming at home – Utilisations de plusieurs FAI en même temps, chez soi
   abstract: Découvrez les possibilités offertes par le multihoming, chez vous. Abonnez
     vous à plus d'un fournisseur d'accès Internet (FAI) et passez à la vraie vitesse

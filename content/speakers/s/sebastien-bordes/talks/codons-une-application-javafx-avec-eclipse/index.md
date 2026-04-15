@@ -7,8 +7,7 @@ tags:
 - usine-logicielle
 - eclipse
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Codons une application JavaFX avec Eclipse
   abstract: Démonstration par l'exemple de l'API de JavaFX.
 ---

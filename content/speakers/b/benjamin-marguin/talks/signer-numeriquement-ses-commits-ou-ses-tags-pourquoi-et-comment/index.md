@@ -6,8 +6,7 @@ tags:
 - gpg
 - chiffrement
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Signer numériquement ses commits ou ses tags, pourquoi et comment ?
   abstract: Au sein d’un dépôt Git, l’identification des auteurs n’est qu’indicative.
     Les données de base d’un commit ne permettent pas d’authentifier son auteur. Git

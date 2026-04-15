@@ -15,8 +15,7 @@ tags:
 - team-building
 - entreprise-liberee
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Boostez vos réunions
   abstract: 'Découvrez et expérimentez de nouvelles techniques innovantes pour améliorer
     la productivité et le cadre de travail de vos réunions : devenez un facilitateur

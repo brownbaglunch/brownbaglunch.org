@@ -8,8 +8,7 @@ tags:
 - tdd
 - bdd
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Alliés contre les défauts (talk avec le WebCenter AXA)
   abstract: La pratique de la revue de code prévient énormément de défauts. Mais elle
     a aussi d’autres “effets kiss-cool”. C’est une pratique qui existe depuis une

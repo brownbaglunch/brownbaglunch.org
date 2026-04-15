@@ -11,8 +11,7 @@ tags:
 - jeux-agiles
 - lean-startup
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Scrum, comment tomber dans le panneau
   abstract: Tour d'horizon des mythes et légendes communément admis autour de la méthode
     Scrum et qui peuvent mettre à mal votre Agilité.

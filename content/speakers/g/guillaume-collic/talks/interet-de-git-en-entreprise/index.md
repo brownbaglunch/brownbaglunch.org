@@ -9,8 +9,7 @@ tags:
 - tdd
 - coding-dojo
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Intérêt de Git en entreprise
   abstract: On parle de plus en plus des gestionnaires de version « distribués » (DVCS),
     Git en particulier. Pourquoi cet engouement, en quoi sont-ils intéréssants en

@@ -9,8 +9,7 @@ tags:
 - performance
 - client
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Retour d'expérience avec Google App Engine
   abstract: Envie de profiter de retours d'expérience sur App Engine pour des projets
     industriels ?

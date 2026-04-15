@@ -6,8 +6,7 @@ tags:
 - prototype
 - projet-de-developpement
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Prototype : Échouer tôt pour réussir vite'
   abstract: Je vous propose de parler des différents types et niveaux de prototypes
     (utilisateurs, techniques, etc) et de démontrer les nombreux avantages du prototypage

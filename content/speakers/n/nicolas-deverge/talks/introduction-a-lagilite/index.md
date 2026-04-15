@@ -6,8 +6,7 @@ tags:
 - code
 - coding-dojo
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à l'agilité
   abstract: Le pourquoi et le comment de l'agilité en quelques slides et petits ateliers.
 ---

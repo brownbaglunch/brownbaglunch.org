@@ -7,8 +7,7 @@ tags:
 - devops
 - administration-systeme
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à la plateforme Docker
   abstract: Introduction et présentation interactive sur Docker et son écosystème
     (docker-compose, docker swarm, docker machine, registry, etc) pour permettre de

@@ -7,8 +7,7 @@ tags:
 - coding-dojo
 - dart
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction au développement Android
   abstract: Les fondamentaux du développement Android, comment ça marche dedans, les
     grands principes.

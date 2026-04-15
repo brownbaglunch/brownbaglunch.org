@@ -6,8 +6,7 @@ tags:
 - scrum
 - kanban
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Retour d'expérience Agile chez Mappy, Nokia, Efficity
   abstract: Je propose de partager mon expérience de scrum master scrum/kanban au
     sein de différentes entreprises. Comment s'est passé le passage à la méthode agile?

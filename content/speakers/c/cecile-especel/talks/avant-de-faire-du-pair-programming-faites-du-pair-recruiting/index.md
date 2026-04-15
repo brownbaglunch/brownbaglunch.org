@@ -4,8 +4,7 @@ url: speakers/cecile-especel/talks/avant-de-faire-du-pair-programming-faites-du-
 tags:
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Avant de faire du pair programming, faites du pair recruiting !
   abstract: 'Etre une équipe auto-organisée et pluri-disciplinaire implique une forte
     cohérence : il faut bien s''entendre, mais oser se dire les choses, il faut se

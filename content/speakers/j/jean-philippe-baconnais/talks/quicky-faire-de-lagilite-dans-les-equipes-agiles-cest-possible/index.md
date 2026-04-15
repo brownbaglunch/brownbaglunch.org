@@ -6,8 +6,7 @@ tags:
 - dev
 - innovation
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: '[Quicky] - Faire de l''agilité dans les équipes agiles, c''est possible
     !'
   abstract: L'agilité dans les équipes de développement ne laisse généralement pas

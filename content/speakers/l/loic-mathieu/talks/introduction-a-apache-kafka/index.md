@@ -6,8 +6,7 @@ tags:
 - kafka
 - streaming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à Apache Kafka
   abstract: 'Une introduction à Apache Kafka : principes, stream processing, Kafka
     Stream, Kafka Connect, KSQL'

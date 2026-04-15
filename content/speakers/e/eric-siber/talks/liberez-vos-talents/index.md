@@ -9,8 +9,7 @@ tags:
 - talent-management
 - confiance
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Libérez vos talents
   abstract: A travers cette présentation, je souhaite vous partager mon périple dans
     une transformation bottom up d'organisation vers plus de leadership, de liberté,

@@ -8,8 +8,7 @@ tags:
 - mobile
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le mobile
   abstract: Premier pas avec Corona SDK, REX sur 6 mois de dev et de marketing d'applis
     mobile (http://www.aetys.fr)

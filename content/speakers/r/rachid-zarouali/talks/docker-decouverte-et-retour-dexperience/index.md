@@ -7,8 +7,7 @@ tags:
 - grafana
 - linux
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Docker: decouverte et retour d''experience'
   abstract: Je vous invite à decouvrir par une rapide introduction et au travers de
     cas concrêts d'utilisations (environnements de developpements windows, plateforme

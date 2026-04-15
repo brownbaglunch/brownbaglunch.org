@@ -10,8 +10,7 @@ tags:
 - postcss
 - ecmascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Quoi de neuf dans le web ?
   abstract: Un tour d'horizon de toutes les nouveautés HTML5 et CSS3 pour découvrir
     des normes souvent méconnues (flexbox, webrtc, web components, css shapes, etc.)

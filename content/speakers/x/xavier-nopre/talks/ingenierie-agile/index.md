@@ -11,8 +11,7 @@ tags:
 - usine-logicielle
 - industrialisation
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Ingénierie agile :'
   abstract: Outils et méthodes pour les équipes de développement qui veulent réussir
     dans l'agilité (Présentation & discussions)

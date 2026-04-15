@@ -7,8 +7,7 @@ tags:
 - clojure
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Programmation et musique avec Clojure et Overtone
   abstract: Clojure est un langage de programmation fonctionnelle puissant, qui tourne
     sur la JVM et qui est très utile pour des traitements parallèles ou la manipulation

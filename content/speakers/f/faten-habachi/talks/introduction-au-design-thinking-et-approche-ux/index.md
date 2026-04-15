@@ -9,8 +9,7 @@ tags:
 - personas
 - design-thinking
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction au Design Thinking et approche UX
   abstract: Comprendre l'approche Design Thinking et le jargon lié aux activités UX
 ---

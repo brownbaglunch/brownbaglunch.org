@@ -6,8 +6,7 @@ tags:
 - windows
 - open-source
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment être un linuxien heureux sous Windows ?
   abstract: 'Quand on est linuxien, on l''aime notre distrib, on la bichonne, on va
     installer notre font préférée, et s''installer pleins de plugins oh my zsh. Ca

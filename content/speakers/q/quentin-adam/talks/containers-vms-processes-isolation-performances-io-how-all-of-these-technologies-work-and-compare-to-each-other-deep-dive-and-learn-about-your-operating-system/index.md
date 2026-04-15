@@ -8,8 +8,7 @@ tags:
 - linux
 - virtualization
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Containers, VMs, Processes… Isolation, performances, I/O… How all of these
     technologies work and compare to each other? Deep dive and learn about your Operating
     System.

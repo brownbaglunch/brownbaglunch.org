@@ -8,8 +8,7 @@ tags:
 - tooling
 - slack
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Tools :  Comment construire un SI uniquement avec des outils en ligne'
   abstract: 'Salesforce, Slack, Trello, Zendesk, Jira, Scrumdo, Teamwork, Captain
     train: les outils Saas envahissent notre vie professionnelle. Pourquoi est-ce

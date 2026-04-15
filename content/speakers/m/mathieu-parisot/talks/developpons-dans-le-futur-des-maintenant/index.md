@@ -10,8 +10,7 @@ tags:
 - postcss
 - ecmascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Développons dans le futur dès maintenant
   abstract: Découvrez comment utiliser les standards plus ou moins expérimentaux du
     web dès maintenant avec Babel, PostCss, des polyfill et webpack.

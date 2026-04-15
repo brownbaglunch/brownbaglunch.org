@@ -9,8 +9,7 @@ tags:
 - registry
 - pros-and-cons
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Microservices?
   abstract: 'Microservices: architecture, patterns, terminologie...'
 ---

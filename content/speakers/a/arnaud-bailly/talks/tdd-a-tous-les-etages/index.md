@@ -7,8 +7,7 @@ tags:
 - extreme-programming
 - continuous-integration
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: TDD à tous les étages
   abstract: TDD != tests unitaires. Comment appliquer le cycle du TDD (red-green-refactor)
     à toutes les étapes du développement et à différents niveaux de granularité, des

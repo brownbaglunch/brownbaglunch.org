@@ -7,8 +7,7 @@ tags:
 - live-coding
 - developpement
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Oups, j'ai mis du TypeScript dans mon appli Node.js!
   abstract: Et si on faisait une petite appli Node.js, from scratch... en TypeScript?
     A travers un live coding, nous allons voir ensemble que rajouter du TypeScript

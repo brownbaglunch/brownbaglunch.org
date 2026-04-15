@@ -9,8 +9,7 @@ tags:
 - service-worker
 - developpement
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Les Progressive Web Apps, au dela du buzzword
   abstract: Les PWA c’est cool, tout le monde en parle, mais en fait c’est quoi vraiment?
     Pourquoi ca devrait m’intéresser? Comment ca marche? A travers ce talk et beaucoup

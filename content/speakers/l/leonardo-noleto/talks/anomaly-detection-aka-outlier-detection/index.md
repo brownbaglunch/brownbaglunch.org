@@ -10,8 +10,7 @@ tags:
 - metriques-business
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Anomaly Detection (a.k.a outlier detection)
   abstract: 'Vous aimez jouer au détective ? Résoudre des affaires mystérieuses ?
     Cette présentation est faite pour vous : repérez les données inhabituelles, attrapez

@@ -11,8 +11,7 @@ tags:
 - monad
 - lenses
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Parcours sur des monades
   abstract: Monade est une structure très répandue et s’avère particulièrement utile
     dans la programmation fonctionnelle. Détaillons ensemble son rôle, à travers des

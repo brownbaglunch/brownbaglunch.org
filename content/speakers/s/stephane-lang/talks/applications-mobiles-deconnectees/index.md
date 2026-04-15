@@ -8,8 +8,7 @@ tags:
 - json
 - sqlite
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Applications mobiles déconnectées
   abstract: Les applications mobiles doivent fournir une expérience utilisateur flexible,
     riche et sans accroc quelle que soit la couverture réseau. Couchbase propose une

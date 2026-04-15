@@ -11,8 +11,7 @@ tags:
 - musique
 - marathon
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le pourquoi du pourquoi de l'agilité
   abstract: 'POURQUOI se lancer dans l''agilité?<br/>Réponse-type: des projets qui
     échouent, des individus désengagés, des organisations dysfonctionnelles, etc.<br/>Mais

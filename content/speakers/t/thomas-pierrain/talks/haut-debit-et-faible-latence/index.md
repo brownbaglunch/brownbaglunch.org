@@ -9,8 +9,7 @@ tags:
 - test
 - reactive
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Haut débit et faible latence
   abstract: 'Programmation réactive: cas concret de conception via un système de trading
     électronique.'

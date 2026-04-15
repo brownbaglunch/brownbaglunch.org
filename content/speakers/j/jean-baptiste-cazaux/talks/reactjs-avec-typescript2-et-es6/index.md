@@ -7,8 +7,7 @@ tags:
 - ecmascript
 - angular
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: ReactJS avec Typescript2 et ES6
   abstract: Vue d'ensemble de React avec le langage typé Typescript. Exemples, best
     practices, et comparaisons avec Angular

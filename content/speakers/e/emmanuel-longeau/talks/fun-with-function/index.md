@@ -5,8 +5,7 @@ tags:
 - haskell
 - functional-programming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Fun with Function
   abstract: 'La programmation fonctionnelle revient sur le devant de la scène depuis
     quelques années. Au delà des buzzwords venez découvrir les bases de la programmation

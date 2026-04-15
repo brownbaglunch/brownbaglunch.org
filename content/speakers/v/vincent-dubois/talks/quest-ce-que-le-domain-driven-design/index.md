@@ -6,8 +6,7 @@ tags:
 - conception
 - metier
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Qu'est ce que le Domain-Driven Design ?
   abstract: 'Vous avez déjà entendu parler de DDD ? Si oui, vous savez sûrement déjà
     que c''est la jungle pour s''y retrouver dans toutes les ressources disponibles

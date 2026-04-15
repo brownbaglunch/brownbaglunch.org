@@ -11,8 +11,7 @@ tags:
 - po
 - workshop
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Example Mapping : Atelier'
   abstract: L'example Mapping est un atelier permettant de facilité le découpage des
     US et d'en sortir le maximum de valeur, tout en limitant le gâchis en ne faisant

@@ -5,8 +5,7 @@ tags:
 - hadoop
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Bases de données NOSQL
   abstract: Comprendre les différences entre Redis, Cassandra, HBase et MongoDB. Quelle
     base pour quel usage ?

@@ -8,8 +8,7 @@ tags:
 - react
 - vue
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: '[Quicky] - Angular, React, Vue.js, ne peut-il vraiment en rester qu''un
     ?'
   abstract: Depuis plusieurs années, la guerre des frameworks front-end fait rage.

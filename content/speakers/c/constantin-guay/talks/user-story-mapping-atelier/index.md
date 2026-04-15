@@ -11,8 +11,7 @@ tags:
 - po
 - workshop
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'User Story Mapping : Atelier'
   abstract: Le meilleur moyen de comprendre le besoin du client c'est en étudiant
     son workflow et en en tirant des hypothèses sur son besoin

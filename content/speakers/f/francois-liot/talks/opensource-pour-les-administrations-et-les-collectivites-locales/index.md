@@ -21,8 +21,7 @@ tags:
 - strategie
 - usine-logicielle
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Opensource pour les administrations et les collectivités locales
   abstract: En France, au Royaume Uni, aux Etats Unis et partout dans l’Union Européenne,
     les gouvernements ont formulé des recommandations favorables à l’usage de logiciels

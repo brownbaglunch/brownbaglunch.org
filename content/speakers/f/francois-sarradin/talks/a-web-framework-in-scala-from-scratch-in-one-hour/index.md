@@ -5,8 +5,7 @@ tags:
 - scala
 - functional-programming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: A Web Framework in Scala from Scratch in One Hour
   abstract: (live coding) Discover Scala through the development of an efficient small
     tested Web framework.

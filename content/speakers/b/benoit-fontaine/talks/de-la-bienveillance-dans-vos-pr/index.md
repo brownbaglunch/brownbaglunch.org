@@ -12,8 +12,7 @@ tags:
 - source
 - github
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: De la bienveillance dans vos PR
   abstract: 'Lancer une Pull Request, c’est un peu se mettre à nu : on met à l’épreuve
     notre état d’esprit, nos capacités et notre savoir-faire. Même si c’est le meilleur

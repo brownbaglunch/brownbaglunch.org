@@ -11,8 +11,7 @@ tags:
 - live-coding
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La pyramide des tests - d'oú sort il?
   abstract: Mike Cohn a dit qu'il fallait beacoup de tests bas niveau et peu de tests
     haut niveau. Quand est-ce que c'est vrai? Quand dois-je penser à apprendre à faire

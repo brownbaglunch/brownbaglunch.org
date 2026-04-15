@@ -6,8 +6,7 @@ tags:
 - apprentissage
 - talent-management
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: De la culture de l'apprentissage à l'organisation apprenante
   abstract: 'La formation est en ébullition : la formation traditionnelle est mise
     à mal par de nouveaux canaux d’apprentissages. Etudions ces canaux qui amènent

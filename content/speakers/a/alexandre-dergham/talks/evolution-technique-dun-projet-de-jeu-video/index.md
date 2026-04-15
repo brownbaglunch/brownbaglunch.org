@@ -13,8 +13,7 @@ tags:
 - quarkus
 - jeu-video
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Evolution technique d'un projet de jeu vidéo
   abstract: Comment concilier ma veille techno et ma passion du jeu vidéo? Au cours
     de ce BBL je vais vous parler d'un jeu vidéo que j'ai développé ces dernières

@@ -7,8 +7,7 @@ tags:
 - soft-skills
 - developpement
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment devenir un contributeur Open Source ?
   abstract: Nous utilisons des produits Open Source au quotidien, parfois même sans
     le savoir. Nos jobs actuels, parfois même nos business entiers s'appuient sur

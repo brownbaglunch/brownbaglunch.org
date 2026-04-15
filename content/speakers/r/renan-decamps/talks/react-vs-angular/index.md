@@ -8,8 +8,7 @@ tags:
 - web
 - frontend
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: React vs. Angular
   abstract: J’espère pouvoir à travers cette conf apporter un peu de lumière sur les
     pours et les contres de ces deux excellents outils pour construire vos applications

@@ -4,8 +4,7 @@ url: speakers/mael-morel/talks/kanban/
 tags:
 - kanban
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Kanban!
   abstract: Jouer sur le flux de travail est souvent contre intuitif. Que se passe-t-il
     lorsqu'on ajoute un testeur ou qu'on limite le métier à 2 demandes par semaine?

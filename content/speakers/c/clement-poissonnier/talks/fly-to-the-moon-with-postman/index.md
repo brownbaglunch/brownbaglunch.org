@@ -4,8 +4,7 @@ url: speakers/clement-poissonnier/talks/fly-to-the-moon-with-postman/
 tags:
 - postman
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Fly to the moon with Postman
   abstract: Tu utilises Postman, mais tu dupliques tes requêtes pour pouvoir tester
     ton environnement local et l’environnement d’intégration ? Tu pestes quand tu

@@ -9,8 +9,7 @@ tags:
 - personal-kanban
 - trello
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Personal Kanban depuis les tranchées
   abstract: Partage de mon expérience de la mise en oeuvre du Personal Kanban dans
     différents environnements (toujours avec le même support – à savoir Trello), de

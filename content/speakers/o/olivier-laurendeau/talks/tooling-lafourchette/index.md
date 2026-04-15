@@ -5,8 +5,7 @@ tags:
 - tooling
 - devops
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Tooling @LaFourchette
   abstract: 'Durée ~30 min, tour d''horizon des outils que nous utilisons à LaFourchette
     dans notre process de développement / déploiement. Liste non exhaustive : Jenkins,

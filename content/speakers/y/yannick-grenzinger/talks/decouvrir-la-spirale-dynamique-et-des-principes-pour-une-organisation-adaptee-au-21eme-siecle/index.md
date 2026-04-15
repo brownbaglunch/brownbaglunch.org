@@ -6,8 +6,7 @@ tags:
 - management
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découvrir la spirale dynamique et des principes pour une organisation adaptée
     au 21ème siècle
   abstract: Nos organisations sont en train de vivre une crise existentielle majeure.

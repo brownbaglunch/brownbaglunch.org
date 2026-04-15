@@ -6,8 +6,7 @@ tags:
 - scala
 - functional-programming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Une alternative à AOP ?
   abstract: (poney / live coding / présentation) Découvrez quelle alternative la programmation
     fonctionnelle propose face à AOP (session jouée à Devoxx FR 2013 sous le titre

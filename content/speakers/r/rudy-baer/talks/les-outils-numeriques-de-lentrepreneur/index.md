@@ -9,8 +9,7 @@ tags:
 - projet
 - numerique
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Les outils numériques de l’entrepreneur
   abstract: Est ce que vous vous êtes déjà posé la question de votre efficacité au
     quotidien ? Vous êtes en recherche d'outils pour discuter, envoyer, lister, programmer...

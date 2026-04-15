@@ -4,8 +4,7 @@ url: speakers/maxime-sanglan-charlier/talks/presentation-du-mob-programming/
 tags:
 - mob-programming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Présentation du Mob Programming
   abstract: Le Mob Programming consiste à regrouper une équipe entière dans une pièce
     équipée d'un seul poste de travail pour tout le monde. Cette pratique vous promet

@@ -8,8 +8,7 @@ tags:
 - management-3-0
 - coaching
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comprendre et Utiliser le MBTI
   abstract: Le Myers Briggs Type Indicator (MBTI) est un outils dans la palette des
     coachs, managers ou toutes personnes souhaitant comprendre ses relations aux autres.

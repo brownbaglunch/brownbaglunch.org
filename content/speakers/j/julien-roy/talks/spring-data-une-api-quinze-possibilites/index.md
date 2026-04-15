@@ -8,8 +8,7 @@ tags:
 - spring-boot
 - productivite
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Spring Data : Une API, quinze possibilités'
   abstract: Vous avez besoin d’intégrer une nouveau type de stockage ( Elasticsearch,
     Cassandra, Redis, Neo4j ) dans votre application mais l’apprentissage d’une nouvelle

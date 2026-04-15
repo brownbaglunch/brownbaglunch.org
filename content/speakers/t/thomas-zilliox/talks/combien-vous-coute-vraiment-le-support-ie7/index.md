@@ -9,8 +9,7 @@ tags:
 - javascript
 - php
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Combien vous coûte vraiment le support IE7
   abstract: Une méthode pour évaluer le coût de support d'un ancien navigateur, et
     partager cette vision avec un décideur non-technique.

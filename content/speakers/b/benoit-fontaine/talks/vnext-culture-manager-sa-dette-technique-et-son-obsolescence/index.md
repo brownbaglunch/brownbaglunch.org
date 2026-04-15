@@ -8,8 +8,7 @@ tags:
 - technique
 - obsolescence
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'vNext culture : manager sa dette technique et son obsolescence'
   abstract: 'Dès lors que l’on se retrouve face à un projet vieillissant, voire même
     legacy, on se retrouve un peu comme Neo face à Morpheus : Soit on prend la pillule

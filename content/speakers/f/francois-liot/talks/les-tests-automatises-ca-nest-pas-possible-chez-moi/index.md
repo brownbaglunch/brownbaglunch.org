@@ -15,8 +15,7 @@ tags:
 - watir
 - webdriver
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Les tests automatisés, ça n'est pas possible chez moi...
   abstract: '...vraiment ? Et si on regardait ?'
 ---

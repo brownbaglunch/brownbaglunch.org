@@ -6,8 +6,7 @@ tags:
 - angular
 - typescript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Angular2, ou comment faciliter la migration de votre application AngularJS
   abstract: BBL permettant de présenter les nouvelles fonctionnalités d'Angular2.
     A la fin de cette session, vous connaîtrez comment faciliter la migration de votre

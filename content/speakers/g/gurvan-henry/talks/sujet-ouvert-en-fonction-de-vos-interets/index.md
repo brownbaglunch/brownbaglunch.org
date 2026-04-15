@@ -6,8 +6,7 @@ tags:
 - usage-utilisateur
 - quality
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Sujet ouvert en fonction de vos intérêts
   abstract: J'aime échanger sur beaucoup de sujets autout du dev. Proposez moi ! 🐵
 ---

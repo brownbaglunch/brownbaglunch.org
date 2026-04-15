@@ -4,8 +4,7 @@ url: speakers/duyhai-doan/talks/introduction-a-cassandra/
 tags:
 - cassandra
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à Cassandra
   abstract: Vous avez entendu parler de <strong>Cassandra</strong>, vous avez toujours
     voulu vous y mettre sans jamais avoir eu le temps ni su comment démarrer ? Pendant

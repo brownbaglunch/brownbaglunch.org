@@ -7,8 +7,7 @@ tags:
 - chiffrement
 - ethique
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Politique de sécurité et de respect de vie privée
   abstract: Comment gérer les données personnelles stockées par votre application
     et les bonnes pratiques pour éviter les catastrophes techniques et juridiques

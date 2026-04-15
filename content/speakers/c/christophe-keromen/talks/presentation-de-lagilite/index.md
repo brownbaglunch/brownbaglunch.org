@@ -9,8 +9,7 @@ tags:
 - management
 - scrum
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Présentation de l'agilité
   abstract: Que représente l'agilité en 2013 ? Quelles tendances ? Quels écueils pour
     quelles réussites ?.

@@ -9,8 +9,7 @@ tags:
 - maven
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Git avancé
   abstract: 'Vous utilisez déjà Git, mais les commandes git rebase -i, git bisect
     ou ce qu''est un cherry-pick, ou triturer l''historique de vos commits vous inquiètent

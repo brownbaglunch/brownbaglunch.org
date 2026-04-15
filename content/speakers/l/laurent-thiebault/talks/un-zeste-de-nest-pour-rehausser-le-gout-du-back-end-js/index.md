@@ -8,8 +8,7 @@ tags:
 - angular
 - api
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Un zeste de Nest pour réhausser le goût du back-end JS
   abstract: Nous connaissons tous un développeur frontend qui est devenu plus efficace
     grâce à des solutions comme Angular, Vue ou React. On connait également des développeurs

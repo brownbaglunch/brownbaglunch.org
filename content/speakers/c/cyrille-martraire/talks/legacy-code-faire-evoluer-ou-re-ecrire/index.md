@@ -10,8 +10,7 @@ tags:
 - clean-code
 - test
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Legacy Code : faire évoluer ou ré-écrire ?'
   abstract: Comment livrer des fonctionnalités ambitieuses malgré le code existant
     sans aucun test ? Visite guidée au travers de retours d'expérience.

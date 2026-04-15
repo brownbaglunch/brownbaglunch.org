@@ -8,8 +8,7 @@ tags:
 - scrum
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Formats de rétrospectives
   abstract: Vous souhaitez mettre en place des rétrospectives ou les dynamiser en
     changeant leur format, découvrez différents formats de rétrospectives comme le

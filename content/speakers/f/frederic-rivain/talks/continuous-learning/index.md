@@ -6,8 +6,7 @@ tags:
 - agile
 - continuous-learning
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Continuous Learning
   abstract: De l'importance de mettre en place une culture de l'apprentissage continu,
     théorie et exemples concrets

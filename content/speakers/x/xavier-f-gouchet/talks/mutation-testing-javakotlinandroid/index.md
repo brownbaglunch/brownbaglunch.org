@@ -9,8 +9,7 @@ tags:
 - java
 - kotlin
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Mutation Testing (Java/Kotlin/Android)
   abstract: 'Avoir des tests, c''est bien. Avoir de bons tests, c''est mieux ! Cette
     presentation va répondre à la question : Comment mesurer les tests unitaires autrement

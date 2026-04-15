@@ -6,8 +6,7 @@ tags:
 - coding-dojo
 - cryptographie
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Fear the ponies!!!
   abstract: Les poneys viennent de forger une alliance secrète pour conquérir le monde.
     Vous n'avez plus que quelques heures pour déjouer le complot en (re)découvrant

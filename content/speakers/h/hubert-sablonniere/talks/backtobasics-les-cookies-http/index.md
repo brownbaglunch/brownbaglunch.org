@@ -7,8 +7,7 @@ tags:
 - cookies
 - auth
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: '#BackToBasics : Les cookies HTTP'
   abstract: 'Les cookies HTTP sont partout ! Pas une journée sans qu’un site nous
     demande “d’accepter les cookies”. Rares sont les projets Web qui ne les utilisent

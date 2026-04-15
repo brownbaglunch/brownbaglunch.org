@@ -5,8 +5,7 @@ tags:
 - equipe
 - craftsmanship
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Animation de coding-dojo
   abstract: Atelier de code en groupe, pour s'entrainer aux bonnes pratiques, faire
     des exercices, retrouver le plaisir du code

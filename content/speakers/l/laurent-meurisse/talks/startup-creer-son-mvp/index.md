@@ -6,8 +6,7 @@ tags:
 - lean-startup
 - impact-mapping
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Startup: créer son MVP'
   abstract: Créer un premier produit minimal pour mesurer la viabilité du Lean Canvas
 ---

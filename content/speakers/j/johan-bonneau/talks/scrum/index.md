@@ -5,8 +5,7 @@ tags:
 - agile
 - scrum
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Scrum
   abstract: Expliquer Scrum en moins d'une heure.
 ---

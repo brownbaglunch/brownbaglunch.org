@@ -15,8 +15,7 @@ tags:
 - team-building
 - entreprise-liberee
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découverte de l'agilité
   abstract: 'Découvrez comment vous pouvez devenir plus agile, à travers un atelier
     concret et non technique. Fondamentaux d''une transition agile : collaboration,

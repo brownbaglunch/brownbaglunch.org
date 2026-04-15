@@ -7,8 +7,7 @@ tags:
 - refactoring
 - legacy-code
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Gilded-Rose-Inn, comment refactorer un code legacy
   abstract: "L'auberge de Gilded-Rose est situé au cœur de Hurlevent, et propose aux\
     \ voyageurs de tout Azeroth (le monde de Warcraft) des objets rares et des mets\

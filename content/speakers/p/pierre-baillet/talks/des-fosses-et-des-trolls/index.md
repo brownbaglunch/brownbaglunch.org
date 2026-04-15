@@ -7,8 +7,7 @@ tags:
 - devops
 - continuous-integration
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Des fossés et des trolls
   abstract: What is ze devops ? Concept nébuleux ou révolution industrielle ? Comment
     combler le fossé entre les développeurs et les opérationnels (avec autre choses

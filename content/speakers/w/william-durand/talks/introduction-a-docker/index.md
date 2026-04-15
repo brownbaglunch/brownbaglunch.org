@@ -12,8 +12,7 @@ tags:
 - docker
 - open-source
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à Docker
   abstract: Docker, qu'est-ce que c'est ? Pourquoi est-ce utile et terriblement intéressant
     ?

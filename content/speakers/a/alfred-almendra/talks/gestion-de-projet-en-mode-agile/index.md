@@ -13,8 +13,7 @@ tags:
 - visual-management
 - management-3-0
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Gestion de projet en mode agile
   abstract: Etre agile c'est avant tout un état d'esprit. Mais pour pratiquer concrètement
     l'agilité, il est intéressant de mettre en place quelques rituels, et de faire

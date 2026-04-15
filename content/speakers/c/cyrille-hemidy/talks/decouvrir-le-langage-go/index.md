@@ -6,8 +6,7 @@ tags:
 - golang
 - google
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découvrir le langage Go
   abstract: Découverte du langage Go, le langage de prédilection pour le cloud, ses
     atouts et ses faiblesses.

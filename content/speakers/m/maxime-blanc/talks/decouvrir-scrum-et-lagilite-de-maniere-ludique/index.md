@@ -6,8 +6,7 @@ tags:
 - agile
 - kanban
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découvrir Scrum et l'agilité, de manière ludique.
   abstract: Scrum, Agilité, Kanban, ces mots sont encore abstraits pour vous aujourd'hui
     ? Je vous invite au travers d'ateliers, à découvrir ce qui se cache derrière tout

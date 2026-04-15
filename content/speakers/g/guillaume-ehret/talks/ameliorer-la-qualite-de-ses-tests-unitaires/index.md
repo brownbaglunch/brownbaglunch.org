@@ -11,8 +11,7 @@ tags:
 - angularjs
 - yeoman
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Améliorer la qualité de ses tests unitaires
   abstract: Revue des différentes règles à appliquer pour améliorer la qualité de
     ses tests unitaires et faire qu'ils soient durables dans le temps.

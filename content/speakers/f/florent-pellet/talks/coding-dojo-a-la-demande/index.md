@@ -15,8 +15,7 @@ tags:
 - spa
 - web
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Coding Dojo à la demande
   abstract: Envie de découvrir des nouvelles méthodes de travail ou implémenter les
     coding dojos dans votre entreprise ? Je peux en animer un, sur un sujet à la demande

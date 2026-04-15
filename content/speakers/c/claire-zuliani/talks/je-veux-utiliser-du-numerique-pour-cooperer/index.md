@@ -6,8 +6,7 @@ tags:
 - cooperation
 - strategie
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Je veux utiliser du numérique pour coopérer
   abstract: Vous avez un projet impliquant plein d'acteurs différents, vous vous dites
     que le numérique pourrait vous filer un coup de main mais ne savez pas par quel

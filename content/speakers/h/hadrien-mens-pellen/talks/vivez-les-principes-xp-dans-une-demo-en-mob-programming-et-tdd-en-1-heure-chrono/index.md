@@ -7,8 +7,7 @@ tags:
 - mob-programming
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Vivez les principes XP dans une démo en mob programming et TDD en 1 heure
     chrono !
   abstract: 'Vous allez coder un logiciel révolutionnaire, tous ensemble, en TDD,

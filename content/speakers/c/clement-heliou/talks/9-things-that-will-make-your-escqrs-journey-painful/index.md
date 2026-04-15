@@ -8,8 +8,7 @@ tags:
 - event-storming
 - processmanager
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 9 things that will make your ES/CQRS journey painful
   abstract: 'Les 9 pièges a éviter lorsque l''on démarre une implémentation ES/CQRS.
     Parce que de prime abord ça parait simple et qu''en fait, beaucoup se font assez

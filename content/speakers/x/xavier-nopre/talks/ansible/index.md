@@ -6,8 +6,7 @@ tags:
 - devops
 - docker
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Ansible
   abstract: Introduction à cet outil simple et efficace pour préparer vos machines
 ---

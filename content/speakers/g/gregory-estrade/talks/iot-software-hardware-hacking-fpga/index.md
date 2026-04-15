@@ -10,8 +10,7 @@ tags:
 - philosophie
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: IoT, software & hardware hacking, FPGA.
   abstract: Vous aimez bricoler, prototyper? Moi aussi. Invitez-moi pour de l'aide
     ou du conseil sur un sujet de votre choix.

@@ -5,8 +5,7 @@ tags:
 - elm
 - functional-programming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Créer des applications frontend en Elm
   abstract: Elm (elm-lang.org) est un language de programmation pour créer des applications
     web facile à prendre en main. Compilé en JS, il peut être embarqué dans de nombreuses

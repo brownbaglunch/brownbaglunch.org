@@ -5,8 +5,7 @@ tags:
 - haskell
 - functional-programming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Haskell pour les noobs
   abstract: '1 heure pour apprendre un nouveau langage, c''est court. Et quand il
     s''agit d''un langage aussi particulier qu''Haskell, ça devient sportif ! Mais

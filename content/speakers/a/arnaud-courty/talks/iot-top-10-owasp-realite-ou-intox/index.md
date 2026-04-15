@@ -6,8 +6,7 @@ tags:
 - iot
 - owasp-iot
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: IoT - Top 10 OWASP - réalité ou intox ?
   abstract: 'Cette présentation sera l''occasion de faire une rétrospective des vulnérabilités
     les plus rencontrées au cours des audits de sécurité IoT. En effet, depuis les

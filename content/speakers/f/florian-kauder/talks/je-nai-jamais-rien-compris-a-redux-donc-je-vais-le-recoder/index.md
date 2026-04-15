@@ -10,8 +10,7 @@ tags:
 - coding-live
 - frontend
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Je n'ai jamais rien compris à Redux, donc je vais le recoder
   abstract: 'Ola Voyageur·e !
 

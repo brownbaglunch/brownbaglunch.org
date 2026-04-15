@@ -5,8 +5,7 @@ tags:
 - dev
 - gitpod
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Qui a dit qu’il fallait avoir un JDK sur son poste pour développer une application
     Java ? Prenez votre IDE Cloud GitPod et le tour est joué 💪
   abstract: 'Quand on arrive sur des projets, la configuration de votre poste est

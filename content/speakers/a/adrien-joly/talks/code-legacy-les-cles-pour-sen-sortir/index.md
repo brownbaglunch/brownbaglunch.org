@@ -6,8 +6,7 @@ tags:
 - tech-leadership
 - planification
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Code legacy: les clés pour s''en sortir !'
   abstract: Quand on travaille sur du code hérité, il est rarement envisageable de
     tout réécrire. Outre les nombreux problèmes qui peuvent en découler, il est crucial

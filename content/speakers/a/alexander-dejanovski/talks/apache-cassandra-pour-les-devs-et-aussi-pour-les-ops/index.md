@@ -7,8 +7,7 @@ tags:
 - dev
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Apache Cassandra pour les devs (et aussi pour les ops)
   abstract: 'Apache Cassandra, ça a (souvent) la couleur d''une base SQL, ça a (parfois)
     le goût d''une base SQL mais ce n''est pas une base SQL. Dans cette présentation

@@ -9,8 +9,7 @@ tags:
 - cloud
 - adobe-air
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à iOs
   abstract: Envie de faire une application iOs, mais vous ne savez pas par quel bout
     commencer ? Gagnez tout simplement du temps grâce à un repas !

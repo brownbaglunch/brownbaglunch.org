@@ -8,8 +8,7 @@ tags:
 - conception
 - ergonomie
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: UX et stratégies
   abstract: L'Expérience Utilisateur s'impose aujourd'hui comme une dimension clé
     des projets technologiques et d'innovation. J'interviens comme consultant auprès

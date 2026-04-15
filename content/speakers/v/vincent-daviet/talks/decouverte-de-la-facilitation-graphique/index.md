@@ -15,8 +15,7 @@ tags:
 - team-building
 - entreprise-liberee
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découverte de la facilitation graphique
   abstract: Initiez-vous à cette nouvelle technique de facilitation de réunion. Aucun
     pré-requis, ré-utilisable dans une multitude de contextes.

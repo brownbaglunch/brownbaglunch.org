@@ -4,8 +4,7 @@ url: speakers/david-pilato/talks/postal-addresses/
 tags:
   - elasticsearch
 versions:
-  - label: EN
-    flag: gb
+  - lang: EN
     title: Enriching postal addresses with Elastic stack
     abstract: |
       > Come and learn how you can enrich your existing data with normalized postal addresses with geo location points thanks to open data and [BANO project](https://bano.openstreetmap.fr/data/).
@@ -40,8 +39,7 @@ versions:
       ```
 
       In this live coding session, I will show you how to solve all those questions using the Elastic stack.
-  - label: FR
-    flag: fr
+  - lang: FR
     title: Enrichir les adresses postales avec la suite Elastic
     abstract: |
       > Venez apprendre comment enrichir vos données existantes avec des adresses postales normalisées et des points de géolocalisation grâce à l'open data et au [projet BANO](https://bano.openstreetmap.fr/data/).

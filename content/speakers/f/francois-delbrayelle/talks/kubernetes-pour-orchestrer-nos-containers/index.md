@@ -6,8 +6,7 @@ tags:
 - docker
 - devops
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Kubernetes, pour orchestrer nos containers
   abstract: Découvrir Kubernetes et son utilité pour gérer les containers
 ---

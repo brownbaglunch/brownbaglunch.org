@@ -6,8 +6,7 @@ tags:
 - redux
 - javascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à Redux
   abstract: Mise en place de Redux au sein d'une application React existante.
 ---

@@ -5,8 +5,7 @@ tags:
 - web
 - open-source
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: GWT
   abstract: Dévelopement Full Stack, client et serveur avec java 8
 ---

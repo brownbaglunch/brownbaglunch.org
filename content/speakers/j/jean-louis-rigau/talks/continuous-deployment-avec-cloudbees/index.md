@@ -5,8 +5,7 @@ tags:
 - cloud
 - usine-logicielle
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Continuous Deployment avec CloudBees
   abstract: Déployer une application dans le Cloud depuis un simple « git push »,
     à travers la mise en oeuvre du modèle de Continuous Deployment sur les environnements

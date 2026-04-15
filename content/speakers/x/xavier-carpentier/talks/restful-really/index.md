@@ -6,8 +6,7 @@ tags:
 - api
 - http
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: '#ReSTFul, really ?'
   abstract: Tout le monde dit faire ou vouloir faire une architecture de type Rest,
     mais que cela implique-t-il vraiment ? Où vous situez-vous sur le “Richardson

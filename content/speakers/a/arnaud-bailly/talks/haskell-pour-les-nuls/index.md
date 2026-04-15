@@ -6,8 +6,7 @@ tags:
 - haskell
 - type-driven-development
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Haskell pour les nuls
   abstract: La programmation fonctionnelle, c'est hype, c'est cool, ça groove... mais
     ça fait peur, surtout en Haskell, un langage réputé pour les matheux. Je vous

@@ -7,8 +7,7 @@ tags:
 - threat
 - risk
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Our approach to security
   abstract: Comment nous pensons la sécurité chez Dashlane
 ---

@@ -6,8 +6,7 @@ tags:
 - graphql
 - happiness-at-work
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: GraphQL, the new age of API ?
   abstract: Bring more liberties to your Frontend developers with GraphQL.
 ---

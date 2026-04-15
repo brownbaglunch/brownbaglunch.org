@@ -8,8 +8,7 @@ tags:
 - mobx
 - javascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'React: sujet au choix'
   abstract: 'Parmi les sujets possibles : Hooks React, Performance, API Context, State
     Management, React Query, Redux, MobX, Testing.'

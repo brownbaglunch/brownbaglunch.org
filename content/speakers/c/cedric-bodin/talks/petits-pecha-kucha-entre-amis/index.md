@@ -11,8 +11,7 @@ tags:
 - musique
 - marathon
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Petits Pecha Kucha entre amis
   abstract: 'L''idée est simple : vous me préparez plusieurs <a href=''http://fr.wikipedia.org/wiki/Pecha_Kucha''
     target=''_blank''>Pecha Kuchas</a> autour de l''agilité, que je ne découvrirai

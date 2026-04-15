@@ -11,8 +11,7 @@ tags:
 - jeux-agiles
 - lean-startup
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Valeur ajoutée, c'est quoi au fait ?
   abstract: Cette session vous propose simplement d’explorer ce concept de valeur,
     les techniques possibles pour vous aider à valoriser vos exigences métier dans

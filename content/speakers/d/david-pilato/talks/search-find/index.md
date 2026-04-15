@@ -4,8 +4,7 @@ url: speakers/david-pilato/talks/search-find/
 tags:
   - elasticsearch
 versions:
-  - label: EN
-    flag: gb
+  - lang: EN
     title: A NoSQL search engine for searching^H^H^H^H^H^H^H^H finding...
     abstract: |
       You are still searching in your data with `SELECT * FROM person WHERE name like '%david%pilato%"` ?
@@ -13,8 +12,7 @@ versions:
       Beyond the performance gains, are you sure you are returning the most relevant results for your users first?
 
       Discover how a search engine will help you answer the questions asked by your users, in a relevant and efficient way, while providing features for analyzing the results and this, whatever the volume...
-  - label: FR
-    flag: fr
+  - lang: FR
     title: Un moteur de recherche NoSQL pour chercher^H^H^H^H^H^H^H^H trouver...
     abstract: |
       Vous cherchez toujours dans vos données avec des `SELECT * FROM person WHERE name like '%david%pilato%"` ?

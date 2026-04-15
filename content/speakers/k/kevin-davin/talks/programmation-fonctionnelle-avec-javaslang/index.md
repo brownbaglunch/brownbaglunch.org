@@ -9,8 +9,7 @@ tags:
 - tdd
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Programmation fonctionnelle avec JavaSlang
   abstract: Vous êtes sur Java 8 et vous trouvez que les nouveautés auraient pû être
     meilleurs, découvrez le projet JavaSlang apportant un nouveau niveau de programmation

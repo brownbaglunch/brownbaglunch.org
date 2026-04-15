@@ -8,8 +8,7 @@ tags:
 - emacs-lisp
 - common-lisp
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le chargement de données avec PostgreSQL et pgloader
   abstract: Une présentation détaillée des capacités de l'outil pgloader en terme
     de chargement de données.

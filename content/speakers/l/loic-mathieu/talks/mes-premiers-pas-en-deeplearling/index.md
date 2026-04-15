@@ -7,8 +7,7 @@ tags:
 - tensorflow
 - python
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Mes premiers pas en Deeplearling
   abstract: Mes premiers pas en Deeplearning, ou comment j'ai réalisé une application
     de recherche de produits avec Keras et Tensorflow sans trop savoir comment ça

@@ -6,8 +6,7 @@ tags:
 - lean-startup
 - impact-mapping
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Entreprise: Vision Produit avec Impact Mapping'
   abstract: Au lieu de définir une backlog de fonctionnalités, définissez plutot vos
     objectifs, et déployez des impacts.

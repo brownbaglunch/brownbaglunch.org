@@ -8,8 +8,7 @@ tags:
 - evolution
 - big-data
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Optimisations et Performances d'un POC en prod @ plusieurs milliards de requêtes
   abstract: Ogury est la plateforme de data mobile qui permet d’accéder aux données
     comportementales des profils de plus de 400 millions de mobinautes répartis dans

@@ -11,8 +11,7 @@ tags:
 - entreprise-agile
 - sociocratie
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Entre le marteau et l'enclume de l'agilité, le manager
   abstract: L'équipe agile ne vit pas sur une île déserte et celui (celle) qui subit
     les plus fortes contraintes c'est le manager, à la frontière avec le reste de

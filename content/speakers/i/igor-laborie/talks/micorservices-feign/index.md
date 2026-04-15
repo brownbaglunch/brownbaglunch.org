@@ -7,8 +7,7 @@ tags:
 - feign
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Micorservices & Feign
   abstract: 'Petite intro sur les microservices, avant de présenter le client REST
     Java : Feign. Beaucoup de live coding, avec beaucoup de Java 8, un peu de CircuitBreaker,

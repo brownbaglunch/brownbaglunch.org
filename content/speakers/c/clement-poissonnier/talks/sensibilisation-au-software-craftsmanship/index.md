@@ -10,8 +10,7 @@ tags:
 - dette-technique
 - pair-programming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Sensibilisation au software craftsmanship
   abstract: Découvre ce qu'est le Software Craftsmanship, clean code, le refactoring
     et la dette technique en manipulant des Legos ! Lego permet de s'abstraire du

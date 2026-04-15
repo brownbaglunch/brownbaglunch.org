@@ -5,8 +5,7 @@ tags:
 - dev
 - kids
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le développement dès le plus jeune âge
   abstract: Depuis ma sortie d'école, je fais du développement. Mais il existe beaucoup
     d'actions et d'évènements autour du développement pour les enfants notamment via

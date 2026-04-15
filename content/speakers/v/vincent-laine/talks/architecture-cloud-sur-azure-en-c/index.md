@@ -14,8 +14,7 @@ tags:
 - visual-studio-online
 - tfs
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Architecture Cloud sur Azure en C#
   abstract: Vous souhaitez migrer sur le cloud Azure mais vous ne savez pas comment
     ? Vous avez déjà fait le saut et vous souhaitez discuter de l'architecture mise

@@ -5,8 +5,7 @@ tags:
 - docker
 - container
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Initiation Docker
   abstract: Une sécance d'initiation à Docker du concept à la pratique
 ---

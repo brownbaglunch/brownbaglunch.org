@@ -11,8 +11,7 @@ tags:
 - vagrant
 - terraform
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: L'outillage du devops expert
   abstract: Le DevOps par la pratique avec une présentation des outils disponibles
     et les bonnes pratiques associées

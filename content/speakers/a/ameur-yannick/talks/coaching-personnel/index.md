@@ -10,8 +10,7 @@ tags:
 - lean-startup
 - kanban
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Coaching Personnel
   abstract: Envis d'être coaché ? Vous vous posez des questions sur vos projets professionnels
     et personnel, offrez vous une scéance de Coaching format 45mn.

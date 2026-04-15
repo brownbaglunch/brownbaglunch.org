@@ -6,8 +6,7 @@ tags:
 - rancher
 - orchestrateur
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Rancher, le (petit) orchestrateur docker qui vous veut du bien
   abstract: Les orchestrateurs comme Kubernetes ou Mesos peuvent faire peur de part
     leur potentielle complexité à être mis en oeuvre et intégrés dans une infrastructure

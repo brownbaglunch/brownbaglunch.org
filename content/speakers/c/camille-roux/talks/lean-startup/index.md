@@ -8,8 +8,7 @@ tags:
 - lean-canvas
 - customer-development
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Lean Startup
   abstract: Découvrez cette approche pramagtique permettant de lancer des sociétés/produits/services
     en un temps record

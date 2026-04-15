@@ -7,8 +7,7 @@ tags:
 - devops
 - cloud
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Immutability: from code to infrastructure, the way of scalability'
   abstract: 'The all functional programming world, Docker, Clever Cloud, micro service
     architecture, logs append only DB… All of this rely on the immutability at some

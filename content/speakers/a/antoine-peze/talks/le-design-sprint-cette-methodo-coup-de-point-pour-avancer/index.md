@@ -8,8 +8,7 @@ tags:
 - design-sprint
 - interview
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le Design Sprint, cette méthodo coup de point pour avancer
   abstract: Découvrez le Design Sprint, cette nouvelle méthodologie, inspirée par
     Google Ventures, qui permet de concrétiser et de tester en 5 jours une idée.

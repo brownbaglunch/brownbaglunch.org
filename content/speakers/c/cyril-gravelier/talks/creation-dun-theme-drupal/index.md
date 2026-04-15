@@ -5,8 +5,7 @@ tags:
 - php
 - drupal
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Création d'un theme Drupal
   abstract: Peut-on tout intégrer dans Drupal ? Quelles sont les bonnes pratiques
     pour la réalisation d'un theme Drupal ?

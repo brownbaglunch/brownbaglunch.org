@@ -6,8 +6,7 @@ tags:
 - mongodb
 - hardware
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: L'open source, la fondation Apache, comment ça marche ?
   abstract: Nous utilisons tous des produits open source. Introduction à la dynamique
     sociale des organisations open source, et de Apache en particulier dont je suis

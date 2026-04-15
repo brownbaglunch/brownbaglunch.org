@@ -11,8 +11,7 @@ tags:
 - angularjs
 - yeoman
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Intégration continue avec Jenkins
   abstract: Qu'est ce que l'intégration continue ? présentation et utilisation de  Jenkins
 ---

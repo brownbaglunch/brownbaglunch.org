@@ -6,8 +6,7 @@ tags:
 - mongodb
 - hardware
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Open Hardware : késako ?'
   abstract: 'Arduino, imprimantes 3D, hacker spaces : le hardware fait sa révolution.
     Introduction à cette mouvance qui prend de l''ampleur'

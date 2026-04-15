@@ -8,8 +8,7 @@ tags:
 - serious-game
 - fun
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Epic Legacy Code Challenge
   abstract: 'Vous venez d''être embauchés chez Paladin Inventories Company. Elle gagne
     beaucoup d''argent avec son logiciel. Mais le gobelin qui l''a écrit s''est fait

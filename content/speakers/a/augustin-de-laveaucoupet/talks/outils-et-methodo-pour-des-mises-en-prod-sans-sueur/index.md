@@ -13,8 +13,7 @@ tags:
 - debian
 - proxmox
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Outils et methodo pour des mises en prod sans sueur
   abstract: 'Si vous faite moins de une MEP par semaine, ou que elle prend plus de
     deux heures alors vous risquer d''aprendre des choses... '

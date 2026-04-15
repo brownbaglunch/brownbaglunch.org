@@ -9,8 +9,7 @@ tags:
 - management
 - scrum
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Kanban
   abstract: Au-delà de la représentation visuelle. Quels concepts ? Comment le mettre
     en oeuvre ?Comment le coupler à Scrum?

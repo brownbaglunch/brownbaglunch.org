@@ -6,8 +6,7 @@ tags:
 - agile
 - cloud
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Ecoutez vos utilisateurs, de 1 à 10 Millions
   abstract: 'We all know user-centered design is fundamental for a product''s success.
     Among everything you should do, gathering feedback from your users is one of the

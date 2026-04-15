@@ -6,8 +6,7 @@ tags:
 - rnn
 - golang
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Tensorflow, Gorgonia, DeepLearning... La vision du machine learning par un
     imp-Ops-teur
   abstract: Le DeepLearning fait naitre des idées folles dans les têtes de beaucoup.

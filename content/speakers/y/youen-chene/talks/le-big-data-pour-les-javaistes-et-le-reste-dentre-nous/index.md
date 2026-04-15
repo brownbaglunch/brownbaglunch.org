@@ -7,8 +7,7 @@ tags:
 - impala
 - apache-spark
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le Big Data pour les Javaistes et le reste d’entre nous
   abstract: 'Le Big Data, c’est pour nombre d’entre vous c’est une pile de buzz words
     sur des slides. Pourtant le big data c’est en place chez les startups depuis longtemps

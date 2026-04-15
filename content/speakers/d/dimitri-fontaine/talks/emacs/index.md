@@ -8,8 +8,7 @@ tags:
 - emacs-lisp
 - common-lisp
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Emacs
   abstract: Découvrir et appronfindir un environnement de travail complet, y compris
     la programmation Emacs Lisp.

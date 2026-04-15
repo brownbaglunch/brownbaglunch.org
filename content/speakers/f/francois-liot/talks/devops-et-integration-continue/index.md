@@ -23,8 +23,7 @@ tags:
 - unit-test
 - usine-logicielle
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Devops et Integration Continue
   abstract: Outils et méthodes pour les équipes de développement qui veulent réussir
     opérationnellement dans l'agilité.

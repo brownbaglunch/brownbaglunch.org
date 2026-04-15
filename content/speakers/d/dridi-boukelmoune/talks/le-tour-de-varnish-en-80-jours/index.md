@@ -7,8 +7,7 @@ tags:
 - http
 - performance
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le tour de Varnish en 80 jours
   abstract: Dans cette présentation, nous allons littéralement faire le tour du monde
     pour découvrir Varnish. Architecture moderne et réactive, ce cache HTTP offre

@@ -6,8 +6,7 @@ tags:
 - gitlab
 - ai
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Et si l’IA devenait votre nouvel ami codeur imaginaire ? '
   abstract: Que ce soit dans la rédaction de vos mails, la traduction ou bien la génération
     d’images, l’intelligence artificielle, ou IA, est partout, je pense que je ne

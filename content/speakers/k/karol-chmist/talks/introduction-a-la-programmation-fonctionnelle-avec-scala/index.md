@@ -11,8 +11,7 @@ tags:
 - monad
 - lenses
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à la Programmation fonctionnelle avec Scala
   abstract: Première approche de la Programmation fonctionnelle et de Scala. Nous
     aborderons les concepts de base (Composition, Immutabilité, Transparence référentielle)

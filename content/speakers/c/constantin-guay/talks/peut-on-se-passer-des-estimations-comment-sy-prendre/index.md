@@ -10,8 +10,7 @@ tags:
 - roadmap
 - budget
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Peut-on se passer des estimations ? Comment s'y prendre ?
   abstract: Une entrée en matière sur le mouvement NoEstimate, plus mes astuces et
     conseils pour le mettre en place chez vous, que ce soit avec une nouvelle équipe

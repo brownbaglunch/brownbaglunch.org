@@ -6,8 +6,7 @@ tags:
 - desktop
 - live-coding
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Monte le son sur ton desktop avec Electron !
   abstract: Ah ces clients lourds... Nous les avons appréciés il fut un temps... Venez
     découvrir comment Electron nous permet de créer des applications desktop performantes

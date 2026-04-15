@@ -13,8 +13,7 @@ tags:
 - sre
 - 12-factor
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment créer une (feature) team qui déchire
   abstract: Je présenterai un REX sur ce qui a permis aux équipes que j'ai eu la chance
     de cotoyer, de relever les défits les plus fou.

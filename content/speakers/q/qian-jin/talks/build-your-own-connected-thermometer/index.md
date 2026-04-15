@@ -6,8 +6,7 @@ tags:
 - mqtt
 - raspberry-pi
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Build your own connected thermometer
   abstract: Mini hacking session aims at setting up an IoT system using Raspberry
     Pi and temperature / humidity sensor, along with the chosen cloud service.

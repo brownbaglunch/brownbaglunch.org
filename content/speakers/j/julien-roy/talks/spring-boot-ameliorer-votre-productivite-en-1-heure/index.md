@@ -8,8 +8,7 @@ tags:
 - spring-boot
 - productivite
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Spring Boot, améliorer votre productivité en 1 heure
   abstract: Découvrez les arcanes interne de Spring Boot et comment utiliser le framework
     pour augmenter votre productivité. Cette session débutera par 15 minutes de présentation

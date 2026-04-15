@@ -5,8 +5,7 @@ tags:
 - conseils
 - tech-talks
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Cursus Speaker
   abstract: "Je croise souvent des sociétés et des personnes qui souhaiteraient passer\
     \ le pas et devenir speaker, se mettre en avant pour partager leurs connaissances,\

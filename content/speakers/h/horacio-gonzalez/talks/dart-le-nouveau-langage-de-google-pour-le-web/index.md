@@ -9,8 +9,7 @@ tags:
 - angularjs
 - dart
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Dart, le nouveau langage de Google pour le web
   abstract: Dans la dernière Devoxx, Google a annoncé la sortie de la version 1.0
     de leur nouveau langage pour le web, Dart. Derrière cette v1 il y a deux ans de

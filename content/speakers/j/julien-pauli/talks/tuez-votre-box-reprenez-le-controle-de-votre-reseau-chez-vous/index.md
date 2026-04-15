@@ -8,8 +8,7 @@ tags:
 - mikrotik
 - ipv6
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Tuez votre Box – Reprenez le contrôle de votre réseau, chez vous
   abstract: 'Cette conférence va montrer comment monter chez soi une infra digne d’une
     petite entreprise. Quelques idées : Infra dual-stack IPV4/IPV6 puis, VLANs pour

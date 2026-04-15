@@ -8,8 +8,7 @@ tags:
 - hacking
 - security
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Attention ! Ne mets pas cette clé: tu risques de te faire hacker très fort
     !'
   abstract: 'On nous demande souvent notre clé usb ou chargeur de téléphone. Mais

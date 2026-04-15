@@ -13,8 +13,7 @@ tags:
 - cqrs
 - ecmascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le DDD au quotidien
   abstract: Voyons ensemble des pratiques très concrète pour mieux appliquer les concepts
     du Domain Driven Design

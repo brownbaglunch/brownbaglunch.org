@@ -9,8 +9,7 @@ tags:
 - scala
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: SSL du sol au plafond
   abstract: Pour beaucoup SSL est un petit cadenas dans un navigateur. Que se cache-t-il
     derrière ? De l'assemblage cryptographique à la gestion des certificats.

@@ -10,8 +10,7 @@ tags:
 - web
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Ionic Framework, c'est aussi des outils !
   abstract: Lorsque l'on parle de Ionic, on évoque tout le temps les composants UI,
     le lien avec Angular voire avec Cordova. Mais Ionic c'est aussi un ensemble d'outils

@@ -5,8 +5,7 @@ tags:
 - continuous-delivery
 - devops
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Continuous Delivery & DevOps
   abstract: J’organise régulièrement des soirées autour du Continuous Delivery. C’est
     une pratique qu’il devient indispensable de maitriser face à la concurrence mais

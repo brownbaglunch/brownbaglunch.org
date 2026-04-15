@@ -5,8 +5,7 @@ tags:
 - cybersecurity
 - owasp-web
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Web - Top 10 OWASP - réalité ou intox ?
   abstract: 'Malgré l''augmentation du niveau de sécurité des frameworks de développement,
     les injections, fuites d''information et les possibilités de déplacements horizontaux

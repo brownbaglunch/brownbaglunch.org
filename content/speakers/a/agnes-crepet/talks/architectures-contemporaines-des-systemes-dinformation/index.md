@@ -9,8 +9,7 @@ tags:
 - bdd
 - software-design
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Architectures contemporaines des systèmes d'information
   abstract: Une des grandes difficultés qui émerge dans la mise en place et la maintenance
     d'un système d'information est la communication entre services et applications.

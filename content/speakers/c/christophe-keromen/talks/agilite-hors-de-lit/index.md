@@ -9,8 +9,7 @@ tags:
 - management
 - scrum
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Agilité hors de l'IT
   abstract: Présentation de l'agilité pour les non-informaticiens. Pourquoi s'y intéresser
     ? Quels bénéfices en attendre ? Comment s'y prendre ?

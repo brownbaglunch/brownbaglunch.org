@@ -8,8 +8,7 @@ tags:
 - agile
 - domain-driven-design
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Event Storming
   abstract: Vous souhaitez découvrir un atelier d'Event Storming ou en animer un pour
     partager sur le métier de votre produit ou d'une nouvelle fonctionnalité en équipe,

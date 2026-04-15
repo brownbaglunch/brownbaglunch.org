@@ -7,8 +7,7 @@ tags:
 - javascript
 - typescript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Vue.js, une alternative à Angular et React
   abstract: Découvrir Vue.js en alternative à Angular et React
 ---

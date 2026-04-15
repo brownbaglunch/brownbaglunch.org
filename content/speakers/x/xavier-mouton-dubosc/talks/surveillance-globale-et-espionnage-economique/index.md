@@ -7,8 +7,7 @@ tags:
 - chiffrement
 - ethique
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Surveillance globale et espionnage économique
   abstract: Mythes et réalités sur les programmes étatiques de surveillance globale
     et compétition économique

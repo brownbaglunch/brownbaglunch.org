@@ -8,8 +8,7 @@ tags:
 - pair-programming
 - mob-programming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Dojo
   abstract: 'Le dojo de programmation est un endroit pour travailler nos compétences
     ensemble. Le programme : on choisit un petit exercice de programmation, de simple

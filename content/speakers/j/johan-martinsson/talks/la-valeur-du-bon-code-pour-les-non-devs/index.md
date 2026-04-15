@@ -11,8 +11,7 @@ tags:
 - live-coding
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La valeur du bon code pour les non-devs
   abstract: La valeur métier du bon code est difficile à appréhender, même parfois
     pour les développeurs. Comment pouvons-nous espérer qu'on nous demande d'en faire?

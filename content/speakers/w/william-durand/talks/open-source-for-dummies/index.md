@@ -12,8 +12,7 @@ tags:
 - docker
 - open-source
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Open Source For Dummies
   abstract: Qu'est-ce que l'Open Source ? Comment fait-on pour y participer ? Mais
     surtout, pourquoi c'est bien pour votre entreprise.

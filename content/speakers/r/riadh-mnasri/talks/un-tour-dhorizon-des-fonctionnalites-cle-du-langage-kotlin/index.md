@@ -5,8 +5,7 @@ tags:
 - java
 - kotlin
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Un tour d''horizon des fonctionnalités clé du langage Kotlin '
   abstract: Une session de présentation des fonctionnalités clé de Kotlin avec Live
     Coding

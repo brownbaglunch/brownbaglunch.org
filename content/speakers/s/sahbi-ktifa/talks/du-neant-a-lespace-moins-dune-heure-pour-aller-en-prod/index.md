@@ -8,8 +8,7 @@ tags:
 - heroku
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Du néant à l'espace, moins d'une heure pour aller en prod
   abstract: La NASA a besoin de nous, après le live youtube en continu depuis l'ISS,
     l'agence spatiale américaine veut proposer aux utilisateurs de situer exactement

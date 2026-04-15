@@ -11,8 +11,7 @@ tags:
 - spring
 - spring-boot
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Eliminez rapidement des bottlenecks de performance avec QuickPerf
   abstract: 'Supposons que vous développiez une application : comment détecter rapidement
     la présence d''importants bottlenecks ? Comment savoir rapidement que le code

@@ -8,8 +8,7 @@ tags:
 - chef
 - tdd
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction au Cloud
   abstract: ''
 ---

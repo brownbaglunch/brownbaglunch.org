@@ -8,8 +8,7 @@ tags:
 - conflation
 - performance
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Haut débit et faible latence
   abstract: 'Programmation réactive: cas concret de conception via un système de trading
     électronique, le Pasta Pricer. Cette session interactive permet de découvrir et

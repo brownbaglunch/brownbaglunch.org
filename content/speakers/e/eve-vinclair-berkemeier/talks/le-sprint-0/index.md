@@ -5,8 +5,7 @@ tags:
 - gestion-de-projet-agile
 - bdd
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le Sprint 0
   abstract: 'Pour les confirmés en gestion de projet agile : préparer un Sprint 0
     en utilisant le BDD'

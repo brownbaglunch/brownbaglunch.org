@@ -8,8 +8,7 @@ tags:
 - git
 - mongodb
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Git, moi aussi !
   abstract: Présentation sur ce qu'est Git et comment en bénéficier au quotidien sur
     votre poste de développeur en attendant qu'il soit autorisé par votre hierarchie.

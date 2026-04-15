@@ -13,8 +13,7 @@ tags:
 - debian
 - proxmox
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Behat
   abstract: Devenez un testeur Behat et coller au plus près des specs de votre clients.
     Simple mais powerfull.

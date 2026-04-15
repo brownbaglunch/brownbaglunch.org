@@ -7,8 +7,7 @@ tags:
 - gestion-de-source
 - process
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Git reset, le mal compris
   abstract: Découvrez la puissance cachée de la commande `git reset`
 ---

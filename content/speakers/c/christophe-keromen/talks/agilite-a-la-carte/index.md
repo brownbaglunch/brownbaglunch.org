@@ -9,8 +9,7 @@ tags:
 - management
 - scrum
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Agilité à la carte
   abstract: Vous vous posez des questions sur un sujet lié à l'agilité ? Contactez-moi,
     on en parle ensemble pendant 1h

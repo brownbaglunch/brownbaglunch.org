@@ -11,8 +11,7 @@ tags:
 - entreprise-agile
 - sociocratie
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Jamais en retard, jamais stressé : gérer son temps efficacement'
   abstract: Une bonne gestion du temps c'est 2 jours de formation et deux ans d'exercices
     mais en 1 heure on peut déjà faire un tour rapide de 10 astuces pour ne plus subir

@@ -18,8 +18,7 @@ tags:
 - solr
 - webdriver
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Appropriation de données, parsing, formatting
   abstract: Aller chercher, parser, reconnaitre, stocker, restituer, utiliser le web
     comme une immense base de données formatée ouverte c'est maintenant possible.

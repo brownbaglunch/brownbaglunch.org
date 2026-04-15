@@ -10,8 +10,7 @@ tags:
 - clean-code
 - craftsmanship
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Coding Dojo
   abstract: Une session où c'est vous qui pratiquez. Moi, je ne fais que poser des
     questions :). Comme c'est vous qui allez bosser, c'est vous qui choisissez le

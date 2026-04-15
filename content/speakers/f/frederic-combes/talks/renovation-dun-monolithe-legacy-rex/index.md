@@ -8,8 +8,7 @@ tags:
 - spring
 - legacy-code
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Rénovation d’un monolithe legacy - REX
   abstract: Retour d’expérience sur la transformation d’un monolithe legacy en une
     application moderne en architechture exagonale. Comment amorcer le virage, comment

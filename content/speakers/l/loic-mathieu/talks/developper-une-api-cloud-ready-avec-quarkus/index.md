@@ -6,8 +6,7 @@ tags:
 - kafka
 - streaming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Développer une API Cloud Ready avec Quarkus
   abstract: Quarkus est un nouveau framework de développement de microservice en Java.
     A sa sortie il a suscité pas mal de buzz. Il a été pensé pour le développement

@@ -10,8 +10,7 @@ tags:
 - moteurs-de-regles
 - net
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Construire un moteur de règles en C# en 1h chrono
   abstract: À travers une session de live coding, je vais vous montrer qu'il est possible
     de créer un petit moteur de règles en C# en moins d'1h grâce aux Expression Trees.

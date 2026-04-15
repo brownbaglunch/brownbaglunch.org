@@ -5,8 +5,7 @@ tags:
   - elasticsearch
   - security
 versions:
-  - label: EN
-    flag: gb
+  - lang: EN
     title: Identify threats with Elastic SIEM
     abstract: |
       Knowing what is going on in your environment is an important part of staying on top of security issues. But how do you capture relevant metrics and visualize them? One widely-used tool for that job is the Elastic Stack, formerly known as the ELK stack. This talk shows how to ingest relevant metrics from your network and hosts as well as how to easily visualize them to find suspicious patterns and behaviors. We will be also using the latest tool named SIEM.
@@ -20,8 +19,7 @@ versions:
       * Finally we will use the Kibana SIEM app to see how everything is now getting easy to track for attacks.
 
       Everything done live.
-  - label: FR
-    flag: fr
+  - lang: FR
     title: Identifier les menaces avec Elastic SIEM
     abstract: |
       Savoir ce qui se passe dans votre environnement est une part importante pour être informé de problèmes de sécurité. Mais comment capturer et visualiser les informations pertinentes ? Un outil open source est mondialement utilisé pour cela : la suite Elastic. Ce talk vous fera découvrir par la pratique comment ingérer les données utiles provenant de votre couche réseau, de vos machines, de vos logs ainsi que le moyen de facilement les visualiser afin d’identifier des patterns et comportements suspicieux. Nous utiliserons notamment pour cela le tout dernier outil SIEM de la suite Elastic.

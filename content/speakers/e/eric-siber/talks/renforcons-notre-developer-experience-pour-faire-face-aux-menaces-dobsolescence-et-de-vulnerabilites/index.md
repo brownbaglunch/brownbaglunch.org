@@ -9,8 +9,7 @@ tags:
 - maven
 - live-coding
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Renforçons notre Developer eXperience pour faire face aux menaces d'obsolescence
     et de vulnérabilités
   abstract: Je vous aide à prendre conscience des biais de la revue de code systématique

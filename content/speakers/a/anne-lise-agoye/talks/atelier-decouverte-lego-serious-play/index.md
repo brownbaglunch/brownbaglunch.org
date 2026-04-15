@@ -6,8 +6,7 @@ tags:
 - intelligence-collective
 - serious-game
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Atelier découverte LEGO® SERIOUS PLAY®
   abstract: Au cours d'un atelier d'une heure, je vous propose de découvrir la méthode
     LEGO® SERIOUS PLAY®. Cette méthode stimule la réflexion, la communication et la

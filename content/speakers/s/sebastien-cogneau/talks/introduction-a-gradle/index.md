@@ -10,8 +10,7 @@ tags:
 - rpm
 - gradle
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction à Gradle
   abstract: Maven a amené énormément de bonnes idées pour créer son build, Gradle
     capitalise sur ces pratiques pour offrir une alternative à Maven. Dans cette session

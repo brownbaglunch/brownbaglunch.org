@@ -8,8 +8,7 @@ tags:
 - devops
 - cloud
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Transform your Legacy Application with Kubernetes and Istio
   abstract: Kubernetes is often used to run micro-services based applications. Istio's
     service mesh adds even more power and flexibility to those applications. But what

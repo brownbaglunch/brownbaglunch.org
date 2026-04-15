@@ -5,8 +5,7 @@ tags:
 - vim
 - editeur
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Un éditeur de texte, pourquoi pas Vim
   abstract: Le choix d'un éditeur de texte pour un développeur appelle souvent de
     débats passionnés. C'est une bonne chose. De mon côté, je vous parlerai de ce

@@ -11,8 +11,7 @@ tags:
 - meddlers
 - extreme-programming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Jouons avec votre organisation
   abstract: Grâce au Meddlers de Jurgen Appelo (Management 3.0). Ce serious game va
     vous permettre de modéliser votre structure organisationnelle et de vous servir

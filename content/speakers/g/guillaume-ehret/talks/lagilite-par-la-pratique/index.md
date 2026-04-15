@@ -11,8 +11,7 @@ tags:
 - angularjs
 - yeoman
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: L'agilité par la pratique
   abstract: Vous vous demandez comment démarrer un projet agile? Vous avez déjà pratiqué
     l'agilité au sein de votre structure mais vous rencontrez quelques problèmes?

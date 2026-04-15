@@ -7,8 +7,7 @@ tags:
 - methodes-agiles
 - coach-agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Scrum
   abstract: Un cadre de travail (framework) au sein duquel les acteurs peuvent aborder
     des problèmes complexes et adaptatifs, en livrant de manière efficace et créative

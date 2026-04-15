@@ -12,8 +12,7 @@ tags:
 - cqrs
 - ecmascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: TDD by example
   abstract: Introduction concrète au Test Driven Development, selon le livre de Kent
     Beck, adapté aux technos Microsoft (Méthodes, Utilisation de MSTests ou Nunit)

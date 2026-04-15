@@ -6,8 +6,7 @@ tags:
 - si
 - tooling
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment développer un outil qui permet de rendre vos collaborateurs plus
     efficaces.
   abstract: Vous souhaitez simplifier la vie de vos collaborateurs en automatisant

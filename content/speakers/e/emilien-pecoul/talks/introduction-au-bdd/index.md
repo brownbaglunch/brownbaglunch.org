@@ -12,8 +12,7 @@ tags:
 - cqrs
 - ecmascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Introduction au BDD
   abstract: Le Behavior Driven Development est le prolongement coté Spécification
     du TDD. Cette session vous montrera l'intérêt et la mise en oeuvre de cette méthode

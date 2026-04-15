@@ -7,8 +7,7 @@ tags:
 - serious-game
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Innovation games
   abstract: Vous souhaitez découvrir des innovation games ou en animer pour imaginer
     un produit avec Product Box, prioriser ses fonctionnalités avec Buy a feature

@@ -6,8 +6,7 @@ tags:
 - platform-engineering
 - full-cycle
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Pourquoi mettre en place une équipe Platform Engineering ?
   abstract: 'Avec le passage à l''ère Full Cycle, les développeur·euse·s ont maintenant
     à leur charge l''entièreté du cycle de développement : concevoir, développer,

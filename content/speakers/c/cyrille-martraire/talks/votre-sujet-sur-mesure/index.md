@@ -10,8 +10,7 @@ tags:
 - clean-code
 - test
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Votre sujet sur-mesure
   abstract: 'Atelier sur papier, en code autour d''un kata original, présentation
     ou retour d''expérience sur l''un des thèmes qui me passionnent: TDD, BDD, DDD,

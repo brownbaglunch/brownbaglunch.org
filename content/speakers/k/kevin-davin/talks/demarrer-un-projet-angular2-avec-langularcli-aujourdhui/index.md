@@ -9,8 +9,7 @@ tags:
 - tdd
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Démarrer un projet Angular2 avec l'AngularCLI aujourd'hui !
   abstract: Pourquoi vous embêter avec tout l'environnement Javscript alors que la
     CLI est faîtes pour vous aider à démarrer... voir même plus ! Vous ne la quitterez

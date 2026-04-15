@@ -8,8 +8,7 @@ tags:
 - android
 - security
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Le secret de nouvelles architectures: Code Réactif et persistance versionnée.'
   abstract: Comment améliorer les performances de votre SI pour encaisser la multiplication
     par 10 de vos hits, suite à la publication d'une API pour votre application mobile

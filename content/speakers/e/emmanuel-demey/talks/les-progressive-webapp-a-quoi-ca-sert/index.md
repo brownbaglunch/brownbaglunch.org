@@ -8,8 +8,7 @@ tags:
 - mobile
 - service-worker
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Les progressive webapp, à quoi ça sert ? '
   abstract: A travers ce BBL, nous allons rendre une application existante compatible
     avec les standards derrière le terme Progressive Webapp

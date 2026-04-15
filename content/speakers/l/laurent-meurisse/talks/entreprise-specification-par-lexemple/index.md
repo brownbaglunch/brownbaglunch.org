@@ -6,8 +6,7 @@ tags:
 - lean-startup
 - impact-mapping
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Entreprise: Spécification par l''exemple'
   abstract: Pour mieux travailler collaborativement, en spécifiant et testant les
     objectifs produits de manière agile

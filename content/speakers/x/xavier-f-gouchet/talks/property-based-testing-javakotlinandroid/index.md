@@ -9,8 +9,7 @@ tags:
 - java
 - kotlin
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Property Based Testing (Java/Kotlin/Android)
   abstract: Avoir des tests, c'est bien. Avoir de bons tests, c'est mieux ! Mais lorsque
     vos tests utilisent des données statiques, vous ne testez qu'un scope restreint,

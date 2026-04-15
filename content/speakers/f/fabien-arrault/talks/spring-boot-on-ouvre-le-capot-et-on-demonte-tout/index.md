@@ -5,8 +5,7 @@ tags:
 - spring
 - spring-boot
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Spring Boot : on ouvre le capot et on démonte tout !'
   abstract: 'Spring Boot facilite grandement la mise en place d''une application utilisant
     l''écosystème Spring. Oui mais voilà son usage se rapproche souvent de la magie

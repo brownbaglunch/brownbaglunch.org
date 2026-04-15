@@ -8,8 +8,7 @@ tags:
 - emacs-lisp
 - common-lisp
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Quelques extensions PostgreSQL
   abstract: Présentation détaillée de cas d'usages avancés resolus avec des extensions
     PostgreSQL.

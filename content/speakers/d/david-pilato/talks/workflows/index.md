@@ -6,8 +6,7 @@ tags:
   - ai
   - automation
 versions:
-  - label: EN
-    flag: gb
+  - lang: EN
     title: "Don't Panic: The Lazy Speaker's Guide to CFP Triage"
     abstract: |
       Every new CFP triggers the same ritual:
@@ -30,8 +29,7 @@ versions:
       In this session, I'll show you — live, no slides — how I put all of this together to build an agent that does the work for us. One URL in ➡️ one complete GitHub issue out. With human validation, because I trust AI but not blindly. 👀
 
       Whether you track CFPs or not, the patterns are here. Come for the lazy automation, stay for the architecture. So long, and thanks for all the fish. 🐟
-  - label: FR
-    flag: fr
+  - lang: FR
     title: "Don't Panic : Le Guide du Speaker Fainéant pour ses CFPs"
     abstract: |
       À chaque nouveau CFP, c'est le même rituel :

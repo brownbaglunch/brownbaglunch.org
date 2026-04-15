@@ -8,8 +8,7 @@ tags:
 - devops
 - security
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Premiers pas avec Docker
   abstract: Il s’agit dans un premier temps de présenter Docker, ses cas d’usage et
     quelques bonnes pratiques d’utilisation. Le but est de présenter Docker, son mode

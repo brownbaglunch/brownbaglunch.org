@@ -13,8 +13,7 @@ tags:
 - debian
 - proxmox
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Docker sur votre poste de dev comme en Prod
   abstract: Decouverte de Docker à travers une approche kubernetes.
 ---

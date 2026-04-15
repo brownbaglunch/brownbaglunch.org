@@ -6,8 +6,7 @@ tags:
 - lean-startup
 - team
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Mais pourquoi y m'écoute pas ?
   abstract: Je vous propose de vous donner quelques pistes pour écouter efficacement
     et baillonner votre 'Moi-je'. Nous aborderons également certains aspects du modèle

@@ -10,8 +10,7 @@ tags:
 - cassandra
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Hadoop: Programmation de jobs'
   abstract: 'Un aperçu des principales techniques de programmation de jobs Hadoop
     : Java Map/Reduce, Hive, Pig.'

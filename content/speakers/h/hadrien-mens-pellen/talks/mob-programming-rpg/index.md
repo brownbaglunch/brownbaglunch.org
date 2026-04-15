@@ -4,8 +4,7 @@ url: speakers/hadrien-mens-pellen/talks/mob-programming-rpg/
 tags:
 - mob-programming
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Mob Programming RPG
   abstract: 'Apprenons ensemble à travers un jeu de rôle à mieux travailler ensemble
     à plusieurs. Nous ferons un exercice simplissime de code comme prétexte à ce jeu.

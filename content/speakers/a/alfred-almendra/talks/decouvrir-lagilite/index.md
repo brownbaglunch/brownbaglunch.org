@@ -13,8 +13,7 @@ tags:
 - visual-management
 - management-3-0
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découvrir l'agilité
   abstract: Les jeux de sensibilisation permettent de se familiariser avec les valeurs
     et les principes agiles.

@@ -7,8 +7,7 @@ tags:
 - memoire
 - performance
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'OutOfMemoryError : Quel est le coût des objets en Java'
   abstract: A Ullink, nos Heaps sont habituellement plutôt large (jusqu'à 256 Go)
     et nous gérons un large volume de données. Mais nous avons observé que la majorité

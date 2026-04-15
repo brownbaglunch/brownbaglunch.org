@@ -6,8 +6,7 @@ tags:
 - scrum
 - kanban
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Agilité: passer à la vitesse supérieure'
   abstract: Lorsque l'on travaille en agile depuis un certain temps, on peut avoir
     de bonnes bases sans nécessairement ressentir les avantages. Le but est de faire

@@ -10,8 +10,7 @@ tags:
 - ansible
 - intellij
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Coding Dojo Java
   abstract: Je souhaite que l'on échange sur nos pratiques de développement et de
     tests lors d'un randori.<br />Nous définirons ensemble l'objectif du coding dojo,

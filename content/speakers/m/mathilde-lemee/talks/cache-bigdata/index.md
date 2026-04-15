@@ -8,8 +8,7 @@ tags:
 - mobile
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Cache & BigData
   abstract: 'Différents sujets : Terracotta, ehcache, clustering, scalabilité, concepts
     avancés sur le cache ...'

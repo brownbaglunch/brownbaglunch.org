@@ -6,8 +6,7 @@ tags:
 - performance
 - web
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La trousse à outil du développement web moderne
   abstract: 'En 10 ans le paysage du développement web a été complètement chamboulé.
     Arrivée du mobile, adoption massive de git, recours aux méthodes agiles, essor

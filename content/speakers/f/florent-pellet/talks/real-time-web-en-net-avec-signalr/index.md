@@ -15,8 +15,7 @@ tags:
 - spa
 - web
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Real-time web en .NET avec SignalR
   abstract: Vous trouvez que réaliser une application web temps réel, comme Google
     Documents ou des jeux en ligne (y compris IE) c’est compliqué ? Alors invitez-moi

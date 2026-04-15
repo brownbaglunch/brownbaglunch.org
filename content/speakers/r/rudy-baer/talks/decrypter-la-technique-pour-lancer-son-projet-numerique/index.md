@@ -9,8 +9,7 @@ tags:
 - projet
 - numerique
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Décrypter la technique pour lancer son projet numérique
   abstract: 'Vous souhaitez lancer votre startup ? Vous avez un projet numérique innovant
     ? Problème, vous n''avez aucune connaissance technique... ou pire, vous avez installé

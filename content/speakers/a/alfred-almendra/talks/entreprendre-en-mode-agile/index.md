@@ -13,8 +13,7 @@ tags:
 - visual-management
 - management-3-0
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Entreprendre en mode agile
   abstract: Présentation des techniques popularisées par le Lean Startup pour construire
     un modèle économique de façon empirique.

@@ -11,8 +11,7 @@ tags:
 - design-thinking
 - customer-centric
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Facilitation à l’innovation
   abstract: Tout le monde peut avoir des idées innovantes, mais la vraie réussite
     consiste à identifier les obstacles et les transformer en opportunités. Le facilitateur

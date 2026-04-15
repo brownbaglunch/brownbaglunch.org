@@ -5,8 +5,7 @@ tags:
 - redmine
 - ruby-on-rails
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Pourquoi on devrait tous avoir un outil de ticketing chez soi ?
   abstract: Les outils de ticketing sont très utilisés pour suivre le développement
     du logiciel, mais ils peuvent aussi être utilisés pour suivre n'importe quel type  de

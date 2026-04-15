@@ -12,8 +12,7 @@ tags:
 - asynchronous
 - architecture
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Retour d''EXperience PagesJaunes : les transactions dans une architecture
     microservices'
   abstract: Comment sécuriser les transactions dans une architecture distribuée (microservices)

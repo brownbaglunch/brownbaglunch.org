@@ -10,8 +10,7 @@ tags:
 - metriques-business
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Transformez vos logs en insights avec ELK
   abstract: 'Les logs sont une mine d’informations. Cependant, les transformer en
     métriques faciles à comprendre peut s''avérer une tâche ardue : chaque application

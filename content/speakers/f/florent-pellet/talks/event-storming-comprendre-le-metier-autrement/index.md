@@ -15,8 +15,7 @@ tags:
 - spa
 - web
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Event Storming: comprendre le métier autrement'
   abstract: Une méthode efficace et rapide pour explorer votre domaine métier simplement.
 ---

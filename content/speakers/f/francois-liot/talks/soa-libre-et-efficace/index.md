@@ -18,8 +18,7 @@ tags:
 - outils
 - strategie
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: SOA libre et efficace
   abstract: Apache Servicemix, Apache Activemq, Apache Camel, Hawtio, en architecture
     OSGI et microservices, parce que l'on a toujours besoin de communiquer entre plusieurs

@@ -11,8 +11,7 @@ tags:
 - architecture
 - net
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Sujet F# sur mesure
   abstract: Demandez-moi ce que vous voulez à ce sujet.
 ---

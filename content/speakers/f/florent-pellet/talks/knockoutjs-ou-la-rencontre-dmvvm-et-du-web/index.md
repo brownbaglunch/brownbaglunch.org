@@ -15,8 +15,7 @@ tags:
 - spa
 - web
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Knockout.js, ou la rencontre d'MVVM et du Web
   abstract: Découverte du Single Page Application avec Knockout.js. C’est l'occasion
     de découvrir des méthodes pour structurer vos applications Web, et améliorer l'expérience

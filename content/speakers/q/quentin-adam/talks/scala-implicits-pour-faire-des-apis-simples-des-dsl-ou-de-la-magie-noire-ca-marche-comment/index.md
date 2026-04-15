@@ -4,8 +4,7 @@ url: speakers/quentin-adam/talks/scala-implicits-pour-faire-des-apis-simples-des
 tags:
 - scala
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Scala Implicits: pour faire des APIs simples, des DSL ou de la magie noire,
     ça marche comment ?'
   abstract: C’est quoi un implicit ? Pourquoi ça existe dans le langage ? Le lien

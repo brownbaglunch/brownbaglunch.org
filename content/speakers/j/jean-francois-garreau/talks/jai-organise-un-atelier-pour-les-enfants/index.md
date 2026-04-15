@@ -6,8 +6,7 @@ tags:
 - decouverte
 - devoxx4kids
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: J'ai organisé un atelier pour les enfants
   abstract: "Les Devoxx4Kids, vous connaissez ? Mais si vous savez, ces ateliers pour\
     \ faire découvrir la programmation aux plus petits ? Je vais vous faire un petit\

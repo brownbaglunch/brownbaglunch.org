@@ -5,8 +5,7 @@ tags:
 - agile
 - scrum
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Scrum c'est quoi ?
   abstract: Quelles sont les bases de Scrum et pourquoi c'est déjà un bon départ ?
 ---

@@ -7,8 +7,7 @@ tags:
 - revue-de-presse
 - curation
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Veille technologique : mise en place et partage'
   abstract: Découvrez une méthode sans algorithme et centrée sur les flux RSS, newsletters
     personnalisables et agrégation intelligente. Vous mettrez en place votre propre

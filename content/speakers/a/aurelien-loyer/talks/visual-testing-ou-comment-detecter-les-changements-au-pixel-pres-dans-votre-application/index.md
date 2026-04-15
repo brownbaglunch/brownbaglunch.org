@@ -7,8 +7,7 @@ tags:
 - angular
 - express
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Visual testing - Ou comment détecter les changements au pixel près dans votre
     application
   abstract: 'Avec le nombre d''applications grandissantes il devient important de

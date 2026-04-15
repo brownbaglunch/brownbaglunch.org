@@ -9,8 +9,7 @@ tags:
 - test
 - nfluent
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: As if you meant it
   abstract: 'Présentation de NFluent: l''outil .NET qu''il vous manquait pour booster
     le TDD dans votre équipe. Diapos et live coding inside.'

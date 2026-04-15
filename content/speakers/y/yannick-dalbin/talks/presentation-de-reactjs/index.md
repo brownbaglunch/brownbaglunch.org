@@ -8,8 +8,7 @@ tags:
 - vue
 - component
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Présentation de React.js
   abstract: React.js tout le monde en parle et ce n'est pas pour rien ! Cette librairie
     bouscule les codes de développement pour le frontend et rend le dév passionant

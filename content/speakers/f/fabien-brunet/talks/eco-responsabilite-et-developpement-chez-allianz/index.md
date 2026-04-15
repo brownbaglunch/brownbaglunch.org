@@ -6,8 +6,7 @@ tags:
 - developpement
 - sustainable
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Eco-responsabilité et développement chez Allianz
   abstract: 'Depuis 3 ans, un groupe de travail collabore autour du sujet de l''empreinte
     carbone chez Allianz et les usages pour la réduire. Fort et fière de sa communauté

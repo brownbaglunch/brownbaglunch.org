@@ -8,8 +8,7 @@ tags:
 - recruiting
 - formation
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Ruby
   abstract: Introduction au langage de programmation Ruby
 ---

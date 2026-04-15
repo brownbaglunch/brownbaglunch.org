@@ -9,8 +9,7 @@ tags:
 - methodes
 - fun
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: The fine art of deploying web apps online
   abstract: 'Dire adieu au FTP et automatiser simplement le déploiement, cela n''est
     pas réservée à de grosses entreprises : nous l''appliquerons ici à des projets

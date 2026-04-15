@@ -6,8 +6,7 @@ tags:
 - swift
 - mobile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Tests et couverture de code pour Swift
   abstract: Une des annonces de la WWDC 2015 qui nous a le plus surpris intéressés
     a été, sans doute, le support de métriques de couverture de code en Swift. Grâce

@@ -6,8 +6,7 @@ tags:
 - paas
 - devops
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: C'est quoi Clever Cloud et comment ça marche ?
   abstract: Une rapide demo de Clever Cloud et de pourquoi on l'a construit et comment.
     L'idée est de découvrir le fonctionnement de l'outil afin d'envisager si ça peut

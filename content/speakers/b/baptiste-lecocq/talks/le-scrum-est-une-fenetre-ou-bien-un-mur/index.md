@@ -7,8 +7,7 @@ tags:
 - agile
 - rex
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le Scrum est une fenêtre (ou bien un mur)
   abstract: Après de longs mois d'application de "Scrum by the book" dans une feature
     team de 5 personnes, tout est très bien maîtrisé. Un peu trop ? Le cadre du Scrum

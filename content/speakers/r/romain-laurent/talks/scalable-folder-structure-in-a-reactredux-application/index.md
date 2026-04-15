@@ -7,8 +7,7 @@ tags:
 - redux
 - domain-driven-design
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Scalable Folder Structure in a React/Redux Application
   abstract: Je serai prêt à animer cette session à partir de juin 2019.
 ---

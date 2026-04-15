@@ -7,8 +7,7 @@ tags:
 - alm
 - workshop
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Lego4DevOps
   abstract: Sensibilisation à l'intérêt du DevOps à travers un jeu Lego visant à reconcilier
     développeurs et opérationnels.

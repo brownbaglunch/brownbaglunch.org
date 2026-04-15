@@ -9,8 +9,7 @@ tags:
 - management
 - scrum
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Product Owner
   abstract: Quelles sont les reponsabilités du responsable produit agile ? Comment
     estimer, planifier ?

@@ -8,8 +8,7 @@ tags:
 - agile
 - scrum
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Tests unitaires et TDD : la pratique :'
   abstract: Je vous propose de venir animer un coding-dojo 'randori' pour mettre en
     pratique les rudiments du TDD sur des défis simples, et constater par vous même

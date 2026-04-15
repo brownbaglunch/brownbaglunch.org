@@ -6,8 +6,7 @@ tags:
 - javaee
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: WebSocket avec Java EE 7
   abstract: Présentation de WebSocket, protocole de communication orienté temps réel
     pour le web, ainsi que son API dans Java EE 7, avec retour d'expérience de développement

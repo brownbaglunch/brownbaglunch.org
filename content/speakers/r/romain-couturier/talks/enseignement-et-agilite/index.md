@@ -11,8 +11,7 @@ tags:
 - jeux-agiles
 - lean-startup
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Enseignement et Agilité
   abstract: Retour d'expériences sur l'enseignement de l'Agilité dans les universités
     ... en mode Agile bien sûr.

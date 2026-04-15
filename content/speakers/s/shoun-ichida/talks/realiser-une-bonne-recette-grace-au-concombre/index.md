@@ -7,8 +7,7 @@ tags:
 - bdd
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Réaliser une bonne recette grâce au concombre
   abstract: 'Les méthodologies de développement type ''tests first'' sont en plein
     essor : TDD, ATDD, BDD... À travers ce meetup, je vous propose de mettre en pratique

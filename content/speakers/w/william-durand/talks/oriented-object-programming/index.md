@@ -12,8 +12,7 @@ tags:
 - docker
 - open-source
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Oriented Object Programming
   abstract: Présentation de divers concepts de programmation orientée objet permettant
     d'améliorer son code, avec quelques aspects philosophiques tout de même.

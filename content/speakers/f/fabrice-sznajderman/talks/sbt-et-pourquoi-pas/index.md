@@ -7,8 +7,7 @@ tags:
 - functional-programming
 - sbt
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: SBT et pourquoi pas?
   abstract: SBT est un outil de build mais pas que,l'idée de cette présentation est
     de mettre en avant ce que SBT peut apporter en plus dans le quotidien du développeur

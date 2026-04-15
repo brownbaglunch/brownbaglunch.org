@@ -6,8 +6,7 @@ tags:
 - lean-startup
 - team
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Cheap user testing
   abstract: Avec le cheap user testing, armez-vous pour lancer des tests utilisateurs
     dans votre entreprise dès demain, même avec peu de moyens, même avec peu de temps,

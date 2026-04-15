@@ -8,8 +8,7 @@ tags:
 - spring-boot
 - productivite
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Se lancer dans l'aventure microservices avec Spring Cloud
   abstract: Vous êtes convaincus par l’architecture microservices et vous souhaitez
     vous lancer dans l'aventure. Durant cette session, nous expliquons comment démarrer

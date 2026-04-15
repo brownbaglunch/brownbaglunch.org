@@ -7,8 +7,7 @@ tags:
 - erlang
 - javascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Erlang...
   abstract: C'est quoi Erlang? Ca marche comment? Pourquoi je dois faire de l'Erlang?
 ---

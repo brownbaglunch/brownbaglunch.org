@@ -10,8 +10,7 @@ tags:
 - collaboration
 - equipe
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment rater ses communautés de pratiques
   abstract: Une des clés de l'efficacité d'un modèle à l'échelle est la capacité des
     équipes à communiquer et à avancer dans le même sens. Quelles sont les erreurs

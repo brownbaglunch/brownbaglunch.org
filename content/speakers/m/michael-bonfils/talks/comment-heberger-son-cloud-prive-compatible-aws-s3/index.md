@@ -7,8 +7,7 @@ tags:
 - raspberry-pi
 - private
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment héberger son cloud privé compatible AWS S3
   abstract: Avec un cluster Raspberry Pi3, de serveur chez un hébergeur ou de votre
     propre data center, apprenez à déployer & configurer vos outils sur votre propre

@@ -5,8 +5,7 @@ tags:
 - monolithe
 - microservices
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Du monolithe aux micro services depuis les tranchées.
   abstract: Le but de ce BBL est vous faire un retour d’expérience sur le passage
     d’une application monolithique à une architecture sous forme de micro-services.

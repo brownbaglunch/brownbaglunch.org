@@ -9,8 +9,7 @@ tags:
 - healthkit
 - google-fit
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Initiation aux Objets Connectés
   abstract: Vous entendez parler des objets connectés, mais vous ne savez pas quel
     côté l'aborder. Les termes Wifi, BLE vous sont familiers, mais vous ne voyez pas

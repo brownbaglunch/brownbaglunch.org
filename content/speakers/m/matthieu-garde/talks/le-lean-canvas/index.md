@@ -9,8 +9,7 @@ tags:
 - lean-canvas
 - running-lean
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Le Lean Canvas
   abstract: Comment documenter son idée et ses hypothèses sur une seule page A4
 ---

@@ -8,8 +8,7 @@ tags:
 - kotlin
 - gradle
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Comment Gradle peut simplifier votre vie (Gradle/Android/Kotlin)
   abstract: Tout développeur Android et beaucoup de développeurs Java connaissent
     Gradle. Cependant les fichiers de configuration deviennent souvent complexes,

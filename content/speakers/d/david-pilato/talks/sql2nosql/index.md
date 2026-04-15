@@ -5,8 +5,7 @@ tags:
   - elasticsearch
   - nosql
 versions:
-  - label: EN
-    flag: gb
+  - lang: EN
     title: "Elastify your app: from SQL to NoSQL"
     abstract: |
       During this "live coding" talk, Tugdual and David will move an old-fashion full SQL application to the NoSQL world.
@@ -23,8 +22,7 @@ versions:
       - Caching / Memcache
       - Full text search
       - Building live dashboards with Kibana
-  - label: FR
-    flag: fr
+  - lang: FR
     title: "Elastifiez votre application : du SQL au NoSQL"
     abstract: |
       Pendant cette session de "live coding", Tugdual et David migreront une application full SQL à l'ancienne vers le monde NoSQL.

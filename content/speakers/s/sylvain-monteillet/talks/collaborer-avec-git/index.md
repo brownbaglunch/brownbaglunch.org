@@ -4,8 +4,7 @@ url: speakers/sylvain-monteillet/talks/collaborer-avec-git/
 tags:
 - git
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Collaborer avec Git
   abstract: 'Dans cette présentation, nous allons aborder des outils mis à disposition
     par git nous permettant de gérer nos commits ainsi que ceux des gens avec qui

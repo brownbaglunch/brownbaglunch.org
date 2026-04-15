@@ -8,8 +8,7 @@ tags:
 - methodo
 - interview
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Tests utilisateurs - Tips and tricks
   abstract: Vous voulez tout savoir sur les tests utilisateurs ? Je suis votre homme
     !

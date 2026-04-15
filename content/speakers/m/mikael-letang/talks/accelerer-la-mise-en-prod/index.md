@@ -7,8 +7,7 @@ tags:
 - trunk-based-development
 - feature-toggle
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Accélérer la mise en prod
   abstract: Comment raccourcir le délai entre l'expression d'un besoin et l'utilisation
     en production du code correspondant, tout en s'assurant de sa qualité ? Présentation

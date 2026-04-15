@@ -6,8 +6,7 @@ tags:
 - meditation
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: L'aventure intérieure
   abstract: Mieux appréhender, grace aux neurosciences et à la méditation, ce qui
     peut nous apparaître difficile dans le changement et identifier des pistes pour

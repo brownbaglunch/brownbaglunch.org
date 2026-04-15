@@ -6,8 +6,7 @@ tags:
 - javascript
 - scala
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Programmation Fonctionnelle en JavaScript
   abstract: Le JavaScript est fonctionnel probablement depuis le début, mais c'est
     aussi un très bon langage pour s'initier à d'autres concepts comme les Functors,

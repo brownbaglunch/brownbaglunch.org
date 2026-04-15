@@ -13,8 +13,7 @@ tags:
 - visual-management
 - management-3-0
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Créer de la valeur et innover
   abstract: Les ateliers UX et autres jeux sérieux sont un moyen efficace de créer
     de la valeur et d'innover. Ils permettent notamment d'obtenir un feedback rapide

@@ -10,8 +10,7 @@ tags:
 - message-oriented-middleware
 - asynchronous
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Pimentez votre 'carto' avec du temps réel
   abstract: 'Le temps réel : c''est facile et rapide avec le protocole ServerSentEvent
     - (NodeJS, RabbitMQ, protocole SSE). Partez d’une base Node, saupoudrez d’un peu

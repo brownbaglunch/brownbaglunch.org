@@ -10,8 +10,7 @@ tags:
 - search
 - reactive
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: A la découverte de Couchbase
   abstract: Je vous propose de découvrir Couchbase, la base de donnée NoSQL qui aime
     le SQL.

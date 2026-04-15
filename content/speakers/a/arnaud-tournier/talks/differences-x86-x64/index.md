@@ -9,8 +9,7 @@ tags:
 - performance
 - client
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Différences x86 / x64
   abstract: Petit tour des différences, notamment en ce qui concerne les piles d'appel
     et le mécanismes de gestion des exceptions. Exemple avec une bibliothèque maison

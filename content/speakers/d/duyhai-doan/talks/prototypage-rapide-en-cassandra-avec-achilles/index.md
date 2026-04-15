@@ -4,8 +4,7 @@ url: speakers/duyhai-doan/talks/prototypage-rapide-en-cassandra-avec-achilles/
 tags:
 - cassandra
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Prototypage rapide en Cassandra avec Achilles
   abstract: 'Avec l''arrivée du language de requêtage <strong>CQL3</strong>, <strong>Cassandra</strong>
     a rendu son modèle de développement plus accessible aux développeurs.<br/><strong>Achilles</strong>

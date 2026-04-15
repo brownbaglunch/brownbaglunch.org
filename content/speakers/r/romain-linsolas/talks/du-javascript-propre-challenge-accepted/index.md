@@ -5,8 +5,7 @@ tags:
 - javascript
 - usine-logicielle
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Du JavaScript propre ? Challenge Accepted!
   abstract: Ecrire du code JavaScript propre, c'est aujourd'hui possible. L'écosystème
     autour de ce langage a atteint une maturité suffisante pour se lancer dans le

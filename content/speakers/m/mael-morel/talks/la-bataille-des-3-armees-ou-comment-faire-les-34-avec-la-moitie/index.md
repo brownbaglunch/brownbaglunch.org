@@ -6,8 +6,7 @@ tags:
 - scrum
 - produit
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La bataille des 3 armées, ou comment faire les 3/4 avec la moitié
   abstract: On vous dit que l'agilité c'est très bien mais qu'il faut respecter rigoureusement
     le planning et que tout est urgent ? Pour répondre, rien de tel qu'une démonstration

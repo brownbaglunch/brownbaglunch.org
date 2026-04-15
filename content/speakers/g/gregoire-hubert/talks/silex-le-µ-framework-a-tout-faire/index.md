@@ -8,8 +8,7 @@ tags:
 - pomm
 - sql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Silex : le µ-framework à tout faire'
   abstract: Silex, un petit framework monté sur les épaules de Symony 2.
 ---

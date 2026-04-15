@@ -7,8 +7,7 @@ tags:
 - strategie
 - test
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Lambda et génériques: Le cocktail explosif'
   abstract: Tout ce qu'il faut savoir pour bien comprendre les génériques et surtout,
     comment s'en sortir avec les lambdas. Parce que les lambdas, c'est plein de génériques

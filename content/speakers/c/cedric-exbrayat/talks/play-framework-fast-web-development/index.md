@@ -9,8 +9,7 @@ tags:
 - play
 - git
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Play! Framework - fast web development
   abstract: Play! Framework fait aujourd’hui figure d’incontournable, utilisé aussi
     bien par des startups, des grands groupes et des géants du Web. Venez découvrir

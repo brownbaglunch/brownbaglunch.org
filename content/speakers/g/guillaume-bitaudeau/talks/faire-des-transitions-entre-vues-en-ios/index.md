@@ -9,8 +9,7 @@ tags:
 - cloud
 - adobe-air
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Faire des transitions entre vues en iOs
   abstract: Découvrez comment depuis iOs 7.0, on peut faire rapidement de magnifiques
     transitions personnalisées pour un effet Waouh.

@@ -7,8 +7,7 @@ tags:
 - reactor
 - java
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Programmation réactive avec Spring 5 et Reactor
   abstract: Pour supporter une charge élevée ou améliorer la robustesse de son backend,
     la programmation réactive peut aider. Nous allons la présenter et montrer sa mise

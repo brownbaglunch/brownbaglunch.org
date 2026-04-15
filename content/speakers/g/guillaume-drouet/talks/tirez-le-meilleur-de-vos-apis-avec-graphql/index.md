@@ -8,8 +8,7 @@ tags:
 - nodejs
 - apollo
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Tirez le meilleur de vos APIs avec GraphQL
   abstract: Au cours de ce BBL, nous verrons ce qu'est GraphQL et ce que cette spécification
     peut apporter de plus à vos APIs. Nous nous attarderons sur les patterns d'architecture,

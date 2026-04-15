@@ -8,8 +8,7 @@ tags:
 - recruiting
 - formation
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Ruby on Rails
   abstract: Présentation de Ruby on Rails, le framework web le plus connu du monde
     Ruby

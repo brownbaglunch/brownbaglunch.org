@@ -7,8 +7,7 @@ tags:
 - noestimates
 - agile
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'KanBan #noEstimates & Extreme Programming'
   abstract: Boostez votre création de valeur
 ---

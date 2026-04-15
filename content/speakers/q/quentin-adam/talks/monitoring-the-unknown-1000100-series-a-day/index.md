@@ -9,8 +9,7 @@ tags:
 - monitoring
 - devops
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Monitoring the unknown, 1000*100 series a day
   abstract: How to monitor unknown third party code? One of the hardest challenges
     we face running Clever Cloud, apart from the impressive scale we face with hundreds

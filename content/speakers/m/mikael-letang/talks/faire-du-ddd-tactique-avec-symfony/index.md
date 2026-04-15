@@ -6,8 +6,7 @@ tags:
 - symfony
 - php
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Faire du DDD tactique avec Symfony
   abstract: Comment organiser son code pour suivre les bonnes pratiques du DDD dans
     Symfony

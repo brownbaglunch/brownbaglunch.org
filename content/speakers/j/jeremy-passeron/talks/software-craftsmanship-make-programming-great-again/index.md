@@ -7,8 +7,7 @@ tags:
 - tdd
 - craftsmanship
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Software Craftsmanship : Make programming great again'
   abstract: Plus de 15 ans après la révolution du Manifeste Agile, de nombreux projets
     informatiques continuent d'échouer, pourquoi ? Venez découvrir le mouvement Software

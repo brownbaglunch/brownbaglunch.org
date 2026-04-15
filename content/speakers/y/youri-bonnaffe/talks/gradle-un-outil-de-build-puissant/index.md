@@ -7,8 +7,7 @@ tags:
 - build
 - automation
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Gradle: un outil de build puissant'
   abstract: Introduction à Gradle ou Retour d'expérience d'une migration de Ant vers
     Gradle (et pourquoi on a mis de côté Maven).

@@ -8,8 +8,7 @@ tags:
 - management-3-0
 - management
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Management 3.0 : Comprendre les motivateurs de votre équipe'
   abstract: Une explication et mes astuces pour animer un atelier de Moving Motivator,
     l'exercice venant du Management 3.0 pour comprendre comment impliquer votre équipe.

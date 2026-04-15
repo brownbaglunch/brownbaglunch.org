@@ -8,8 +8,7 @@ tags:
 - management-3-0
 - coaching
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: J'upgrade mon style de management avec Management 3.0
   abstract: Au sein de nos organisations, la conception traditionnelle du management
     a montré ses limites. L'agilité pousse les managers vers de nouvelles fonctions

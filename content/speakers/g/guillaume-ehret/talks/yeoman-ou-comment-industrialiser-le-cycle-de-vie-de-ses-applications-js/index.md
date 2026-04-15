@@ -11,8 +11,7 @@ tags:
 - angularjs
 - yeoman
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Yeoman ou comment industrialiser le cycle de vie de ses applications JS
   abstract: Le web d'aujoud'hui se compile, des tests unitaires sont joués, les dépendances
     sont automatiquement récupérées sur le web... Soit vous le faites manuellement

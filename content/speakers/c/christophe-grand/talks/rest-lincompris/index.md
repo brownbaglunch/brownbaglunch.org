@@ -9,8 +9,7 @@ tags:
 - rest
 - api
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'REST : l''incompris'
   abstract: REST n'a jamais été à propos de la méthode HTTP à utiliser ou de l'art
     de définir une hiérarchies d'URLs. REST est une puissante technique d'intégration

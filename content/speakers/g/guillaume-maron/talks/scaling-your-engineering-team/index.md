@@ -8,8 +8,7 @@ tags:
 - scrum
 - feature-teams
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Scaling your engineering team
   abstract: Challenges faced while scaling an engineering team from 0 to 40 people.
     Recruiting, changing the organisation, managing technical debt.

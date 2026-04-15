@@ -8,8 +8,7 @@ tags:
 - charte
 - graphique
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Du bon usage d’une charte graphique
   abstract: Créer une charte graphique ? Rien de plus facile ! Un petit coup de Times
     New Roman, du rouge pour faire plaisir à ma femme... Au pire, le petit neveu connait

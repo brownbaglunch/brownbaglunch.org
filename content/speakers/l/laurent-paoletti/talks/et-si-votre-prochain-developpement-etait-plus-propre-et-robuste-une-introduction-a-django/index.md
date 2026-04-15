@@ -6,8 +6,7 @@ tags:
 - performance
 - web
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Et si votre prochain développement était plus propre et robuste ? Une introduction
     à Django
   abstract: Marre des développements lourds, du code spaghetti et inmaintenable ?

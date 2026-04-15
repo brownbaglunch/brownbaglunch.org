@@ -10,8 +10,7 @@ tags:
 - postcss
 - ecmascript
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Responsive Web Design
   abstract: '3 présentations possibles : introduction au RWD, l''impact du RWD sur
     vos équipes projet et un tour d''horizon des techniques nécessaires à la réalisation

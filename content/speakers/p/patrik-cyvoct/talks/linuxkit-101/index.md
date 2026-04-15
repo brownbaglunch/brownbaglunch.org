@@ -9,8 +9,7 @@ tags:
 - immutable
 - infrastructure
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: LinuxKit 101
   abstract: Vous n'avez jamais entendu parler de LinuxKit ? Ça vous dit vaguement
     quelque chose ? Ce BBL présentera ce qu'est LinuxKit, à quoi ça sert, et comment

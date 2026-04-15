@@ -6,8 +6,7 @@ tags:
 - gcp
 - firebase
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: 'Développez votre prochaine application Web avec Firebase '
   abstract: 'L''offre Firebase proposée par Google est une galaxie. Et malheureusement
     nous n''aurons pas le temps de tout aborder. Nous allons principalement aborder

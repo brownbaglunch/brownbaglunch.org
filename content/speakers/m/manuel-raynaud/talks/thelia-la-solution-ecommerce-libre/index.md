@@ -7,8 +7,7 @@ tags:
 - e-commerce
 - git
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Thelia, la solution ecommerce libre
   abstract: Présentation de la solution ecommerce Thelia
 ---

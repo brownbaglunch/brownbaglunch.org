@@ -10,8 +10,7 @@ tags:
 - web
 - nosql
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Découvrir Ionic en codant une application de Chat
   abstract: Ionic Framework révolutionne le monde des applications mobile hybride.
     Je vous propose donc de vous faire découvrir ce framework et les outils qui vont

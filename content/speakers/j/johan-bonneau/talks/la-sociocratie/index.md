@@ -6,8 +6,7 @@ tags:
 - coaching
 - management
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: La sociocratie.
   abstract: Explications de ce mode de gouvernance et mise en pratique de la prise
     de décision par consentement.

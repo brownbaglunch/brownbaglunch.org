@@ -11,8 +11,7 @@ tags:
 - jeux-agiles
 - lean-startup
 versions:
-- label: FR
-  flag: fr
+- lang: FR
   title: Transition agile et accompagnement au changement
   abstract: Je vous propose un premier cadre de réflexion sur la transition organisationnelle
     nécessaire au déploiement de l'agilité.
