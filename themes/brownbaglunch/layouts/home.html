@@ -31,13 +31,13 @@
     <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $speakerCount }}</div>
     <div class="text-warm-brown/70 mt-1">{{ i18n "home_stat_speakers" }}</div>
   </a>
-  <a href="{{ "/cities/" | relLangURL }}" class="card hover:border-terracotta transition-colors group">
-    <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $cityCount }}</div>
-    <div class="text-warm-brown/70 mt-1">{{ i18n "home_stat_cities" }}</div>
-  </a>
   <a href="{{ "/talks/" | relLangURL }}" class="card hover:border-terracotta transition-colors group">
     <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $tagCount }}</div>
     <div class="text-warm-brown/70 mt-1">{{ i18n "home_stat_topics" }}</div>
+  </a>
+  <a href="{{ "/cities/" | relLangURL }}" class="card hover:border-terracotta transition-colors group">
+    <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $cityCount }}</div>
+    <div class="text-warm-brown/70 mt-1">{{ i18n "home_stat_cities" }}</div>
   </a>
 </section>
 
