@@ -1,6 +1,6 @@
 ---
 firstname: Hubert
-lastname: SABLONNIÈRE
+lastname: Sablonnière
 since: 2019-02-12
 city: fr/lille
 cities:

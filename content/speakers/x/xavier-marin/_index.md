@@ -1,6 +1,6 @@
 ---
 firstname: Xavier
-lastname: MARIN
+lastname: Marin
 since: 2019-02-27
 city: fr/brest
 cities:

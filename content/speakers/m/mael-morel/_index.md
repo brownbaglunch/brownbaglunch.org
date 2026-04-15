@@ -1,6 +1,6 @@
 ---
 firstname: Mael
-lastname: MOREL
+lastname: Morel
 since: 2020-02-24
 city: fr/nantes
 cities:

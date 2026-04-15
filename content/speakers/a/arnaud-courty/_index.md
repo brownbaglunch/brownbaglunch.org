@@ -1,6 +1,6 @@
 ---
 firstname: Arnaud
-lastname: COURTY
+lastname: Courty
 since: 2018-11-05
 city: fr/toulouse
 cities:

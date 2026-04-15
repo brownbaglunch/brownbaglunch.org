@@ -1,6 +1,6 @@
 ---
 firstname: Maxime
-lastname: BLANC
+lastname: Blanc
 since: 2020-01-31
 city: fr/montpellier-et-sa-peripherie
 cities:

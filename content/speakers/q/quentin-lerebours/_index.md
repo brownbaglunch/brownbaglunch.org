@@ -1,6 +1,6 @@
 ---
 firstname: Quentin
-lastname: LEREBOURS
+lastname: Lerebours
 since: 2018-12-14
 city: fr/rouen
 cities:

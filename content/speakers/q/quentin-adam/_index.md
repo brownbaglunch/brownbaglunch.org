@@ -1,6 +1,6 @@
 ---
 firstname: Quentin
-lastname: ADAM
+lastname: Adam
 since: 2019-02-03
 city: fr/nantes-paris
 cities:

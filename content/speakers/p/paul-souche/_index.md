@@ -1,6 +1,6 @@
 ---
 firstname: Paul
-lastname: SOUCHE
+lastname: Souche
 since: 2018-11-23
 city: fr/paris
 cities:
