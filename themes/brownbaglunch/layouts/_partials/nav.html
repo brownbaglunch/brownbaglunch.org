@@ -18,7 +18,7 @@
         </svg>
       </summary>
       <div class="absolute right-0 mt-1 bg-warm-brown border border-cream/20 rounded-lg shadow-xl z-50 overflow-hidden min-w-[110px]">
-        {{ range site.Sites }}
+        {{ range hugo.Sites }}
           {{ $otherPrefix := strings.TrimSuffix "/" .Home.RelPermalink }}
           {{ $targetURL := printf "%s%s" $otherPrefix $basePath }}
           <a href="{{ $targetURL }}"
