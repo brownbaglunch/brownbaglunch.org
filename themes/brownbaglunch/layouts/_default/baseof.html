@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
-<head>{{ partial "head.html" . }}</head>
+<head>{{ partial "head.html" . }}{{ partial "gtm-head.html" . }}</head>
 <body class="bg-cream text-warm-brown min-h-screen flex flex-col">
+  {{ partial "gtm-body.html" . }}
   {{ partial "nav.html" . }}
   <main class="flex-1 max-w-6xl mx-auto w-full px-4 py-8">
     {{ block "main" . }}{{ end }}

@@ -60,3 +60,6 @@ theme = 'brownbaglunch'
     languageName = 'Deutsch'
     weight = 3
     title = 'Brown Bag Lunch'
+
+[params]
+  googleTagManagerId = 'GTM-TNV2JDBJ'
