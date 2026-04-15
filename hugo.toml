@@ -63,3 +63,7 @@ theme = 'brownbaglunch'
 
 [params]
   googleTagManagerId = 'GTM-TNV2JDBJ'
+
+[params.utterances]
+  repo = 'brownbaglunch.org/public-comments'
+  label = '❤️'
