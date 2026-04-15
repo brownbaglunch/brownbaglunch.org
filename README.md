@@ -33,7 +33,8 @@ their team's lunch break — the host provides the food, the speaker provides th
 
 | Field | Required | Default | Description |
 |-------|----------|---------|-------------|
-| `name` | yes | — | Full display name |
+| `firstname` | yes | — | First name |
+| `lastname` | yes | — | Last name |
 | `since` | yes | — | Date you joined BBL (`YYYY-MM-DD`) |
 | `city` | yes | — | Your home city (`cc/city-slug`, e.g. `fr/paris`) |
 | `cities` | yes | — | List of cities where you are willing to speak (see patterns below) |
@@ -61,7 +62,8 @@ their team's lunch break — the host provides the food, the speaker provides th
 
 ```yaml
 ---
-name: "Jane Doe"
+firstname: "Jane"
+lastname: "Doe"
 since: "2024-01-15"
 city: "fr/paris"
 cities:
