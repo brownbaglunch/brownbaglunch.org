@@ -2,6 +2,7 @@
 {{ $speaker := .Params }}
 {{ $coverSrc := partial "cover-url.html" . }}
 
+<span data-pagefind-meta="title" class="hidden">{{ $speaker.firstname }} {{ $speaker.lastname }}</span>
 <div class="max-w-3xl mx-auto" data-pagefind-filter="section:speakers">
   {{/* Header */}}
   <div class="flex items-start gap-6 mb-8">
