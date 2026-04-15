@@ -1,5 +1,6 @@
 ---
-name: François Sarradin
+firstname: François
+lastname: Sarradin
 since: '2013-02-09'
 city: fr/paris
 cities:

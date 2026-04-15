@@ -1,5 +1,6 @@
 ---
-name: Frédéric Camblor
+firstname: Frédéric
+lastname: Camblor
 since: 2017-01-16
 city: fr/bordeaux
 cities:

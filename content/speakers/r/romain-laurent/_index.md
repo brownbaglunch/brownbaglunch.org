@@ -1,5 +1,6 @@
 ---
-name: Romain Laurent
+firstname: Romain
+lastname: Laurent
 since: 2019-04-16
 city: fr/bordeaux
 cities:

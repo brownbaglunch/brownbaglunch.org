@@ -1,5 +1,6 @@
 ---
-name: Philippe Bourgau
+firstname: Philippe
+lastname: Bourgau
 since: 2018-04-06
 city: fr/paris
 cities:

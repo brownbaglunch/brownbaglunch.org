@@ -1,5 +1,6 @@
 ---
-name: Constantin Guay
+firstname: Constantin
+lastname: Guay
 since: 2018-09-21
 city: fr/paris
 cities:

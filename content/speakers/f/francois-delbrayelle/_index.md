@@ -1,5 +1,6 @@
 ---
-name: François Delbrayelle
+firstname: François
+lastname: Delbrayelle
 since: 2019-12-23
 city: fr/lille
 cities:

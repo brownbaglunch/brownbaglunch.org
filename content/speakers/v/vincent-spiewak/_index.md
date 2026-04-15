@@ -1,5 +1,6 @@
 ---
-name: Vincent Spiewak
+firstname: Vincent
+lastname: Spiewak
 since: 2017-05-01
 city: fr/paris-et-alentours
 cities:

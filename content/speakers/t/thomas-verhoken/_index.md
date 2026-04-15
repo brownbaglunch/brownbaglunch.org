@@ -1,5 +1,6 @@
 ---
-name: Thomas VERHOKEN
+firstname: Thomas
+lastname: VERHOKEN
 since: 2023-11-16
 city: fr/lille
 cities:

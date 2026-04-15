@@ -1,5 +1,6 @@
 ---
-name: Julien Fallet
+firstname: Julien
+lastname: Fallet
 since: '2013-12-12'
 city: fr/rennes-et-alentours
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Philippe Chevreul
+firstname: Philippe
+lastname: Chevreul
 since: 2019-07-22
 city: fr/rouen
 cities:

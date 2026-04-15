@@ -1,5 +1,6 @@
 ---
-name: Cédric Bodin
+firstname: Cédric
+lastname: Bodin
 since: 2015-01-27
 city: fr/nantes-et-a-distance
 cities:

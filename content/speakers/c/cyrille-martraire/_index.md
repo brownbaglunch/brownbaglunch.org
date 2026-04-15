@@ -1,5 +1,6 @@
 ---
-name: Cyrille Martraire
+firstname: Cyrille
+lastname: Martraire
 since: '2013-05-02'
 city: fr/paris
 cities:

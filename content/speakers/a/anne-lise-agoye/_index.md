@@ -1,5 +1,6 @@
 ---
-name: Anne-Lise Agoyé
+firstname: Anne-Lise
+lastname: Agoyé
 since: 2020-07-20
 city: fr/nantes
 cities:

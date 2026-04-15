@@ -1,5 +1,6 @@
 ---
-name: Julien Sebrien
+firstname: Julien
+lastname: Sebrien
 since: 2016-10-12
 city: fr/paris
 cities:

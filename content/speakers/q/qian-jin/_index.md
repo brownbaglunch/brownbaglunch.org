@@ -1,5 +1,6 @@
 ---
-name: Qian Jin
+firstname: Qian
+lastname: Jin
 since: 2016-06-16
 city: fr/paris
 cities:

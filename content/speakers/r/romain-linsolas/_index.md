@@ -1,5 +1,6 @@
 ---
-name: Romain Linsolas
+firstname: Romain
+lastname: Linsolas
 since: '2013-02-15'
 city: fr/la-defense-et-paris
 cities:

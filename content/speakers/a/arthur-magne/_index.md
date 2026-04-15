@@ -1,5 +1,6 @@
 ---
-name: Arthur Magne
+firstname: Arthur
+lastname: Magne
 since: 2018-08-03
 city: fr/bordeaux
 cities:

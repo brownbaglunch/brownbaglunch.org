@@ -1,5 +1,6 @@
 ---
-name: Gregory Estrade
+firstname: Gregory
+lastname: Estrade
 since: 2015-09-24
 city: fr/toulouse
 cities:

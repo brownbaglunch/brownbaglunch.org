@@ -1,5 +1,6 @@
 ---
-name: Thomas Pierrain
+firstname: Thomas
+lastname: Pierrain
 since: '2014-01-11'
 city: fr/paris
 cities:

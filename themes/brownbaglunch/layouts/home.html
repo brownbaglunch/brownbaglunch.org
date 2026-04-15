@@ -18,7 +18,7 @@
 </section>
 
 <section class="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
-  {{ $speakerCount := len (where (where (where $srcPages "Kind" "section") "Section" "speakers") "Params.name" "ne" nil) }}
+  {{ $speakerCount := len (where (where (where $srcPages "Kind" "section") "Section" "speakers") "Params.lastname" "ne" nil) }}
   {{ $cityCount := len (where (where $srcPages "Section" "cities") "Params.city" "ne" nil) }}
   <a href="{{ "/speakers/" | relLangURL }}" class="card hover:border-terracotta transition-colors group">
     <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $speakerCount }}</div>

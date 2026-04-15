@@ -1,5 +1,6 @@
 ---
-name: Matthieu Garde
+firstname: Matthieu
+lastname: Garde
 since: '2013-10-07'
 city: fr/paris
 cities:

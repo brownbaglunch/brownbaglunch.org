@@ -1,5 +1,6 @@
 ---
-name: Duyhai Doan
+firstname: Duyhai
+lastname: Doan
 since: '2014-02-27'
 city: fr/regions-francophones
 cities:

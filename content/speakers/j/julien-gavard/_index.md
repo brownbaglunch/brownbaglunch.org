@@ -1,5 +1,6 @@
 ---
-name: Julien Gavard
+firstname: Julien
+lastname: Gavard
 since: 2022-04-25
 city: fr/bordeaux
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Emmanuel Longeau
+firstname: Emmanuel
+lastname: Longeau
 since: 2018-10-08
 city: fr/lille
 cities:

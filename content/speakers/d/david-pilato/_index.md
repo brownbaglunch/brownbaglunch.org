@@ -1,5 +1,6 @@
 ---
-name: David Pilato
+firstname: David
+lastname: Pilato
 since: '2013-02-15'
 city: fr/cergy
 cities:

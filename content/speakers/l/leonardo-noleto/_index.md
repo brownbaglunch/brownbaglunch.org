@@ -1,5 +1,6 @@
 ---
-name: Leonardo Noleto
+firstname: Leonardo
+lastname: Noleto
 since: '2014-11-02'
 city: fr/toulouse-et-agglomeration-ailleurs-selon-deplacements
 cities:

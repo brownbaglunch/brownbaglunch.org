@@ -1,5 +1,6 @@
 ---
-name: Dridi Boukelmoune
+firstname: Dridi
+lastname: Boukelmoune
 since: '2014-04-04'
 city: fr/paris-ou-proche
 cities:

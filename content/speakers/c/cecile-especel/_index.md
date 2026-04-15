@@ -1,5 +1,6 @@
 ---
-name: Cécile Especel
+firstname: Cécile
+lastname: Especel
 since: '2013-02-26'
 city: fr/nantes-et-environs
 cities:

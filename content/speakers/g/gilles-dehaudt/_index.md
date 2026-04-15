@@ -1,5 +1,6 @@
 ---
-name: Gilles Dehaudt
+firstname: Gilles
+lastname: Dehaudt
 since: '2015-10-29'
 city: fr/region-lilloise
 cities:

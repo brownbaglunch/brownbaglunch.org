@@ -1,5 +1,6 @@
 ---
-name: Rudy Baer
+firstname: Rudy
+lastname: Baer
 since: '2019-08-02'
 city: fr/rouen
 cities:

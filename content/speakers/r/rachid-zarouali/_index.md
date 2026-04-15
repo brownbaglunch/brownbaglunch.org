@@ -1,5 +1,6 @@
 ---
-name: Rachid Zarouali
+firstname: Rachid
+lastname: Zarouali
 since: 2015-11-19
 city: fr/lyon
 cities:

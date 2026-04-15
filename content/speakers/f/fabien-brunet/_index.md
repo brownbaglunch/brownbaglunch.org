@@ -1,5 +1,6 @@
 ---
-name: Fabien Brunet
+firstname: Fabien
+lastname: Brunet
 since: 2023-06-26
 city: fr/rennes
 cities:

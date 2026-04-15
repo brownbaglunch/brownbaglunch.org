@@ -1,5 +1,6 @@
 ---
-name: Cédric Longo
+firstname: Cédric
+lastname: Longo
 since: '2015-08-28'
 city: fr/montpellier
 cities:

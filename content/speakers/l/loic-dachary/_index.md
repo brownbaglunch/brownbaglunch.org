@@ -1,5 +1,6 @@
 ---
-name: Loic Dachary
+firstname: Loic
+lastname: Dachary
 since: '2014-05-21'
 city: fr/paris
 cities:

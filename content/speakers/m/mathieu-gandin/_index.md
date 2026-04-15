@@ -1,5 +1,6 @@
 ---
-name: Mathieu Gandin
+firstname: Mathieu
+lastname: Gandin
 since: '2013-02-20'
 city: fr/paris-et-la-defense
 cities:

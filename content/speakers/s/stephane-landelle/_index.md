@@ -1,5 +1,6 @@
 ---
-name: Stéphane Landelle
+firstname: Stéphane
+lastname: Landelle
 since: '2013-11-20'
 city: fr/paris-et-proche-couronne
 cities:

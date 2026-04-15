@@ -1,5 +1,6 @@
 ---
-name: Baptiste Lecocq
+firstname: Baptiste
+lastname: Lecocq
 since: 2019-02-05
 city: fr/lille
 cities:

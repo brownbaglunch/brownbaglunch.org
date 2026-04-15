@@ -1,5 +1,6 @@
 ---
-name: Christopher Maneu
+firstname: Christopher
+lastname: Maneu
 since: 2019-03-26
 city: fr/paris
 cities:

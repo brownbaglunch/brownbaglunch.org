@@ -1,5 +1,6 @@
 ---
-name: Fabien Lamarque
+firstname: Fabien
+lastname: Lamarque
 since: 2016-05-27
 city: fr/bordeaux
 cities:

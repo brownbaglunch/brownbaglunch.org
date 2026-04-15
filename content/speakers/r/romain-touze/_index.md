@@ -1,5 +1,6 @@
 ---
-name: Romain Touzé
+firstname: Romain
+lastname: Touzé
 since: 2017-10-11
 city: fr/brest
 cities:

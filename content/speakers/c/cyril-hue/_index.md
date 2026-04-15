@@ -1,5 +1,6 @@
 ---
-name: Cyril Hue
+firstname: Cyril
+lastname: Hue
 since: 2023-02-20
 city: fr/nantes
 cities:

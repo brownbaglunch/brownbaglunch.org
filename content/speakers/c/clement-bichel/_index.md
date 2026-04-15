@@ -1,5 +1,6 @@
 ---
-name: Clément Bichel
+firstname: Clément
+lastname: Bichel
 since: 2019-11-25
 city: fr/bordeaux
 cities:

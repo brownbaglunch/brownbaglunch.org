@@ -1,5 +1,6 @@
 ---
-name: Jérôme Heissler
+firstname: Jérôme
+lastname: Heissler
 since: 2014-05-09
 city: fr/tours
 cities:

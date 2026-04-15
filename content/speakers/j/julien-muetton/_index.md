@@ -1,5 +1,6 @@
 ---
-name: Julien Muetton
+firstname: Julien
+lastname: Muetton
 since: 2013-09-06
 city: fr/clermont-ferrand-et-environs
 cities:

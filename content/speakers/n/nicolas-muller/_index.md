@@ -1,5 +1,6 @@
 ---
-name: Nicolas Muller
+firstname: Nicolas
+lastname: Muller
 since: 2015-07-13
 city: fr/aix-marseille-et-a-distance
 cities:

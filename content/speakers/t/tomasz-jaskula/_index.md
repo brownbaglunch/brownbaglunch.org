@@ -1,5 +1,6 @@
 ---
-name: Tomasz Jaskula
+firstname: Tomasz
+lastname: Jaskula
 since: '2014-10-12'
 city: fr/paris
 cities:

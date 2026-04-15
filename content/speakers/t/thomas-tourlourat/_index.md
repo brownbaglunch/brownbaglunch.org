@@ -1,5 +1,6 @@
 ---
-name: Thomas Tourlourat
+firstname: Thomas
+lastname: Tourlourat
 since: 2020-02-26
 city: fr/les-sables-d-olonne
 cities:

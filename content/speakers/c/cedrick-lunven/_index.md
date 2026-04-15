@@ -1,5 +1,6 @@
 ---
-name: Cedrick Lunven
+firstname: Cedrick
+lastname: Lunven
 since: '2019-01-03'
 city: fr/paris
 cities:

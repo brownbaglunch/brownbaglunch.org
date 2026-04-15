@@ -1,15 +1,15 @@
 {{ define "main" }}
 <div data-pagefind-ignore>
 {{ $srcPages := site.Pages }}
-{{ $allSpeakers := where (where (where $srcPages "Kind" "section") "Section" "speakers") "Params.name" "ne" nil }}
+{{ $allSpeakers := where (where (where $srcPages "Kind" "section") "Section" "speakers") "Params.lastname" "ne" nil }}
 {{ $currentLetter := .Params.letter | upper }}
 
 {{/* Build letter counts and filter matching speakers in one pass */}}
 {{ $letterCounts := dict }}
 {{ $filtered := slice }}
 {{ range $allSpeakers }}
-  {{ if .Params.name }}
-    {{ $first := partial "first-letter.html" .Params.name }}
+  {{ if .Params.lastname }}
+    {{ $first := partial "first-letter.html" .Params.lastname }}
     {{ $count := add (default 0 (index $letterCounts $first)) 1 }}
     {{ $letterCounts = merge $letterCounts (dict $first $count) }}
     {{ if eq $first $currentLetter }}
@@ -17,7 +17,7 @@
     {{ end }}
   {{ end }}
 {{ end }}
-{{ $filtered = sort $filtered "Params.name" }}
+{{ $filtered = sort $filtered "Params.lastname" }}
 
 {{/* Render */}}
 {{ partial "alphabet-nav.html" (dict "currentLetter" $currentLetter "letterCounts" $letterCounts "showCounts" false) }}

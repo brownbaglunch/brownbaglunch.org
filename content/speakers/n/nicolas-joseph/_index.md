@@ -1,5 +1,6 @@
 ---
-name: Nicolas Joseph
+firstname: Nicolas
+lastname: Joseph
 since: 2017-07-19
 city: fr/nantes
 cities:

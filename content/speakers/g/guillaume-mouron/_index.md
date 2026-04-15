@@ -1,5 +1,6 @@
 ---
-name: Guillaume Mouron
+firstname: Guillaume
+lastname: Mouron
 since: 2016-09-22
 city: fr/lyon
 cities:

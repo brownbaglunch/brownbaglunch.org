@@ -1,5 +1,6 @@
 ---
-name: Natacha Fourmy-Mangin
+firstname: Natacha
+lastname: Fourmy-Mangin
 since: 2021-02-05
 city: fr/nantes
 cities:

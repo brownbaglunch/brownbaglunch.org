@@ -1,5 +1,6 @@
 ---
-name: Maritza Abreo
+firstname: Maritza
+lastname: Abreo
 since: '2019-01-10'
 city: fr/paris
 cities:

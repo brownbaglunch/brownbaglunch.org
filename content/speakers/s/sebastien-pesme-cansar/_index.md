@@ -1,5 +1,6 @@
 ---
-name: Sébastien Pesme-cansar
+firstname: Sébastien
+lastname: Pesme-cansar
 since: '2015-05-29'
 city: fr/lille
 cities:

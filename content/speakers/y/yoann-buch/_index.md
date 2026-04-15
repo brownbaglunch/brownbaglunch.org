@@ -1,5 +1,6 @@
 ---
-name: Yoann Buch
+firstname: Yoann
+lastname: Buch
 since: 2016-10-26
 city: fr/paris
 cities:

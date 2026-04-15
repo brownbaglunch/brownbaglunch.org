@@ -1,5 +1,6 @@
 ---
-name: Christophe Grand
+firstname: Christophe
+lastname: Grand
 since: '2013-12-19'
 city: fr/saint-etienne
 cities:

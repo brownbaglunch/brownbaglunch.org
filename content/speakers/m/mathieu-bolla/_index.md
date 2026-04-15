@@ -1,5 +1,6 @@
 ---
-name: Mathieu Bolla
+firstname: Mathieu
+lastname: Bolla
 since: '2013-10-31'
 city: fr/douai
 cities:

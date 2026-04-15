@@ -1,5 +1,6 @@
 ---
-name: Aurélien Loyer
+firstname: Aurélien
+lastname: Loyer
 since: 2017-11-29
 city: fr/lille
 cities:

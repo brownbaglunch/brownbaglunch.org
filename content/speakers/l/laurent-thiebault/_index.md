@@ -1,5 +1,6 @@
 ---
-name: Laurent Thiebault
+firstname: Laurent
+lastname: Thiebault
 since: 2018-09-26
 city: fr/lille
 cities:

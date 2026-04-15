@@ -1,5 +1,6 @@
 ---
-name: Sébastien Descamps
+firstname: Sébastien
+lastname: Descamps
 since: '2018-08-30'
 city: fr/bordeaux
 cities:

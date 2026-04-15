@@ -1,5 +1,6 @@
 ---
-name: Benjamin Moitié
+firstname: Benjamin
+lastname: Moitié
 since: '2013-05-15'
 city: fr/paris
 cities:

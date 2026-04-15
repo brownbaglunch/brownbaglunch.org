@@ -1,5 +1,6 @@
 ---
-name: Sébastien Brochet
+firstname: Sébastien
+lastname: Brochet
 since: 2015-03-09
 city: fr/paris-et-rp
 cities:

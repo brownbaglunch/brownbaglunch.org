@@ -1,5 +1,6 @@
 ---
-name: Florence Chabanois
+firstname: Florence
+lastname: Chabanois
 since: '2015-05-13'
 city: fr/paris
 cities:

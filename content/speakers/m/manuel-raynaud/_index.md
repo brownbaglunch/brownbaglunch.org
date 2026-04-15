@@ -1,5 +1,6 @@
 ---
-name: Manuel Raynaud
+firstname: Manuel
+lastname: Raynaud
 since: 2014-05-29
 city: fr/clermont-ferrand-et-paris
 cities:

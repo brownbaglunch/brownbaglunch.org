@@ -1,5 +1,6 @@
 ---
-name: Simone Civetta
+firstname: Simone
+lastname: Civetta
 since: 2015-11-25
 city: fr/paris
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Xavier Blanc
+firstname: Xavier
+lastname: Blanc
 since: 2018-08-03
 city: fr/bordeaux
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Antoine Pezé
+firstname: Antoine
+lastname: Pezé
 since: 2016-03-22
 city: fr/paris
 cities:

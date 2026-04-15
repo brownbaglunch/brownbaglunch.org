@@ -1,5 +1,6 @@
 ---
-name: Guillaume Tardif
+firstname: Guillaume
+lastname: Tardif
 since: '2013-05-02'
 city: fr/paris
 cities:

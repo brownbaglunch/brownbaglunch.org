@@ -1,5 +1,6 @@
 ---
-name: Agnès Crépet
+firstname: Agnès
+lastname: Crépet
 since: '2013-12-17'
 city: fr/saint-etienne
 cities:

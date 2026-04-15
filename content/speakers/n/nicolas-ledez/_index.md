@@ -1,5 +1,6 @@
 ---
-name: Nicolas Ledez
+firstname: Nicolas
+lastname: Ledez
 since: '2014-05-16'
 city: fr/rennes-et-alentours-mais-aussi-ailleurs-si-tu-payes-le-deplacement
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Lénaïc Couëllan
+firstname: Lénaïc
+lastname: Couëllan
 since: 2019-03-22
 city: fr/caen
 cities:

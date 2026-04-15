@@ -1,5 +1,6 @@
 ---
-name: Julien Topçu
+firstname: Julien
+lastname: Topçu
 since: 2018-06-15
 city: fr/paris-la-defense
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Xavier Seignard
+firstname: Xavier
+lastname: Seignard
 since: 2013-09-08
 city: fr/nantes
 cities:

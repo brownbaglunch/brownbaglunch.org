@@ -1,5 +1,6 @@
 ---
-name: Jeremy Passeron
+firstname: Jeremy
+lastname: Passeron
 since: 2017-07-07
 city: fr/nice
 cities:

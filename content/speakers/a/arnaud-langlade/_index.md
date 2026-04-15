@@ -1,5 +1,6 @@
 ---
-name: Arnaud Langlade
+firstname: Arnaud
+lastname: Langlade
 since: 2023-01-04
 city: fr/en-ligne
 cities:

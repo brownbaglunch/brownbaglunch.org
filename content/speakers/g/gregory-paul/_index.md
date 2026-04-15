@@ -1,5 +1,6 @@
 ---
-name: Grégory Paul
+firstname: Grégory
+lastname: Paul
 since: 2014-05-23
 city: fr/paris
 cities:

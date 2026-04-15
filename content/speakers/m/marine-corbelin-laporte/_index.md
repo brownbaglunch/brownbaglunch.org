@@ -1,5 +1,6 @@
 ---
-name: Marine Corbelin Laporte
+firstname: Marine
+lastname: Corbelin Laporte
 since: 2018-03-23
 city: fr/lille
 cities:

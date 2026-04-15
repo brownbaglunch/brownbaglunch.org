@@ -1,5 +1,6 @@
 ---
-name: David DE CARVALHO
+firstname: David
+lastname: De Carvalho
 since: '2017-06-26'
 city: fr/rennes-et-environs
 cities:

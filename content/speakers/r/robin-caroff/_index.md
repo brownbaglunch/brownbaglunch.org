@@ -1,5 +1,6 @@
 ---
-name: Robin Caroff
+firstname: Robin
+lastname: Caroff
 since: 2022-07-22
 city: fr/nantes
 cities:

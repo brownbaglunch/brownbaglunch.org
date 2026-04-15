@@ -1,5 +1,6 @@
 ---
-name: Rodolphe Quiédeville
+firstname: Rodolphe
+lastname: Quiédeville
 since: '2014-04-16'
 city: fr/lille
 cities:

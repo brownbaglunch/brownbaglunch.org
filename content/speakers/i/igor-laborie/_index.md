@@ -1,5 +1,6 @@
 ---
-name: Igor Laborie
+firstname: Igor
+lastname: Laborie
 since: 2016-12-15
 city: fr/toulouse
 cities:

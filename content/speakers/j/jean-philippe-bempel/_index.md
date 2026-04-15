@@ -1,5 +1,6 @@
 ---
-name: Jean-Philippe Bempel
+firstname: Jean-Philippe
+lastname: Bempel
 since: 2014-05-12
 city: fr/paris
 cities:

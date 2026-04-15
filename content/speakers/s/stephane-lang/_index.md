@@ -1,5 +1,6 @@
 ---
-name: Stéphane Lang
+firstname: Stéphane
+lastname: Lang
 since: '2022-12-06'
 city: fr/paris
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Gérald Quintana
+firstname: Gérald
+lastname: Quintana
 since: 2018-10-03
 city: fr/lyon
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Kevin Biger
+firstname: Kevin
+lastname: Biger
 since: 2018-09-26
 city: fr/nantes
 cities:

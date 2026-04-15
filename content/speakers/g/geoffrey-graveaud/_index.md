@@ -1,5 +1,6 @@
 ---
-name: Geoffrey Graveaud
+firstname: Geoffrey
+lastname: Graveaud
 since: 2021-04-14
 city: fr/bordeaux
 cities:

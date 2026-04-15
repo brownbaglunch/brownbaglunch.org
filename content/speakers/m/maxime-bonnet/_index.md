@@ -1,5 +1,6 @@
 ---
-name: Maxime Bonnet
+firstname: Maxime
+lastname: Bonnet
 since: '2014-03-31'
 city: fr/lyon
 cities:

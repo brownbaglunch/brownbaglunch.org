@@ -1,5 +1,6 @@
 ---
-name: Tugdual Grall
+firstname: Tugdual
+lastname: Grall
 since: '2013-05-03'
 city: fr/nantes
 cities:

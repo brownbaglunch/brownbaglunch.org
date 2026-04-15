@@ -1,5 +1,6 @@
 ---
-name: Jérôme Mainaud
+firstname: Jérôme
+lastname: Mainaud
 since: 2015-07-23
 city: fr/paris
 cities:

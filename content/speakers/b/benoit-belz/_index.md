@@ -1,5 +1,6 @@
 ---
-name: Benoît Belz
+firstname: Benoît
+lastname: Belz
 since: 2016-10-03
 city: fr/nantes
 cities:

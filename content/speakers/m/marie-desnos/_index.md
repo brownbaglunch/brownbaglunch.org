@@ -1,5 +1,6 @@
 ---
-name: Marie Desnos
+firstname: Marie
+lastname: Desnos
 since: 2023-05-09
 city: fr/nantes
 cities:

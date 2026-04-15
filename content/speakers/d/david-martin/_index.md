@@ -1,5 +1,6 @@
 ---
-name: David Martin
+firstname: David
+lastname: Martin
 since: '2015-06-17'
 city: fr/nantes
 cities:

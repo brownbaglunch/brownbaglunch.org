@@ -1,5 +1,6 @@
 ---
-name: Jean-baptiste Dusseaut
+firstname: Jean-baptiste
+lastname: Dusseaut
 since: '2014-11-07'
 city: fr/bordeaux
 cities:

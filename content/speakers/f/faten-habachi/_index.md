@@ -1,5 +1,6 @@
 ---
-name: Faten Habachi
+firstname: Faten
+lastname: Habachi
 since: 2015-10-29
 city: fr/paris
 cities:

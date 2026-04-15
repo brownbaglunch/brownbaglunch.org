@@ -1,5 +1,6 @@
 ---
-name: Ilan Zerath
+firstname: Ilan
+lastname: Zerath
 since: 2019-10-28
 city: fr/paris-et-alentours
 cities:

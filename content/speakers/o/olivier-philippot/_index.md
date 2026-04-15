@@ -1,5 +1,6 @@
 ---
-name: Olivier Philippot
+firstname: Olivier
+lastname: Philippot
 since: '2017-05-03'
 city: fr/nantes
 cities:

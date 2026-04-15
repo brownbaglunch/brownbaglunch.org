@@ -1,5 +1,6 @@
 ---
-name: Julien Tanguy
+firstname: Julien
+lastname: Tanguy
 since: '2017-04-21'
 city: fr/nantes
 cities:

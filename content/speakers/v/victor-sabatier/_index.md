@@ -1,5 +1,6 @@
 ---
-name: Victor Sabatier
+firstname: Victor
+lastname: Sabatier
 since: '2020-06-25'
 city: fr/grenoble
 cities:

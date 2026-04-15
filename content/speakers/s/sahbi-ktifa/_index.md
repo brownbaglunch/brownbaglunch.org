@@ -1,5 +1,6 @@
 ---
-name: Sahbi Ktifa
+firstname: Sahbi
+lastname: Ktifa
 since: 2019-04-19
 city: fr/thoiry
 cities:

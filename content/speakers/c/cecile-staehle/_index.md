@@ -1,5 +1,6 @@
 ---
-name: Cécile Staehle
+firstname: Cécile
+lastname: Staehle
 since: 2023-04-27
 city: fr/nantes
 cities:

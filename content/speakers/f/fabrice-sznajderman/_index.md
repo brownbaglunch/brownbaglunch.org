@@ -1,5 +1,6 @@
 ---
-name: Fabrice Sznajderman
+firstname: Fabrice
+lastname: Sznajderman
 since: '2015-12-09'
 city: fr/paris
 cities:

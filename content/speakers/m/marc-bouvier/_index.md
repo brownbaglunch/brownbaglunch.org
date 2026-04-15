@@ -1,5 +1,6 @@
 ---
-name: Marc Bouvier
+firstname: Marc
+lastname: Bouvier
 since: 2022-07-22
 city: fr/strasbourg
 cities:

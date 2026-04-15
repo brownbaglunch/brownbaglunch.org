@@ -1,5 +1,6 @@
 ---
-name: Cédric Lombardot
+firstname: Cédric
+lastname: Lombardot
 since: 2015-04-08
 city: fr/paris-et-rp
 cities:

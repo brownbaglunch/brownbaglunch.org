@@ -1,5 +1,6 @@
 ---
-name: Haja Rambelontsalama
+firstname: Haja
+lastname: Rambelontsalama
 since: 2017-09-28
 city: fr/rennes
 cities:

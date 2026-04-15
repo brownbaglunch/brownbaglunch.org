@@ -1,5 +1,6 @@
 ---
-name: Olivier Etienne
+firstname: Olivier
+lastname: Etienne
 since: '2014-06-08'
 city: fr/toulouse
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Youen Chéné
+firstname: Youen
+lastname: Chéné
 since: '2015-12-24'
 city: fr/rouen
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Guillaume Lagorce - GUL
+firstname: Guillaume
+lastname: Lagorce
 since: 2018-10-01
 city: fr/nantes
 cities:

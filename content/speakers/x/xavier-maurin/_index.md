@@ -1,5 +1,6 @@
 ---
-name: Xavier Maurin
+firstname: Xavier
+lastname: Maurin
 since: '2014-04-20'
 city: fr/bordeaux
 cities:

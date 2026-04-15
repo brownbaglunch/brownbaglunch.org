@@ -1,5 +1,6 @@
 ---
-name: David Munsch
+firstname: David
+lastname: Munsch
 since: 2025-06-30
 city: fr/strasbourg
 cities:

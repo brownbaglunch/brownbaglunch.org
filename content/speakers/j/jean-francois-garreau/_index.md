@@ -1,5 +1,6 @@
 ---
-name: Jean-françois Garreau
+firstname: Jean-françois
+lastname: Garreau
 since: 2014-04-25
 city: fr/nantes-et-environs
 cities:

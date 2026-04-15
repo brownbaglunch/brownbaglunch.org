@@ -1,5 +1,6 @@
 ---
-name: David Caramelo
+firstname: David
+lastname: Caramelo
 since: 2017-07-06
 city: fr/paris
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Romain Tournoux
+firstname: Romain
+lastname: Tournoux
 since: 2018-30-09
 city: fr/paris
 cities:

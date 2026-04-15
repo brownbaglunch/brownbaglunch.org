@@ -1,5 +1,6 @@
 ---
-name: Sylvain MAUCOURT
+firstname: Sylvain
+lastname: MAUCOURT
 since: 2018-11-17
 city: fr/paris
 cities:

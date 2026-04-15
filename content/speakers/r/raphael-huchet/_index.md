@@ -1,5 +1,6 @@
 ---
-name: Rap2h
+firstname: Raphaël
+lastname: Huchet
 since: 2017-01-15
 city: fr/nantes
 cities:

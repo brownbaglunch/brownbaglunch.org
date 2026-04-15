@@ -1,5 +1,6 @@
 ---
-name: Cédric Exbrayat
+firstname: Cédric
+lastname: Exbrayat
 since: '2013-02-27'
 city: fr/lyon
 cities:

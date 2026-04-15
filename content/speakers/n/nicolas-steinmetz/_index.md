@@ -1,5 +1,6 @@
 ---
-name: Nicolas Steinmetz
+firstname: Nicolas
+lastname: Steinmetz
 since: 2017-03-14
 city: fr/ouest-parisien-proche-versailles
 cities:

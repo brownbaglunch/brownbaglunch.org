@@ -1,5 +1,6 @@
 ---
-name: Pierre Baillet
+firstname: Pierre
+lastname: Baillet
 since: 2014-07-23
 city: fr/bordeaux
 cities:

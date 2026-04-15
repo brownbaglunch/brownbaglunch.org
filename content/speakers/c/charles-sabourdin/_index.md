@@ -1,5 +1,6 @@
 ---
-name: Charles Sabourdin
+firstname: Charles
+lastname: Sabourdin
 since: '2017-10-01'
 city: fr/paris
 cities:

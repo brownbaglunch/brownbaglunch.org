@@ -1,5 +1,6 @@
 ---
-name: Eric Lefevre-ardant
+firstname: Eric
+lastname: Lefevre-ardant
 since: '2013-03-29'
 city: fr/paris
 cities:

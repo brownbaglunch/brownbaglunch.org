@@ -1,5 +1,6 @@
 ---
-name: Renan Decamps
+firstname: Renan
+lastname: Decamps
 since: 2019-06-24
 city: fr/rouen
 cities:

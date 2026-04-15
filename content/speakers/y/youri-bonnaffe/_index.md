@@ -1,5 +1,6 @@
 ---
-name: Youri Bonnaffé
+firstname: Youri
+lastname: Bonnaffé
 since: 2014-03-28
 city: fr/sophia-antipolis
 cities:

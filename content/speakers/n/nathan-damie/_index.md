@@ -1,5 +1,6 @@
 ---
-name: Nathan Damie
+firstname: Nathan
+lastname: Damie
 since: 2017-12-28
 city: fr/lille
 cities:

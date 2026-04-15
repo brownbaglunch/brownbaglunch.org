@@ -1,5 +1,6 @@
 ---
-name: Cyrille Hemidy
+firstname: Cyrille
+lastname: Hemidy
 since: 2017-11-24
 city: fr/lyon-et-environs
 cities:

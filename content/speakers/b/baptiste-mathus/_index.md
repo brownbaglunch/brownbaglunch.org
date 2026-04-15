@@ -1,5 +1,6 @@
 ---
-name: Baptiste Mathus
+firstname: Baptiste
+lastname: Mathus
 since: 2013-06-26
 city: fr/toulouse-et-dans-le-coin
 cities:

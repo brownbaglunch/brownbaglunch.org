@@ -1,5 +1,6 @@
 ---
-name: Christophe Keromen
+firstname: Christophe
+lastname: Keromen
 since: 2013-05-29
 city: fr/vannes-et-morbihan
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Katia Aresti
+firstname: Katia
+lastname: Aresti
 since: 2013-03-11
 city: fr/paris
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Eve Vinclair-Berkemeier
+firstname: Eve
+lastname: Vinclair-Berkemeier
 since: '2017-06-15'
 city: fr/caen
 cities:

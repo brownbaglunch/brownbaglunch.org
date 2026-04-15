@@ -1,5 +1,6 @@
 ---
-name: Paula Breton
+firstname: Paula
+lastname: Breton
 since: 2023-05-09
 city: fr/nantes
 cities:

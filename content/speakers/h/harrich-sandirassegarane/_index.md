@@ -1,5 +1,6 @@
 ---
-name: Harrich Sandirassegarane
+firstname: Harrich
+lastname: Sandirassegarane
 since: '2017-01-01'
 city: fr/nantes
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Alvin Berthelot
+firstname: Alvin
+lastname: Berthelot
 since: 2017-03-06
 city: fr/nantes
 cities:

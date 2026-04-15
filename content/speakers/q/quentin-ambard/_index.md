@@ -1,5 +1,6 @@
 ---
-name: Quentin Ambard
+firstname: Quentin
+lastname: Ambard
 since: '2016-08-17'
 city: fr/paris
 cities:

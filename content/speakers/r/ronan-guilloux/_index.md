@@ -1,5 +1,6 @@
 ---
-name: Ronan Guilloux
+firstname: Ronan
+lastname: Guilloux
 since: 2013-09-07
 city: fr/nantes
 cities:

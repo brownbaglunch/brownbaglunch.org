@@ -1,5 +1,6 @@
 ---
-name: Louis Cibot
+firstname: Louis
+lastname: Cibot
 since: 2018-04-12
 city: fr/paris
 cities:

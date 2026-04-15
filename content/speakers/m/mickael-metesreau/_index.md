@@ -1,5 +1,6 @@
 ---
-name: Mickael Metesreau
+firstname: Mickael
+lastname: Metesreau
 since: 2017-01-02
 city: fr/paris
 cities:

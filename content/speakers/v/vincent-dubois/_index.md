@@ -1,5 +1,6 @@
 ---
-name: Vincent Dubois
+firstname: Vincent
+lastname: Dubois
 since: 2022-04-28
 city: fr/bordeaux
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Bruno Heridet
+firstname: Bruno
+lastname: Heridet
 since: '2016-09-10'
 city: fr/lyon
 cities:

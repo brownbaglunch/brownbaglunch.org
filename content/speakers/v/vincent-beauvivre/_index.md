@@ -1,5 +1,6 @@
 ---
-name: Vincent Beauvivre
+firstname: Vincent
+lastname: Beauvivre
 since: 2023-09-19
 city: fr/nantes-et-peripherie
 cities:

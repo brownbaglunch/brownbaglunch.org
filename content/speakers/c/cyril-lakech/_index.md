@@ -1,5 +1,6 @@
 ---
-name: Cyril Lakech
+firstname: Cyril
+lastname: Lakech
 since: '2014-04-05'
 city: fr/lille
 cities:

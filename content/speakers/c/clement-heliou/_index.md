@@ -1,5 +1,6 @@
 ---
-name: Clément Héliou
+firstname: Clément
+lastname: Héliou
 since: '2017-10-19'
 city: fr/paris
 cities:

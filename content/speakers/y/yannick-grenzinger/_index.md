@@ -1,5 +1,6 @@
 ---
-name: Yannick Grenzinger
+firstname: Yannick
+lastname: Grenzinger
 since: 2013-02-17
 city: fr/paris-et-la-defense
 cities:

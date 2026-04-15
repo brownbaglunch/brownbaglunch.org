@@ -1,5 +1,6 @@
 ---
-name: Jordane Grenat
+firstname: Jordane
+lastname: Grenat
 since: '2016-09-19'
 city: fr/paris
 cities:

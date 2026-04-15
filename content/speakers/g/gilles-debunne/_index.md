@@ -1,5 +1,6 @@
 ---
-name: Gilles Debunne
+firstname: Gilles
+lastname: Debunne
 since: 2015-04-14
 city: fr/toulouse-et-tele-travail
 cities:

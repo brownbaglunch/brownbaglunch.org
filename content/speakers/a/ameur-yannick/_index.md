@@ -1,5 +1,6 @@
 ---
-name: Ameur Yannick
+firstname: Ameur
+lastname: Yannick
 since: 2013-09-13
 city: fr/paris
 cities:

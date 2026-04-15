@@ -1,5 +1,6 @@
 ---
-name: Frédéric Cabestre
+firstname: Frédéric
+lastname: Cabestre
 since: '2014-05-10'
 city: fr/o
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Raphaël Luta
+firstname: Raphaël
+lastname: Luta
 since: 2013-12-02
 city: fr/paris-et-proche-couronne
 cities:

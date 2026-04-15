@@ -1,5 +1,6 @@
 ---
-name: Vincent Massol
+firstname: Vincent
+lastname: Massol
 since: 2017-10-30
 city: fr/paris
 cities:

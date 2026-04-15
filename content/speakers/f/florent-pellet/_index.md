@@ -1,5 +1,6 @@
 ---
-name: Florent Pellet
+firstname: Florent
+lastname: Pellet
 since: '2014-01-09'
 city: fr/lyon
 cities:

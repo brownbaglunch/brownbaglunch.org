@@ -1,5 +1,6 @@
 ---
-name: Guillaume Ehret
+firstname: Guillaume
+lastname: Ehret
 since: '2013-12-17'
 city: fr/saint-etienne
 cities:

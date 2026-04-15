@@ -1,5 +1,6 @@
 ---
-name: Henri Tremblay
+firstname: Henri
+lastname: Tremblay
 since: '2013-04-10'
 city: fr/montreal-et-alentours
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Gabriel Pichot
+firstname: Gabriel
+lastname: Pichot
 since: 2022-10-12
 city: fr/paris
 cities:

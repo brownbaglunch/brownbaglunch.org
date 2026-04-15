@@ -1,5 +1,6 @@
 ---
-name: Stanislas Chollet
+firstname: Stanislas
+lastname: Chollet
 since: 2016-02-08
 city: fr/paris
 cities:

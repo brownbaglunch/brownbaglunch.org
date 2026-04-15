@@ -1,5 +1,6 @@
 ---
-name: David Gageot
+firstname: David
+lastname: Gageot
 since: 2012-11-05
 city: fr/paris
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Mathieu Laude
+firstname: Mathieu
+lastname: Laude
 since: 2019-01-03
 city: fr/nantes
 cities:

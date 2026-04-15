@@ -1,5 +1,6 @@
 ---
-name: Cedric Gatay
+firstname: Cedric
+lastname: Gatay
 since: 2014-05-09
 city: fr/tours
 cities:

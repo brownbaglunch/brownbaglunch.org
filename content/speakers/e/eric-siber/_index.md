@@ -1,5 +1,6 @@
 ---
-name: Eric Siber
+firstname: Eric
+lastname: Siber
 since: 2016-01-31
 city: fr/paris-et-alentours
 cities:

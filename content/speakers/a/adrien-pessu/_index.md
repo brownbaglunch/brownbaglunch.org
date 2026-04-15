@@ -1,5 +1,6 @@
 ---
-name: Adrien Pessu
+firstname: Adrien
+lastname: Pessu
 since: 2017-06-20
 city: fr/nantes-et-environs
 cities:

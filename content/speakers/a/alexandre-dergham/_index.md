@@ -1,5 +1,6 @@
 ---
-name: Alexandre Dergham
+firstname: Alexandre
+lastname: Dergham
 since: 2021-06-25
 city: fr/lille
 cities:

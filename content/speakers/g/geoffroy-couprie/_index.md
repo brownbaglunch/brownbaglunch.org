@@ -1,5 +1,6 @@
 ---
-name: Geoffroy Couprie
+firstname: Geoffroy
+lastname: Couprie
 since: '2013-03-05'
 city: fr/nantes-et-environs
 cities:

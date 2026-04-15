@@ -1,5 +1,6 @@
 ---
-name: Jean-Baptiste Beuzelin
+firstname: Jean-Baptiste
+lastname: Beuzelin
 since: 2016-11-20
 city: fr/paris
 cities:

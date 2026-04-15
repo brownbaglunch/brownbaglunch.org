@@ -1,5 +1,6 @@
 ---
-name: Matthieu Segret
+firstname: Matthieu
+lastname: Segret
 since: '2013-07-03'
 city: fr/paris-et-environs
 cities:

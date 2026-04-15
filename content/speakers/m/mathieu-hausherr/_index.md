@@ -1,5 +1,6 @@
 ---
-name: Mathieu Hausherr
+firstname: Mathieu
+lastname: Hausherr
 since: '2014-04-20'
 city: fr/paris
 cities:

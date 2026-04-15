@@ -1,5 +1,6 @@
 ---
-name: Yoan Thirion
+firstname: Yoan
+lastname: Thirion
 since: 2018-03-27
 city: lu/luxembourg
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Rew Islam
+firstname: Rew
+lastname: Islam
 since: '2018-10-05'
 city: fr/paris
 cities:

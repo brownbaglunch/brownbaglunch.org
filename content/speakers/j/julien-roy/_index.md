@@ -1,5 +1,6 @@
 ---
-name: Julien Roy
+firstname: Julien
+lastname: Roy
 since: 2015-02-08
 city: fr/paris
 cities:

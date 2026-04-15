@@ -1,5 +1,6 @@
 ---
-name: William Durand
+firstname: William
+lastname: Durand
 since: 2013-09-08
 city: fr/clermont-fd-area
 cities:

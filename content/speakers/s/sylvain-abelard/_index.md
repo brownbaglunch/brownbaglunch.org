@@ -1,5 +1,6 @@
 ---
-name: Sylvain Abélard
+firstname: Sylvain
+lastname: Abélard
 since: '2013-02-24'
 city: fr/paris-ce-qui-est-accessible-en-transports
 cities:

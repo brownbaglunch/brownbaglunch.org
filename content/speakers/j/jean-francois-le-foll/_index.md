@@ -1,5 +1,6 @@
 ---
-name: Jean-françois Le Foll
+firstname: Jean-François
+lastname: Le Foll
 since: 2015-06-18
 city: fr/brest
 cities:

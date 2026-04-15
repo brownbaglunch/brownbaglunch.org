@@ -109,7 +109,7 @@
           {{ if $speakerPage }}
             <p class="text-xs text-warm-brown/50">
               <a href="{{ $speakerPage.RelPermalink }}" class="hover:text-terracotta">
-                {{ $speakerPage.Params.name }}
+                {{ $speakerPage.Params.firstname }} <strong>{{ substr $speakerPage.Params.lastname 0 1 }}</strong>{{ substr $speakerPage.Params.lastname 1 }}
               </a>
             </p>
           {{ end }}

@@ -1,5 +1,6 @@
 ---
-name: Nicolas Torion
+firstname: Nicolas
+lastname: Torion
 since: '2019-07-22'
 city: fr/rouen
 cities:

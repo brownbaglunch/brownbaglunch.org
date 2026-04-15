@@ -1,5 +1,6 @@
 ---
-name: Julien Wittouck
+firstname: Julien
+lastname: Wittouck
 since: 2023-04-28
 city: fr/lille
 cities:

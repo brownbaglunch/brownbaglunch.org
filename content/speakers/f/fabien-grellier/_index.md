@@ -1,5 +1,6 @@
 ---
-name: Fabien Grellier
+firstname: Fabien
+lastname: Grellier
 since: 2019-04-20
 city: fr/rennes
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Philippe Prados
+firstname: Philippe
+lastname: Prados
 since: 2014-01-31
 city: fr/paris
 cities:

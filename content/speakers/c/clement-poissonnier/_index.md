@@ -1,5 +1,6 @@
 ---
-name: Clément Poissonnier
+firstname: Clément
+lastname: Poissonnier
 since: 2018-04-27
 city: fr/lille
 cities:

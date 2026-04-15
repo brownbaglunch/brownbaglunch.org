@@ -1,5 +1,6 @@
 ---
-name: Sun Tan
+firstname: Sun
+lastname: Tan
 since: 2015-11-08
 city: fr/paris
 cities:

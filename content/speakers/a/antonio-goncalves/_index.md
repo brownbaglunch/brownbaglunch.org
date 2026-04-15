@@ -1,5 +1,6 @@
 ---
-name: Antonio Goncalves
+firstname: Antonio
+lastname: Goncalves
 since: '2013-06-03'
 city: fr/paris-intramuros-mais-je-veux-bien-faire-un-effort
 cities:

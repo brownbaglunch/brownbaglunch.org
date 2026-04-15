@@ -1,5 +1,6 @@
 ---
-name: Nelson Dionisi
+firstname: Nelson
+lastname: Dionisi
 since: 2019-09-02
 city: fr/bordeaux
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Guillaume Bitaudeau
+firstname: Guillaume
+lastname: Bitaudeau
 since: 2014-01-31
 city: fr/plaisir-78
 cities:

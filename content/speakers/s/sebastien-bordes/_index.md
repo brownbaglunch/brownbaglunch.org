@@ -1,5 +1,6 @@
 ---
-name: Sébastien Bordes
+firstname: Sébastien
+lastname: Bordes
 since: '2013-11-16'
 city: fr/toulouse-et-agglomeration
 cities:

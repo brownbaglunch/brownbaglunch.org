@@ -1,5 +1,6 @@
 ---
-name: Adrien Lecharpentier
+firstname: Adrien
+lastname: Lecharpentier
 since: 2016-06-15
 city: fr/nantes
 cities:

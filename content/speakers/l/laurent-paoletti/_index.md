@@ -1,5 +1,6 @@
 ---
-name: Laurent Paoletti
+firstname: Laurent
+lastname: Paoletti
 since: 2014-06-07
 city: fr/toulon-et-environs
 cities:

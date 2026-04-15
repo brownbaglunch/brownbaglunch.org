@@ -1,5 +1,6 @@
 ---
-name: Adrien Joly
+firstname: Adrien
+lastname: Joly
 since: 2015-05-11
 city: fr/montreuil-paris
 cities:

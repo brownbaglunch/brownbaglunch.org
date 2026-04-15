@@ -1,5 +1,6 @@
 ---
-name: François-Xavier Thomassin
+firstname: François-Xavier
+lastname: Thomassin
 since: 2016-09-29
 city: fr/nantes
 cities:

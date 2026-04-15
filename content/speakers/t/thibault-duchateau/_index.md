@@ -1,5 +1,6 @@
 ---
-name: Thibault Duchateau
+firstname: Thibault
+lastname: Duchateau
 since: 2015-10-29
 city: fr/region-lilloise
 cities:

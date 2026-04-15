@@ -1,5 +1,6 @@
 ---
-name: Pierre Marquis
+firstname: Pierre
+lastname: Marquis
 since: '2014-07-28'
 city: fr/rennes-et-alentours
 cities:

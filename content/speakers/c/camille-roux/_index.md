@@ -1,5 +1,6 @@
 ---
-name: Camille Roux
+firstname: Camille
+lastname: Roux
 since: 2013-10-08
 city: fr/montpellier
 cities:

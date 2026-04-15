@@ -1,5 +1,6 @@
 ---
-name: Grégoire Hubert
+firstname: Grégoire
+lastname: Hubert
 since: 2014-04-09
 city: fr/nantes
 cities:

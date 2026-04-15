@@ -1,5 +1,6 @@
 ---
-name: Francois-Guillaume Ribreau
+firstname: Francois-Guillaume
+lastname: Ribreau
 since: 2018-01-01
 city: fr/rennes
 cities:

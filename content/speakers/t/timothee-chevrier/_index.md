@@ -1,5 +1,6 @@
 ---
-name: Timothée Chevrier
+firstname: Timothée
+lastname: Chevrier
 since: '2014-11-25'
 city: fr/rennes-et-grand-ouest-pourquoi-pas
 cities:

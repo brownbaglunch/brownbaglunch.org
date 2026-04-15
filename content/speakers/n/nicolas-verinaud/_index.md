@@ -1,5 +1,6 @@
 ---
-name: Nicolas Verinaud
+firstname: Nicolas
+lastname: Verinaud
 since: 2017-12-21
 city: fr/strasbourg
 cities:

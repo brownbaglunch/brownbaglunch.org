@@ -1,5 +1,6 @@
 ---
-name: Fabien Hiegel
+firstname: Fabien
+lastname: Hiegel
 since: 2021-03-16
 city: fr/nantes
 cities:

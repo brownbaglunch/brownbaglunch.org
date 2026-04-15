@@ -1,5 +1,6 @@
 ---
-name: Paul SOUCHE
+firstname: Paul
+lastname: SOUCHE
 since: 2018-11-23
 city: fr/paris
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Benedetta pastore
+firstname: Benedetta
+lastname: pastore
 since: 2018-12-29
 city: fr/paris
 cities:

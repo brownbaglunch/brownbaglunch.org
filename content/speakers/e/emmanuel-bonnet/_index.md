@@ -1,5 +1,6 @@
 ---
-name: Emmanuel Bonnet
+firstname: Emmanuel
+lastname: Bonnet
 since: 2014-04-22
 city: fr/toulouse-et-environs
 cities:

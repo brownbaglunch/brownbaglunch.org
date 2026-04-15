@@ -1,5 +1,6 @@
 ---
-name: Jean-louis Rigau
+firstname: Jean-louis
+lastname: Rigau
 since: 2013-02-17
 city: fr/la-defense-et-alentours
 cities:

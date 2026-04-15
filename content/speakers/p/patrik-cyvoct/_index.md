@@ -1,5 +1,6 @@
 ---
-name: Patrik Cyvoct
+firstname: Patrik
+lastname: Cyvoct
 since: 2018-11-22
 city: fr/paris
 cities:

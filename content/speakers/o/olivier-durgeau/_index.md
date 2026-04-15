@@ -1,5 +1,6 @@
 ---
-name: Olivier Durgeau
+firstname: Olivier
+lastname: Durgeau
 since: 2019-10-31
 city: fr/le-mans
 cities:

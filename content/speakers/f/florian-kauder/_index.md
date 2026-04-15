@@ -1,5 +1,6 @@
 ---
-name: Florian Kauder
+firstname: Florian
+lastname: Kauder
 since: 2019-07-16
 city: fr/bordeaux
 cities:

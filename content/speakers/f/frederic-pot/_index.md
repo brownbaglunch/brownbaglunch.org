@@ -1,5 +1,6 @@
 ---
-name: Frédéric Pot
+firstname: Frédéric
+lastname: Pot
 since: 2016-07-18
 city: fr/nantes
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Audrey Neveu
+firstname: Audrey
+lastname: Neveu
 since: 2017-01-23
 city: fr/rouen
 cities:

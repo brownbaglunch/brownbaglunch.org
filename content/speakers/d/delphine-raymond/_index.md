@@ -1,5 +1,6 @@
 ---
-name: Delphine Raymond
+firstname: Delphine
+lastname: Raymond
 since: 2020-09-04
 city: fr/nantes
 cities:

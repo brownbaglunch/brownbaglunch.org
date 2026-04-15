@@ -1,5 +1,6 @@
 ---
-name: Paul Chavard
+firstname: Paul
+lastname: Chavard
 since: '2014-05-04'
 city: fr/paris
 cities:

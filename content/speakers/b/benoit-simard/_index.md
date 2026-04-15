@@ -1,5 +1,6 @@
 ---
-name: Benoît Simard
+firstname: Benoît
+lastname: Simard
 since: 2016-03-14
 city: fr/nantes
 cities:

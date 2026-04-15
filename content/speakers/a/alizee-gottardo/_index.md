@@ -1,5 +1,6 @@
 ---
-name: Alizée Gottardo
+firstname: Alizée
+lastname: Gottardo
 since: 2023-04-06
 city: fr/nantes
 cities:

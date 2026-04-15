@@ -1,5 +1,6 @@
 ---
-name: Ronan Amicel
+firstname: Ronan
+lastname: Amicel
 since: 2018-02-22
 city: fr/amiens
 cities:

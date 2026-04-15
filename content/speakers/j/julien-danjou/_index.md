@@ -1,5 +1,6 @@
 ---
-name: Julien Danjou
+firstname: Julien
+lastname: Danjou
 since: 2017-08-29
 city: fr/paris
 cities:

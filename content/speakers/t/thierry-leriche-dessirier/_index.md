@@ -1,5 +1,6 @@
 ---
-name: Thierry Leriche-dessirier
+firstname: Thierry
+lastname: Leriche-dessirier
 since: '2013-06-04'
 city: fr/paris
 cities:

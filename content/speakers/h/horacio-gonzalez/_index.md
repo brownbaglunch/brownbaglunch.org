@@ -1,5 +1,6 @@
 ---
-name: Horacio Gonzalez
+firstname: Horacio
+lastname: Gonzalez
 since: 2013-11-29
 city: fr/la-pointe-de-la-bretagne
 cities:

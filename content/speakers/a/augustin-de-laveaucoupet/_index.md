@@ -1,5 +1,6 @@
 ---
-name: Augustin De Laveaucoupet
+firstname: Augustin
+lastname: De Laveaucoupet
 since: 2014-06-12
 city: fr/le-mans-paris
 cities:

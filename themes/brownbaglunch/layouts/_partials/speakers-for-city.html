@@ -8,8 +8,8 @@
 {{ $result := slice }}
 
 {{ range .pages }}
-  {{/* Only speaker section pages (have a name param) */}}
-  {{ if .Params.name }}
+  {{/* Only speaker section pages (have a lastname param) */}}
+  {{ if .Params.lastname }}
     {{ $speaker := . }}
     {{ $matched := false }}
     {{ range .Params.cities }}

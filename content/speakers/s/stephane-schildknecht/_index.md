@@ -1,5 +1,6 @@
 ---
-name: Stéphane Schildknecht
+firstname: Stéphane
+lastname: Schildknecht
 since: 2015-08-12
 city: fr/vesoul
 cities:

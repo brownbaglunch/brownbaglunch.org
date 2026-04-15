@@ -1,5 +1,6 @@
 ---
-name: Sébastien Fauvel
+firstname: Sébastien
+lastname: Fauvel
 since: 2017-12-01
 city: fr/nantes
 cities:

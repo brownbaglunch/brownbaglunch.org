@@ -1,5 +1,6 @@
 ---
-name: Thomas Zilliox
+firstname: Thomas
+lastname: Zilliox
 since: 2015-02-26
 city: fr/lyon
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Benjamin Marguin
+firstname: Benjamin
+lastname: Marguin
 since: 2018-02-22
 city: fr/toulouse
 cities:

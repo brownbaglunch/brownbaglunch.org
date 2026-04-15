@@ -1,5 +1,6 @@
 ---
-name: Arnaud Bailly
+firstname: Arnaud
+lastname: Bailly
 since: 2017-04-06
 city: fr/nantes
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Paul Andrieux
+firstname: Paul
+lastname: Andrieux
 since: 2023-09-19
 city: fr/nantes
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Romain Couturier
+firstname: Romain
+lastname: Couturier
 since: '2015-01-28'
 city: fr/lyon
 cities:

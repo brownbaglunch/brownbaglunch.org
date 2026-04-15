@@ -1,5 +1,6 @@
 ---
-name: Jean-pierre Lerbscher
+firstname: Jean-pierre
+lastname: Lerbscher
 since: '2013-11-04'
 city: fr/bordeaux
 cities:

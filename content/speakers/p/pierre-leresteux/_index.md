@@ -1,5 +1,6 @@
 ---
-name: Pierre Leresteux
+firstname: Pierre
+lastname: Leresteux
 since: '2016-02-10'
 city: fr/rouen
 cities:

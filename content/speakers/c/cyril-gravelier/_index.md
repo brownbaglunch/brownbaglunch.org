@@ -1,5 +1,6 @@
 ---
-name: Cyril Gravelier
+firstname: Cyril
+lastname: Gravelier
 since: 2014-02-17
 city: fr/bordeaux
 cities:

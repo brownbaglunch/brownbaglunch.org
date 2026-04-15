@@ -1,5 +1,6 @@
 ---
-name: Sylvain Wallez
+firstname: Sylvain
+lastname: Wallez
 since: '2013-02-21'
 city: fr/toulouse-et-environs
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Gaël Reyrol
+firstname: Gaël
+lastname: Reyrol
 since: 2019-03-22
 city: fr/caen
 cities:

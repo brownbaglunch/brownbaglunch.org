@@ -1,5 +1,6 @@
 ---
-name: Stéphane Lagraulet
+firstname: Stéphane
+lastname: Lagraulet
 since: 2015-10-23
 city: fr/bordeaux
 cities:

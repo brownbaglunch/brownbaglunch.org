@@ -1,5 +1,6 @@
 ---
-name: Emilien Pecoul
+firstname: Emilien
+lastname: Pecoul
 since: '2013-05-19'
 city: fr/lyon
 cities:

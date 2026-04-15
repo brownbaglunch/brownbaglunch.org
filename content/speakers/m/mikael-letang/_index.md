@@ -1,5 +1,6 @@
 ---
-name: Mikaël Létang
+firstname: Mikaël
+lastname: Létang
 since: 2018-01-19
 city: fr/bordeaux
 cities:

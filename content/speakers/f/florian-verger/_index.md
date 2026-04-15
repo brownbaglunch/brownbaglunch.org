@@ -1,5 +1,6 @@
 ---
-name: Florian Verger
+firstname: Florian
+lastname: Verger
 since: 2016-09-29
 city: fr/nantes
 cities:

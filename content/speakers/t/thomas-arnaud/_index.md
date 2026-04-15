@@ -1,5 +1,6 @@
 ---
-name: Thomas Arnaud
+firstname: Thomas
+lastname: Arnaud
 since: '2014-06-06'
 city: fr/clermont-ferrand-et-environs
 cities:

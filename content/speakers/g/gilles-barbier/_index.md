@@ -1,5 +1,6 @@
 ---
-name: Gilles Barbier
+firstname: Gilles
+lastname: Barbier
 since: 2018-04-12
 city: fr/paris
 cities:

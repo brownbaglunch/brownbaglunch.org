@@ -1,5 +1,6 @@
 ---
-name: Cédric Champeau
+firstname: Cédric
+lastname: Champeau
 since: '2013-07-11'
 city: fr/nantes-et-environs-possibilites-sur-paris
 cities:

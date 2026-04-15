@@ -1,5 +1,6 @@
 ---
-name: Christophe Bégot
+firstname: Christophe
+lastname: Bégot
 since: '2013-02-26'
 city: fr/rennes-et-alentours
 cities:

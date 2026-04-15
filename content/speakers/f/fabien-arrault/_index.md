@@ -1,5 +1,6 @@
 ---
-name: Fabien Arrault
+firstname: Fabien
+lastname: Arrault
 since: 2016-01-10
 city: fr/paris
 cities:

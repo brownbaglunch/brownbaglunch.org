@@ -1,5 +1,6 @@
 ---
-name: Fabien Mirault
+firstname: Fabien
+lastname: Mirault
 since: '2015-11-26'
 city: fr/paris
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Gaël Prudhomme
+firstname: Gaël
+lastname: Prudhomme
 since: 2016-05-03
 city: fr/nantes
 cities:

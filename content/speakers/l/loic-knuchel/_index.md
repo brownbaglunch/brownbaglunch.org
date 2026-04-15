@@ -1,5 +1,6 @@
 ---
-name: Loïc Knuchel
+firstname: Loïc
+lastname: Knuchel
 since: 2013-12-06
 city: fr/paris-et-a-proximite
 cities:

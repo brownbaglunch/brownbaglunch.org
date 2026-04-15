@@ -1,5 +1,6 @@
 ---
-name: Olivier Wulveryck
+firstname: Olivier
+lastname: Wulveryck
 since: 2018-01-25
 city: fr/metropole-lilloise
 cities:

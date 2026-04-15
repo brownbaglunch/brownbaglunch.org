@@ -1,5 +1,6 @@
 ---
-name: Florian Ferbach
+firstname: Florian
+lastname: Ferbach
 since: '2018-03-15'
 city: fr/nancy
 cities:

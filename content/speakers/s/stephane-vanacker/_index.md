@@ -1,5 +1,6 @@
 ---
-name: Stephane Vanacker
+firstname: Stephane
+lastname: Vanacker
 since: 2018-07-27
 city: fr/toulouse
 cities:

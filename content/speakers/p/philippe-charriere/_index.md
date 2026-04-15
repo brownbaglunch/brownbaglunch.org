@@ -1,5 +1,6 @@
 ---
-name: Philippe Charrière
+firstname: Philippe
+lastname: Charrière
 since: 2017-06-04
 city: fr/lyon
 cities:

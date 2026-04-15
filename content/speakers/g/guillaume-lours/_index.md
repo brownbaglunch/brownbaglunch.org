@@ -1,5 +1,6 @@
 ---
-name: Guillaume Lours
+firstname: Guillaume
+lastname: Lours
 since: '2013-05-27'
 city: fr/rouen
 cities:

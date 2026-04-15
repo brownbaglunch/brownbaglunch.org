@@ -28,10 +28,10 @@
         {{ if $speakerPage }}
           <div class="flex items-center gap-2 mt-2 text-sm text-warm-brown/60">
             {{ if $speakerCover }}
-              <img src="{{ $speakerCover }}" alt="{{ $speakerPage.Params.name }}"
+              <img src="{{ $speakerCover }}" alt="{{ $speakerPage.Params.firstname }} {{ $speakerPage.Params.lastname }}"
                    class="w-6 h-6 rounded-full object-cover shrink-0 hover-zoom cursor-pointer">
             {{ end }}
-            <a href="{{ $speakerPage.RelPermalink }}" class="hover:text-terracotta">{{ $speakerPage.Params.name }}</a>
+            <a href="{{ $speakerPage.RelPermalink }}" class="hover:text-terracotta">{{ $speakerPage.Params.firstname }} <strong>{{ substr $speakerPage.Params.lastname 0 1 }}</strong>{{ substr $speakerPage.Params.lastname 1 }}</a>
           </div>
         {{ end }}
         {{ if $version.abstract }}

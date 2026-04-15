@@ -1,5 +1,6 @@
 ---
-name: Arthur Micoulet
+firstname: Arthur
+lastname: Micoulet
 since: 2019-07-03
 city: fr/paris-suburbs-nantes-toulouse-nancy-remote
 cities:

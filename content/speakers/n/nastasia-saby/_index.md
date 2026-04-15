@@ -1,5 +1,6 @@
 ---
-name: Nastasia Saby
+firstname: Nastasia
+lastname: Saby
 since: 2017-12-14
 city: fr/lyon
 cities:

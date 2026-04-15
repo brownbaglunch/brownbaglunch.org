@@ -1,5 +1,6 @@
 ---
-name: Clément Delafargue
+firstname: Clément
+lastname: Delafargue
 since: 2013-03-01
 city: fr/nantes-et-environs
 cities:

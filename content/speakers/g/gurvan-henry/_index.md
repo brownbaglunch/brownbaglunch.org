@@ -1,5 +1,6 @@
 ---
-name: Gurvan Henry
+firstname: Gurvan
+lastname: Henry
 since: 2022-12-16
 city: fr/quimper
 cities:

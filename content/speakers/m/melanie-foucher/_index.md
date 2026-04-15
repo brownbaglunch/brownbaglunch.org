@@ -1,5 +1,6 @@
 ---
-name: Mélanie Foucher
+firstname: Mélanie
+lastname: Foucher
 since: '2016-09-27'
 city: fr/nantes
 cities:

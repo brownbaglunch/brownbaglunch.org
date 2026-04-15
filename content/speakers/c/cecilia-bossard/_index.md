@@ -1,5 +1,6 @@
 ---
-name: Cécilia Bossard
+firstname: Cécilia
+lastname: Bossard
 since: '2013-02-26'
 city: fr/nantes-et-environs
 cities:

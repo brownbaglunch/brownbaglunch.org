@@ -6,13 +6,13 @@
   {{/* Header */}}
   <div class="flex items-start gap-6 mb-8">
     {{ if $coverSrc }}
-      <img src="{{ $coverSrc }}" alt="{{ $speaker.name }}"
+      <img src="{{ $coverSrc }}" alt="{{ $speaker.firstname }} {{ $speaker.lastname }}"
            class="w-24 h-24 rounded-full object-cover border-4 border-warm-border shrink-0"
            data-pagefind-meta="image[src]">
     {{ end }}
     <div class="flex-1">
       <div class="flex items-start justify-between gap-4 mb-1">
-        <h1 class="text-3xl font-black">{{ $speaker.name }}</h1>
+        <h1 class="text-3xl font-black">{{ $speaker.firstname }} <strong>{{ substr $speaker.lastname 0 1 }}</strong>{{ substr $speaker.lastname 1 }}</h1>
         {{ with $speaker.contacts.mail }}
           <a href="mailto:{{ . }}" class="btn-primary text-sm shrink-0">
             ✉️ {{ i18n "invite" }}

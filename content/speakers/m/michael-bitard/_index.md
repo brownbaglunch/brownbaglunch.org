@@ -1,5 +1,6 @@
 ---
-name: Michaël Bitard
+firstname: Michaël
+lastname: Bitard
 since: '2013-11-09'
 city: fr/toulouse-et-agglomeration
 cities:

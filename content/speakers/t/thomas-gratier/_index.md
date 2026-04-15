@@ -1,5 +1,6 @@
 ---
-name: Thomas Gratier
+firstname: Thomas
+lastname: Gratier
 since: 2015-04-01
 city: fr/nantes-et-alentours
 cities:

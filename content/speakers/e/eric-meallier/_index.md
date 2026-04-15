@@ -1,5 +1,6 @@
 ---
-name: Eric Meallier
+firstname: Eric
+lastname: Meallier
 since: 2015-05-21
 city: fr/avignon
 cities:

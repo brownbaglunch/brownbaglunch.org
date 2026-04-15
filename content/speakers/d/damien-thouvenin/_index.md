@@ -1,5 +1,6 @@
 ---
-name: Damien Thouvenin
+firstname: Damien
+lastname: Thouvenin
 since: 2014-06-01
 city: fr/paris
 cities:

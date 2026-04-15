@@ -1,5 +1,6 @@
 ---
-name: Frédéric Combes
+firstname: Frédéric
+lastname: Combes
 since: '2019-05-25'
 city: fr/toulouse
 cities:

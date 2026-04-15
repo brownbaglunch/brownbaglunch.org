@@ -1,5 +1,6 @@
 ---
-name: Alfred Almendra
+firstname: Alfred
+lastname: Almendra
 since: '2013-04-30'
 city: fr/lyon
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Guillaume Allain
+firstname: Guillaume
+lastname: Allain
 since: '2016-07-18'
 city: fr/nantes
 cities:

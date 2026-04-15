@@ -1,5 +1,6 @@
 ---
-name: Xavier F. Gouchet
+firstname: Xavier
+lastname: F. Gouchet
 since: 2016-04-20
 city: fr/paris
 cities:

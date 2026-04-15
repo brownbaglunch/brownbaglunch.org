@@ -1,5 +1,6 @@
 ---
-name: Guillaume Wolf
+firstname: Guillaume
+lastname: Wolf
 since: 2024-02-22
 city: fr/nantes
 cities:

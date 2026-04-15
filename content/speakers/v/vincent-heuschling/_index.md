@@ -1,5 +1,6 @@
 ---
-name: Vincent Heuschling
+firstname: Vincent
+lastname: Heuschling
 since: '2013-03-05'
 city: fr/paris-banlieue-ouest
 cities:

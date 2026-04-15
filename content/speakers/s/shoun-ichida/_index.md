@@ -1,5 +1,6 @@
 ---
-name: Shoun Ichida
+firstname: Shoun
+lastname: Ichida
 since: '2016-06-17'
 city: fr/paris
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Amrouche Hamza
+firstname: Amrouche
+lastname: Hamza
 since: 2017-09-28
 city: fr/amiens
 cities:

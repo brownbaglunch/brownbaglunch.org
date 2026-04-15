@@ -1,5 +1,6 @@
 ---
-name: Vincent Daviet
+firstname: Vincent
+lastname: Daviet
 since: '2015-05-21'
 city: fr/lyon
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Franck Debane
+firstname: Franck
+lastname: Debane
 since: '2014-05-07'
 city: fr/paris-et-environs
 cities:

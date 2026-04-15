@@ -1,5 +1,6 @@
 ---
-name: François Liot
+firstname: François
+lastname: Liot
 since: 2017-02-10
 city: fr/saint-jean-de-luz
 cities:

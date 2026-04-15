@@ -1,5 +1,6 @@
 ---
-name: Bernard Notarianni
+firstname: Bernard
+lastname: Notarianni
 since: 2013-02-15
 city: fr/paris
 cities:

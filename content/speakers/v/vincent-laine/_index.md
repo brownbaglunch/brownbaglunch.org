@@ -1,5 +1,6 @@
 ---
-name: Vincent Lainé
+firstname: Vincent
+lastname: Lainé
 since: 2015-07-29
 city: fr/rennes
 cities:

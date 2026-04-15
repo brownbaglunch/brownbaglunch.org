@@ -1,5 +1,6 @@
 ---
-name: Laurent Meurisse
+firstname: Laurent
+lastname: Meurisse
 since: '2013-11-14'
 city: fr/toulouse
 cities:

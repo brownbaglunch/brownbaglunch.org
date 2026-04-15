@@ -1,5 +1,6 @@
 ---
-name: Johan Martinsson
+firstname: Johan
+lastname: Martinsson
 since: 2014-07-10
 city: fr/grenoble
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Charles Bouttaz
+firstname: Charles
+lastname: Bouttaz
 since: '2017-05-19'
 city: fr/lyon
 cities:

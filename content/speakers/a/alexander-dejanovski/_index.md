@@ -1,5 +1,6 @@
 ---
-name: Alexander Dejanovski
+firstname: Alexander
+lastname: Dejanovski
 since: '2017-11-06'
 city: fr/paris
 cities:

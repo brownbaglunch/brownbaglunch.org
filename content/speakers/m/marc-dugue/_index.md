@@ -1,5 +1,6 @@
 ---
-name: Marc Dugué
+firstname: Marc
+lastname: Dugué
 since: 2016-06-14
 city: fr/nantes
 cities:

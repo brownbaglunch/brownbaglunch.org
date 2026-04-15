@@ -1,5 +1,6 @@
 ---
-name: Jean Bisutti
+firstname: Jean
+lastname: Bisutti
 since: '2017-04-09'
 city: fr/paris
 cities:

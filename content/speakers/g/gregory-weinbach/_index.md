@@ -1,5 +1,6 @@
 ---
-name: Grégory Weinbach
+firstname: Grégory
+lastname: Weinbach
 since: 2017-06-16
 city: fr/paris
 cities:

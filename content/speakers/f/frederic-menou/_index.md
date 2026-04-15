@@ -1,5 +1,6 @@
 ---
-name: Frédéric Menou
+firstname: Frédéric
+lastname: Menou
 since: '2013-02-17'
 city: fr/paris
 cities:

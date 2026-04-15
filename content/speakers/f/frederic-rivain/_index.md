@@ -1,5 +1,6 @@
 ---
-name: Frederic Rivain
+firstname: Frederic
+lastname: Rivain
 since: 2016-02-27
 city: fr/paris
 cities:

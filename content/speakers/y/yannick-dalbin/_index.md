@@ -1,5 +1,6 @@
 ---
-name: Yannick DALBIN
+firstname: Yannick
+lastname: DALBIN
 since: 2017-06-30
 city: fr/marseille-et-environs
 cities:

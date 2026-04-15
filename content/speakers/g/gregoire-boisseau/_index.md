@@ -1,5 +1,6 @@
 ---
-name: Grégoire Boisseau
+firstname: Grégoire
+lastname: Boisseau
 since: 2025-08-11
 city: fr/auxerre
 cities:

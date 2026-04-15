@@ -1,5 +1,6 @@
 ---
-name: Nathaniel Richand
+firstname: Nathaniel
+lastname: Richand
 since: '2013-02-09'
 city: fr/paris
 cities:

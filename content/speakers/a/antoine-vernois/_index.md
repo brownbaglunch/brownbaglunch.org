@@ -1,5 +1,6 @@
 ---
-name: Antoine Vernois
+firstname: Antoine
+lastname: Vernois
 since: '2013-06-13'
 city: fr/toulouse-et-environs
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Christophe Furmaniak
+firstname: Christophe
+lastname: Furmaniak
 since: '2017-06-06'
 city: fr/lille
 cities:

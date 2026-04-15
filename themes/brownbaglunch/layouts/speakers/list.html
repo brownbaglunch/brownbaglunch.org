@@ -1,12 +1,12 @@
 {{ define "main" }}
 {{ $srcPages := site.Pages }}
-{{ $allSpeakers := where (where (where $srcPages "Kind" "section") "Section" "speakers") "Params.name" "ne" nil }}
+{{ $allSpeakers := where (where (where $srcPages "Kind" "section") "Section" "speakers") "Params.lastname" "ne" nil }}
 
 {{/* ── Letter counts ── */}}
 {{ $letterCounts := dict }}
 {{ range $allSpeakers }}
-  {{ if .Params.name }}
-    {{ $first := partial "first-letter.html" .Params.name }}
+  {{ if .Params.lastname }}
+    {{ $first := partial "first-letter.html" .Params.lastname }}
     {{ $count := add (default 0 (index $letterCounts $first)) 1 }}
     {{ $letterCounts = merge $letterCounts (dict $first $count) }}
   {{ end }}
@@ -168,12 +168,12 @@
       {{ $latestCover := partial "cover-url.html" . }}
       <div class="flex items-center gap-3">
         {{ if $latestCover }}
-          <img src="{{ $latestCover }}" alt="{{ .Params.name }}"
+          <img src="{{ $latestCover }}" alt="{{ .Params.firstname }} {{ .Params.lastname }}"
                class="w-10 h-10 rounded-full object-cover border-2 border-warm-border shrink-0 hover-zoom cursor-pointer">
         {{ end }}
         <div class="flex-1">
           <a href="{{ .RelPermalink }}" class="font-semibold hover:text-terracotta transition-colors">
-            {{ .Params.name }}
+            {{ .Params.firstname }} <strong>{{ substr .Params.lastname 0 1 }}</strong>{{ substr .Params.lastname 1 }}
           </a>
         </div>
         <span class="text-sm text-warm-brown/50 shrink-0">{{ dateFormat "2006-01-02" .Params.since }}</span>

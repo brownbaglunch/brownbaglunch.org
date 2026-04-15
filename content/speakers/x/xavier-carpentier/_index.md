@@ -1,5 +1,6 @@
 ---
-name: Xavier Carpentier
+firstname: Xavier
+lastname: Carpentier
 since: 2014-06-17
 city: fr/strasbourg
 cities:

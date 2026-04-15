@@ -1,5 +1,6 @@
 ---
-name: David Endico
+firstname: David
+lastname: Endico
 since: '2019-08-02'
 city: fr/rouen
 cities:

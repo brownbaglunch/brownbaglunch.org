@@ -1,5 +1,6 @@
 ---
-name: Olivier Laurendeau
+firstname: Olivier
+lastname: Laurendeau
 since: 2017-12-13
 city: fr/nantes
 cities:

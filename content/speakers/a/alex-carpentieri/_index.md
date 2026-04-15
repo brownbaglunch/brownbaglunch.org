@@ -1,5 +1,6 @@
 ---
-name: Alex Carpentieri
+firstname: Alex
+lastname: Carpentieri
 since: '2016-10-04'
 city: fr/nantes
 cities:

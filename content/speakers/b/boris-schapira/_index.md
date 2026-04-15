@@ -1,5 +1,6 @@
 ---
-name: Boris Schapira
+firstname: Boris
+lastname: Schapira
 since: 2014-02-14
 city: fr/perigueux
 cities:

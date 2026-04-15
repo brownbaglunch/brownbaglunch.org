@@ -1,5 +1,6 @@
 ---
-name: Florian Beaufumé
+firstname: Florian
+lastname: Beaufumé
 since: 2017-10-13
 city: fr/toulouse-et-proximite
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Hadrien Mens-Pellen
+firstname: Hadrien
+lastname: Mens-Pellen
 since: '2017-10-26'
 city: fr/nantes
 cities:

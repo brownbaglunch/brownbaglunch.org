@@ -1,5 +1,6 @@
 ---
-name: Mathilde Lemée
+firstname: Mathilde
+lastname: Lemée
 since: '2013-02-11'
 city: fr/paris
 cities:

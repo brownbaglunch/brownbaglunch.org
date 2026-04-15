@@ -1,5 +1,6 @@
 ---
-name: Romain Sertelon
+firstname: Romain
+lastname: Sertelon
 since: 2018-01-16
 city: fr/paris
 cities:

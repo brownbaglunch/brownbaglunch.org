@@ -1,5 +1,6 @@
 ---
-name: Xavier Pigeon
+firstname: Xavier
+lastname: Pigeon
 since: 2015-03-10
 city: fr/paris
 cities:

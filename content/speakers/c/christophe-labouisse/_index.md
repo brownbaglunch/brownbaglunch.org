@@ -1,5 +1,6 @@
 ---
-name: Christophe Labouisse
+firstname: Christophe
+lastname: Labouisse
 since: 2014-11-28
 city: fr/bordeaux
 cities:

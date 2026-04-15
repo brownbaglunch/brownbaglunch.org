@@ -3,12 +3,12 @@
 {{ $coverSrc := partial "cover-url.html" . }}
 <div class="card flex gap-4 items-start">
   {{ if $coverSrc }}
-    <img src="{{ $coverSrc }}" alt="{{ $speaker.name }}"
+    <img src="{{ $coverSrc }}" alt="{{ $speaker.firstname }} {{ $speaker.lastname }}"
          class="w-16 h-16 rounded-full object-cover border-2 border-warm-border shrink-0">
   {{ end }}
   <div class="flex-1 min-w-0">
     <a href="{{ .RelPermalink }}" class="font-bold text-lg hover:text-terracotta transition-colors">
-      {{ $speaker.name }}
+      {{ $speaker.firstname }} <strong>{{ substr $speaker.lastname 0 1 }}</strong>{{ substr $speaker.lastname 1 }}
     </a>
     <div class="flex gap-1 mt-1 flex-wrap">
       {{ range $speaker.cities }}

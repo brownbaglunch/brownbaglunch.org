@@ -1,5 +1,6 @@
 ---
-name: Jean-Baptiste Cazaux
+firstname: Jean-Baptiste
+lastname: Cazaux
 since: 2017-03-02
 city: fr/paris
 cities:

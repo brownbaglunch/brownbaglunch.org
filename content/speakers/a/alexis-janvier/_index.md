@@ -1,5 +1,6 @@
 ---
-name: Alexis Janvier
+firstname: Alexis
+lastname: Janvier
 since: 2018-05-17
 city: fr/caen
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Maxime Bréhin
+firstname: Maxime
+lastname: Bréhin
 since: 2019-06-04
 city: fr/paris
 cities:

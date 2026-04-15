@@ -1,5 +1,6 @@
 ---
-name: Romain Tartière
+firstname: Romain
+lastname: Tartière
 since: 2017-05-25
 city: pf/faaa
 cities:

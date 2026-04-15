@@ -1,5 +1,6 @@
 ---
-name: Julien Pauli
+firstname: Julien
+lastname: Pauli
 since: 2018-06-01
 city: fr/paris
 cities:

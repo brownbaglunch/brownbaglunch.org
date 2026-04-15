@@ -1,5 +1,6 @@
 ---
-name: Serge Stinckwich
+firstname: Serge
+lastname: Stinckwich
 since: '2013-07-09'
 city: fr/paris
 cities:

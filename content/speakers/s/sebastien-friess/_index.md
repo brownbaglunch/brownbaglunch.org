@@ -1,5 +1,6 @@
 ---
-name: Sébastien Friess
+firstname: Sébastien
+lastname: Friess
 since: 2017-05-19
 city: fr/lille
 cities:

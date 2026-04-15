@@ -1,5 +1,6 @@
 ---
-name: Loïc Mathieu
+firstname: Loïc
+lastname: Mathieu
 since: '2018-11-05'
 city: fr/lille
 cities:

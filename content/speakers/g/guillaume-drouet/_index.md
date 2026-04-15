@@ -1,5 +1,6 @@
 ---
-name: Guillaume Drouet
+firstname: Guillaume
+lastname: Drouet
 since: 2018-01-01
 city: fr/lille
 cities:

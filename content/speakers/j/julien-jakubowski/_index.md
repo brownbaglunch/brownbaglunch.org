@@ -1,5 +1,6 @@
 ---
-name: Julien Jakubowski
+firstname: Julien
+lastname: Jakubowski
 since: '2013-02-25'
 city: fr/metropole-lilloise
 cities:

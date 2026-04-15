@@ -1,5 +1,6 @@
 ---
-name: Kevin Davin
+firstname: Kevin
+lastname: Davin
 since: 2016-06-02
 city: fr/toulouse
 cities:

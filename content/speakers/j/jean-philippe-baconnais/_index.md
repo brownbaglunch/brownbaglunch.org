@@ -1,5 +1,6 @@
 ---
-name: Jean-Philippe Baconnais
+firstname: Jean-Philippe
+lastname: Baconnais
 since: 2019-04-16
 city: fr/nantes
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Guillaume Collic
+firstname: Guillaume
+lastname: Collic
 since: '2014-03-29'
 city: fr/rennes
 cities:

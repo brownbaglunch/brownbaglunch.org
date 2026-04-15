@@ -1,5 +1,6 @@
 ---
-name: Sébastien Cogneau
+firstname: Sébastien
+lastname: Cogneau
 since: '2013-05-15'
 city: fr/lyon
 cities:

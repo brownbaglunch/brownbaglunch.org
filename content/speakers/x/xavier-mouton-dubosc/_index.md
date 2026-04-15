@@ -1,5 +1,6 @@
 ---
-name: Xavier Mouton-dubosc
+firstname: Xavier
+lastname: Mouton-dubosc
 since: 2014-05-06
 city: fr/toulouse-et-sa-banlieue
 cities:

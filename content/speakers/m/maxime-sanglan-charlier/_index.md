@@ -1,5 +1,6 @@
 ---
-name: Maxime Sanglan-charlier
+firstname: Maxime
+lastname: Sanglan-charlier
 since: '2015-02-04'
 city: fr/en-ligne
 cities:

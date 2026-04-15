@@ -1,5 +1,6 @@
 ---
-name: Damien Cavaillès
+firstname: Damien
+lastname: Cavaillès
 since: '2014-10-17'
 city: fr/lille
 cities:

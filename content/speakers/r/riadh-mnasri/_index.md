@@ -1,5 +1,6 @@
 ---
-name: Riadh MNASRI
+firstname: Riadh
+lastname: MNASRI
 since: '2017-01-01'
 city: fr/paris
 cities:

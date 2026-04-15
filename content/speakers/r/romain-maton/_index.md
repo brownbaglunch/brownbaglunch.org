@@ -1,5 +1,6 @@
 ---
-name: Romain Maton
+firstname: Romain
+lastname: Maton
 since: '2013-02-13'
 city: fr/la-defense-et-alentours-uniquement
 cities:

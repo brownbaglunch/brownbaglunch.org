@@ -1,5 +1,6 @@
 ---
-name: Michael BONFILS
+firstname: Michael
+lastname: BONFILS
 since: 2018-11-29
 city: fr/bordeaux
 cities:

@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{/* Content lives in FR only — fall back to FR site pages when rendering other languages */}}
 {{ $srcPages := site.Pages }}
-{{ $speakerPages := where (where (where $srcPages "Kind" "section") "Section" "speakers") "Params.name" "ne" nil }}
+{{ $speakerPages := where (where (where $srcPages "Kind" "section") "Section" "speakers") "Params.lastname" "ne" nil }}
 {{ if .Params.country }}
   {{/* City-level page (villes/fr/paris/_index.md) */}}
   {{ $country := .Params.country }}
@@ -28,7 +28,7 @@
   {{/* Speakers grid, full width */}}
   {{ if $speakers }}
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-      {{ range sort $speakers "Params.name" }}
+      {{ range sort $speakers "Params.lastname" }}
         {{ partial "speaker-card.html" . }}
       {{ end }}
     </div>

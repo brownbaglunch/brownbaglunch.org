@@ -1,5 +1,6 @@
 ---
-name: Clément Danjou
+firstname: Clément
+lastname: Danjou
 since: 2017-09-29
 city: fr/paris
 cities:

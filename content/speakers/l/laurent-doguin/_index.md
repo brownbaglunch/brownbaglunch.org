@@ -1,5 +1,6 @@
 ---
-name: Laurent Doguin
+firstname: Laurent
+lastname: Doguin
 since: 2022-11-22
 city: fr/paris
 cities:

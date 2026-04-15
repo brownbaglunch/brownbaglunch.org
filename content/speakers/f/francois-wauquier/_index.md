@@ -1,5 +1,6 @@
 ---
-name: Francois Wauquier
+firstname: Francois
+lastname: Wauquier
 since: 2016-10-06
 city: fr/paris
 cities:

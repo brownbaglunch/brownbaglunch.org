@@ -1,5 +1,6 @@
 ---
-name: Yvan Phélizot
+firstname: Yvan
+lastname: Phélizot
 since: 2018-02-07
 city: fr/paris
 cities:

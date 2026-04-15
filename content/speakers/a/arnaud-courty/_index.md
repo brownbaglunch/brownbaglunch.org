@@ -1,5 +1,6 @@
 ---
-name: Arnaud COURTY
+firstname: Arnaud
+lastname: COURTY
 since: 2018-11-05
 city: fr/toulouse
 cities:

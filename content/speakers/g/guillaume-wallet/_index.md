@@ -1,5 +1,6 @@
 ---
-name: Guillaume Wallet
+firstname: Guillaume
+lastname: Wallet
 since: 2017-03-21
 city: fr/lille
 cities:

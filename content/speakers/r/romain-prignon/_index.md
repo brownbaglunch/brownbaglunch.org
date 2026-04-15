@@ -1,5 +1,6 @@
 ---
-name: Romain Prignon
+firstname: Romain
+lastname: Prignon
 since: 2019-03-21
 city: fr/lyon
 cities:

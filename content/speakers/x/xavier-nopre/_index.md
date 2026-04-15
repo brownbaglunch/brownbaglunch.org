@@ -1,5 +1,6 @@
 ---
-name: Xavier Nopre
+firstname: Xavier
+lastname: Nopre
 since: '2013-05-07'
 city: fr/grenoble
 cities:

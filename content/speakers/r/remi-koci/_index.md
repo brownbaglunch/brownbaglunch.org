@@ -1,5 +1,6 @@
 ---
-name: Rémi Koci
+firstname: Rémi
+lastname: Koci
 since: '2017-10-26'
 city: fr/nantes
 cities:

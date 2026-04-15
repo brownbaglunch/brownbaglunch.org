@@ -1,5 +1,6 @@
 ---
-name: Samy Boucherit
+firstname: Samy
+lastname: Boucherit
 since: 2019-07-03
 city: fr/paris-suburbs-nantes-toulouse-nancy-remote
 cities:

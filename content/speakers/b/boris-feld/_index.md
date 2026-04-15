@@ -1,5 +1,6 @@
 ---
-name: Boris Feld
+firstname: Boris
+lastname: Feld
 since: 2015-02-10
 city: fr/paris
 cities:

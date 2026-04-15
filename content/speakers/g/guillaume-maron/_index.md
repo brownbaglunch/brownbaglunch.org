@@ -1,5 +1,6 @@
 ---
-name: Guillaume Maron
+firstname: Guillaume
+lastname: Maron
 since: '2018-10-10'
 city: fr/paris
 cities:

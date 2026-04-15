@@ -1,5 +1,6 @@
 ---
-name: Karol Chmist
+firstname: Karol
+lastname: Chmist
 since: '2016-01-21'
 city: fr/lyon
 cities:

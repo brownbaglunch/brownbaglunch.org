@@ -1,5 +1,6 @@
 ---
-name: Benoit Fontaine
+firstname: Benoit
+lastname: Fontaine
 since: 2018-06-29
 city: fr/lille
 cities:

@@ -1,5 +1,6 @@
 ---
-name: Dimitri Baeli
+firstname: Dimitri
+lastname: Baeli
 since: '2013-05-08'
 city: fr/paris
 cities:

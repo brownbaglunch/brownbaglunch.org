@@ -1,5 +1,6 @@
 ---
-name: Arnaud Tournier
+firstname: Arnaud
+lastname: Tournier
 since: '2013-11-24'
 city: fr/toulouse-et-agglomeration
 cities:

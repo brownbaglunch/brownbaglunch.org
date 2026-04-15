@@ -1,5 +1,6 @@
 ---
-name: Claire Zuliani
+firstname: Claire
+lastname: Zuliani
 since: 2018-03-06
 city: fr/epinal
 cities:

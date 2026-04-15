@@ -1,5 +1,6 @@
 ---
-name: Dimitri Fontaine
+firstname: Dimitri
+lastname: Fontaine
 since: 2014-05-23
 city: fr/paris
 cities:

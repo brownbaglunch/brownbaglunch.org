@@ -1,5 +1,6 @@
 ---
-name: Benjamin Lacroix
+firstname: Benjamin
+lastname: Lacroix
 since: 2016-06-15
 city: fr/paris
 cities:

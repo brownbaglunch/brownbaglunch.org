@@ -1,5 +1,6 @@
 ---
-name: Laurent Tardif
+firstname: Laurent
+lastname: Tardif
 since: '2013-06-13'
 city: fr/grenoble
 cities:

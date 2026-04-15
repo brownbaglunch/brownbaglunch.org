@@ -1,5 +1,6 @@
 ---
-name: Yohan Lasorsa
+firstname: Yohan
+lastname: Lasorsa
 since: 2019-01-30
 city: fr/grenoble
 cities:

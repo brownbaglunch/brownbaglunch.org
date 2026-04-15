@@ -1,5 +1,6 @@
 ---
-name: Domhnall Campbell
+firstname: Domhnall
+lastname: Campbell
 since: 2018-09-26
 city: fr/lille
 cities:

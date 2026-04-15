@@ -1,5 +1,6 @@
 ---
-name: Lou-Théo LAURENT
+firstname: Lou-Théo
+lastname: LAURENT
 since: 2023-10-28
 city: fr/strasbourg-et-environs
 cities:

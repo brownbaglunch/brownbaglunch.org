@@ -1,5 +1,6 @@
 ---
-name: Nicolas Martignole
+firstname: Nicolas
+lastname: Martignole
 since: '2013-10-30'
 city: fr/paris-intra-muros
 cities:

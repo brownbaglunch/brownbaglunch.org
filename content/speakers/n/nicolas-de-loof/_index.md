@@ -1,5 +1,6 @@
 ---
-name: Nicolas De Loof
+firstname: Nicolas
+lastname: De Loof
 since: '2013-02-25'
 city: fr/rennes-et-alentours
 cities:
