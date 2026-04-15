@@ -46,8 +46,8 @@ home_stat_speakers:
   other: available speakers
 home_stat_cities:
   other: cities in France and beyond
-home_stat_free:
-  other: "free for the host"
+home_stat_topics:
+  other: "available topics"
 home_how_title:
   other: How does it work?
 home_step1_title:

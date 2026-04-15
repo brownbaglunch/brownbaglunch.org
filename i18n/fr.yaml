@@ -46,8 +46,8 @@ home_stat_speakers:
   other: speakers disponibles
 home_stat_cities:
   other: villes en France et ailleurs
-home_stat_free:
-  other: "gratuit pour l'hôte"
+home_stat_topics:
+  other: "sujets disponibles"
 home_how_title:
   other: Comment ça fonctionne ?
 home_step1_title:
