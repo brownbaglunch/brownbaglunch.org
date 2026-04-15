@@ -24,19 +24,13 @@
 <section class="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
   {{ $speakerCount := len (where (where (where $srcPages "Kind" "section") "Section" "speakers") "Params.lastname" "ne" nil) }}
   {{ $cityCount := len (where (where $srcPages "Section" "cities") "Params.city" "ne" nil) }}
-  {{ $tagSet := dict }}
-  {{ range where site.RegularPages "Section" "speakers" }}
-    {{ range .Params.tags }}
-      {{ $tagSet = merge $tagSet (dict . 1) }}
-    {{ end }}
-  {{ end }}
-  {{ $tagCount := len $tagSet }}
+  {{ $talkCount := len (where site.RegularPages "Section" "speakers") }}
   <a href="{{ "/speakers/" | relLangURL }}" class="card hover:border-terracotta transition-colors group">
     <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $speakerCount }}</div>
     <div class="text-warm-brown/70 mt-1">{{ i18n "home_stat_speakers" }}</div>
   </a>
   <a href="{{ "/talks/" | relLangURL }}" class="card hover:border-terracotta transition-colors group">
-    <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $tagCount }}</div>
+    <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $talkCount }}</div>
     <div class="text-warm-brown/70 mt-1">{{ i18n "home_stat_topics" }}</div>
   </a>
   <a href="{{ "/cities/" | relLangURL }}" class="card hover:border-terracotta transition-colors group">
