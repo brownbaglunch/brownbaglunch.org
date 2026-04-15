@@ -31,7 +31,7 @@
               <img src="{{ $speakerCover }}" alt="{{ $speakerPage.Params.firstname }} {{ $speakerPage.Params.lastname }}"
                    class="w-6 h-6 rounded-full object-cover shrink-0 hover-zoom cursor-pointer">
             {{ end }}
-            <a href="{{ $speakerPage.RelPermalink }}" class="hover:text-terracotta">{{ $speakerPage.Params.firstname }} <strong>{{ substr $speakerPage.Params.lastname 0 1 }}</strong>{{ substr $speakerPage.Params.lastname 1 }}</a>
+            <a href="{{ $speakerPage.RelPermalink }}" class="hover:text-terracotta"><span class="text-terracotta">{{ substr $speakerPage.Params.lastname 0 1 }}</span>{{ substr $speakerPage.Params.lastname 1 }} {{ $speakerPage.Params.firstname }}</a>
           </div>
         {{ end }}
         {{ if $version.abstract }}

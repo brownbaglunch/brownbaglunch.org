@@ -8,7 +8,7 @@
   {{ end }}
   <div class="flex-1 min-w-0">
     <a href="{{ .RelPermalink }}" class="font-bold text-lg hover:text-terracotta transition-colors">
-      {{ $speaker.firstname }} <strong>{{ substr $speaker.lastname 0 1 }}</strong>{{ substr $speaker.lastname 1 }}
+      <span class="text-terracotta">{{ substr $speaker.lastname 0 1 }}</span>{{ substr $speaker.lastname 1 }} {{ $speaker.firstname }}
     </a>
     <div class="flex gap-1 mt-1 flex-wrap">
       {{ range $speaker.cities }}

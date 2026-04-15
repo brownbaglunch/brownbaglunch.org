@@ -17,7 +17,7 @@
   {{ if $speakerPage }}
     <nav class="text-sm text-warm-brown/60 mb-6">
       <a href="{{ $speakerPage.RelPermalink }}" class="hover:text-terracotta transition-colors">
-        {{ $speakerPage.Params.firstname }} <strong>{{ substr $speakerPage.Params.lastname 0 1 }}</strong>{{ substr $speakerPage.Params.lastname 1 }}
+        <span class="text-terracotta">{{ substr $speakerPage.Params.lastname 0 1 }}</span>{{ substr $speakerPage.Params.lastname 1 }} {{ $speakerPage.Params.firstname }}
       </a>
       <span class="mx-2">/</span>
       <span>Talks</span>
@@ -83,7 +83,7 @@
         <p class="text-sm text-warm-brown/60">Speaker</p>
         <a href="{{ $speakerPage.RelPermalink }}"
            class="font-semibold hover:text-terracotta transition-colors">
-          {{ $speakerPage.Params.firstname }} <strong>{{ substr $speakerPage.Params.lastname 0 1 }}</strong>{{ substr $speakerPage.Params.lastname 1 }}
+          <span class="text-terracotta">{{ substr $speakerPage.Params.lastname 0 1 }}</span>{{ substr $speakerPage.Params.lastname 1 }} {{ $speakerPage.Params.firstname }}
         </a>
       </div>
       {{ with $speakerPage.Params.contacts.mail }}
