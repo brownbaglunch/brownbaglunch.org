@@ -75,7 +75,7 @@ speakers_top_cities_excl:
 speakers_excl_note:
   other: "({{ .City }} mis de côté pour laisser la place aux autres)"
 top_subjects:
-  other: Top sujets
+  other: Top thèmes
 speakers_worldwide:
   other: "🌍 Disponibles partout"
 speakers_latest:
@@ -125,8 +125,10 @@ talks_label:
   other: talks
 subjects_label:
   other: thèmes
+talks_page_title:
+  other: Thèmes
 all_subjects:
-  other: Tous les sujets
+  other: Tous les thèmes
 talks_latest:
   other: Derniers talks ajoutés
 talks_with_tag:

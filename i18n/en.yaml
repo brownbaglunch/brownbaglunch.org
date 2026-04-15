@@ -125,6 +125,8 @@ talks_label:
   other: talks
 subjects_label:
   other: topics
+talks_page_title:
+  other: Topics
 all_subjects:
   other: All topics
 talks_latest:
