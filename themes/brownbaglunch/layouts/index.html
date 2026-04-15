@@ -20,6 +20,7 @@
 <section class="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
   {{ $speakerCount := len (where (where (where site.Pages "Kind" "section") "Section" "speakers") "Params.lastname" "ne" nil) }}
   {{ $cityCount := len (where (where site.Pages "Section" "cities") "Params.city" "ne" nil) }}
+  {{ $talkCount := len (where site.RegularPages "Section" "speakers") }}
   <a href="/speakers/" class="card hover:border-terracotta transition-colors group">
     <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $speakerCount }}</div>
     <div class="text-warm-brown/70 mt-1">speakers disponibles</div>
@@ -28,10 +29,10 @@
     <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $cityCount }}</div>
     <div class="text-warm-brown/70 mt-1">villes en France et ailleurs</div>
   </a>
-  <div class="card">
-    <div class="text-4xl font-black text-terracotta">100%</div>
-    <div class="text-warm-brown/70 mt-1">gratuit pour l'hôte</div>
-  </div>
+  <a href="/talks/" class="card hover:border-terracotta transition-colors group">
+    <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $talkCount }}</div>
+    <div class="text-warm-brown/70 mt-1">sujets disponibles</div>
+  </a>
 </section>
 
 <section class="mt-16">
