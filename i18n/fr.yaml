@@ -133,3 +133,5 @@ talks_with_tag:
   other: "talk(s) avec ce tag"
 search_no_results:
   other: "Aucun résultat"
+comments:
+  other: Commentaires
