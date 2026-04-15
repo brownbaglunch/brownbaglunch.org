@@ -5,7 +5,6 @@ since: '2013-12-17'
 city: fr/saint-etienne
 cities:
 - fr/saint-etienne
-cover: http://www.duchess-france.org/wp-content/uploads/2013/12/Agnes-Crepet-17-199x300.jpg
 contacts:
   x: agnes_crepet
   mail: agnes@ninja-squad.com

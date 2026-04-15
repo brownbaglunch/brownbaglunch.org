@@ -5,7 +5,6 @@ since: '2015-11-26'
 city: fr/paris
 cities:
 - fr/paris
-cover: http://training.xebia.fr/wp-content/uploads/2016/07/fabienmirault-200x200.jpg
 contacts:
   x: magici1
   mail: fmirault+bbl@xebia.fr

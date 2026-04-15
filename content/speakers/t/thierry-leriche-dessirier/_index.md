@@ -5,7 +5,6 @@ since: '2013-06-04'
 city: fr/paris
 cities:
 - fr/paris
-cover: http://icauda.com/img/thierry3.jpg
 contacts:
   x: thierryleriche
   mail: thierryler@gmail.com

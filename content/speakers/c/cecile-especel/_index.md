@@ -5,7 +5,6 @@ since: '2013-02-26'
 city: fr/nantes-et-environs
 cities:
 - fr/nantes
-cover: http://www.cecile-especel.com/var/users/7831/avatar/8108/avatar_cp.jpg
 contacts:
   x: Cecile_Especel
   mail: cecile@especel.com

@@ -6,7 +6,6 @@ city: fr/paris
 cities:
   - fr/paris
   - fr/lille
-cover: http://antoinepeze.com/images/antoine-peze.png
 contacts:
   x: antoinepeze
   mail: antoine.peze+bbl@gmail.com

@@ -5,7 +5,6 @@ since: 2017-03-06
 city: fr/nantes
 cities:
   - fr/nantes
-cover: http://alvin.berthelot.rocks/img/alvin_round_200.png
 contacts:
   x: alvinberthelot
   mail: alvin.berthelot+bblunch@webyousoon.com

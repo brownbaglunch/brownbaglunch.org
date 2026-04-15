@@ -5,7 +5,6 @@ since: '2013-11-04'
 city: fr/bordeaux
 cities:
 - fr/bordeaux
-cover: http://www.jperf.com/images/jpl.jpg
 contacts:
   x: jlerbsc
   mail: jean-pierre.lerbscher@jperf.com

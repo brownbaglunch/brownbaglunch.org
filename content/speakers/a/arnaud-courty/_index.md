@@ -7,7 +7,6 @@ cities:
   - fr/toulouse
   - fr/paris
   - fr/la-rochelle
-cover: http://vulcainreo.com/me.jpg
 contacts:
   x: vulcainreo
   mail: conf@vulcainreo.com

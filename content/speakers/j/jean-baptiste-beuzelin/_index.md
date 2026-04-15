@@ -6,7 +6,6 @@ city: fr/paris
 cities:
   - fr/paris
   - fr/nantes
-cover: http://www.lucca.fr/img/equipe/jbeuzelin.png
 contacts:
   x: JB_Beuzelin
   mail: jbbeuzelin@gmail.com
