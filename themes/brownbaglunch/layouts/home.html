@@ -7,13 +7,17 @@
   <p class="text-xl text-warm-brown/70 mb-8 max-w-xl mx-auto">
     {{ i18n "home_description" | safeHTML }}
   </p>
-  <div class="flex gap-4 justify-center flex-wrap">
-    <a href="{{ "/speakers/" | relLangURL }}" class="btn-primary text-lg px-6 py-3">
-      {{ i18n "home_cta_speakers" }}
-    </a>
-    <a href="{{ "/talks/" | relLangURL }}" class="border-2 border-terracotta text-terracotta px-6 py-3 rounded-full font-semibold hover:bg-terracotta hover:text-white transition-colors">
-      {{ i18n "home_cta_talks" }}
-    </a>
+  <div class="mt-8 max-w-xl mx-auto relative" id="search-container" data-section="all">
+    <div class="relative">
+      <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-warm-brown/40 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+      </svg>
+      <input type="search" id="search-input"
+             autocomplete="off" spellcheck="false"
+             placeholder="{{ i18n "search_placeholder" }}"
+             class="w-full bg-white text-warm-brown placeholder:text-warm-brown/40 border-2 border-warm-border rounded-full pl-12 pr-4 py-3 text-base outline-none focus:border-terracotta transition-colors shadow-sm">
+    </div>
+    <div id="search-panel" class="hidden absolute left-0 right-0 top-full mt-2 max-h-[80vh] overflow-y-auto bg-cream text-warm-brown border border-warm-border rounded-xl shadow-xl z-[100] p-4"></div>
   </div>
 </section>
 

@@ -28,7 +28,8 @@
         {{ end }}
       </div>
     </details>
-    {{/* Search — section drives default filter preset */}}
+    {{/* Search — section drives default filter preset. Hidden on home page (home has its own search bar). */}}
+    {{ if not .IsHome }}
     {{ $searchSection := "all" }}
     {{ if eq .Section "speakers" }}{{ $searchSection = "speakers" }}
     {{ else if or (eq .Type "tags") (eq .Section "talks") }}{{ $searchSection = "talks" }}
@@ -46,5 +47,6 @@
       </div>
       <div id="search-panel" class="hidden absolute right-0 top-full mt-2 w-[32rem] max-w-[calc(100vw-1rem)] max-h-[80vh] overflow-y-auto bg-cream text-warm-brown border border-warm-border rounded-xl shadow-xl z-[100] p-4"></div>
     </div>
+    {{ end }}
   </div>
 </nav>
