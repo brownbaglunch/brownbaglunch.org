@@ -4,7 +4,7 @@
 <body class="bg-cream text-warm-brown min-h-screen flex flex-col">
   {{ partial "gtm-body.html" . }}
   {{ partial "nav.html" . }}
-  <main class="flex-1 max-w-6xl mx-auto w-full px-4 py-8">
+  <main class="flex-1 max-w-6xl mx-auto w-full px-4 py-8" data-pagefind-body>
     {{ block "main" . }}{{ end }}
   </main>
   {{ partial "footer.html" . }}

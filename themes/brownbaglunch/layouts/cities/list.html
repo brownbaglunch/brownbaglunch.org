@@ -25,7 +25,13 @@
     {{ end }}
   </div>
 
-  {{/* Speakers grid, full width */}}
+  {{/* City description (markdown body), indexed by Pagefind */}}
+  {{ with .Content }}
+    <div class="prose prose-warm mb-8">{{ . }}</div>
+  {{ end }}
+
+  {{/* Speakers grid, full width — excluded from Pagefind index */}}
+  <div data-pagefind-ignore>
   {{ if $speakers }}
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
       {{ range sort $speakers "Params.lastname" }}
@@ -35,10 +41,12 @@
   {{ else }}
     <p class="text-warm-brown/60">{{ i18n "city_no_speaker" }}</p>
   {{ end }}
+  </div>{{/* end data-pagefind-ignore */}}
   </div>{{/* end data-pagefind-filter */}}
 
 {{ else }}
-  {{/* Top-level /cities/ page — grouped by country */}}
+  {{/* Top-level /cities/ page — grouped by country — excluded from Pagefind */}}
+  <div data-pagefind-ignore>
   {{ $flags := dict "fr" "🇫🇷" "be" "🇧🇪" "gb" "🇬🇧" "nl" "🇳🇱" "ca" "🇨🇦" "de" "🇩🇪" "ch" "🇨🇭" "lu" "🇱🇺" "es" "🇪🇸" "it" "🇮🇹" "pt" "🇵🇹" "us" "🇺🇸" "au" "🇦🇺" "pf" "🇵🇫" }}
 
   {{ $cityPages := where (where $srcPages "Section" "cities") "Params.city" "ne" nil }}
@@ -95,5 +103,6 @@
       </div>
     </section>
   {{ end }}
+  </div>{{/* end data-pagefind-ignore */}}
 {{ end }}
 {{ end }}

@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{ $srcPages := site.Pages }}
+<div data-pagefind-ignore>
 <section class="py-16 text-center">
   <h1 class="text-5xl font-black text-warm-brown mb-4 leading-tight">
     {{ i18n "home_tagline" | safeHTML }}
@@ -59,4 +60,5 @@
     </div>
   </div>
 </section>
+</div>{{/* end data-pagefind-ignore */}}
 {{ end }}

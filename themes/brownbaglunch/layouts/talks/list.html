@@ -31,7 +31,7 @@
 {{ $latest := first 5 (sort $withDate "since" "desc") }}
 
 {{/* ══════════════════════ RENDER ══════════════════════ */}}
-
+<div data-pagefind-ignore>
 {{/* Header */}}
 <div class="flex items-center justify-between mb-8">
   <h1 class="text-3xl font-black">{{ i18n "talks_page_title" }}</h1>
@@ -121,4 +121,5 @@
 </section>
 {{ end }}
 
+</div>{{/* end data-pagefind-ignore */}}
 {{ end }}

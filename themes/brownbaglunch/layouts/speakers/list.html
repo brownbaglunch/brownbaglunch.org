@@ -71,7 +71,7 @@
 {{ $latest   := first 5 (sort $withDate "Params.since" "desc") }}
 
 {{/* ══════════════════════ RENDER ══════════════════════ */}}
-
+<div data-pagefind-ignore>
 {{/* Header */}}
 <div class="flex items-center justify-between mb-8">
   <h1 class="text-3xl font-black">{{ i18n "nav_speakers" }}</h1>
@@ -183,4 +183,5 @@
 </section>
 {{ end }}
 
+</div>{{/* end data-pagefind-ignore */}}
 {{ end }}
