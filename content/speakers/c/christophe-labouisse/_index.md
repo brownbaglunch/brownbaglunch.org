@@ -14,8 +14,8 @@ websites:
     url: http://www.labouisse.com
   - name: Viadeo
     url: http://www.viadeo.com/profile/00224q6ti6d57zay/
-  - name: Hopwork
-    url: https://www.hopwork.com/profile/51d057032a07e9483ddedfc7
+  - name: Malt
+    url: https://www.malt.com/profile/christophelabouisse
 layout: speaker
 ---
 

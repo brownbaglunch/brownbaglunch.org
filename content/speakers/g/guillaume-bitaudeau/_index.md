@@ -12,8 +12,8 @@ contacts:
 websites:
   - name: Web
     url: http://gbitaudeau.fr
-  - name: Hopwork
-    url: http://hopwork.com/profile/52ea1dd64168100d16a15add
+  - name: Malt
+    url: https://www.malt.com/profile/gbitaudeau
 layout: speaker
 ---
 

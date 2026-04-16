@@ -14,8 +14,8 @@ contacts:
 websites:
   - name: Web
     url: http://dailybrain.fr
-  - name: Hopwork
-    url: https://www.hopwork.fr/profile/vincentspiewak
+  - name: Malt
+    url: https://www.malt.fr/profile/vincentspiewak
 layout: speaker
 ---
 

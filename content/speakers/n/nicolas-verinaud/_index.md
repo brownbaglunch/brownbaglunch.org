@@ -15,7 +15,7 @@ contacts:
 websites:
   - name: Web
     url: http://ryfacto.fr
-  - name: Hopwork
+  - name: Malt
     url: https://www.malt.fr/profile/nicolasverinaud
 layout: speaker
 ---

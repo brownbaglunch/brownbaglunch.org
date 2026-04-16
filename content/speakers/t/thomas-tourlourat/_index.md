@@ -12,9 +12,7 @@ contacts:
   github: armetiz
   linkedin: tourlourat
 websites:
-  - name: Twitter
-    url: https://twitter.com/armetiz
-  - name: Hopwork
+  - name: Malt
     url: https://www.malt.fr/profile/thomastourlourat
 layout: speaker
 ---

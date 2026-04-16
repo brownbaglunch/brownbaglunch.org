@@ -13,11 +13,9 @@ contacts:
   linkedin: ronanamicel
   github: ronnix
 websites:
-  - name: Twitter
-    url: https://twitter.com/amicel
   - name: Speakerdeck
     url: https://speakerdeck.com/ronnix
-  - name: Hopwork
+  - name: Malt
     url: https://www.malt.fr/profile/ronanamicel
 layout: speaker
 ---
