@@ -26,9 +26,9 @@
 }
 </style>
 {{ end }}
-<section class="py-16 text-center{{ if $images }} relative overflow-hidden min-h-[380px]{{ end }}">
+<section class="py-16 text-center{{ if $images }} relative min-h-[380px]{{ end }}">
   {{ if $images }}
-  <div class="absolute inset-0">
+  <div class="absolute inset-0 overflow-hidden">
     {{ range $i, $img := $images }}
     <img src="{{ $img.RelPermalink }}"
          alt="Session Brown Bag Lunch"
