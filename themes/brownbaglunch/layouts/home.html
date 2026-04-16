@@ -1,27 +1,66 @@
 {{ define "main" }}
 {{ $srcPages := site.Pages }}
+{{ $images := resources.Match "gallery/*" }}
+{{ $n := len $images }}
+{{ $dur := 5 }}
+{{ $total := mul $n $dur }}
 <div data-pagefind-ignore>
-<section class="py-16 text-center">
-  <h1 class="text-5xl font-black text-warm-brown mb-4 leading-tight">
-    {{ i18n "home_tagline" | safeHTML }}
-  </h1>
-  <p class="text-xl text-warm-brown/70 mb-4 max-w-xl mx-auto">
-    {{ i18n "home_description" | safeHTML }}
-  </p>
-  <div class="flex justify-center mb-8">
-    {{ partial "github-edit-link.html" "https://github.com/brownbaglunch/brownbaglunch.org" }}
+{{ if $images }}
+{{ $fadeP := div 100.0 $total }}
+{{ $slotP := div 100.0 $n }}
+<style>
+.bbl-photo {
+  filter: sepia(1) brightness(0.8) contrast(1.1);
+  opacity: 0;
+  animation-name: bbl-crossfade;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: {{ $total }}s;
+}
+@keyframes bbl-crossfade {
+  0%                                        { opacity: 0; }
+  {{ printf "%.2f" $fadeP }}%               { opacity: 1; }
+  {{ printf "%.2f" (sub $slotP $fadeP) }}%  { opacity: 1; }
+  {{ printf "%.2f" $slotP }}%               { opacity: 0; }
+  100%                                      { opacity: 0; }
+}
+</style>
+{{ end }}
+<section class="py-16 text-center{{ if $images }} relative overflow-hidden min-h-[380px]{{ end }}">
+  {{ if $images }}
+  <div class="absolute inset-0">
+    {{ range $i, $img := $images }}
+    <img src="{{ $img.RelPermalink }}"
+         alt="Session Brown Bag Lunch"
+         class="bbl-photo absolute inset-0 w-full h-full object-cover"
+         style="animation-delay:{{ mul $i $dur }}s"
+         loading="{{ if eq $i 0 }}eager{{ else }}lazy{{ end }}">
+    {{ end }}
+    <div class="absolute inset-0 bg-warm-brown/50"></div>
   </div>
-  <div class="mt-8 max-w-xl mx-auto relative" id="search-container" data-section="all">
-    <div class="relative">
-      <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-warm-brown/40 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
-      </svg>
-      <input type="search" id="search-input"
-             autocomplete="off" spellcheck="false"
-             placeholder="{{ i18n "search_placeholder" }}"
-             class="w-full bg-white text-warm-brown placeholder:text-warm-brown/40 border-2 border-warm-border rounded-full pl-12 pr-4 py-3 text-base outline-none focus:border-terracotta transition-colors shadow-sm">
+  {{ end }}
+  <div class="{{ if $images }}relative z-10{{ end }}">
+    <h1 class="text-5xl font-black {{ if $images }}text-white{{ else }}text-warm-brown{{ end }} mb-4 leading-tight">
+      {{ i18n "home_tagline" | safeHTML }}
+    </h1>
+    <p class="text-xl {{ if $images }}text-white/80{{ else }}text-warm-brown/70{{ end }} mb-4 max-w-xl mx-auto">
+      {{ i18n "home_description" | safeHTML }}
+    </p>
+    <div class="flex justify-center mb-8">
+      {{ partial "github-edit-link.html" "https://github.com/brownbaglunch/brownbaglunch.org" }}
     </div>
-    <div id="search-panel" class="hidden absolute left-0 right-0 top-full mt-2 max-h-[80vh] overflow-y-auto bg-cream text-warm-brown border border-warm-border rounded-xl shadow-xl z-[100] p-4"></div>
+    <div class="mt-8 max-w-xl mx-auto relative" id="search-container" data-section="all">
+      <div class="relative">
+        <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-warm-brown/40 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+        </svg>
+        <input type="search" id="search-input"
+               autocomplete="off" spellcheck="false"
+               placeholder="{{ i18n "search_placeholder" }}"
+               class="w-full bg-white text-warm-brown placeholder:text-warm-brown/40 border-2 border-warm-border rounded-full pl-12 pr-4 py-3 text-base outline-none focus:border-terracotta transition-colors shadow-sm">
+      </div>
+      <div id="search-panel" class="hidden absolute left-0 right-0 top-full mt-2 max-h-[80vh] overflow-y-auto bg-cream text-warm-brown border border-warm-border rounded-xl shadow-xl z-[100] p-4"></div>
+    </div>
   </div>
 </section>
 
