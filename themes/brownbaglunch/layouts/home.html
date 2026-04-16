@@ -116,7 +116,7 @@
 <section class="mt-16">
   <h2 class="text-2xl font-bold mb-6">💬 {{ i18n "home_press_title" }}</h2>
   <ul class="space-y-1 text-sm">
-    {{ range sort site.Data.press "date" "desc" }}<li><span class="text-warm-brown/40 tabular-nums">{{ .date }}</span> · <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" class="text-terracotta hover:underline">{{ .title }}</a> · <span class="text-warm-brown/60">{{ .author }}</span></li>
+    {{ range sort hugo.Data.press "date" "desc" }}<li><span class="text-warm-brown/40 tabular-nums">{{ .date }}</span> · <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" class="text-terracotta hover:underline">{{ .title }}</a> · <span class="text-warm-brown/60">{{ .author }}</span></li>
     {{ end }}
   </ul>
 </section>
