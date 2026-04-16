@@ -1,4 +1,4 @@
-baseURL = 'https://v2.brownbaglunch.org/'
+baseURL = 'https://brownbaglunch.org/'
 languageCode = 'fr-fr'
 defaultContentLanguage = 'fr'
 title = 'Brown Bag Lunch'
@@ -70,3 +70,8 @@ theme = 'brownbaglunch'
 [params.utterances]
   repo = 'brownbaglunch/public-comments'
   label = '❤️'
+
+[params.seo]
+  description = "Annuaire de speakers pour vos Brown Bag Lunch — conférences gratuites le temps d'un déjeuner."
+  ogImage     = "/og-default.png"
+  xAccount    = "@bbl_fr"
