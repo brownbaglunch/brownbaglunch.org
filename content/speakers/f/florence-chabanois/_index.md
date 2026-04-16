@@ -9,9 +9,6 @@ cover: ''
 contacts:
   x: fchabanois
   mail: flocha2000-bbl@yahoo.fr
-websites:
-- name: Web
-  url: https://devsnotebook.fr
 layout: speaker
 ---
 

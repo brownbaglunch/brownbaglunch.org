@@ -8,11 +8,6 @@ cities:
 contacts:
   x: matparisot
   mail: mathieu.parisot+bbl@gmail.com
-websites:
-- name: Web
-  url: https://matparisot.fr/author/mathieu/
-- name: Web
-  url: https://matparisot.fr
 layout: speaker
 ---
 

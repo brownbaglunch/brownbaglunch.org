@@ -10,8 +10,6 @@ contacts:
   mail: n.muller@treeptik.fr
   linkedin: mullernicolas
 websites:
-  - name: Web
-    url: https://treeptik.fr/language/fr/blog/
 layout: speaker
 ---
 

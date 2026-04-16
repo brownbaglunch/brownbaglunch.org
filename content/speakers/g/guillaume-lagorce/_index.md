@@ -10,8 +10,6 @@ contacts:
   mail: guillaume@hey-gul.com
   github: HEYGUL
 websites:
-  - name: Website
-    url: https://hey-gul.com/
 layout: speaker
 ---
 

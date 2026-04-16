@@ -11,8 +11,6 @@ contacts:
 websites:
 - name: Web
   url: https://www.agilexperience.fr
-- name: Web
-  url: https://blog.xebia.fr/author/nrichand
 layout: speaker
 ---
 

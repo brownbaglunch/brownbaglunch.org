@@ -8,9 +8,6 @@ cities:
 contacts:
   x: '@Evey_Online'
   mail: eve.vinclair@knplabs.com
-websites:
-- name: Web
-  url: https://www.knplabs.com/
 layout: speaker
 ---
 

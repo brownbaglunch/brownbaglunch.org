@@ -8,9 +8,6 @@ cities:
 contacts:
   x: PierMarquis
   mail: pier.marquis@gmail.com
-websites:
-- name: LinkedIn
-  url: https://fr.linkedin.com/pub/pierre-marquis/27/573/752
 layout: speaker
 ---
 

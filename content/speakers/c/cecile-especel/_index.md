@@ -11,8 +11,6 @@ contacts:
 websites:
 - name: Web
   url: https://knplabs.com/fr
-- name: Web
-  url: https://www.cecile-especel.com/
 layout: speaker
 ---
 

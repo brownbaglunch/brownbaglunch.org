@@ -11,8 +11,6 @@ contacts:
   mail: bensmania@gmail.com
   linkedin: hrambelo
 websites:
-  - name: Web
-    url: https://hrambelo.com/
 layout: speaker
 ---
 

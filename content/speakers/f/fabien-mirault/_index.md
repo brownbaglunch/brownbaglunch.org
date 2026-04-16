@@ -10,8 +10,6 @@ contacts:
   mail: fmirault+bbl@xebia.fr
 websites:
 - name: Web
-  url: https://blog.xebia.fr
-- name: Web
   url: https://fabienmirault.fr
 layout: speaker
 ---

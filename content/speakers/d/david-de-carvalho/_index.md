@@ -9,8 +9,6 @@ contacts:
   x: dedece35
   mail: ddecarvalho@pagesjaunes.fr
 websites:
-- name: Web
-  url: https://www.pagesjaunes.fr/
 - name: Viadeo
   url: https://www.viadeo.com/p/002typxcger1kb8
 layout: speaker

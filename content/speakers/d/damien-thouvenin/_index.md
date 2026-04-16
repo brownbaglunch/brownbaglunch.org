@@ -12,10 +12,6 @@ contacts:
   github: dthouvenin
 websites:
   - name: Web
-    url: https://www.blogdepatron.fr
-  - name: Web
-    url: https://www.clt-services.com
-  - name: Web
     url: https://www.conference-agile.fr
 layout: speaker
 ---

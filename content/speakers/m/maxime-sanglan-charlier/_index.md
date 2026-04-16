@@ -8,9 +8,6 @@ cities:
 contacts:
   x: __MaxS__
   mail: m.sanglan.charlier@gmail.com
-websites:
-- name: Web
-  url: https://onehundredacorns.com/
 layout: speaker
 ---
 

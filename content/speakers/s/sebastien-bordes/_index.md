@@ -9,11 +9,6 @@ cover: https://www.gravatar.com/avatar/70fedbe679de9066499f208e35b3bf1f.png?size
 contacts:
   x: s8bordes
   mail: seb@jrebirth.org
-websites:
-- name: Web
-  url: https://blog.jrebirth.org
-- name: Web
-  url: https://www.jrebirth.org
 layout: speaker
 ---
 

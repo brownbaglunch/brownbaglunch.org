@@ -10,8 +10,6 @@ contacts:
   mail: guillaume.bitaudeau@gmail.com
   linkedin: gbitaudeau
 websites:
-  - name: Web
-    url: https://gbitaudeau.fr
   - name: Malt
     url: https://www.malt.com/profile/gbitaudeau
 layout: speaker

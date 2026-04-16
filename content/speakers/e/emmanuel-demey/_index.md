@@ -8,9 +8,6 @@ cities:
 contacts:
   x: EmmanuelDemey
   mail: emmanuel.demey@zenika.com
-websites:
-- name: Web
-  url: https://gillespie59.github.io/
 layout: speaker
 ---
 

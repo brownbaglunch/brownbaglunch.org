@@ -14,8 +14,6 @@ contacts:
 websites:
   - name: Web
     url: https://xaviercarpentier.com/
-  - name: Web
-    url: https://blog.xavier-carpentier.com/
 layout: speaker
 ---
 

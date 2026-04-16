@@ -9,9 +9,6 @@ cover: https://www.gravatar.com/avatar/bd0f602050b2f95901199d3a3789eb56?size=200
 contacts:
   x: CharlesBouttaz
   mail: c.bouttaz+bbl@gmail.com
-websites:
-- name: Web
-  url: https://charles-bouttaz.com
 layout: speaker
 ---
 

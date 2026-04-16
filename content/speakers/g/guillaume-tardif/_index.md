@@ -8,9 +8,6 @@ cities:
 contacts:
   x: gtardif
   mail: guillaume.tardif@gmail.com
-websites:
-- name: Web
-  url: https://melodiousthunkcode.fr/
 layout: speaker
 ---
 

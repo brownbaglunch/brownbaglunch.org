@@ -9,9 +9,6 @@ cover: https://www.gravatar.com/avatar/a3b567e54b0e3935c4b53cca2a835f1e.png?size
 contacts:
   x: ouarzy
   mail: emilien@pecoul.fr
-websites:
-- name: Web
-  url: https://www.ouarzy.com/
 layout: speaker
 ---
 

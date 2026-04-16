@@ -12,8 +12,6 @@ contacts:
   mail: yoann.buch@gmail.com
   linkedin: yoannbuch
 websites:
-  - name: Web
-    url: https://findtheflow.io
 layout: speaker
 ---
 

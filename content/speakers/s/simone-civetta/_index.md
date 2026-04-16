@@ -12,8 +12,6 @@ contacts:
   github: viteinfinite
 websites:
   - name: Web
-    url: https://blog.xebia.fr
-  - name: Web
     url: https://viteinfinite.com
 layout: speaker
 ---

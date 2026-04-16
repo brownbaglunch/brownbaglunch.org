@@ -10,8 +10,6 @@ contacts:
   mail: yvan.phelizot@arolla.fr
   linkedin: yvanphelizot
 websites:
-  - name: Web
-    url: https://cotonne.github.com/
 layout: speaker
 ---
 

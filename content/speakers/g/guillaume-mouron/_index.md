@@ -16,8 +16,6 @@ websites:
   - name: Web
     url: https://www.lucca.fr/
   - name: Web
-    url: https://www.gmo-web.info/
-  - name: Web
     url: https://gmouron.github.io/
 layout: speaker
 ---

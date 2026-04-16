@@ -11,8 +11,6 @@ contacts:
   mail: arnaud.tournier@lteconsulting.fr
 websites:
 - name: Web
-  url: https://www.lteconsulting.fr
-- name: Web
   url: https://gwt-france.blogspot.com/
 - name: Web
   url: https://lteconsulting.developpez.com/

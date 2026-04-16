@@ -8,11 +8,6 @@ cities:
 contacts:
   x: cgrand
   mail: christophe@cgrand.net
-websites:
-- name: Web
-  url: https://clj-me.cgrand.net/
-- name: Web
-  url: https://lambdanext.eu/
 layout: speaker
 ---
 

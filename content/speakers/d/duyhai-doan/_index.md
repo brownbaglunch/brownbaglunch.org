@@ -9,9 +9,6 @@ cover: https://www.gravatar.com/avatar/ffa96040bb4211cad1c66f385d8cb77b.png
 contacts:
   x: doanduyhai
   mail: doanduyhai@gmail.com
-websites:
-- name: Web
-  url: https://achilles.archinnov.info
 layout: speaker
 ---
 

@@ -13,8 +13,6 @@ contacts:
   github: chanmix51
   linkedin: grégoire-hubert-0323331b
 websites:
-  - name: Web
-    url: https://www.pragmafabrik.fr
 layout: speaker
 ---
 

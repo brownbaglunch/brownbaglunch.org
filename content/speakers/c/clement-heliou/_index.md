@@ -9,9 +9,6 @@ cover: https://pbs.twimg.com/profile_images/865131946908635139/hONda4V3_400x400.
 contacts:
   x: c_heliou
   mail: cheliou@xebia.fr
-websites:
-- name: Web
-  url: https://blog.xebia.fr/author/cheliou
 layout: speaker
 ---
 

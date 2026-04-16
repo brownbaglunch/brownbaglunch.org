@@ -14,8 +14,6 @@ contacts:
 websites:
   - name: Web
     url: https://clermontech.org
-  - name: Web
-    url: https://raynaud.io
 layout: speaker
 ---
 

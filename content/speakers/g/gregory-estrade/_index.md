@@ -11,10 +11,6 @@ contacts:
   mail: gregory.estrade@gmail.com
   github: Torlus
 websites:
-  - name: Web
-    url: https://lvt.tl/
-  - name: Web
-    url: https://www.silicium.org/
 layout: speaker
 ---
 

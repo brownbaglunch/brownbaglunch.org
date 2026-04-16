@@ -12,8 +12,6 @@ contacts:
   mail: augustin@laveaucoupet.fr
   github: augustinmerle
 websites:
-  - name: Web
-    url: https://www.atc-it.fr/
 layout: speaker
 ---
 

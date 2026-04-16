@@ -11,8 +11,6 @@ contacts:
 websites:
 - name: Web
   url: https://www.faveod.com
-- name: Web
-  url: https://maitre-du-monde.fr
 layout: speaker
 ---
 

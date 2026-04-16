@@ -11,8 +11,6 @@ contacts:
   mail: marine.teapotmc@gmail.com
   linkedin: marine-corbelin-a03bb023
 websites:
-  - name: Web
-    url: https://teapotmc.fr/
 layout: speaker
 ---
 

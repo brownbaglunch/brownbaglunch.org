@@ -9,9 +9,6 @@ cover: https://en.gravatar.com/userimage/31032000/ea9b56ad98a9475b4d8e0f107b3dc5
 contacts:
   x: BitardMichael
   mail: bitard.michael@gmail.com
-websites:
-- name: Web
-  url: https://michael.bitard.eu
 layout: speaker
 ---
 

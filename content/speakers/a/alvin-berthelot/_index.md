@@ -13,8 +13,6 @@ contacts:
 websites:
   - name: Web
     url: https://www.webyousoon.com
-  - name: AboutMe
-    url: https://alvin.berthelot.rocks/
   - name: Speakerdeck
     url: https://speakerdeck.com/alvinberthelot
 layout: speaker

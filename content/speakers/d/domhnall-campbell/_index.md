@@ -11,8 +11,6 @@ contacts:
   mail: domhnallcampbell@gmail.com
   github: CampbellGit
 websites:
-  - name: Website
-    url: https://domcampbell.com/
 layout: speaker
 ---
 

@@ -11,8 +11,6 @@ contacts:
   mail: romain.couturier@terredagile.com
 websites:
 - name: Web
-  url: https://www.terredagile.com
-- name: Web
   url: https://talondagile.fr
 layout: speaker
 ---

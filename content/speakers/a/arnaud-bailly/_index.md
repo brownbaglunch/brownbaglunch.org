@@ -11,7 +11,6 @@ cities:
   - fr/vannes
   - fr/paris
   - fr/lille
-cover: https://drcode.io/images/arnaud_hero_white.png
 contacts:
   x: dr_c0d3
   mail: arnaud@drcode.io
@@ -20,8 +19,6 @@ contacts:
 websites:
   - name: Web
     url: https://abailly.github.io/
-  - name: Web
-    url: https://drcode.io/
 layout: speaker
 ---
 

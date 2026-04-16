@@ -13,8 +13,6 @@ contacts:
   github: tsunammis
   linkedin: stanislaschollet
 websites:
-  - name: Web
-    url: https://stanislaschollet.com
 layout: speaker
 ---
 

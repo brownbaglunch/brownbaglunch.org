@@ -8,11 +8,6 @@ cities:
 contacts:
   x: laurentmeurisse
   mail: lmeurisse@ekito.fr
-websites:
-- name: Web
-  url: https://laurentmeurisse.wordpress.com/
-- name: Web
-  url: https://www.ekito.fr/people/?lang=fr/
 layout: speaker
 ---
 

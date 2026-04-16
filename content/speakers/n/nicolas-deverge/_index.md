@@ -8,9 +8,6 @@ cities:
 contacts:
   x: ndeverge
   mail: ndeverge@gmail.com
-websites:
-- name: Web
-  url: https://www.ekito.fr/people?author_name=ndeverge
 layout: speaker
 ---
 

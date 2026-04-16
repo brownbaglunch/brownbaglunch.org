@@ -13,8 +13,6 @@ contacts:
   github: nverinaud
   slideshare: nverinaud
 websites:
-  - name: Web
-    url: https://ryfacto.fr
   - name: Malt
     url: https://www.malt.fr/profile/nicolasverinaud
 layout: speaker

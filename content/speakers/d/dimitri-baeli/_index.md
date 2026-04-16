@@ -11,10 +11,6 @@ contacts:
   mail: dbaeli@gmail.com
 websites:
 - name: Web
-  url: https://www.lesfurets.com
-- name: Web
-  url: https://www.leankanban.fr
-- name: Web
   url: https://www.codeursenseine.com
 layout: speaker
 ---

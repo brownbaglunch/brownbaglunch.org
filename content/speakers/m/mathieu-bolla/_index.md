@@ -9,10 +9,6 @@ cover: https://www.gravatar.com/avatar/4677084da23fd41e2d21561ec111a512?s=256
 contacts:
   x: mathieubolla
 websites:
-- name: Web
-  url: https://www.goandcloud.it
-- name: Web
-  url: https://www.mathieu-bolla.com
 - name: AboutMe
   url: https://about.me/mathieubolla
 layout: speaker

@@ -11,8 +11,6 @@ contacts:
   linkedin: igor-laborie-080ab78
   blog: https://www.monkeypatch.io/blog/
 websites:
-  - name: Web
-    url: https://ilaborie.org
 layout: speaker
 ---
 

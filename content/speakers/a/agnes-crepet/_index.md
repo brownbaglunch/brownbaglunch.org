@@ -10,10 +10,6 @@ contacts:
   mail: agnes@ninja-squad.com
 websites:
 - name: Web
-  url: https://www.lyonjug.org/
-- name: Web
-  url: https://www.duchess-france.org/
-- name: Web
   url: https://ninja-squad.fr/
 - name: Web
   url: https://www.avataria.org/

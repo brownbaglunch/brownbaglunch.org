@@ -10,11 +10,6 @@ cover: https://www.gravatar.com/avatar/95a63eeb28d5e8237cfb8d6c75798ef1.png
 contacts:
   x: rodoq
   mail: rodolphe@quiedeville.org
-websites:
-- name: Web
-  url: https://blog.rodolphe.quiedeville.org
-- name: LinkedIn
-  url: https://rodolphe.quiedeville.org/linkedin
 layout: speaker
 ---
 

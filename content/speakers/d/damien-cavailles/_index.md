@@ -11,8 +11,6 @@ contacts:
 websites:
 - name: Web
   url: https://medium.com/@thedamfr
-- name: Web
-  url: https://lille.up.co
 layout: speaker
 ---
 
