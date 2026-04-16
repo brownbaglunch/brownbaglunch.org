@@ -8,7 +8,7 @@
 {{ if .Description }}
   {{ $desc = .Description }}
 {{ else if or .IsPage .IsSection }}
-  {{ with .Summary }}{{ $desc = . | plainify | truncate 160 }}{{ end }}
+  {{ with .Summary }}{{ $desc = . | plainify | truncate 160 | strings.TrimSpace }}{{ end }}
 {{ end }}
 
 {{/* ---- OG image (must be absolute URL) ---- */}}
@@ -30,7 +30,11 @@
 
 {{/* ---- Title ---- */}}
 {{ $title := .Site.Title }}
-{{ with .Title }}{{ $title = . }}{{ end }}
+{{ if eq .Params.layout "speaker" }}
+  {{ $title = printf "%s %s" .Params.firstname .Params.lastname }}
+{{ else }}
+  {{ with .Title }}{{ $title = . }}{{ end }}
+{{ end }}
 
 <!-- Open Graph -->
 <meta property="og:title" content="{{ $title }}">
