@@ -16,7 +16,7 @@ contacts:
   linkedin: sasjob
 websites:
   - name: Web
-    url: http://www.loxodata.com
+    url: https://www.loxodata.com
 layout: speaker
 ---
 

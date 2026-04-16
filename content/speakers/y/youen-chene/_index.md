@@ -11,7 +11,7 @@ contacts:
   mail: youen.chene@gadz.org
 websites:
 - name: Web
-  url: http://www.youenchene.fr/
+  url: https://www.youenchene.fr/
 layout: speaker
 ---
 

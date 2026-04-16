@@ -5,16 +5,16 @@ since: 2014-07-10
 city: fr/grenoble
 cities:
   - fr/grenoble
-cover: http://www.gravatar.com/avatar/3771a70b46d12cb049e7be561ae69116.png
+cover: https://www.gravatar.com/avatar/3771a70b46d12cb049e7be561ae69116.png
 contacts:
   x: johan_alps
   mail: martinsson.johan@gmail.com
   github: martinsson
 websites:
   - name: Web
-    url: http://martinsson-johan.blogspot.fr/
+    url: https://martinsson-johan.blogspot.fr/
   - name: Web
-    url: http://www.changit.fr/
+    url: https://www.changit.fr/
 layout: speaker
 ---
 

@@ -13,7 +13,7 @@ contacts:
   mail: tugdual@gmail.com
 websites:
 - name: Web
-  url: http://tgrall.github.io/
+  url: https://tgrall.github.io/
 layout: speaker
 ---
 

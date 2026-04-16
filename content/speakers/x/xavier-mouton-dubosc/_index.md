@@ -5,14 +5,14 @@ since: 2014-05-06
 city: fr/toulouse-et-sa-banlieue
 cities:
   - fr/toulouse
-cover: http://dascritch.com/images/NightShot.jpg
+cover: https://dascritch.com/images/NightShot.jpg
 contacts:
   x: dascritch
   mail: xaviermd@gmail.com
   linkedin: dascritch
 websites:
   - name: Web
-    url: http://dascritch.com/
+    url: https://dascritch.com/
 layout: speaker
 ---
 

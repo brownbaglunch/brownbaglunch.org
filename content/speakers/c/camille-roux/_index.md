@@ -6,7 +6,7 @@ city: fr/montpellier
 cities:
   - fr/montpellier
   - fr/paris
-cover: http://www.gravatar.com/avatar/29668d9eaaf486727a446f7d03c59f07.jpg?s=250
+cover: https://www.gravatar.com/avatar/29668d9eaaf486727a446f7d03c59f07.jpg?s=250
 contacts:
   x: CamilleRoux
   mail: contact@camilleroux.com

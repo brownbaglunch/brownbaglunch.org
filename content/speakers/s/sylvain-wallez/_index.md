@@ -5,13 +5,13 @@ since: '2013-02-21'
 city: fr/toulouse-et-environs
 cities:
 - fr/toulouse
-cover: http://bluxte.net/archives/sylvain_wallez.png
+cover: https://www.bluxte.net/archives/sylvain_wallez.png
 contacts:
   x: bluxte
   mail: sylvain@bluxte.net
 websites:
 - name: Web
-  url: http://bluxte.net
+  url: https://bluxte.net
 layout: speaker
 ---
 

@@ -10,7 +10,7 @@ contacts:
   mail: vincent.ferries@gmail.com
 websites:
 - name: Web
-  url: http://blog.genigraph.fr/author/vferries/
+  url: https://blog.genigraph.fr/author/vferries/
 layout: speaker
 ---
 

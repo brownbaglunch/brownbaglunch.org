@@ -11,7 +11,7 @@ contacts:
   mail: cecilia.bossard@gmail.com
 websites:
 - name: Web
-  url: http://www.codelutin.com
+  url: https://www.codelutin.com
 layout: speaker
 ---
 

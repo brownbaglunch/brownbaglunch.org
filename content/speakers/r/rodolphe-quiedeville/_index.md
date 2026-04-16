@@ -6,15 +6,15 @@ city: fr/lille
 cities:
 - fr/paris
 - fr/lille
-cover: http://www.gravatar.com/avatar/95a63eeb28d5e8237cfb8d6c75798ef1.png
+cover: https://www.gravatar.com/avatar/95a63eeb28d5e8237cfb8d6c75798ef1.png
 contacts:
   x: rodoq
   mail: rodolphe@quiedeville.org
 websites:
 - name: Web
-  url: http://blog.rodolphe.quiedeville.org
+  url: https://blog.rodolphe.quiedeville.org
 - name: LinkedIn
-  url: http://rodolphe.quiedeville.org/linkedin
+  url: https://rodolphe.quiedeville.org/linkedin
 layout: speaker
 ---
 

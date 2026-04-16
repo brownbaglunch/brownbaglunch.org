@@ -10,9 +10,9 @@ contacts:
   mail: ddecarvalho@pagesjaunes.fr
 websites:
 - name: Web
-  url: http://www.pagesjaunes.fr/
+  url: https://www.pagesjaunes.fr/
 - name: Viadeo
-  url: http://www.viadeo.com/p/002typxcger1kb8
+  url: https://www.viadeo.com/p/002typxcger1kb8
 layout: speaker
 ---
 

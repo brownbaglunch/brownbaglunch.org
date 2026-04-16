@@ -12,7 +12,7 @@ contacts:
   linkedin: vmassol
 websites:
   - name: Web
-    url: http://massol.net
+    url: https://massol.net
   - name: AboutMe
     url: https://about.me/vmassol
 layout: speaker

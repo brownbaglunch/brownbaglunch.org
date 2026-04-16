@@ -5,7 +5,7 @@ since: 2015-05-11
 city: fr/montreuil-paris
 cities:
   - fr/paris
-cover: http://adrienjoly.com/img/photo.jpg
+cover: https://adrienjoly.com/img/photo.jpg
 contacts:
   x: adrienjoly
   mail: contact@adrienjoly.com

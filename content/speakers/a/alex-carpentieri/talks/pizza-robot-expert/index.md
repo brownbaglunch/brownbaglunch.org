@@ -8,6 +8,6 @@ tags:
 versions:
 - lang: FR
   title: Pizza Robot Expert
-  abstract: Introduction aux systèmes experts à travers la decouverte de CLIPS (http://www.clipsrules.net/)
+  abstract: Introduction aux systèmes experts à travers la decouverte de CLIPS (https://www.clipsrules.net/)
     et la création d'un robot à pizza.
 ---

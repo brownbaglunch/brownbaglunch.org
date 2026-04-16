@@ -5,15 +5,15 @@ since: '2013-05-02'
 city: fr/paris
 cities:
 - fr/paris
-cover: http://gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3.png
+cover: https://gravatar.com/avatar/51dec3feb906404b8564a3c31d1050f3.png
 contacts:
   x: cyriux
   mail: cyrillemartraire@gmail.com
 websites:
 - name: Web
-  url: http://www.arolla.fr
+  url: https://www.arolla.fr
 - name: Web
-  url: http://cyrille.martraire.com
+  url: https://cyrille.martraire.com
 layout: speaker
 ---
 

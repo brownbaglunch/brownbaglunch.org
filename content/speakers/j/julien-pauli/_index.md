@@ -10,7 +10,7 @@ contacts:
   x: julienpauli
   mail: julien.pauli@gmail.com
   github: jpauli
-  blog: http://blog.jpauli.tech/
+  blog: https://blog.jpauli.tech/
 layout: speaker
 ---
 

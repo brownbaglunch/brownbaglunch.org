@@ -11,7 +11,7 @@ contacts:
   mail: bitard.michael@gmail.com
 websites:
 - name: Web
-  url: http://michael.bitard.eu
+  url: https://michael.bitard.eu
 layout: speaker
 ---
 

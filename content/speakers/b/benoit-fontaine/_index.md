@@ -12,7 +12,7 @@ contacts:
   github: Bogala
 websites:
   - name: Website
-    url: http://benoitfontaine.net/
+    url: https://benoitfontaine.net/
 layout: speaker
 ---
 

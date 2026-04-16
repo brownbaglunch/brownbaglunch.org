@@ -12,7 +12,7 @@ contacts:
   linkedin: adrien-pessu
 websites:
   - name: Web
-    url: http://adrien.pessu.net/
+    url: https://adrien.pessu.net/
 layout: speaker
 ---
 

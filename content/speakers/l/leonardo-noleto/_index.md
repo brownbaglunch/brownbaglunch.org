@@ -9,7 +9,7 @@ contacts:
   x: leonardo_noleto
 websites:
 - name: LinkedIn
-  url: http://fr.linkedin.com/pub/leonardo-noleto/63/70b/820
+  url: https://fr.linkedin.com/pub/leonardo-noleto/63/70b/820
 layout: speaker
 ---
 

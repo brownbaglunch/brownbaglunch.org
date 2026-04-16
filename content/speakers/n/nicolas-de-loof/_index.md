@@ -10,9 +10,9 @@ contacts:
   mail: nicolas.deloof@gmail.com
 websites:
 - name: Web
-  url: http://blog.loof.fr
+  url: https://blog.loof.fr
 - name: Web
-  url: http://www.cloudbees.com
+  url: https://www.cloudbees.com
 layout: speaker
 ---
 

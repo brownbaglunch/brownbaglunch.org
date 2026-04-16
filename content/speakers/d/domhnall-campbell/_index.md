@@ -12,7 +12,7 @@ contacts:
   github: CampbellGit
 websites:
   - name: Website
-    url: http://domcampbell.com/
+    url: https://domcampbell.com/
 layout: speaker
 ---
 

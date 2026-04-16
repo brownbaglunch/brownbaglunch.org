@@ -5,7 +5,7 @@ since: 2016-10-03
 city: fr/nantes
 cities:
   - fr/nantes
-cover: http://secure.gravatar.com/userimage/111133732/8fe655abb8ebc0bcf90d9c431e7763ff.png
+cover: https://secure.gravatar.com/userimage/111133732/8fe655abb8ebc0bcf90d9c431e7763ff.png
 contacts:
   mail: bbelz@lucca.fr
   linkedin: benoit-belz-95846270

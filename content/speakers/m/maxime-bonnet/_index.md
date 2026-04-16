@@ -5,7 +5,7 @@ since: '2014-03-31'
 city: fr/lyon
 cities:
 - fr/lyon
-cover: http://www.gravatar.com/avatar/03314fcc147b87324941c0c6329d444b.png
+cover: https://www.gravatar.com/avatar/03314fcc147b87324941c0c6329d444b.png
 contacts:
   x: maximebonnet
   mail: maxime@bonnet.tel

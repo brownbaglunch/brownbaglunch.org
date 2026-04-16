@@ -12,7 +12,7 @@ contacts:
   mail: dmartin.pro@gmail.com
 websites:
 - name: Web
-  url: http://blog.ippon.fr/author/dmartin
+  url: https://blog.ippon.fr/author/dmartin
 layout: speaker
 ---
 

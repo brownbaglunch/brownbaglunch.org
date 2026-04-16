@@ -11,7 +11,7 @@ cities:
 contacts:
   x: "@k33g_org"
   mail: ph.charriere@gmail.com
-  blog: http://k33g.github.io/all.html
+  blog: https://k33g.github.io/all.html
   linkedin: phcharriere
   github: k33g
 layout: speaker

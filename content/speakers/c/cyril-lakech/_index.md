@@ -11,7 +11,7 @@ contacts:
   mail: cyril.lakech@gmail.com
 websites:
 - name: Web
-  url: http://chtijug.org/
+  url: https://chtijug.org/
 layout: speaker
 ---
 

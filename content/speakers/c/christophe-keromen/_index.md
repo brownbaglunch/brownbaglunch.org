@@ -5,14 +5,14 @@ since: 2013-05-29
 city: fr/vannes-et-morbihan
 cities:
   - fr/vannes
-cover: http://www.gravatar.com/avatar/2898ad2474ba25b87a9326585d3a234e.png
+cover: https://www.gravatar.com/avatar/2898ad2474ba25b87a9326585d3a234e.png
 contacts:
   x: ckeromen
   mail: ckeromen@ckti.com
   linkedin: christophekeromen
 websites:
   - name: Web
-    url: http://ckti.wordpress.com/
+    url: https://ckti.wordpress.com/
 layout: speaker
 ---
 

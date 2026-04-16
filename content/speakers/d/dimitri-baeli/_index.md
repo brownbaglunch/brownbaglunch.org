@@ -5,17 +5,17 @@ since: '2013-05-08'
 city: fr/paris
 cities:
 - fr/paris
-cover: http://gravatar.com/avatar/7f73df517fdea1028d28f39980edf441.png
+cover: https://gravatar.com/avatar/7f73df517fdea1028d28f39980edf441.png
 contacts:
   x: dbaeli
   mail: dbaeli@gmail.com
 websites:
 - name: Web
-  url: http://www.lesfurets.com
+  url: https://www.lesfurets.com
 - name: Web
-  url: http://www.leankanban.fr
+  url: https://www.leankanban.fr
 - name: Web
-  url: http://www.codeursenseine.com
+  url: https://www.codeursenseine.com
 layout: speaker
 ---
 

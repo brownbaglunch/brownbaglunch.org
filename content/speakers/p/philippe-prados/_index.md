@@ -5,7 +5,7 @@ since: 2014-01-31
 city: fr/paris
 cities:
   - fr/paris
-cover: http://www.prados.fr/_/rsrc/1351608832371/cv/MOI%20300x297.png?height=198&width=200
+cover: https://www.prados.fr/_/rsrc/1351608832371/cv/MOI%20300x297.png?height=198&width=200
 contacts:
   x: pprados
   mail: brownbaglunch@prados
@@ -13,7 +13,7 @@ contacts:
   linkedin: pprados
 websites:
   - name: Web
-    url: http://www.prados.fr
+    url: https://www.prados.fr
 layout: speaker
 ---
 

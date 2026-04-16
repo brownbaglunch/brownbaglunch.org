@@ -13,7 +13,7 @@ contacts:
   linkedin: qian-jin-3951501b
 websites:
   - name: Web
-    url: http://potatobon.com/
+    url: https://potatobon.com/
 layout: speaker
 ---
 

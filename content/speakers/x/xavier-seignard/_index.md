@@ -5,7 +5,7 @@ since: 2013-09-08
 city: fr/nantes
 cities:
   - fr/nantes
-cover: http://drangies.fr/assets/images/me.jpg
+cover: https://drangies.fr/assets/images/me.jpg
 contacts:
   x: xavier_seignard
   mail: xavier.seignard@gmail.com
@@ -13,7 +13,7 @@ contacts:
   github: xseignard
 websites:
   - name: Web
-    url: http://drangies.fr/
+    url: https://drangies.fr/
 layout: speaker
 ---
 

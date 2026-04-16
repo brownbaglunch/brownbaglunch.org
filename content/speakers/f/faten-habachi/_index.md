@@ -11,7 +11,7 @@ contacts:
   linkedin: fatenhabachi
 websites:
   - name: Web
-    url: http://ippon.fr
+    url: https://ippon.fr
 layout: speaker
 ---
 

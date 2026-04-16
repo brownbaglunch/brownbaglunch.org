@@ -10,7 +10,7 @@ contacts:
   mail: pier.marquis@gmail.com
 websites:
 - name: LinkedIn
-  url: http://fr.linkedin.com/pub/pierre-marquis/27/573/752
+  url: https://fr.linkedin.com/pub/pierre-marquis/27/573/752
 layout: speaker
 ---
 

@@ -12,7 +12,7 @@ contacts:
   github: ronanguilloux
 websites:
   - name: Web
-    url: http://arnolog.net/
+    url: https://arnolog.net/
 layout: speaker
 ---
 

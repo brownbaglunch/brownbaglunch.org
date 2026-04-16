@@ -10,11 +10,11 @@ contacts:
   mail: x.maurin@kstrategy.fr
 websites:
 - name: Web
-  url: http://www.kstrategy.fr
+  url: https://www.kstrategy.fr
 - name: Web
-  url: http://www.ux-bordeaux.com
+  url: https://www.ux-bordeaux.com
 - name: Web
-  url: http://www.uxchallenges.com
+  url: https://www.uxchallenges.com
 layout: speaker
 ---
 

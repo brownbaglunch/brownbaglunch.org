@@ -5,13 +5,13 @@ since: '2013-05-27'
 city: fr/rouen
 cities:
 - fr/rouen
-cover: http://www.gravatar.com/avatar/cb17294de56e44d18f1ab0dc966101a7.png
+cover: https://www.gravatar.com/avatar/cb17294de56e44d18f1ab0dc966101a7.png
 contacts:
   x: glours
   mail: g.lours@gmail.com
 websites:
 - name: Web
-  url: http://www.saagie.com
+  url: https://www.saagie.com
 layout: speaker
 ---
 

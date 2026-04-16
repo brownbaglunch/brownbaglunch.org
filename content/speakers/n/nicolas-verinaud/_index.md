@@ -14,7 +14,7 @@ contacts:
   slideshare: nverinaud
 websites:
   - name: Web
-    url: http://ryfacto.fr
+    url: https://ryfacto.fr
   - name: Malt
     url: https://www.malt.fr/profile/nicolasverinaud
 layout: speaker

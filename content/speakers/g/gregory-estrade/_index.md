@@ -5,16 +5,16 @@ since: 2015-09-24
 city: fr/toulouse
 cities:
   - fr/toulouse
-cover: http://torlus.github.io/hat_pro.png
+cover: https://torlus.github.io/hat_pro.png
 contacts:
   x: Torlus
   mail: gregory.estrade@gmail.com
   github: Torlus
 websites:
   - name: Web
-    url: http://lvt.tl/
+    url: https://lvt.tl/
   - name: Web
-    url: http://www.silicium.org/
+    url: https://www.silicium.org/
 layout: speaker
 ---
 

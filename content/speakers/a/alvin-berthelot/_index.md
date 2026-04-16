@@ -12,9 +12,9 @@ contacts:
   linkedin: alvin-berthelot-4400b0ba
 websites:
   - name: Web
-    url: http://www.webyousoon.com
+    url: https://www.webyousoon.com
   - name: AboutMe
-    url: http://alvin.berthelot.rocks/
+    url: https://alvin.berthelot.rocks/
   - name: Speakerdeck
     url: https://speakerdeck.com/alvinberthelot
 layout: speaker

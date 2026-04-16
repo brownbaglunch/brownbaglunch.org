@@ -5,7 +5,7 @@ since: 2019-11-25
 city: fr/nantes
 cities:
   - fr/nantes
-cover: http://www.johanbonneau.com/assets/img/johan_bonneau.jpg
+cover: https://www.johanbonneau.com/assets/img/johan_bonneau.jpg
 contacts:
   x: JohanBonneau
   mail: johan@johanbonneau.com
@@ -13,7 +13,7 @@ contacts:
   github: Zenigata
 websites:
   - name: Web
-    url: http://www.johanbonneau.com/
+    url: https://www.johanbonneau.com/
 layout: speaker
 ---
 

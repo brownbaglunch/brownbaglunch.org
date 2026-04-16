@@ -12,7 +12,7 @@ contacts:
   linkedin: dimitrifontaine
 websites:
   - name: Web
-    url: http://tapoueh.org
+    url: https://tapoueh.org
 layout: speaker
 ---
 

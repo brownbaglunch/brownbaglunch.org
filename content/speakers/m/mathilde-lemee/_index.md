@@ -10,7 +10,7 @@ contacts:
   mail: mathilde.lemee@yahoo.fr
 websites:
 - name: Web
-  url: http://www.java-freelance.fr/
+  url: https://java-freelance.fr/
 layout: speaker
 ---
 

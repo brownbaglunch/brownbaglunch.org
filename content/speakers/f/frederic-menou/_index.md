@@ -11,7 +11,7 @@ contacts:
   mail: frederic.menou@gmail.com
 websites:
 - name: about.me
-  url: http://about.me/ptitfred
+  url: https://about.me/ptitfred
 layout: speaker
 ---
 

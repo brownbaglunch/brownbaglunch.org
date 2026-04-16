@@ -11,9 +11,9 @@ contacts:
   mail: dridi.boukelmoune@gmail.com
 websites:
 - name: Web
-  url: http://www.zenika.com/experts/Dridi_Boukelmoune.html
+  url: https://www.zenika.com/experts/Dridi_Boukelmoune.html
 - name: InfoQ
-  url: http://www.infoq.com/fr/author/Dridi-Boukelmoune
+  url: https://www.infoq.com/fr/author/Dridi-Boukelmoune
 layout: speaker
 ---
 

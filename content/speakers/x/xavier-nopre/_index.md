@@ -10,7 +10,7 @@ contacts:
   mail: xnopre@gmail.com
 websites:
 - name: Web
-  url: http://xnopre.blogspot.fr/
+  url: https://xnopre.blogspot.com/
 layout: speaker
 ---
 

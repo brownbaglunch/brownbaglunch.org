@@ -12,9 +12,9 @@ contacts:
   github: viteinfinite
 websites:
   - name: Web
-    url: http://blog.xebia.fr
+    url: https://blog.xebia.fr
   - name: Web
-    url: http://viteinfinite.com
+    url: https://viteinfinite.com
 layout: speaker
 ---
 

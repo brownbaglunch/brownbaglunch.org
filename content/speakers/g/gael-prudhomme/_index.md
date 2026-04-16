@@ -5,7 +5,7 @@ since: 2016-05-03
 city: fr/nantes
 cities:
   - fr/nantes
-cover: http://www.gravatar.com/avatar/88e825193cba7c1b64f6c1debeda061f?s=256
+cover: https://www.gravatar.com/avatar/88e825193cba7c1b64f6c1debeda061f?s=256
 contacts:
   x: mr_Prud
   mail: gael+bbl@alfa-safety.fr

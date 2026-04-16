@@ -11,7 +11,7 @@ contacts:
   mail: cheliou@xebia.fr
 websites:
 - name: Web
-  url: http://blog.xebia.fr/author/cheliou
+  url: https://blog.xebia.fr/author/cheliou
 layout: speaker
 ---
 

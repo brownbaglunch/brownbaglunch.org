@@ -10,11 +10,11 @@ contacts:
   x: mathieubolla
 websites:
 - name: Web
-  url: http://www.goandcloud.it
+  url: https://www.goandcloud.it
 - name: Web
-  url: http://www.mathieu-bolla.com
+  url: https://www.mathieu-bolla.com
 - name: AboutMe
-  url: http://about.me/mathieubolla
+  url: https://about.me/mathieubolla
 layout: speaker
 ---
 

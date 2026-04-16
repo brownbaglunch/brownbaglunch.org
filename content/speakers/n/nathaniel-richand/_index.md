@@ -10,9 +10,9 @@ contacts:
   mail: nrichand@brownbaglunch.fr
 websites:
 - name: Web
-  url: http://www.agilexperience.fr
+  url: https://www.agilexperience.fr
 - name: Web
-  url: http://blog.xebia.fr/author/nrichand
+  url: https://blog.xebia.fr/author/nrichand
 layout: speaker
 ---
 

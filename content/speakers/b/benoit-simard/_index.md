@@ -6,14 +6,14 @@ city: fr/nantes
 cities:
   - fr/paris
   - fr/nantes
-cover: http://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/benoit-simard-120x160.jpg
+cover: https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/benoit-simard-120x160.jpg
 contacts:
   x: logisima
   mail: benoit.simard@neotechnology.com
   linkedin: logisima
 websites:
   - name: Web
-    url: http://www.bsimard.com/
+    url: https://www.bsimard.com/
 layout: speaker
 ---
 

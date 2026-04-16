@@ -13,7 +13,7 @@ contacts:
   github: octplane
 websites:
   - name: Web
-    url: http://oct.zoy.org
+    url: https://oct.zoy.org
 layout: speaker
 ---
 

@@ -11,9 +11,9 @@ contacts:
   github: willdurand
 websites:
   - name: Web
-    url: http://williamdurand.fr
+    url: https://williamdurand.fr
   - name: Web
-    url: http://clermontech.org
+    url: https://clermontech.org
 layout: speaker
 ---
 

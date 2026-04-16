@@ -12,7 +12,7 @@ contacts:
   github: rtouze
 websites:
   - name: Web
-    url: http://rtodev.tech
+    url: https://rtodev.tech
   - name: Speakerdeck
     url: https://speakerdeck.com/rtouze
 layout: speaker

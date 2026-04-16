@@ -11,7 +11,7 @@ contacts:
   mail: kanedafromparis@gmail.com
 websites:
 - name: Web
-  url: http://kanedafromparis.github.io/
+  url: https://kanedafromparis.github.io/
 layout: speaker
 ---
 

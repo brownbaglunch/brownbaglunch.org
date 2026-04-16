@@ -11,7 +11,7 @@ contacts:
   linkedin: stephanlagraulet
 websites:
   - name: Web
-    url: http://blog.ippon.fr/
+    url: https://blog.ippon.fr/
 layout: speaker
 ---
 

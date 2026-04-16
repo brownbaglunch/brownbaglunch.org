@@ -5,7 +5,7 @@ since: 2014-03-28
 city: fr/sophia-antipolis
 cities:
   - fr/sophia-antipolis
-cover: http://www.gravatar.com/avatar/ae929ea94c27f7836e3c1cac2e961b2b.pn?size=200g
+cover: https://www.gravatar.com/avatar/ae929ea94c27f7836e3c1cac2e961b2b.pn?size=200g
 contacts:
   x: youribm
   mail: youribm@gmail.com

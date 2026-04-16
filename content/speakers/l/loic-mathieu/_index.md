@@ -11,7 +11,7 @@ contacts:
   mail: loikeseke@gmail.com
 websites:
 - name: Web
-  url: http://www.loicmathieu.fr
+  url: https://www.loicmathieu.fr
 layout: speaker
 ---
 

@@ -11,7 +11,7 @@ contacts:
   mail: flocha2000-bbl@yahoo.fr
 websites:
 - name: Web
-  url: http://devsnotebook.fr
+  url: https://devsnotebook.fr
 layout: speaker
 ---
 

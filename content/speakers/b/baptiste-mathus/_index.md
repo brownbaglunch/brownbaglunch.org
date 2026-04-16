@@ -5,7 +5,7 @@ since: 2013-06-26
 city: fr/toulouse-et-dans-le-coin
 cities:
   - fr/toulouse
-cover: http://www.gravatar.com/avatar/5a9d8fda68538f0db77ebfc8a55db853.jpg?s=200
+cover: https://www.gravatar.com/avatar/5a9d8fda68538f0db77ebfc8a55db853.jpg?s=200
 contacts:
   x: bmathus
   mail: bmathus@gmail.com
@@ -13,7 +13,7 @@ contacts:
   linkedin: bmathus
 websites:
   - name: Web
-    url: http://batmat.net/
+    url: https://batmat.net/
 layout: speaker
 ---
 

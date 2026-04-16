@@ -11,7 +11,7 @@ contacts:
   linkedin: horaciogonzalez
 websites:
   - name: Web
-    url: http://lostinbrittany.org/blog/
+    url: https://lostinbrittany.org/blog/
 layout: speaker
 ---
 

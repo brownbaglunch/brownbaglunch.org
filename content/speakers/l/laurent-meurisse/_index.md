@@ -10,9 +10,9 @@ contacts:
   mail: lmeurisse@ekito.fr
 websites:
 - name: Web
-  url: http://laurentmeurisse.wordpress.com/
+  url: https://laurentmeurisse.wordpress.com/
 - name: Web
-  url: http://www.ekito.fr/people/?lang=fr/
+  url: https://www.ekito.fr/people/?lang=fr/
 layout: speaker
 ---
 

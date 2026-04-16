@@ -12,7 +12,7 @@ contacts:
   github: alexisjanvier
 websites:
   - name: Web
-    url: http://alexisjanvier.net
+    url: https://alexisjanvier.net
   - name: Twitter
     url: https://twitter.com/alexisjanvier
 layout: speaker

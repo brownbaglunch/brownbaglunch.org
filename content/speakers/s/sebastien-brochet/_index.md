@@ -13,7 +13,7 @@ contacts:
   linkedin: sebastienbrochet
 websites:
   - name: Web
-    url: http://blog.sebbrochet.com
+    url: https://blog.sebbrochet.com
 layout: speaker
 ---
 

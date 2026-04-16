@@ -12,7 +12,7 @@ contacts:
   github: ciboulette
 websites:
   - name: Web
-    url: http://louiscibot.com
+    url: https://louiscibot.com
   - name: Twitter
     url: https://twitter.com/louiscibot
 layout: speaker

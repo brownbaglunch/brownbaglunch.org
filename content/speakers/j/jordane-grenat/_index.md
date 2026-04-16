@@ -10,7 +10,7 @@ contacts:
   mail: jordan.grenat+bbl@gmail.com
 websites:
 - name: Web
-  url: http://laveilleuse.io
+  url: https://laveilleuse.io
 layout: speaker
 ---
 

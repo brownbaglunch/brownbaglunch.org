@@ -11,11 +11,11 @@ contacts:
   mail: nicolas@touilleur-express.fr
 websites:
 - name: Web
-  url: http://www.touilleur-express.fr
+  url: https://www.touilleur-express.fr
 - name: Web
-  url: http://www.lunatech.fr
+  url: https://www.lunatech.fr
 - name: Web
-  url: http://www.devoxx.fr/
+  url: https://www.devoxx.fr/
 layout: speaker
 ---
 

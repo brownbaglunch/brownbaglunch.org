@@ -10,9 +10,9 @@ contacts:
   mail: mathieu.parisot+bbl@gmail.com
 websites:
 - name: Web
-  url: http://matparisot.fr/author/mathieu/
+  url: https://matparisot.fr/author/mathieu/
 - name: Web
-  url: http://matparisot.fr
+  url: https://matparisot.fr
 layout: speaker
 ---
 

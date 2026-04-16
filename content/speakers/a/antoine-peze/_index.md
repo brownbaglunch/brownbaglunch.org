@@ -13,7 +13,7 @@ contacts:
   linkedin: antoinepeze
 websites:
   - name: Web
-    url: http://antoinepeze.com
+    url: https://antoinepeze.com
 layout: speaker
 ---
 

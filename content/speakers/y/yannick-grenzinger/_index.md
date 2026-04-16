@@ -12,7 +12,7 @@ contacts:
   linkedin: yannickgrenzinger
 websites:
   - name: About Me
-    url: http://about.me/yannick.grenzinger
+    url: https://about.me/yannick.grenzinger
 layout: speaker
 ---
 

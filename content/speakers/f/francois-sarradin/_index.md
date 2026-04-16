@@ -11,7 +11,7 @@ contacts:
   mail: fsarradin@gmail.com
 websites:
 - name: Web
-  url: http://kerflyn.wordpress.com/
+  url: https://kerflyn.wordpress.com/
 layout: speaker
 ---
 

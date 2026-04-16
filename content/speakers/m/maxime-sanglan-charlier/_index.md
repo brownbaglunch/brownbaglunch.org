@@ -10,7 +10,7 @@ contacts:
   mail: m.sanglan.charlier@gmail.com
 websites:
 - name: Web
-  url: http://onehundredacorns.com/
+  url: https://onehundredacorns.com/
 layout: speaker
 ---
 

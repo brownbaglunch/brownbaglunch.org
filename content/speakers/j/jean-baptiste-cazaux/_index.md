@@ -12,9 +12,9 @@ contacts:
   github: jbcazaux
 websites:
   - name: Web
-    url: http://codox.fr/cv/
+    url: https://codox.fr/cv/
   - name: Web
-    url: http://codox.fr/react-ts-bbl
+    url: https://codox.fr/react-ts-bbl
 layout: speaker
 ---
 

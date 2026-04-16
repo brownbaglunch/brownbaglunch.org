@@ -12,7 +12,7 @@ contacts:
   linkedin: marine-corbelin-a03bb023
 websites:
   - name: Web
-    url: http://teapotmc.fr/
+    url: https://teapotmc.fr/
 layout: speaker
 ---
 

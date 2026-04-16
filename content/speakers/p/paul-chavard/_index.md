@@ -11,9 +11,9 @@ contacts:
   mail: paul@chavard.net
 websites:
 - name: Web
-  url: http://www.capitainetrain.com/
+  url: https://www.thetrainline.com/
 - name: Web
-  url: http://emberjs.com
+  url: https://emberjs.com
 layout: speaker
 ---
 

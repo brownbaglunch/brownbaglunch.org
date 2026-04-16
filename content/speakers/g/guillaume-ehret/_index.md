@@ -12,7 +12,7 @@ contacts:
   mail: guillaume.ehret.java@gmail.com
 websites:
 - name: Web
-  url: http://javamind-fr.blogspot.fr
+  url: https://javamind-fr.blogspot.com/
 layout: speaker
 ---
 

@@ -11,7 +11,7 @@ contacts:
   github: GillesDebunne
 websites:
   - name: Web
-    url: http://gillesdebunne.github.io/
+    url: https://gillesdebunne.github.io/
 layout: speaker
 ---
 

@@ -10,7 +10,7 @@ contacts:
   mail: romain.maton@gmail.com
 websites:
 - name: Web
-  url: http://www.web-tambouille.fr/
+  url: https://www.web-tambouille.fr/
 layout: speaker
 ---
 

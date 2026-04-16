@@ -13,7 +13,7 @@ contacts:
   linkedin: guillaumewallet
 websites:
   - name: Web
-    url: http://walletguillaume.blogspot.fr/
+    url: https://walletguillaume.blogspot.com/
 layout: speaker
 ---
 

@@ -11,7 +11,7 @@ contacts:
   linkedin: gbitaudeau
 websites:
   - name: Web
-    url: http://gbitaudeau.fr
+    url: https://gbitaudeau.fr
   - name: Malt
     url: https://www.malt.com/profile/gbitaudeau
 layout: speaker

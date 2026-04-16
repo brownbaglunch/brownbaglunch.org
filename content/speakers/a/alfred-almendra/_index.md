@@ -11,7 +11,7 @@ contacts:
   mail: alfred.almendra@gmail.com
 websites:
 - name: Web
-  url: http://atelierlogiciel.wordpress.com
+  url: https://atelierlogiciel.wordpress.com
 layout: speaker
 ---
 

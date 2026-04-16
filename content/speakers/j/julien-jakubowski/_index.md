@@ -6,17 +6,17 @@ city: fr/metropole-lilloise
 cities:
 - fr/lille
 - fr/paris
-cover: http://s3.amazonaws.com/askbob/users/photos/70/preview/carree.jpg
+cover: https://s3.amazonaws.com/askbob/users/photos/70/preview/carree.jpg
 contacts:
   x: jak78
   mail: jja@octo.com
 websites:
 - name: Web
-  url: http://chtijug.org/
+  url: https://chtijug.org/
 - name: Web
-  url: http://nord-agile.org/
+  url: https://nord-agile.org/
 - name: Web
-  url: http://blog.octo.com/
+  url: https://blog.octo.com/
 layout: speaker
 ---
 

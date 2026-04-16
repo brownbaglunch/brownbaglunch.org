@@ -12,7 +12,7 @@ contacts:
   github: xblanc33
 websites:
   - name: Web
-    url: http://www.labri.fr/perso/xblanc/
+    url: https://www.labri.fr/perso/xblanc/
   - name: Web
     url: https://www.youtube.com/channel/UCx35YRVHVBU_D6OBG-dqQRA
 layout: speaker

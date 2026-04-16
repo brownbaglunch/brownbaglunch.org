@@ -12,7 +12,7 @@ contacts:
   linkedin: jxerome
 websites:
   - name: Web
-    url: http://blog.ippon.fr/author/jmainaud/
+    url: https://blog.ippon.fr/author/jmainaud/
 layout: speaker
 ---
 

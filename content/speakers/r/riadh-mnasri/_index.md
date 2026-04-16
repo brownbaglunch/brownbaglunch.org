@@ -11,7 +11,7 @@ contacts:
   mail: riadh.mnasri@gmail.com
 websites:
 - name: Web
-  url: http://www.riadh-mnasri.com
+  url: https://www.riadh-mnasri.com
 layout: speaker
 ---
 

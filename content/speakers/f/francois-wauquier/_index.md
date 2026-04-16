@@ -12,7 +12,7 @@ contacts:
   x: wokier
   mail: wokier@gmail.com
   linkedin: francoiswauquier
-  blog: http://wokier.blogspot.fr/
+  blog: https://wokier.blogspot.fr/
 layout: speaker
 ---
 

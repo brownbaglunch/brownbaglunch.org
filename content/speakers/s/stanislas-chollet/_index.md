@@ -14,7 +14,7 @@ contacts:
   linkedin: stanislaschollet
 websites:
   - name: Web
-    url: http://stanislaschollet.com
+    url: https://stanislaschollet.com
 layout: speaker
 ---
 

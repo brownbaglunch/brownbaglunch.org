@@ -10,9 +10,9 @@ contacts:
   mail: fdebane@gmail.com
 websites:
 - name: Web
-  url: http://debane.org/franck
+  url: https://debane.org/franck
 - name: Web
-  url: http://netelio.com
+  url: https://netelio.com
 layout: speaker
 ---
 

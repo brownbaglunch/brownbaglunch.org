@@ -11,7 +11,7 @@ contacts:
   mail: c.bouttaz+bbl@gmail.com
 websites:
 - name: Web
-  url: http://charles-bouttaz.com
+  url: https://charles-bouttaz.com
 layout: speaker
 ---
 

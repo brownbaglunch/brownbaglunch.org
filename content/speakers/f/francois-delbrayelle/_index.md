@@ -5,7 +5,7 @@ since: 2019-12-23
 city: fr/lille
 cities:
   - fr/lille
-cover: https://www.francois-delbrayelle.fr/images/fdelbrayelle.jpg
+cover: https://fdelbrayelle.github.io/images/fdelbrayelle.jpg
 contacts:
   x: fdelbrayelle
   mail: fdelbrayelle@ippon.fr
@@ -13,7 +13,7 @@ contacts:
   github: fdelbrayelle
 websites:
   - name: Web
-    url: http://www.francois-delbrayelle.fr/
+    url: https://fdelbrayelle.github.io/
 layout: speaker
 ---
 

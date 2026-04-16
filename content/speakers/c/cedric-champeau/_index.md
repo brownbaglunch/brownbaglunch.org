@@ -10,7 +10,7 @@ contacts:
   mail: cedric.champeau@gmail.com
 websites:
 - name: Web
-  url: http://jroller.com/melix
+  url: https://jroller.com/melix
 layout: speaker
 ---
 

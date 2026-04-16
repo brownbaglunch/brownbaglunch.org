@@ -12,7 +12,7 @@ contacts:
   github: T3kstiil3
 websites:
   - name: Web
-    url: http://aurelien-loyer.fr/
+    url: https://aurelien-loyer.fr/
 layout: speaker
 ---
 

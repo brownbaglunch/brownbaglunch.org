@@ -10,7 +10,7 @@ contacts:
   mail: laurent.tardif@zenika.com
 websites:
 - name: Web
-  url: http://ouelcum.wordpress.com/
+  url: https://ouelcum.wordpress.com/
 layout: speaker
 ---
 

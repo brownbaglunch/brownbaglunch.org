@@ -10,7 +10,7 @@ contacts:
   mail: thierryler@gmail.com
 websites:
 - name: Web
-  url: http://icauda.com
+  url: https://icauda.com
 layout: speaker
 ---
 

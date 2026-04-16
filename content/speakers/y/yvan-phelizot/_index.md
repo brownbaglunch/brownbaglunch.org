@@ -11,7 +11,7 @@ contacts:
   linkedin: yvanphelizot
 websites:
   - name: Web
-    url: http://cotonne.github.com/
+    url: https://cotonne.github.com/
 layout: speaker
 ---
 

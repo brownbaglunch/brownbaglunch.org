@@ -10,7 +10,7 @@ contacts:
   mail: mathieu.gandin@gmail.com
 websites:
 - name: Web
-  url: http://mgandin.github.io/
+  url: https://mgandin.github.io/
 layout: speaker
 ---
 

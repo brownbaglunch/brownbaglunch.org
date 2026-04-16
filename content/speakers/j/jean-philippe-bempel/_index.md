@@ -12,7 +12,7 @@ contacts:
   linkedin: jeanphilippebempel
 websites:
   - name: Web
-    url: http://jpbempel.blogspot.com
+    url: https://jpbempel.blogspot.com
 layout: speaker
 ---
 

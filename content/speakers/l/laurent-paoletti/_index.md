@@ -11,7 +11,7 @@ contacts:
   linkedin: laurentpaoletti
 websites:
   - name: Web
-    url: http://www.providenz.fr/
+    url: https://www.providenz.fr/
 layout: speaker
 ---
 

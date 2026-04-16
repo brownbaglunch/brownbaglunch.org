@@ -12,7 +12,7 @@ contacts:
   github: MiKaDoO
 websites:
   - name: Web
-    url: http://www.metesreau.com
+    url: https://www.metesreau.com
 layout: speaker
 ---
 

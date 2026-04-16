@@ -15,7 +15,7 @@ versions:
     à jour et les experts sont partis. Pour s’en sortir on a recours à nos outils
     de toujours : la lecture de code, l’ajout de print/log, le debugger ou encore
     le profiler. Malheureusement ils ne répondent pas à toutes nos questions de manière
-    efficace. C’est pour aller aux delà de leurs limites que Flow (http://findtheflow.io)
+    efficace. C’est pour aller aux delà de leurs limites que Flow (https://findtheflow.io)
     a été créé. Il aide les développeurs à comprendre plus rapidement la structure
     et le comportement de leurs applications Java en leur permettant d’explorer visuellement
     les exécutions. Ce BBL sera animé par Yoann Buch et Yiquan Zhou tous les deux

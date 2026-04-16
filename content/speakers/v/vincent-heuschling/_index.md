@@ -10,9 +10,9 @@ contacts:
   mail: vhe@affini-tech.com
 websites:
 - name: Web
-  url: http://www.affini-tech.com
+  url: https://www.affini-tech.com
 - name: Web
-  url: http://blog.affini-tech.com
+  url: https://blog.affini-tech.com
 layout: speaker
 ---
 

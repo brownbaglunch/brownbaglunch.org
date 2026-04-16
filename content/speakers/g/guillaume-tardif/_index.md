@@ -10,7 +10,7 @@ contacts:
   mail: guillaume.tardif@gmail.com
 websites:
 - name: Web
-  url: http://melodiousthunkcode.fr/
+  url: https://melodiousthunkcode.fr/
 layout: speaker
 ---
 

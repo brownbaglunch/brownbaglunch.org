@@ -6,7 +6,7 @@ city: fr/nantes
 cities:
   - fr/paris
   - fr/nantes
-cover: http://gravatar.com/avatar/f32f06ab7d033c171c5c0ea1e1c1c00e?s=200
+cover: https://gravatar.com/avatar/f32f06ab7d033c171c5c0ea1e1c1c00e?s=200
 contacts:
   x: chanmix51
   mail: gregoire.hubert@pragmafabrik.com
@@ -14,7 +14,7 @@ contacts:
   linkedin: grégoire-hubert-0323331b
 websites:
   - name: Web
-    url: http://www.pragmafabrik.fr
+    url: https://www.pragmafabrik.fr
 layout: speaker
 ---
 

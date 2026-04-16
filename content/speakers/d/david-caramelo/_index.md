@@ -5,7 +5,7 @@ since: 2017-07-06
 city: fr/paris
 cities:
   - fr/paris
-cover: http://fr.gravatar.com/avatar/422304dc5c24f5b91234052347770cb7?size=400
+cover: https://fr.gravatar.com/avatar/422304dc5c24f5b91234052347770cb7?size=400
 contacts:
   x: David_Caramelo
   mail: david.caramelo83@gmail.com

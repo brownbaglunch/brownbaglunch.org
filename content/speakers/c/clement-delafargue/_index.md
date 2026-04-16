@@ -11,9 +11,9 @@ contacts:
   linkedin: cdelafargue
 websites:
   - name: Web
-    url: http://cltdl.fr/me
+    url: https://cltdl.fr/me
   - name: Web
-    url: http://blog.clement.delafargue.name
+    url: https://blog.clement.delafargue.name
 layout: speaker
 ---
 

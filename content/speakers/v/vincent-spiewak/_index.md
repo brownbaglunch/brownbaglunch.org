@@ -13,7 +13,7 @@ contacts:
   github: vspiewak
 websites:
   - name: Web
-    url: http://dailybrain.fr
+    url: https://dailybrain.fr
   - name: Malt
     url: https://www.malt.fr/profile/vincentspiewak
 layout: speaker

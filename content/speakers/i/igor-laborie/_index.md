@@ -9,10 +9,10 @@ contacts:
   x: ilaborie
   mail: igor@monkeypatch.io
   linkedin: igor-laborie-080ab78
-  blog: http://www.monkeypatch.io/blog/
+  blog: https://www.monkeypatch.io/blog/
 websites:
   - name: Web
-    url: http://ilaborie.org
+    url: https://ilaborie.org
 layout: speaker
 ---
 

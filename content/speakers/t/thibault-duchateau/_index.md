@@ -12,7 +12,7 @@ contacts:
   linkedin: tduchateau
 websites:
   - name: Web
-    url: http://dandelion.github.io/
+    url: https://dandelion.github.io/
 layout: speaker
 ---
 

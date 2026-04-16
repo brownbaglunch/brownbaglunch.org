@@ -5,17 +5,17 @@ since: '2013-02-27'
 city: fr/lyon
 cities:
 - fr/lyon
-cover: http://www.gravatar.com/avatar/0f0edb7904c4eea5f1b60fba0bf88537?s=250
+cover: https://www.gravatar.com/avatar/0f0edb7904c4eea5f1b60fba0bf88537?s=250
 contacts:
   x: cedric_exbrayat
   mail: contact+bbl@ninja-squad.com
 websites:
 - name: Web
-  url: http://hypedrivendev.wordpress.com/
+  url: https://hypedrivendev.wordpress.com/
 - name: Web
-  url: http://ninja-squad.fr/
+  url: https://ninja-squad.fr/
 - name: Web
-  url: http://mix-it.fr
+  url: https://mix-it.fr
 layout: speaker
 ---
 

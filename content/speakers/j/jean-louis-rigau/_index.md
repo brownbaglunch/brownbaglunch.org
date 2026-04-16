@@ -11,7 +11,7 @@ contacts:
   linkedin: jlrigau
 websites:
   - name: Web
-    url: http://blog.xebia.fr/author/jlrigau
+    url: https://blog.xebia.fr/author/jlrigau
 layout: speaker
 ---
 

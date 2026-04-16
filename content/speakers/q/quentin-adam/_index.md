@@ -14,7 +14,7 @@ contacts:
   github: waxzce
 websites:
   - name: Web
-    url: http://www.waxzce.org
+    url: https://www.waxzce.org
 layout: speaker
 ---
 

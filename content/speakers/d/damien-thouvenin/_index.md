@@ -12,11 +12,11 @@ contacts:
   github: dthouvenin
 websites:
   - name: Web
-    url: http://www.blogdepatron.fr
+    url: https://www.blogdepatron.fr
   - name: Web
-    url: http://www.clt-services.com
+    url: https://www.clt-services.com
   - name: Web
-    url: http://www.conference-agile.fr
+    url: https://www.conference-agile.fr
 layout: speaker
 ---
 

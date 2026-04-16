@@ -11,7 +11,7 @@ contacts:
   mail: benjamin.moitie@gmail.com
 websites:
 - name: Web
-  url: http://blog.xebia.fr/author/bmoitie
+  url: https://blog.xebia.fr/author/bmoitie
 layout: speaker
 ---
 

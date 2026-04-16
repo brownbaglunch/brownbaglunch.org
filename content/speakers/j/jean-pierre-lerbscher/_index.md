@@ -12,7 +12,7 @@ websites:
 - name: Web
   url: https://jperf.wordpress.com
 - name: Web
-  url: http://www.jperf.com
+  url: https://www.jperf.com
 layout: speaker
 ---
 

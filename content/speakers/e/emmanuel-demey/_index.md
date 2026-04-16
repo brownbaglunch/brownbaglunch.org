@@ -10,7 +10,7 @@ contacts:
   mail: emmanuel.demey@zenika.com
 websites:
 - name: Web
-  url: http://gillespie59.github.io/
+  url: https://gillespie59.github.io/
 layout: speaker
 ---
 

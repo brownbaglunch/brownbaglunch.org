@@ -11,7 +11,7 @@ contacts:
   linkedin: fabien-arrault-b52b324
 websites:
   - name: Web
-    url: http://blog.ippon.fr/author/Fabien_ARRAULT/
+    url: https://blog.ippon.fr/author/Fabien_ARRAULT/
 layout: speaker
 ---
 

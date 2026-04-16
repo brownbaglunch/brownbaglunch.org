@@ -10,9 +10,9 @@ contacts:
   mail: sylvain.abelard@gmail.com
 websites:
 - name: Web
-  url: http://www.faveod.com
+  url: https://www.faveod.com
 - name: Web
-  url: http://maitre-du-monde.fr
+  url: https://maitre-du-monde.fr
 layout: speaker
 ---
 

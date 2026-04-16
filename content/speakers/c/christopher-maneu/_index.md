@@ -9,7 +9,7 @@ cities:
   - fr/toulouse
   - fr/marseille
   - fr/lyon
-cover: http://gravatar.com/avatar/f6c06223e3759e7b9c93bdb58fc241f5?s=200
+cover: https://gravatar.com/avatar/f6c06223e3759e7b9c93bdb58fc241f5?s=200
 contacts:
   x: cmaneu
   mail: hello@maneu.net

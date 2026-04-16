@@ -12,9 +12,9 @@ contacts:
   linkedin: loicknuchel
 websites:
   - name: Web
-    url: http://loic.knuchel.org/
+    url: https://loic.knuchel.org/
   - name: Web
-    url: http://loic.knuchel.org/blog/
+    url: https://loic.knuchel.org/blog/
 layout: speaker
 ---
 

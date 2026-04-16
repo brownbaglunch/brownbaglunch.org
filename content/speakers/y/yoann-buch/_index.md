@@ -13,8 +13,8 @@ contacts:
   linkedin: yoannbuch
 websites:
   - name: Web
-    url: http://findtheflow.io
+    url: https://findtheflow.io
 layout: speaker
 ---
 
-Co-fondateur de Flow (http://findtheflow.io), Développeur
+Co-fondateur de Flow (https://findtheflow.io), Développeur

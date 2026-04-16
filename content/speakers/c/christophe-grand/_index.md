@@ -10,9 +10,9 @@ contacts:
   mail: christophe@cgrand.net
 websites:
 - name: Web
-  url: http://clj-me.cgrand.net/
+  url: https://clj-me.cgrand.net/
 - name: Web
-  url: http://lambdanext.eu/
+  url: https://lambdanext.eu/
 layout: speaker
 ---
 

@@ -10,7 +10,7 @@ contacts:
   mail: ndeverge@gmail.com
 websites:
 - name: Web
-  url: http://www.ekito.fr/people?author_name=ndeverge
+  url: https://www.ekito.fr/people?author_name=ndeverge
 layout: speaker
 ---
 

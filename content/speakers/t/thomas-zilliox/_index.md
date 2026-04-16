@@ -5,7 +5,7 @@ since: 2015-02-26
 city: fr/lyon
 cities:
   - fr/lyon
-cover: http://www.gravatar.com/avatar/ce82bc828376d978362c1e905b8ea32c?s=256
+cover: https://www.gravatar.com/avatar/ce82bc828376d978362c1e905b8ea32c?s=256
 contacts:
   x: iamtzi
   mail: hello@tzi.fr
@@ -13,7 +13,7 @@ contacts:
   github: tzi
 websites:
   - name: Web
-    url: http://tzi.fr
+    url: https://tzi.fr
 layout: speaker
 ---
 

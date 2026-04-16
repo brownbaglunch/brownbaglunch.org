@@ -10,7 +10,7 @@ contacts:
   mail: eve.vinclair@knplabs.com
 websites:
 - name: Web
-  url: http://www.knplabs.com/
+  url: https://www.knplabs.com/
 layout: speaker
 ---
 

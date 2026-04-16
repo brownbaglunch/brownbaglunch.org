@@ -13,7 +13,7 @@ contacts:
   github: yannickda
 websites:
   - name: Web
-    url: http://hashtagtrophy.com
+    url: https://hashtagtrophy.com
   - name: Web
     url: https://yannickdalbin.com
   - name: Web

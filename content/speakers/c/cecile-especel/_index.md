@@ -10,9 +10,9 @@ contacts:
   mail: cecile@especel.com
 websites:
 - name: Web
-  url: http://knplabs.com/fr
+  url: https://knplabs.com/fr
 - name: Web
-  url: http://www.cecile-especel.com/
+  url: https://www.cecile-especel.com/
 layout: speaker
 ---
 

@@ -5,7 +5,7 @@ since: 2018-04-06
 city: fr/paris
 cities:
   - fr/paris
-cover: http://www.gravatar.com/avatar/686399bd630ecc9381e4dfec8720816e?s=250
+cover: https://www.gravatar.com/avatar/686399bd630ecc9381e4dfec8720816e?s=250
 contacts:
   x: pbourgau
   mail: philippe.bourgau@gmail.com
@@ -13,9 +13,9 @@ contacts:
   github: philou
 websites:
   - name: Web
-    url: http://philippe.bourgau.net/
+    url: https://philippe.bourgau.net/
   - name: AboutMe
-    url: http://philippe.bourgau.net/about-me/
+    url: https://philippe.bourgau.net/about-me/
 layout: speaker
 ---
 

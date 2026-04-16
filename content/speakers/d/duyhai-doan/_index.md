@@ -5,13 +5,13 @@ since: '2014-02-27'
 city: fr/regions-francophones
 cities:
 - fr/paris
-cover: http://www.gravatar.com/avatar/ffa96040bb4211cad1c66f385d8cb77b.png
+cover: https://www.gravatar.com/avatar/ffa96040bb4211cad1c66f385d8cb77b.png
 contacts:
   x: doanduyhai
   mail: doanduyhai@gmail.com
 websites:
 - name: Web
-  url: http://achilles.archinnov.info
+  url: https://achilles.archinnov.info
 layout: speaker
 ---
 

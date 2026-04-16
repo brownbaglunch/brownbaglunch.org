@@ -9,7 +9,7 @@ contacts:
   mail: cbegot@gmail.com
 websites:
 - name: Web
-  url: http://timwi.com/
+  url: https://timwi.com/
 layout: speaker
 ---
 

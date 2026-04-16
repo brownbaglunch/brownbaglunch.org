@@ -12,7 +12,7 @@ contacts:
   github: blacroix
 websites:
   - name: Web
-    url: http://blog.xebia.fr/category/mobilite
+    url: https://blog.xebia.fr/category/mobilite
 layout: speaker
 ---
 

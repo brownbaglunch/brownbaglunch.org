@@ -13,9 +13,9 @@ contacts:
   github: xcarpentier
 websites:
   - name: Web
-    url: http://xaviercarpentier.com/
+    url: https://xaviercarpentier.com/
   - name: Web
-    url: http://blog.xavier-carpentier.com/
+    url: https://blog.xavier-carpentier.com/
 layout: speaker
 ---
 

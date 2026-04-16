@@ -10,7 +10,7 @@ contacts:
   mail: jbdusseaut@arpinum.fr
 websites:
 - name: Web
-  url: http://arpinum.fr
+  url: https://arpinum.fr
 layout: speaker
 ---
 

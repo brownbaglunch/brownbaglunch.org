@@ -10,7 +10,7 @@ contacts:
   mail: contact@ericlefevre.net
 websites:
 - name: Web
-  url: http://ericlefevre.net/
+  url: https://ericlefevre.net/
 layout: speaker
 ---
 

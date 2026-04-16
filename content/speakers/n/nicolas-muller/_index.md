@@ -11,7 +11,7 @@ contacts:
   linkedin: mullernicolas
 websites:
   - name: Web
-    url: http://treeptik.fr/language/fr/blog/
+    url: https://treeptik.fr/language/fr/blog/
 layout: speaker
 ---
 

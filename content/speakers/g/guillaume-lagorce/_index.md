@@ -11,7 +11,7 @@ contacts:
   github: HEYGUL
 websites:
   - name: Website
-    url: http://hey-gul.com/
+    url: https://hey-gul.com/
 layout: speaker
 ---
 

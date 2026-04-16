@@ -11,9 +11,9 @@ contacts:
   mail: thomas@pierrain.net
 websites:
 - name: Web
-  url: http://tpierrain.blogspot.fr/2013/04/the-pragmatic-architect.html
+  url: https://tpierrain.blogspot.com/2013/04/the-pragmatic-architect.html
 - name: Web
-  url: http://www.n-fluent.net/
+  url: https://www.n-fluent.net/
 layout: speaker
 ---
 
