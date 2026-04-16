@@ -17,8 +17,9 @@
 
 {{/* ---- OG image (must be absolute URL) ---- */}}
 {{ $img := .Site.Params.seo.ogImage | absURL }}
+{{ $coverSrc := "" }}
 {{ if eq .Params.layout "speaker" }}
-  {{ $coverSrc := partial "cover-url.html" . }}
+  {{ $coverSrc = partial "cover-url.html" . }}
   {{ with $coverSrc }}
     {{ if strings.HasPrefix . "http" }}
       {{ $img = . }}
@@ -69,7 +70,6 @@
 {{/* ---- JSON-LD ---- */}}
 {{ if eq .Params.layout "speaker" }}
   {{ $speaker := .Params }}
-  {{ $coverSrc := partial "cover-url.html" . }}
   {{ $sameAs := slice }}
   {{ with $speaker.contacts.x }}
     {{ $sameAs = $sameAs | append (printf "https://x.com/%s" .) }}
@@ -85,7 +85,8 @@
     "url" .Permalink
   }}
   {{ with $coverSrc }}
-    {{ $ldJson = merge $ldJson (dict "image" .) }}
+    {{ $coverAbs := cond (strings.HasPrefix . "http") . (. | absURL) }}
+    {{ $ldJson = merge $ldJson (dict "image" $coverAbs) }}
   {{ end }}
   {{ with $sameAs }}
     {{ $ldJson = merge $ldJson (dict "sameAs" .) }}
