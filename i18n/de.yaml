@@ -143,3 +143,7 @@ comments:
   other: Kommentare
 home_press_title:
   other: "In der Presse"
+
+# GitHub contribution links
+github_edit:
+  other: "Auf GitHub bearbeiten"

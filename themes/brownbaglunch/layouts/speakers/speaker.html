@@ -14,7 +14,11 @@
     {{ end }}
     <div class="flex-1">
       <div class="flex items-start justify-between gap-4 mb-1">
-        <h1 class="text-3xl font-black">{{ $speaker.firstname }} {{ $speaker.lastname }}</h1>
+        <div>
+          <h1 class="text-3xl font-black">{{ $speaker.firstname }} {{ $speaker.lastname }}</h1>
+          {{ $ghUrl := printf "https://github.com/brownbaglunch/brownbaglunch.org/blob/main/content/%s" .File.Path }}
+          {{ partial "github-edit-link.html" $ghUrl }}
+        </div>
         {{ with $speaker.contacts.mail }}
           <a href="mailto:{{ . }}" class="btn-primary text-sm shrink-0">
             ✉️ {{ i18n "invite" }}
