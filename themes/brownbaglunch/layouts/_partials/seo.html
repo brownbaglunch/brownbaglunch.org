@@ -1,0 +1,48 @@
+{{/*
+  SEO partial — Open Graph, Twitter Cards, hreflang, JSON-LD
+  Called from head.html for every page.
+*/}}
+
+{{/* ---- Description ---- */}}
+{{ $desc := .Site.Params.seo.description }}
+{{ if .Description }}
+  {{ $desc = .Description }}
+{{ else if or .IsPage .IsSection }}
+  {{ with .Summary }}{{ $desc = . | plainify | truncate 160 }}{{ end }}
+{{ end }}
+
+{{/* ---- OG image (must be absolute URL) ---- */}}
+{{ $img := .Site.Params.seo.ogImage | absURL }}
+{{ if eq .Params.layout "speaker" }}
+  {{ $coverSrc := partial "cover-url.html" . }}
+  {{ with $coverSrc }}
+    {{ if strings.HasPrefix . "http" }}
+      {{ $img = . }}
+    {{ else }}
+      {{ $img = . | absURL }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* ---- OG type ---- */}}
+{{ $ogType := "website" }}
+{{ if eq .Params.layout "speaker" }}{{ $ogType = "profile" }}{{ end }}
+
+{{/* ---- Title ---- */}}
+{{ $title := .Site.Title }}
+{{ with .Title }}{{ $title = . }}{{ end }}
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:image" content="{{ $img }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="{{ $ogType }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="{{ .Site.Params.seo.xAccount }}">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+<meta name="twitter:image" content="{{ $img }}">

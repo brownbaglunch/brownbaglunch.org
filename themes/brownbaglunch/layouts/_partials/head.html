@@ -4,6 +4,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ if .Title }}{{ .Title }} — {{ end }}{{ .Site.Title }}</title>
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}">
+<link rel="canonical" href="{{ .Permalink }}">
+{{ partial "seo.html" . }}
 {{ $css := resources.Get "css/main.css" | css.PostCSS }}
 {{ if hugo.IsProduction }}
   {{ $css = $css | minify | fingerprint }}
