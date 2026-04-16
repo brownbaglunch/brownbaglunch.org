@@ -4,7 +4,7 @@
 */}}
 
 {{/* ---- Description ---- */}}
-{{ $desc := .Site.Params.seo.description }}
+{{ $desc := .Site.Params.seo.description | default "" }}
 {{ if .Description }}
   {{ $desc = .Description }}
 {{ else if or .IsPage .IsSection }}
@@ -50,3 +50,12 @@
 <meta name="twitter:title" content="{{ $title }}">
 <meta name="twitter:description" content="{{ $desc }}">
 <meta name="twitter:image" content="{{ $img }}">
+
+<!-- hreflang (multilingual: fr / en / de) -->
+{{ range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+{{ end }}
+{{ $frVersion := index (where .AllTranslations "Language.Lang" "fr") 0 }}
+{{ with $frVersion }}
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{ end }}
