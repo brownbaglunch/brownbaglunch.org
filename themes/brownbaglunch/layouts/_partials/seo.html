@@ -7,6 +7,10 @@
 {{ $desc := .Site.Params.seo.description | default "" }}
 {{ if .Description }}
   {{ $desc = .Description }}
+{{ else if eq .Params.layout "talk" }}
+  {{ with index .Params.versions 0 }}
+    {{ with .abstract }}{{ $desc = . | plainify | truncate 160 | strings.TrimSpace }}{{ end }}
+  {{ end }}
 {{ else if or .IsPage .IsSection }}
   {{ with .Summary }}{{ $desc = . | plainify | truncate 160 | strings.TrimSpace }}{{ end }}
 {{ end }}
@@ -32,6 +36,8 @@
 {{ $title := .Site.Title }}
 {{ if eq .Params.layout "speaker" }}
   {{ $title = printf "%s %s" .Params.firstname .Params.lastname }}
+{{ else if eq .Params.layout "talk" }}
+  {{ with index .Params.versions 0 }}{{ $title = .title }}{{ end }}
 {{ else }}
   {{ with .Title }}{{ $title = . }}{{ end }}
 {{ end }}
@@ -58,4 +64,31 @@
 {{ $frVersion := index (where .AllTranslations "Language.Lang" "fr") 0 }}
 {{ with $frVersion }}
 <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{ end }}
+
+{{/* ---- JSON-LD ---- */}}
+{{ if eq .Params.layout "speaker" }}
+  {{ $speaker := .Params }}
+  {{ $coverSrc := partial "cover-url.html" . }}
+  {{ $sameAs := slice }}
+  {{ with $speaker.contacts.x }}
+    {{ $sameAs = $sameAs | append (printf "https://x.com/%s" .) }}
+  {{ end }}
+  {{ range $speaker.websites }}
+    {{ $sameAs = $sameAs | append .url }}
+  {{ end }}
+  {{ $ldJson := dict
+    "@context" "https://schema.org"
+    "@type" "Person"
+    "name" (printf "%s %s" $speaker.firstname $speaker.lastname)
+    "description" $desc
+    "url" .Permalink
+  }}
+  {{ with $coverSrc }}
+    {{ $ldJson = merge $ldJson (dict "image" .) }}
+  {{ end }}
+  {{ with $sameAs }}
+    {{ $ldJson = merge $ldJson (dict "sameAs" .) }}
+  {{ end }}
+{{ printf "<script type=\"application/ld+json\">%s</script>" ($ldJson | jsonify) | safeHTML }}
 {{ end }}
