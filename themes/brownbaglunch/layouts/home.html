@@ -2,7 +2,7 @@
 {{ $srcPages := site.Pages }}
 {{ $images := resources.Match "gallery/*" }}
 {{ $n := len $images }}
-{{ $dur := 5 }}
+{{ $dur := 10 }}
 {{ $total := mul $n $dur }}
 <div data-pagefind-ignore>
 {{ if $images }}
