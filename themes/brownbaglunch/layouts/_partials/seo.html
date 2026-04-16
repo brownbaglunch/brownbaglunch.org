@@ -100,4 +100,21 @@
     {{ $ldJson = merge $ldJson (dict "sameAs" .) }}
   {{ end }}
   {{ printf "<script type=\"application/ld+json\">%s</script>" ($ldJson | jsonify) | safeHTML }}
+{{ else if .IsHome }}
+  {{ $ldJson := dict
+    "@context" "https://schema.org"
+    "@type" "WebSite"
+    "name" .Site.Title
+    "url" .Site.BaseURL
+    "description" $desc
+    "potentialAction" (dict
+      "@type" "SearchAction"
+      "target" (dict
+        "@type" "EntryPoint"
+        "urlTemplate" (printf "%s?q={search_term_string}" (.Site.BaseURL | strings.TrimSuffix "/"))
+      )
+      "query-input" "required name=search_term_string"
+    )
+  }}
+  {{ printf "<script type=\"application/ld+json\">%s</script>" ($ldJson | jsonify) | safeHTML }}
 {{ end }}
