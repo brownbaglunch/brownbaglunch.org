@@ -33,7 +33,11 @@
   {{ end }}
 
   {{/* Talk header */}}
-  <h1 class="text-3xl font-black mb-4">{{ $version.title }}</h1>
+  <div>
+    <h1 class="text-3xl font-black mb-1">{{ $version.title }}</h1>
+    {{ $ghUrl := printf "https://github.com/brownbaglunch/brownbaglunch.org/blob/main/content/%s" .File.Path }}
+    {{ partial "github-edit-link.html" $ghUrl }}
+  </div>
 
   {{/* Tag badges */}}
   <div class="flex gap-2 flex-wrap mb-2">

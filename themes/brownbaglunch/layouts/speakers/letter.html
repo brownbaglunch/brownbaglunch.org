@@ -23,7 +23,11 @@
 {{ partial "alphabet-nav.html" (dict "currentLetter" $currentLetter "letterCounts" $letterCounts "showCounts" false) }}
 
 <div class="flex items-center justify-between mb-6">
-  <h1 class="text-3xl font-black">Speakers — {{ $currentLetter }}</h1>
+  <div>
+    <h1 class="text-3xl font-black">Speakers — {{ $currentLetter }}</h1>
+    {{ $ghUrl := printf "https://github.com/brownbaglunch/brownbaglunch.org/tree/main/content/speakers/%s/" ($currentLetter | lower) }}
+    {{ partial "github-edit-link.html" $ghUrl }}
+  </div>
   <span class="text-warm-brown/60">
     {{ len $filtered }} speaker{{ if ne (len $filtered) 1 }}s{{ end }}
   </span>

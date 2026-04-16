@@ -5,9 +5,12 @@
   <h1 class="text-5xl font-black text-warm-brown mb-4 leading-tight">
     {{ i18n "home_tagline" | safeHTML }}
   </h1>
-  <p class="text-xl text-warm-brown/70 mb-8 max-w-xl mx-auto">
+  <p class="text-xl text-warm-brown/70 mb-4 max-w-xl mx-auto">
     {{ i18n "home_description" | safeHTML }}
   </p>
+  <div class="flex justify-center mb-8">
+    {{ partial "github-edit-link.html" "https://github.com/brownbaglunch/brownbaglunch.org" }}
+  </div>
   <div class="mt-8 max-w-xl mx-auto relative" id="search-container" data-section="all">
     <div class="relative">
       <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-warm-brown/40 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
