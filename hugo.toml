@@ -64,6 +64,9 @@ theme = 'brownbaglunch'
 [params]
   googleTagManagerId = 'GTM-TNV2JDBJ'
 
+[params.hero]
+  photoDuration = 10
+
 [params.utterances]
   repo = 'brownbaglunch/public-comments'
   label = '❤️'

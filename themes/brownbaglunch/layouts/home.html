@@ -2,7 +2,7 @@
 {{ $srcPages := site.Pages }}
 {{ $images := resources.Match "gallery/*" }}
 {{ $n := len $images }}
-{{ $dur := 10 }}
+{{ $dur := 10 }}{{ with site.Params.hero.photoDuration }}{{ $dur = . }}{{ end }}
 {{ $total := mul $n $dur }}
 <div data-pagefind-ignore>
 {{ if $images }}
