@@ -217,6 +217,20 @@ Once the four steps above are done:
 - The full-text search (Pagefind) indexes the new language automatically
 - Talk abstracts fall back to the first `versions` entry if no `xx` version exists
 
+## Adding a press mention
+
+The "On en parle" section on the home page is driven by [`data/press.yaml`](data/press.yaml).
+To add a new entry, append a block at the end of the file:
+
+```yaml
+- date: "YYYY-MM-DD"
+  title: "Article title"
+  author: "Author Name"
+  url: "https://..."
+```
+
+The list is sorted automatically by date (most recent first) — no need to insert entries in order.
+
 ## Development
 
 Requirements: [Hugo 0.157.0+extended](https://gohugo.io/installation/) and Node.js ≥ 18.
