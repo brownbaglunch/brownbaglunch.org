@@ -61,25 +61,24 @@
       </div>
       <div id="search-panel" class="hidden absolute left-0 right-0 top-full mt-2 max-h-[80vh] overflow-y-auto bg-cream text-warm-brown border border-warm-border rounded-xl shadow-xl z-[100] p-4"></div>
     </div>
+    <div class="mt-10 grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
+      {{ $speakerCount := len (where (where (where $srcPages "Kind" "section") "Section" "speakers") "Params.lastname" "ne" nil) }}
+      {{ $cityCount := len (where (where $srcPages "Section" "cities") "Params.city" "ne" nil) }}
+      {{ $talkCount := len (where site.RegularPages "Section" "speakers") }}
+      <a href="{{ "/speakers/" | relLangURL }}" class="card hover:border-terracotta transition-colors group">
+        <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $speakerCount }}</div>
+        <div class="text-warm-brown/70 mt-1">{{ i18n "home_stat_speakers" }}</div>
+      </a>
+      <a href="{{ "/talks/" | relLangURL }}" class="card hover:border-terracotta transition-colors group">
+        <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $talkCount }}</div>
+        <div class="text-warm-brown/70 mt-1">{{ i18n "home_stat_topics" }}</div>
+      </a>
+      <a href="{{ "/cities/" | relLangURL }}" class="card hover:border-terracotta transition-colors group">
+        <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $cityCount }}</div>
+        <div class="text-warm-brown/70 mt-1">{{ i18n "home_stat_cities" }}</div>
+      </a>
+    </div>
   </div>
-</section>
-
-<section class="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
-  {{ $speakerCount := len (where (where (where $srcPages "Kind" "section") "Section" "speakers") "Params.lastname" "ne" nil) }}
-  {{ $cityCount := len (where (where $srcPages "Section" "cities") "Params.city" "ne" nil) }}
-  {{ $talkCount := len (where site.RegularPages "Section" "speakers") }}
-  <a href="{{ "/speakers/" | relLangURL }}" class="card hover:border-terracotta transition-colors group">
-    <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $speakerCount }}</div>
-    <div class="text-warm-brown/70 mt-1">{{ i18n "home_stat_speakers" }}</div>
-  </a>
-  <a href="{{ "/talks/" | relLangURL }}" class="card hover:border-terracotta transition-colors group">
-    <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $talkCount }}</div>
-    <div class="text-warm-brown/70 mt-1">{{ i18n "home_stat_topics" }}</div>
-  </a>
-  <a href="{{ "/cities/" | relLangURL }}" class="card hover:border-terracotta transition-colors group">
-    <div class="text-4xl font-black text-terracotta group-hover:text-orange-600">{{ $cityCount }}</div>
-    <div class="text-warm-brown/70 mt-1">{{ i18n "home_stat_cities" }}</div>
-  </a>
 </section>
 
 <section class="mt-16">
