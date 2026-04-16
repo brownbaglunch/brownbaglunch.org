@@ -8,9 +8,12 @@
 {{ if .Description }}
   {{ $desc = .Description }}
 {{ else if eq .Params.layout "talk" }}
-  {{ with index .Params.versions 0 }}
-    {{ with .abstract }}{{ $desc = . | plainify | truncate 160 | strings.TrimSpace }}{{ end }}
+  {{ $siteLang := .Site.Language.Lang | upper }}
+  {{ $talkVersion := index .Params.versions 0 }}
+  {{ range .Params.versions }}
+    {{ if eq .lang $siteLang }}{{ $talkVersion = . }}{{ end }}
   {{ end }}
+  {{ with $talkVersion.abstract }}{{ $desc = . | plainify | truncate 160 | strings.TrimSpace }}{{ end }}
 {{ else if or .IsPage .IsSection }}
   {{ with .Summary }}{{ $desc = . | plainify | truncate 160 | strings.TrimSpace }}{{ end }}
 {{ end }}
@@ -38,7 +41,12 @@
 {{ if eq .Params.layout "speaker" }}
   {{ $title = printf "%s %s" .Params.firstname .Params.lastname }}
 {{ else if eq .Params.layout "talk" }}
-  {{ with index .Params.versions 0 }}{{ $title = .title }}{{ end }}
+  {{ $siteLang := .Site.Language.Lang | upper }}
+  {{ $talkVersion := index .Params.versions 0 }}
+  {{ range .Params.versions }}
+    {{ if eq .lang $siteLang }}{{ $talkVersion = . }}{{ end }}
+  {{ end }}
+  {{ with $talkVersion.title }}{{ $title = . }}{{ end }}
 {{ else }}
   {{ with .Title }}{{ $title = . }}{{ end }}
 {{ end }}
@@ -91,5 +99,5 @@
   {{ with $sameAs }}
     {{ $ldJson = merge $ldJson (dict "sameAs" .) }}
   {{ end }}
-{{ printf "<script type=\"application/ld+json\">%s</script>" ($ldJson | jsonify) | safeHTML }}
+  {{ printf "<script type=\"application/ld+json\">%s</script>" ($ldJson | jsonify) | safeHTML }}
 {{ end }}
