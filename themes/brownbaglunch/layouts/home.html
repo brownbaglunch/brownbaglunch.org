@@ -61,7 +61,7 @@
       </div>
       <div id="search-panel" class="hidden absolute left-0 right-0 top-full mt-2 max-h-[80vh] overflow-y-auto bg-cream text-warm-brown border border-warm-border rounded-xl shadow-xl z-[100] p-4"></div>
     </div>
-    <div class="mt-10 grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
+    <div class="mt-10 grid grid-cols-1 md:grid-cols-3 gap-6 text-center max-w-4xl mx-auto px-4">
       {{ $speakerCount := len (where (where (where $srcPages "Kind" "section") "Section" "speakers") "Params.lastname" "ne" nil) }}
       {{ $cityCount := len (where (where $srcPages "Section" "cities") "Params.city" "ne" nil) }}
       {{ $talkCount := len (where site.RegularPages "Section" "speakers") }}
