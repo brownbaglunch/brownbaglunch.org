@@ -7,7 +7,6 @@ cities:
   - fr/strasbourg
 cover: https://secure.gravatar.com/avatar/b51dd47b8f28ba2993f92b3366efa593?size=200
 contacts:
-  x: marcbouvier_
   mail: bbl@baldir.fr
   github: marc-bouvier
   linkedin: profileofmarcbouvier
