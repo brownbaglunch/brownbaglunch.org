@@ -14,6 +14,8 @@ contacts:
 websites:
   - name: Web
     url: https://baldir.fr/
+  - name: Meetup Software Craft Strasbourg
+    url: https://www.meetup.com/fr-fr/software-crafters-strasbourg/
 layout: speaker
 ---
 
